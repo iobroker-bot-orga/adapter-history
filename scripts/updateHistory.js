@@ -10,6 +10,7 @@ const iobroker = require('@iobroker-bot-orga/iobroker-lib');
 const HISTORY_FILE = './data/adapterHistory.json';
 const HISTORY_LOG_FILE = './data/adapterHistoryLog.json';
 const REPORT_FILE = './reports/adapterHistory.md';
+const MAIL_FILE = '.adapterHistory.txt';
 
 let history = {};
 let historyLog = {};
@@ -141,6 +142,42 @@ async function createReport() {
             console.error(err);
         }
     });
+}
+
+async function createMail() {
+    console.log( 'creating mail' );
+
+    let body='';
+
+    body += `Adapter publishing report created at ${nowDateStr}\n`;
+    body += `\n`;
+
+
+    const date = Object.keys(historyLog).sort().reverse()[0];
+    if (date && date !== '1970-01-01T00:00:00.000Z') {
+
+        console.log (`processing changes of ${date}`);
+        const latest = historyLog[date].latest;
+        const latestAdapterNames = Object.keys(latest);
+        body += `updates at latest repository at ${date.split('T')[0]}\n`;
+        for ( const adapterName of latestAdapterNames) {
+            body += `${adapterName} ${latest[adapterName]} \n`;
+        }
+
+        body += `\n`;
+        const stable = historyLog[date].stable;
+        const stableAdapterNames = Object.keys(stable);
+        body += `updates at stable repository at ${date.split('T')[0]}\n`;
+        for ( const adapterName of stableAdapterNames) {
+            body += `${adapterName} ${stable[adapterName]} \n`;
+        }
+    }
+
+    fs.writeFile( MAIL_FILE, body, err => {
+        if (err) {
+            console.error(err);
+        }
+    });
 
 }
 
@@ -187,6 +224,7 @@ async function exec() {
     });
 
     await createReport();
+    await createMail();
 
 }
 

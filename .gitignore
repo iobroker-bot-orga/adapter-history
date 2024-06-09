@@ -10,3 +10,5 @@ nbproject
 iobroker.*.tgz
 
 Thumbs.db
+
+.adapterHistory.txt
