@@ -115,7 +115,6 @@ async function createReport() {
 
  
     const dates = Object.keys(historyLog).sort().reverse();
-    console.log (JSON.stringify(dates));
     for ( const date of dates ) {
         if (date === '1970-01-01T00:00:00.000Z') continue;
 
@@ -124,13 +123,17 @@ async function createReport() {
 
         const latest = historyLog[date].latest;
         const latestAdapterNames = Object.keys(latest);
-        body += `### updates at latest repository \n`;
+        body += `#### updates at latest repository \n`;
         for ( const adapterName of latestAdapterNames) {
             body += `${adapterName} ${latest[adapterName]} \n`;
         }
+
         const stable = historyLog[date].stable;
+        const stableAdapterNames = Object.keys(stable);
         body += `### updates at stable repository \n`;
-        
+        for ( const adapterName of stableAdapterNames) {
+            body += `${adapterName} ${stable[adapterName]} \n`;
+        }
     }
 
     fs.writeFile( REPORT_FILE, body, err => {
