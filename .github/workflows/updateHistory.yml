@@ -46,25 +46,25 @@ jobs:
 #        id: getsubject
 #        run: echo "subject=$(cat .checkStaleRepofiles_subject.txt)" >> $GITHUB_OUTPUT
         
-#      - name: Send mail
-#        uses: dawidd6/action-send-mail@v3
-#        with:
-#          # for ducumentation see https://github.com/marketplace/actions/send-email
-#          server_address: mail.gmx.net
-#          server_port: 465
-#          secure: true
-#          username: iobroker-bot@gmx.at
-#          password: ${{secrets.IOBBOT_GMXMAIL}}
-#          subject: ${{steps.getsubject.outputs.subject}}
-#          to: iobroker-bot@gmx.at
-#          from: ioBroker Bot
-#          ## body: Build job of ${{github.repository}} completed successfully!
-#          html_body: file://.checkStaleRepofiles_body.md
-#          ## cc: kyloren@example.com,leia@example.com
-#          ## bcc: r2d2@example.com,hansolo@example.com
-#          ## reply_to: luke@example.com
-#          convert_markdown: true
-#          ## attachments: attachments.zip,git.diff,./dist/static/*.js
-#          ## priority: low
-#          ## nodemailerlog: false
-#          ## nodemailerdebug: false
+      - name: Send mail
+        uses: dawidd6/action-send-mail@v3
+        with:
+          # for ducumentation see https://github.com/marketplace/actions/send-email
+          server_address: mail.gmx.net
+          server_port: 465
+          secure: true
+          username: iobroker-bot@gmx.at
+          password: ${{secrets.IOBBOT_GMXMAIL}}
+          subject: '[iob-bot] Adapeter releases report'
+          to: iobroker-bot@gmx.at
+          from: ioBroker Bot
+          ## body: Build job of ${{github.repository}} completed successfully!
+          html_body: file://.adapterHistory.txt
+          ## cc: kyloren@example.com,leia@example.com
+          ## bcc: r2d2@example.com,hansolo@example.com
+          ## reply_to: luke@example.com
+          convert_markdown: true
+          ## attachments: attachments.zip,git.diff,./dist/static/*.js
+          ## priority: low
+          ## nodemailerlog: false
+          ## nodemailerdebug: false
