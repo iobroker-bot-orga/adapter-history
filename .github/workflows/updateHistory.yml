@@ -39,7 +39,7 @@ jobs:
       - name: Push new files
         uses: mikeal/publish-to-github-action@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.IOBBOT_GITHUB_TOKEN }}
           BRANCH_NAME: 'main'
 
 #      - name: Read subject file
