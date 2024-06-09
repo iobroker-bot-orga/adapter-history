@@ -130,7 +130,7 @@ async function createReport() {
 
         const stable = historyLog[date].stable;
         const stableAdapterNames = Object.keys(stable);
-        body += `### updates at stable repository \n`;
+        body += `#### updates at stable repository \n`;
         for ( const adapterName of stableAdapterNames) {
             body += `${adapterName} ${stable[adapterName]} \n`;
         }
