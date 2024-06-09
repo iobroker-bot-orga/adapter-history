@@ -55,7 +55,7 @@ jobs:
           secure: true
           username: iobroker-bot@gmx.at
           password: ${{secrets.IOBBOT_GMXMAIL}}
-          subject: '[iob-bot] Adapeter releases report'
+          subject: '[iob-bot] Adapter releases report'
           to: iobroker-bot@gmx.at
           from: ioBroker Bot
           ## body: Build job of ${{github.repository}} completed successfully!
