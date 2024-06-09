@@ -1,0 +1,12 @@
+# No dot-directories except github/vscode
+.*/
+!.vscode/
+!.github/
+
+node_modules
+nbproject
+
+# npm package files
+iobroker.*.tgz
+
+Thumbs.db
