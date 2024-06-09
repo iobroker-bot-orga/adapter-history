@@ -126,14 +126,14 @@ async function createReport() {
         const latestAdapterNames = Object.keys(latest);
         body += `#### updates at latest repository \n`;
         for ( const adapterName of latestAdapterNames) {
-            body += `${adapterName} ${latest[adapterName]} \n`;
+            body += `${adapterName} ${latest[adapterName]}  \n`;
         }
 
         const stable = historyLog[date].stable;
         const stableAdapterNames = Object.keys(stable);
         body += `#### updates at stable repository \n`;
         for ( const adapterName of stableAdapterNames) {
-            body += `${adapterName} ${stable[adapterName]} \n`;
+            body += `${adapterName} ${stable[adapterName]}  \n`;
         }
     }
 
