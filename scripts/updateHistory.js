@@ -149,8 +149,8 @@ async function createMail() {
 
     let body='';
 
-    body += `Adapter publishing report created at ${nowDateStr}\n`;
-    body += `\n`;
+    body += `Adapter publishing report created at ${nowDateStr}  \n`;
+    body += `  \n`;
 
 
     const date = Object.keys(historyLog).sort().reverse()[0];
@@ -159,17 +159,17 @@ async function createMail() {
         console.log (`processing changes of ${date}`);
         const latest = historyLog[date].latest;
         const latestAdapterNames = Object.keys(latest);
-        body += `updates at latest repository at ${date.split('T')[0]}\n`;
+        body += `updates at latest repository at ${date.split('T')[0]}  \n`;
         for ( const adapterName of latestAdapterNames) {
-            body += `${adapterName} ${latest[adapterName]} \n`;
+            body += `${adapterName} ${latest[adapterName]}  \n`;
         }
 
         body += `\n`;
         const stable = historyLog[date].stable;
         const stableAdapterNames = Object.keys(stable);
-        body += `updates at stable repository at ${date.split('T')[0]}\n`;
+        body += `updates at stable repository at ${date.split('T')[0]}  \n`;
         for ( const adapterName of stableAdapterNames) {
-            body += `${adapterName} ${stable[adapterName]} \n`;
+            body += `${adapterName} ${stable[adapterName]}  \n`;
         }
     }
 
