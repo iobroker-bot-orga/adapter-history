@@ -113,7 +113,7 @@ async function createReport() {
     body += `# Adapter publishing report created at ${nowDateStr}\n`;
     body += `\n`;
 
- 
+
     const dates = Object.keys(historyLog).sort().reverse();
     for ( const date of dates ) {
         if (date === '1970-01-01T00:00:00.000Z') continue;
