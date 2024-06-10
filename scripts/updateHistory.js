@@ -111,7 +111,7 @@ async function createReport() {
 
     let body='';
 
-    body += `# Adapter publishing report created at ${nowDateStr}\n`;
+    body += `# Adapter publishing report\n`;
     body += `\n`;
 
 
