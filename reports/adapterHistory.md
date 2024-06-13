@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2024-06-12
+#### updates at latest repository 
+go-e new release 1.0.31  
+gree-hvac new release 1.0.4  
+js-controller new release 6.0.2  
+lametric new release 3.2.1  
+rflink new release 2.1.9  
+telegram new release 3.5.0  
+velux new release 0.0.8  
+#### updates at stable repository 
+discovery updated to 4.5.0  
+gruenbeck updated to 0.0.43  
+vis updated to 1.5.6  
 ## 2024-06-11
 #### updates at latest repository 
 ems-esp new release 4.2.0  
