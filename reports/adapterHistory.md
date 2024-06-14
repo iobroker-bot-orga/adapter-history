@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-06-13
+#### updates at latest repository 
+echarts new release 1.8.1  
+go-e new release 1.0.32  
+gree-hvac new release 1.0.5  
+js-controller new release 6.0.4  
+rflink new release 2.1.12  
+telegram new release 3.5.1  
+#### updates at stable repository 
+lg-thinq updated to 1.0.1  
 ## 2024-06-12
 #### updates at latest repository 
 go-e new release 1.0.31  
