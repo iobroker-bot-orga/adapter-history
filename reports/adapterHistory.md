@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-06-14
+#### updates at latest repository 
+openligadb new release 1.4.9  
+sql new release 3.0.1  
+tibberlink new release 3.3.1  
+yamaha new release 0.5.4  
+#### updates at stable repository 
+openligadb updated to 1.4.9  
+tibberlink updated to 3.3.0  
+zendure-solarflow updated to 1.6.4  
 ## 2024-06-13
 #### updates at latest repository 
 echarts new release 1.8.1  
