@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-06-15
+#### updates at latest repository 
+gree-hvac new release 1.0.6  
+imap new release 0.2.0  
+javascript new release 8.6.0  
+sun2000 new release 0.10.0  
+#### updates at stable repository 
+lovelace updated to 4.1.10  
 ## 2024-06-14
 #### updates at latest repository 
 openligadb new release 1.4.9  
