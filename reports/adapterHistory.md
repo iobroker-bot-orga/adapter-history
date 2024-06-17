@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-06-16
+#### updates at latest repository 
+go-e new release 1.0.33  
+js-controller new release 6.0.5-alpha.0-20240616-34d893b36  
+nuki new release 2.0.0  
+#### updates at stable repository 
+amtronwallbox updated to 0.2.15  
+daswetter updated to 3.1.15  
+ebus updated to 3.3.1  
+heatingcontrol updated to 2.12.8  
+pvoutputorg updated to 1.8.12  
+sbfspot updated to 4.3.3  
+semp updated to 1.4.5  
+sonoff updated to 3.1.0  
 ## 2024-06-15
 #### updates at latest repository 
 gree-hvac new release 1.0.6  
