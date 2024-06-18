@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-06-17
+#### updates at latest repository 
+echarts new release 1.8.2  
+go-e new release 1.0.35  
+js-controller new release 6.0.5  
+tapo new release 0.3.3  
+telegram new release 3.5.2  
+telegram-menu new release 1.7.2  
+#### updates at stable repository 
 ## 2024-06-16
 #### updates at latest repository 
 go-e new release 1.0.33  
