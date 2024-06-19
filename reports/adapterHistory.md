@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-06-18
+#### updates at latest repository 
+backitup new release 3.0.5  
+go-e new release 1.0.36  
+smart-eq new release 0.1.1  
+telegram new release 3.5.3  
+#### updates at stable repository 
 ## 2024-06-17
 #### updates at latest repository 
 echarts new release 1.8.2  
