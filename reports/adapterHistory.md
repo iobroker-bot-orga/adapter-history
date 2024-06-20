@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-06-19
+#### updates at latest repository 
+libre new release 0.1.1  
+#### updates at stable repository 
+discord updated to 2.3.0  
+rct updated to 1.2.9  
 ## 2024-06-18
 #### updates at latest repository 
 backitup new release 3.0.5  
