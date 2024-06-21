@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-06-20
+#### updates at latest repository 
+alarm new release 3.6.1  
+dysonairpurifier new release 3.2.2-beta-3  
+nmea new release 0.2.2  
+shuttercontrol new release 1.7.3  
+solax new release 0.9.7  
+telegram new release 3.6.0  
+#### updates at stable repository 
+sureflap updated to 2.1.2  
 ## 2024-06-19
 #### updates at latest repository 
 libre new release 0.1.1  
