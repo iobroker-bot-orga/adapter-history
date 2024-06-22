@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-06-21
+#### updates at latest repository 
+dysonairpurifier new release 3.2.2  
+echarts new release 1.8.4  
+scenes new release 3.2.1  
+zendure-solarflow new release 1.6.6  
+#### updates at stable repository 
+gree-hvac updated to 1.0.6  
+janitza-gridvis updated to 3.2.1  
+lorawan updated to 1.2.0  
 ## 2024-06-20
 #### updates at latest repository 
 alarm new release 3.6.1  
