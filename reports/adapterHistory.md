@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2024-06-22
+#### updates at latest repository 
+dysonairpurifier new release 3.2.3  
+ford new release 1.0.3  
+mqtt-client new release 2.0.0  
+ring new release 5.1.0  
+robonect new release 1.3.6  
+rssfeed new release 2.9.7  
+telegram-menu new release 1.7.3  
+tibberlink new release 3.3.2  
+#### updates at stable repository 
+mbus updated to 2.7.0  
+nuki updated to 2.0.0  
+samsung updated to 0.6.0  
+unifi-protect updated to 1.0.1  
 ## 2024-06-21
 #### updates at latest repository 
 dysonairpurifier new release 3.2.2  
