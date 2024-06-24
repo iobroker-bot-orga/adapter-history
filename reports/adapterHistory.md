@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-06-23
+#### updates at latest repository 
+hiob new release 0.1.5  
+zendure-solarflow new release 1.6.7  
+#### updates at stable repository 
+rssfeed updated to 2.9.7  
 ## 2024-06-22
 #### updates at latest repository 
 dysonairpurifier new release 3.2.3  
