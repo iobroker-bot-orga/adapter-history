@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2024-06-24
+#### updates at latest repository 
+accuweather new release 1.5.0  
+admin new release 7.0.2  
+egigeozone2 new release 1.0.5  
+kecontact new release 2.2.0  
+lorawan new release 1.2.1  
+rpi2 new release 2.0.0  
+telegram-menu new release 1.7.4  
+#### updates at stable repository 
+hmip updated to 1.23.3  
 ## 2024-06-23
 #### updates at latest repository 
 hiob new release 0.1.5  
