@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-06-25
+#### updates at latest repository 
+kostal-piko-ba new release 4.0.1  
+lorawan new release 1.2.2  
+tado new release 0.5.5  
+#### updates at stable repository 
+admin updated to 6.17.14  
+email updated to 1.3.1  
+enigma2 updated to 2.1.1  
+mydlink updated to 1.3.6  
 ## 2024-06-24
 #### updates at latest repository 
 accuweather new release 1.5.0  
