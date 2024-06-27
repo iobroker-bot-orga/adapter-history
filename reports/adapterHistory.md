@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-06-26
+#### updates at latest repository 
+admin new release 7.0.6  
+backitup new release 3.0.7  
+birthdays new release 3.0.1  
+ems-esp new release 4.3.0  
+#### updates at stable repository 
 ## 2024-06-25
 #### updates at latest repository 
 kostal-piko-ba new release 4.0.1  
