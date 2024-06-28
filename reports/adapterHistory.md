@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-06-27
+#### updates at latest repository 
+admin new release 7.0.7  
+lorawan new release 1.2.3  
+sainlogic new release 0.11.3  
+socketio new release 6.7.1  
+web new release 6.3.0  
+ws new release 2.6.2  
+#### updates at stable repository 
+fakeroku updated to 0.3.0  
 ## 2024-06-26
 #### updates at latest repository 
 admin new release 7.0.6  
