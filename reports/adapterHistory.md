@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-06-28
+#### updates at latest repository 
+rct new release 1.2.11  
+solarviewdatareader new release 1.1.1  
+solax new release 0.9.9  
+sun2000 new release 0.11.0  
+#### updates at stable repository 
 ## 2024-06-27
 #### updates at latest repository 
 admin new release 7.0.7  
