@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2024-06-29
+#### updates at latest repository 
+panasonic-comfort-cloud new release 3.0.0  
+#### updates at stable repository 
+zendure-solarflow updated to 1.6.7  
 ## 2024-06-28
 #### updates at latest repository 
 rct new release 1.2.11  
