@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-06-30
+#### updates at latest repository 
+discord new release 2.3.1  
+pvforecast new release 3.0.0  
+vis-2-widgets-radar-trap new release 2.1.1  
+#### updates at stable repository 
 ## 2024-06-29
 #### updates at latest repository 
 panasonic-comfort-cloud new release 3.0.0  
