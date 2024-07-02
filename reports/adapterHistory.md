@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2024-07-01
+#### updates at latest repository 
+backitup new release 3.0.8  
+js-controller new release 6.0.6  
+#### updates at stable repository 
 ## 2024-06-30
 #### updates at latest repository 
 discord new release 2.3.1  
