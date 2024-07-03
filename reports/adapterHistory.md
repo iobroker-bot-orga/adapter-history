@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-07-02
+#### updates at latest repository 
+admin new release 7.0.9  
+chromecast new release 3.4.1  
+doorbird new release 1.6.0  
+homeconnect new release 1.4.1  
+panasonic-comfort-cloud new release 3.0.1  
+vis-homekittiles new release 0.1.1  
+#### updates at stable repository 
+dysonairpurifier updated to 3.2.3  
+kecontact updated to 2.2.0  
+onvif updated to 1.1.4  
+robonect updated to 1.3.6  
+tibberlink updated to 3.3.2  
 ## 2024-07-01
 #### updates at latest repository 
 backitup new release 3.0.8  
