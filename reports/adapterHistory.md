@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-07-03
+#### updates at latest repository 
+admin new release 7.0.11  
+gree-hvac new release 1.0.7  
+growatt new release 3.2.4  
+rct new release 1.2.12  
+telegram new release 3.7.1  
+webcal new release 1.3.8  
+#### updates at stable repository 
+imap updated to 0.2.0  
 ## 2024-07-02
 #### updates at latest repository 
 admin new release 7.0.9  
