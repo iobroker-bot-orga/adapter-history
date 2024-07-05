@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2024-07-04
+#### updates at latest repository 
+sainlogic new release 0.11.4  
+vis-2-widgets-radar-trap new release 2.2.0  
+#### updates at stable repository 
 ## 2024-07-03
 #### updates at latest repository 
 admin new release 7.0.11  
