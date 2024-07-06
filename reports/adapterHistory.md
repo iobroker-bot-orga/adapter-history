@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-07-05
+#### updates at latest repository 
+cec2 new release 0.1.3  
+fuelpricemonitor new release 0.4.1  
+tibberlink new release 3.3.3  
+vis-homekittiles new release 0.2.0  
+#### updates at stable repository 
 ## 2024-07-04
 #### updates at latest repository 
 sainlogic new release 0.11.4  
