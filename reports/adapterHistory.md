@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-07-06
+#### updates at latest repository 
+daikin-cloud new release 0.4.5  
+vis-homekittiles new release 0.2.6  
+#### updates at stable repository 
+sun2000 updated to 0.11.0  
 ## 2024-07-05
 #### updates at latest repository 
 cec2 new release 0.1.3  
