@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2024-07-07
+#### updates at latest repository 
+acme new release 1.0.1  
+cameras new release 2.1.1  
+daikin-cloud new release 0.4.6  
+fullcalendar new release 2.4.2  
+openweathermap new release 1.1.2  
+parser new release 2.2.1  
+radar-trap new release 2.2.1  
+scheduler new release 1.4.0  
+vis-2-widgets-energy new release 1.0.0  
+vis-2-widgets-jaeger-design new release 1.2.1  
+vis-2-widgets-material new release 1.4.1  
+#### updates at stable repository 
+daikin-cloud updated to 0.4.6  
+ford updated to 1.0.2  
+fullcalendar updated to 2.3.17  
+growatt updated to 3.2.4  
+modbus updated to 6.2.3  
 ## 2024-07-06
 #### updates at latest repository 
 daikin-cloud new release 0.4.5  
