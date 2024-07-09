@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-07-08
+#### updates at latest repository 
+hmip new release 1.23.4  
+meater new release 1.1.1  
+nissan new release 0.1.4  
+vis-2-widgets-gauges new release 1.1.0  
+#### updates at stable repository 
 ## 2024-07-07
 #### updates at latest repository 
 acme new release 1.0.1  
