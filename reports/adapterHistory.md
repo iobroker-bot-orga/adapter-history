@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-07-09
+#### updates at latest repository 
+daikin-cloud new release 0.4.7  
+ems-esp new release 4.4.1  
+ford new release 1.0.4  
+rssfeed new release 2.9.8  
+#### updates at stable repository 
+alarm updated to 3.6.1  
 ## 2024-07-08
 #### updates at latest repository 
 hmip new release 1.23.4  
