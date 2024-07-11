@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2024-07-10
+#### updates at latest repository 
+admin new release 7.0.12  
+vis-2-widgets-jaeger-design new release 1.2.4  
+vis-2-widgets-material new release 1.4.6  
+vis-homekittiles new release 0.2.7  
+#### updates at stable repository 
+accuweather updated to 1.5.0  
+gree-hvac updated to 1.0.7  
+iopooleco updated to 0.5.1  
+nissan updated to 0.1.2  
+vis-2-widgets-radar-trap updated to 2.2.0  
 ## 2024-07-09
 #### updates at latest repository 
 daikin-cloud new release 0.4.7  
