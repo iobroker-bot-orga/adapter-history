@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-07-11
+#### updates at latest repository 
+discord new release 2.4.0  
+ems-esp new release 4.4.2  
+panasonic-comfort-cloud new release 3.0.2  
+rssfeed new release 2.9.10  
+sayit new release 4.0.4  
+vis-2-widgets-material new release 1.4.7  
+#### updates at stable repository 
 ## 2024-07-10
 #### updates at latest repository 
 admin new release 7.0.12  
