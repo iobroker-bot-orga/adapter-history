@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-07-12
+#### updates at latest repository 
+admin new release 7.0.13  
+backitup new release 3.0.9  
+daikin-cloud new release 0.4.8  
+ebus new release 3.3.3  
+rssfeed new release 2.10.0  
+sayit new release 4.0.5  
+tibberlink new release 3.4.0  
+vis-2-widgets-jaeger-design new release 1.2.5  
+vis-2-widgets-material new release 1.4.8  
+vis-2-widgets-sweethome3d new release 0.2.0  
+vis-homekittiles new release 0.3.1  
+#### updates at stable repository 
 ## 2024-07-11
 #### updates at latest repository 
 discord new release 2.4.0  
