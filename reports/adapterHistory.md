@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2024-07-13
+#### updates at latest repository 
+ebus new release 3.3.4  
+js-controller new release 6.0.8  
+lametric new release 3.2.2  
+mqtt new release 6.0.0  
+opcua new release 1.1.0  
+pushover new release 4.0.0  
+rest-api new release 2.0.3  
+tibberlink new release 3.4.2  
+vis-map new release 1.1.2  
+#### updates at stable repository 
+fuelpricemonitor updated to 0.4.1  
+tado updated to 0.5.5  
+tibberlink updated to 3.3.3  
 ## 2024-07-12
 #### updates at latest repository 
 admin new release 7.0.13  
