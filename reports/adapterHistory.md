@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2024-07-14
+#### updates at latest repository 
+parser new release 2.2.2  
+roborock new release 0.6.6  
+telegram new release 3.8.0  
+#### updates at stable repository 
+benchmark updated to 1.3.0  
+doorbird updated to 1.6.0  
+e3dc-rscp updated to 1.2.6  
+opcua updated to 1.0.3  
+panasonic-comfort-cloud updated to 3.0.2  
+radar-trap updated to 2.2.1  
+telegram-menu updated to 1.7.4  
 ## 2024-07-13
 #### updates at latest repository 
 ebus new release 3.3.4  
