@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-07-15
+#### updates at latest repository 
+admin new release 7.0.17  
+cameras new release 2.1.2  
+ems-esp new release 4.4.3  
+hue new release 3.12.0  
+myuplink new release 0.8.0  
+telegram new release 3.8.1  
+tibberlink new release 3.4.3  
+#### updates at stable repository 
 ## 2024-07-14
 #### updates at latest repository 
 parser new release 2.2.2  
