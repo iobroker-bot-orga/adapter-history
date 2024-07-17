@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2024-07-16
+#### updates at latest repository 
+klf200 new release 1.3.0  
+sayit new release 5.0.0  
+telegram new release 3.8.2  
+vis-2-widgets-jaeger-design new release 1.2.6  
+#### updates at stable repository 
+awtrix-light updated to 1.2.1  
+birthdays updated to 3.0.1  
+daikin-cloud updated to 0.4.8  
+lametric updated to 3.2.1  
+pvforecast updated to 3.0.0  
 ## 2024-07-15
 #### updates at latest repository 
 admin new release 7.0.17  
