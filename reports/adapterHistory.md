@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2024-07-17
+#### updates at latest repository 
+rct new release 1.2.13  
+vis-2-widgets-jaeger-design new release 1.2.7  
+#### updates at stable repository 
 ## 2024-07-16
 #### updates at latest repository 
 klf200 new release 1.3.0  
