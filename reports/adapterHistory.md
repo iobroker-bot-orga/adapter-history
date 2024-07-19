@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-07-19
+#### updates at latest repository 
+bascloud new release 0.4.0  
+egigeozone2 new release 1.0.6  
+gotify-ws new release 0.1.3  
+hm-rega new release 5.0.0  
+hm-rpc new release 2.0.0  
+javascript new release 8.7.0  
+klf200 new release 1.3.1  
+vis-2-widgets-inventwo new release 0.1.11  
+vis-2-widgets-rssfeed new release 0.2.4  
+#### updates at stable repository 
+shuttercontrol updated to 1.7.3  
+solax updated to 0.9.9  
 ## 2024-07-17
 #### updates at latest repository 
 rct new release 1.2.13  
