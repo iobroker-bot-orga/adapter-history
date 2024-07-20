@@ -11,9 +11,12 @@ javascript new release 8.7.0
 klf200 new release 1.3.1  
 vis-2-widgets-inventwo new release 0.1.11  
 vis-2-widgets-rssfeed new release 0.2.4  
+daikin-cloud new release 0.4.9  
+go-e new release 1.0.37  
 #### updates at stable repository 
 shuttercontrol updated to 1.7.3  
 solax updated to 0.9.9  
+homeconnect updated to 1.4.1  
 ## 2024-07-17
 #### updates at latest repository 
 rct new release 1.2.13  
