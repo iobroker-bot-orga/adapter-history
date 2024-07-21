@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-07-20
+#### updates at latest repository 
+daikin-cloud new release 0.4.10  
+go-e new release 1.0.38  
+gotify-ws new release 0.1.4  
+hmip new release 1.24.0  
+js-controller new release 6.0.9  
+senec new release 1.6.13  
+#### updates at stable repository 
 ## 2024-07-19
 #### updates at latest repository 
 bascloud new release 0.4.0  
