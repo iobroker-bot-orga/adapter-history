@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2024-07-21
+#### updates at latest repository 
+discovery new release 5.0.0  
+lametric new release 3.2.3  
+#### updates at stable repository 
 ## 2024-07-20
 #### updates at latest repository 
 daikin-cloud new release 0.4.10  
