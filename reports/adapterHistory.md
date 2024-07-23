@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2024-07-22
+#### updates at latest repository 
+admin new release 7.0.18  
+backitup new release 3.0.10  
+fhem new release 3.0.0  
+gotify-ws new release 0.1.5  
+javascript new release 8.7.1  
+senec new release 1.6.14  
+#### updates at stable repository 
+cec2 updated to 0.1.3  
+kostal-piko-ba updated to 4.0.1  
+mqtt-client updated to 2.0.0  
+rflink updated to 2.1.12  
+smartgarden updated to 2.0.1  
+sql updated to 3.0.1  
+tibberlink updated to 3.4.3  
+velux updated to 0.0.8  
+yahoo-stock-market updated to 0.0.7  
 ## 2024-07-21
 #### updates at latest repository 
 discovery new release 5.0.0  
