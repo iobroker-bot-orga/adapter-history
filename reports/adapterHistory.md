@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-07-24
+#### updates at latest repository 
+denon new release 1.15.12  
+fronius new release 2.1.1  
+rssfeed new release 3.0.0  
+vis-2-widgets-rssfeed new release 0.3.1  
+#### updates at stable repository 
+webcal updated to 1.3.8  
+yamaha updated to 0.5.4  
 ## 2024-07-23
 #### updates at latest repository 
 admin new release 7.0.19  
