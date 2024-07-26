@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-07-25
+#### updates at latest repository 
+javascript new release 8.7.3  
+pollenflug new release 2.0.0  
+scheduler new release 1.4.1  
+webui new release 1.12.3  
+#### updates at stable repository 
 ## 2024-07-24
 #### updates at latest repository 
 denon new release 1.15.12  
