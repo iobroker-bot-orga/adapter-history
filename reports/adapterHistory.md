@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2024-07-26
+#### updates at latest repository 
+ems-esp new release 4.4.5  
+mikrotik new release 1.2.1  
+sureflap new release 2.2.0  
+vis-2-widgets-rssfeed new release 0.3.3  
+vis-icontwo new release 1.6.0  
+webui new release 1.12.4  
+#### updates at stable repository 
+e3oncan updated to 0.9.1  
+webui updated to 1.11.3  
 ## 2024-07-25
 #### updates at latest repository 
 javascript new release 8.7.3  
