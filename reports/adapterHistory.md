@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-07-27
+#### updates at latest repository 
+javascript new release 8.7.5  
+zendure-solarflow new release 1.7.0  
+#### updates at stable repository 
+discord updated to 2.4.0  
 ## 2024-07-26
 #### updates at latest repository 
 ems-esp new release 4.4.5  
