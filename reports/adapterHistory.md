@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-07-28
+#### updates at latest repository 
+backitup new release 3.0.11  
+deyeidc new release 0.0.15  
+ems-esp new release 4.5.0  
+javascript new release 8.7.6  
+tibberlink new release 3.4.4  
+#### updates at stable repository 
+ring updated to 5.1.0  
 ## 2024-07-27
 #### updates at latest repository 
 javascript new release 8.7.5  
