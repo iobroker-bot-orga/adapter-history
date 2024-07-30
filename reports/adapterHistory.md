@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-07-29
+#### updates at latest repository 
+admin new release 7.0.21  
+lorawan new release 1.3.0  
+philips-tv new release 0.5.4  
+zendure-solarflow new release 1.7.1  
+#### updates at stable repository 
 ## 2024-07-28
 #### updates at latest repository 
 backitup new release 3.0.11  
