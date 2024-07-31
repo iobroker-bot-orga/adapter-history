@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-07-30
+#### updates at latest repository 
+admin new release 7.0.22  
+frigate new release 1.3.0  
+lorawan new release 1.3.1  
+zendure-solarflow new release 1.7.2  
+#### updates at stable repository 
+meater updated to 1.1.1  
 ## 2024-07-29
 #### updates at latest repository 
 admin new release 7.0.21  
