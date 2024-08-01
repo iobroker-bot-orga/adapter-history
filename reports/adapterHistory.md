@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-07-31
+#### updates at latest repository 
+apg-info new release 0.1.8  
+deyeidc new release 0.0.16  
+zendure-solarflow new release 1.7.4  
+#### updates at stable repository 
+myuplink updated to 0.8.0  
+sainlogic updated to 0.11.4  
+vis-homekittiles updated to 0.3.1  
 ## 2024-07-30
 #### updates at latest repository 
 admin new release 7.0.22  
