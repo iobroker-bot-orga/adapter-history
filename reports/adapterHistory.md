@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2024-08-01
+#### updates at latest repository 
+alpha-ess new release 2.1.0  
+awtrix-light new release 1.3.0  
+backitup new release 3.0.12  
+ems-esp new release 4.6.0  
+tibberlink new release 3.4.5  
+zendure-solarflow new release 1.7.6  
+#### updates at stable repository 
+javascript updated to 8.7.6  
+js-controller updated to 6.0.9  
 ## 2024-07-31
 #### updates at latest repository 
 apg-info new release 0.1.8  
