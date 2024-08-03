@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-08-02
+#### updates at latest repository 
+backitup new release 3.0.14  
+ems-esp new release 4.6.1  
+openligadb new release 1.4.10  
+#### updates at stable repository 
+admin updated to 7.0.22  
 ## 2024-08-01
 #### updates at latest repository 
 alpha-ess new release 2.1.0  
