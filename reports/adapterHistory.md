@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-08-03
+#### updates at latest repository 
+ems-esp new release 4.6.2  
+vis-2-widgets-material new release 1.4.9  
+zendure-solarflow new release 1.7.7  
+#### updates at stable repository 
+denon updated to 1.15.12  
 ## 2024-08-02
 #### updates at latest repository 
 backitup new release 3.0.14  
