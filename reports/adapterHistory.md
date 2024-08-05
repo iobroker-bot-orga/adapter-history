@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-08-04
+#### updates at latest repository 
+backitup new release 3.0.15  
+kostal-piko-ba new release 4.0.2  
+radar-trap new release 2.2.2  
+reolink new release 1.1.1  
+#### updates at stable repository 
+solarviewdatareader updated to 1.1.1  
 ## 2024-08-03
 #### updates at latest repository 
 ems-esp new release 4.6.2  
