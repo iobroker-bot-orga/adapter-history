@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-08-05
+#### updates at latest repository 
+admin new release 7.0.23  
+backitup new release 3.0.16  
+javascript new release 8.8.0  
+js-controller new release 6.0.10  
+lametric new release 3.3.0  
+squeezeboxrpc new release 1.3.14  
+#### updates at stable repository 
 ## 2024-08-04
 #### updates at latest repository 
 backitup new release 3.0.15  
