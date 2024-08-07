@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2024-08-06
+#### updates at latest repository 
+echarts new release 1.9.0  
+hmip new release 1.24.1  
+kostal-piko-ba new release 4.1.0  
+lcn new release 2.0.0  
+mqtt new release 6.0.1  
+notification-manager new release 1.2.0  
+vis-2-widgets-energy new release 1.0.2  
+#### updates at stable repository 
+backitup updated to 3.0.16  
+rct updated to 1.2.13  
 ## 2024-08-05
 #### updates at latest repository 
 admin new release 7.0.23  
