@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2024-08-07
+#### updates at latest repository 
+chargemaster new release 0.9.1  
+deyeidc new release 0.1.0  
+lcn new release 2.0.1  
+tado new release 0.5.6  
+zendure-solarflow new release 1.8.2  
+#### updates at stable repository 
+acme updated to 1.0.1  
+egigeozone2 updated to 1.0.6  
+socketio updated to 6.7.1  
+whatsapp-cmb updated to 0.3.0  
+ws updated to 2.6.2  
 ## 2024-08-06
 #### updates at latest repository 
 echarts new release 1.9.0  
