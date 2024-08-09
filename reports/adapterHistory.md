@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-08-08
+#### updates at latest repository 
+alpha-ess new release 2.1.3  
+hausbus_de new release 1.4.6  
+javascript new release 8.8.2  
+melcloud new release 2.0.0  
+tibberlink new release 3.4.6  
+#### updates at stable repository 
+deyeidc updated to 0.0.16  
+parser updated to 2.2.2  
 ## 2024-08-07
 #### updates at latest repository 
 chargemaster new release 0.9.1  
