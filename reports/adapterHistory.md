@@ -1,5 +1,30 @@
 # Adapter publishing report
 
+## 2024-08-09
+#### updates at latest repository 
+bidirectional-counter new release 2.1.4  
+drag-indicator new release 2.1.5  
+e3oncan new release 0.9.2  
+fenecon new release 0.5.0  
+heizoel24-mex new release 1.3.5  
+janitza-gridvis new release 3.2.2  
+lowpass-filter new release 2.2.4  
+luftdaten new release 4.0.0  
+melcloud new release 2.0.1  
+openligadb new release 1.4.11  
+operating-hours new release 1.0.7  
+rssfeed new release 3.0.2  
+smoothed new release 1.0.8  
+sonoff new release 3.1.1  
+squeezeboxrpc new release 1.3.15  
+vis-2-widgets-material new release 1.4.10  
+vis-2-widgets-rssfeed new release 0.3.5  
+#### updates at stable repository 
+chromecast updated to 3.4.1  
+ebus updated to 3.3.4  
+hausbus_de updated to 1.4.6  
+pollenflug updated to 2.0.0  
+scenes updated to 3.2.1  
 ## 2024-08-08
 #### updates at latest repository 
 alpha-ess new release 2.1.3  
