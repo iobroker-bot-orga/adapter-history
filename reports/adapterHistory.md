@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-08-10
+#### updates at latest repository 
+alexa-shoppinglist new release 1.0.0  
+alexa-timer-vis new release 1.0.0  
+bshb new release 0.3.0  
+cloudflare new release 1.1.6  
+drag-indicator new release 2.1.6  
+janitza-gridvis new release 3.2.3  
+kostal-piko-ba new release 4.1.2  
+lowpass-filter new release 2.2.5  
+operating-hours new release 1.0.8  
+solarmanpv new release 0.5.2  
+tibberlink new release 3.4.7  
+#### updates at stable repository 
 ## 2024-08-09
 #### updates at latest repository 
 bidirectional-counter new release 2.1.4  
