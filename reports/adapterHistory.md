@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2024-08-11
+#### updates at latest repository 
+fritzdect new release 2.5.11  
+innoxel new release 0.4.2  
+jeelink new release 1.2.5  
+lg-ess-home new release 0.3.0  
+lifx new release 1.0.6  
+musiccast new release 1.1.4  
+sureflap new release 2.2.1  
+telegram-menu new release 2.0.0  
+#### updates at stable repository 
 ## 2024-08-10
 #### updates at latest repository 
 alexa-shoppinglist new release 1.0.0  
