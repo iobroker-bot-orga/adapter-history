@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2024-08-12
+#### updates at latest repository 
+cloudflare new release 1.2.0  
+meteoalarm new release 3.0.3  
+rssfeed new release 3.1.0  
+vis-2-widgets-ovarious new release 0.1.8  
+wifilight new release 1.3.2  
+yahka new release 1.0.4  
+zendure-solarflow new release 1.8.3  
+#### updates at stable repository 
+lcn updated to 2.0.1  
+lorawan updated to 1.3.1  
+sureflap updated to 2.2.0  
 ## 2024-08-11
 #### updates at latest repository 
 fritzdect new release 2.5.11  
