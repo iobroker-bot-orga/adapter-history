@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2024-08-13
+#### updates at latest repository 
+backitup new release 3.0.17  
+bidirectional-counter new release 2.2.0  
+drag-indicator new release 2.2.0  
+gree-hvac new release 1.1.0  
+janitza-gridvis new release 3.3.0  
+lowpass-filter new release 2.3.0  
+mqtt new release 6.0.2  
+operating-hours new release 1.1.0  
+smoothed new release 1.1.0  
+#### updates at stable repository 
 ## 2024-08-12
 #### updates at latest repository 
 cloudflare new release 1.2.0  
