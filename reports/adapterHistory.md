@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2024-08-14
+#### updates at latest repository 
+alpha-ess new release 2.1.4  
+backitup new release 3.0.18  
+ems-esp new release 4.6.4  
+growatt new release 3.2.5  
+intex new release 0.1.7  
+kostal-piko-ba new release 4.1.3  
+melcloud new release 2.0.2  
+myvbus new release 0.4.0  
+opendtu new release 2.0.0  
+solarmanpv new release 0.5.3  
+vbus-gw new release 0.1.0  
+#### updates at stable repository 
+telegram updated to 3.9.0  
 ## 2024-08-13
 #### updates at latest repository 
 backitup new release 3.0.17  
