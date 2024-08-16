@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-08-15
+#### updates at latest repository 
+solarmanpv new release 0.6.1  
+tuya new release 3.16.0  
+#### updates at stable repository 
+deyeidc updated to 0.1.0  
+heizoel24-mex updated to 1.3.5  
 ## 2024-08-14
 #### updates at latest repository 
 alpha-ess new release 2.1.4  
