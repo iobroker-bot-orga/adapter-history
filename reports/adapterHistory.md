@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-08-16
+#### updates at latest repository 
+admin new release 7.0.24  
+backitup new release 3.0.19  
+ems-esp new release 4.7.0  
+sma-em new release 1.1.0  
+#### updates at stable repository 
+tuya updated to 3.16.0  
 ## 2024-08-15
 #### updates at latest repository 
 solarmanpv new release 0.6.1  
