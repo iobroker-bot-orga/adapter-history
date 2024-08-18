@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2024-08-17
+#### updates at latest repository 
+chargemaster new release 0.9.2  
+cloudflare new release 1.2.1  
+ems-esp new release 4.7.2  
+hiob new release 0.1.6  
+lightcontrol new release 0.8.0  
+pushover new release 4.1.0  
+sonoff new release 3.1.2  
+tibberlink new release 3.4.8  
+zendure-solarflow new release 1.8.4  
+#### updates at stable repository 
 ## 2024-08-16
 #### updates at latest repository 
 admin new release 7.0.24  
