@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2024-08-18
+#### updates at latest repository 
+chargemaster new release 0.9.3  
+myuplink new release 0.8.1  
+ping new release 1.7.0  
+ring new release 6.0.0  
+vis-icontwo new release 1.6.3  
+webui new release 1.13.0  
+#### updates at stable repository 
+extron updated to 0.2.15  
+hiob updated to 0.1.5  
+tibberlink updated to 3.4.8  
 ## 2024-08-17
 #### updates at latest repository 
 chargemaster new release 0.9.2  
