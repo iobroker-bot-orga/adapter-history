@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2024-08-19
+#### updates at latest repository 
+chargemaster new release 0.10.0  
+daswetter new release 3.1.16  
+govee-local new release 0.2.7  
+heatingcontrol new release 2.12.10  
+procon-ip new release 1.5.5  
+tractive-gps new release 2.0.0  
+webui new release 1.13.1  
+#### updates at stable repository 
+ford updated to 1.0.4  
+fullcalendar updated to 2.4.2  
+nissan updated to 0.1.4  
+openweathermap updated to 1.1.2  
+rssfeed updated to 3.1.0  
+vis-2-widgets-energy updated to 1.0.0  
+vis-2-widgets-gauges updated to 1.1.0  
 ## 2024-08-18
 #### updates at latest repository 
 chargemaster new release 0.9.3  
