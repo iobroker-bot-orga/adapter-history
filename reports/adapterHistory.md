@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2024-08-20
+#### updates at latest repository 
+tractive-gps new release 2.0.1  
+#### updates at stable repository 
+backitup updated to 3.0.19  
 ## 2024-08-19
 #### updates at latest repository 
 chargemaster new release 0.10.0  
