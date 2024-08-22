@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-08-21
+#### updates at latest repository 
+apg-info new release 0.1.9  
+e3oncan new release 0.9.3  
+js-controller new release 6.0.11  
+lifx new release 1.0.7  
+#### updates at stable repository 
+admin updated to 7.0.23  
 ## 2024-08-20
 #### updates at latest repository 
 tractive-gps new release 2.0.1  
