@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-08-22
+#### updates at latest repository 
+backitup new release 3.0.20  
+followthesun new release 0.5.1  
+webui new release 1.13.2  
+wireless-mbus new release 0.9.3  
+#### updates at stable repository 
 ## 2024-08-21
 #### updates at latest repository 
 apg-info new release 0.1.9  
