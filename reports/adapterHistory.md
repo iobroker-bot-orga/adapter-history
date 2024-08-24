@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2024-08-23
+#### updates at latest repository 
+doorbird new release 1.7.0  
+vis-2-widgets-radar-trap new release 2.3.0  
+#### updates at stable repository 
 ## 2024-08-22
 #### updates at latest repository 
 backitup new release 3.0.20  
