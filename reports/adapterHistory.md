@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-08-24
+#### updates at latest repository 
+residents new release 1.0.0  
+sbfspot new release 4.3.4  
+#### updates at stable repository 
+gree-hvac updated to 1.1.0  
+tado updated to 0.5.6  
+vis-2-widgets-material updated to 1.4.8  
 ## 2024-08-23
 #### updates at latest repository 
 doorbird new release 1.7.0  
