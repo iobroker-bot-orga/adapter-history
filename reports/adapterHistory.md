@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2024-08-25
+#### updates at latest repository 
+admin new release 7.0.25  
+amtronwallbox new release 0.2.16  
+ebus new release 3.3.5  
+ping new release 1.7.3  
+pvoutputorg new release 1.8.13  
+semp new release 1.4.6  
+shelly new release 8.0.0  
+#### updates at stable repository 
+cameras updated to 2.1.2  
+harmony updated to 1.5.0  
+hm-rega updated to 5.0.0  
+opcua updated to 1.1.0  
+rest-api updated to 2.0.3  
+sayit updated to 5.0.0  
+vis-2-widgets-jaeger-design updated to 1.2.7  
+vis-map updated to 1.1.2  
 ## 2024-08-24
 #### updates at latest repository 
 residents new release 1.0.0  
