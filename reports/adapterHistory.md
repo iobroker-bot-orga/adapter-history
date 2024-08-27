@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-08-26
+#### updates at latest repository 
+e3oncan new release 0.9.4  
+ebus new release 3.3.6  
+hm-rpc new release 2.0.2  
+iot new release 3.4.0  
+parser new release 2.2.4  
+scenes new release 3.2.3  
+zendure-solarflow new release 1.8.5  
+#### updates at stable repository 
 ## 2024-08-25
 #### updates at latest repository 
 admin new release 7.0.25  
