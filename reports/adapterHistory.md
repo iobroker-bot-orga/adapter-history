@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2024-08-27
+#### updates at latest repository 
+ems-esp new release 4.8.0  
+renacidc new release 0.1.0  
+shelly new release 8.1.1  
+#### updates at stable repository 
+alpha-ess updated to 2.1.4  
+awtrix-light updated to 1.3.0  
+lametric updated to 3.3.0  
+luftdaten updated to 4.0.0  
+openligadb updated to 1.4.11  
 ## 2024-08-26
 #### updates at latest repository 
 e3oncan new release 0.9.4  
