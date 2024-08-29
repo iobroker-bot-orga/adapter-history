@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-08-28
+#### updates at latest repository 
+eusec new release 1.3.0  
+frontier_silicon new release 0.3.0  
+kisshome-research new release 0.2.1  
+#### updates at stable repository 
+js-controller updated to 6.0.11  
+myvbus updated to 0.4.0  
+sma-em updated to 1.1.0  
 ## 2024-08-27
 #### updates at latest repository 
 ems-esp new release 4.8.0  
