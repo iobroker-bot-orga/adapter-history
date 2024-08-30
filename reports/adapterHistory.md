@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-08-29
+#### updates at latest repository 
+hm-rega new release 5.1.0  
+hmip new release 1.24.2  
+modbus new release 6.3.2  
+mqtt new release 6.1.1  
+renacidc new release 0.1.1  
+#### updates at stable repository 
+lg-ess-home updated to 0.3.0  
 ## 2024-08-28
 #### updates at latest repository 
 eusec new release 1.3.0  
