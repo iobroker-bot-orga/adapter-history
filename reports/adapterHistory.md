@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2024-08-30
+#### updates at latest repository 
+chargemaster new release 0.11.0  
+frigate new release 1.3.1  
+kisshome-research new release 0.3.0  
+kostal-piko-ba new release 4.2.0  
+lorawan new release 1.4.0  
+notification-manager new release 1.2.1  
+yahka new release 1.0.6  
+#### updates at stable repository 
+drag-indicator updated to 2.2.0  
+intex updated to 0.1.7  
+lowpass-filter updated to 2.3.0  
+operating-hours updated to 1.1.0  
+smoothed updated to 1.1.0  
 ## 2024-08-29
 #### updates at latest repository 
 hm-rega new release 5.1.0  
