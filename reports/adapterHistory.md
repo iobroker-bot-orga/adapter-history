@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-08-31
+#### updates at latest repository 
+kisshome-research new release 0.3.1  
+renacidc new release 0.1.2  
+#### updates at stable repository 
+apg-info updated to 0.1.9  
+followthesun updated to 0.5.1  
+mikrotik updated to 1.2.1  
+opendtu updated to 2.0.0  
+senec updated to 1.6.14  
 ## 2024-08-30
 #### updates at latest repository 
 chargemaster new release 0.11.0  
