@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-09-01
+#### updates at latest repository 
+vds2465-server new release 1.0.0  
+#### updates at stable repository 
+cloudflare updated to 1.2.1  
+fronius updated to 2.1.1  
+hue updated to 3.12.0  
+innoxel updated to 0.4.2  
+reolink updated to 1.1.1  
 ## 2024-08-31
 #### updates at latest repository 
 kisshome-research new release 0.3.1  
