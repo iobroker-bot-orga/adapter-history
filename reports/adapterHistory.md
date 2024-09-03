@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2024-09-02
+#### updates at latest repository 
+admin new release 7.1.0  
+alarm new release 3.6.2  
+backitup new release 3.0.21  
+doorbird new release 2.0.0  
+hausbus_de new release 1.4.7  
+hmip new release 1.24.3  
+lightcontrol new release 1.0.1  
+viessmann new release 1.4.8  
+vis-2-widgets-weather-and-heating new release 0.7.0  
+#### updates at stable repository 
 ## 2024-09-01
 #### updates at latest repository 
 vds2465-server new release 1.0.0  
