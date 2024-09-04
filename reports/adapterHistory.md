@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-09-03
+#### updates at latest repository 
+backitup new release 3.0.22  
+pixelit new release 1.1.4  
+wifilight new release 1.3.3  
+#### updates at stable repository 
+doorbird updated to 1.7.0  
+lightcontrol updated to 0.8.0  
+myuplink updated to 0.8.1  
+scheduler updated to 1.4.1  
 ## 2024-09-02
 #### updates at latest repository 
 admin new release 7.1.0  
