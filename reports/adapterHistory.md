@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-09-04
+#### updates at latest repository 
+lcn new release 2.0.3  
+mqtt new release 6.1.2  
+wifilight new release 1.3.5  
+#### updates at stable repository 
+alexa-shoppinglist updated to 1.0.0  
+alexa-timer-vis updated to 1.0.0  
+gotify-ws updated to 0.1.5  
+meteoalarm updated to 3.0.3  
+telegram-menu updated to 2.0.0  
+tractive-gps updated to 2.0.1  
+vis-2-widgets-inventwo updated to 0.1.11  
+zendure-solarflow updated to 1.8.5  
 ## 2024-09-03
 #### updates at latest repository 
 backitup new release 3.0.22  
