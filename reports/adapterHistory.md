@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-09-05
+#### updates at latest repository 
+roborock new release 0.6.8  
+wifilight new release 2.0.0  
+yahka new release 1.0.8  
+#### updates at stable repository 
+ems-esp updated to 4.8.0  
+hiob updated to 0.1.6  
+melcloud updated to 2.0.2  
 ## 2024-09-04
 #### updates at latest repository 
 lcn new release 2.0.3  
