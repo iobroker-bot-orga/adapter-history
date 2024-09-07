@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2024-09-06
+#### updates at latest repository 
+hausbus_de new release 1.4.9  
+javascript new release 8.8.3  
+kisshome-research new release 1.0.0  
+lametric new release 3.4.0  
+roborock new release 0.6.10  
+wifilight new release 2.0.1  
+zendure-solarflow new release 1.8.6  
+zigbee2mqtt new release 2.13.10  
+#### updates at stable repository 
 ## 2024-09-05
 #### updates at latest repository 
 roborock new release 0.6.8  
