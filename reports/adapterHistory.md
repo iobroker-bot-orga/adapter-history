@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2024-09-07
+#### updates at latest repository 
+hausbus_de new release 1.4.10  
+roborock new release 0.6.11  
+#### updates at stable repository 
 ## 2024-09-06
 #### updates at latest repository 
 hausbus_de new release 1.4.9  
