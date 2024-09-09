@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-09-08
+#### updates at latest repository 
+alexa-timer-vis new release 2.0.0  
+procon-ip new release 1.6.0  
+yahka new release 1.0.9  
+#### updates at stable repository 
+solarmanpv updated to 0.6.1  
 ## 2024-09-07
 #### updates at latest repository 
 hausbus_de new release 1.4.10  
