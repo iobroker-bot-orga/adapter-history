@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-09-09
+#### updates at latest repository 
+e3dc-rscp new release 1.3.0  
+eusec new release 1.3.1  
+fullcalendar new release 2.4.5  
+roborock new release 0.6.12  
+zendure-solarflow new release 1.8.7  
+#### updates at stable repository 
+amtronwallbox updated to 0.2.16  
+backitup updated to 3.0.22  
+daswetter updated to 3.1.16  
+ebus updated to 3.3.6  
+heatingcontrol updated to 2.12.10  
+pvoutputorg updated to 1.8.13  
 ## 2024-09-08
 #### updates at latest repository 
 alexa-timer-vis new release 2.0.0  
