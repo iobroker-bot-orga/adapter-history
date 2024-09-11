@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-09-10
+#### updates at latest repository 
+echarts new release 1.9.2  
+gotify-ws new release 0.1.6  
+viessmann new release 1.4.9  
+vis-2-widgets-ovarious new release 0.1.9  
+#### updates at stable repository 
+fhem updated to 3.0.0  
+frontier_silicon updated to 0.3.0  
+kostal-piko-ba updated to 4.2.0  
+musiccast updated to 1.1.4  
+philips-tv updated to 0.5.4  
+sbfspot updated to 4.3.4  
+semp updated to 1.4.6  
 ## 2024-09-09
 #### updates at latest repository 
 e3dc-rscp new release 1.3.0  
