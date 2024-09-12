@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-09-11
+#### updates at latest repository 
+alexa-timer-vis new release 2.0.1  
+e3dc-rscp new release 1.3.1  
+eusec new release 1.3.2  
+lg-thinq new release 1.0.2  
+worx new release 3.1.0  
+#### updates at stable repository 
 ## 2024-09-10
 #### updates at latest repository 
 echarts new release 1.9.2  
