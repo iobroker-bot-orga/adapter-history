@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-09-12
+#### updates at latest repository 
+alexa-timer-vis new release 2.0.2  
+gruenbeck new release 0.0.44  
+robonect new release 1.4.0  
+#### updates at stable repository 
+fritzdect updated to 2.5.11  
+growatt updated to 3.2.5  
+jeelink updated to 1.2.5  
+lifx updated to 1.0.7  
 ## 2024-09-11
 #### updates at latest repository 
 alexa-timer-vis new release 2.0.1  
