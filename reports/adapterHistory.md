@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-09-13
+#### updates at latest repository 
+alexa-timer-vis new release 2.0.3  
+gruenbeck new release 0.0.45  
+jarvis new release 3.2.0-rc.1  
+roborock new release 0.6.13  
+#### updates at stable repository 
+bidirectional-counter updated to 2.2.0  
+janitza-gridvis updated to 3.3.0  
 ## 2024-09-12
 #### updates at latest repository 
 alexa-timer-vis new release 2.0.2  
