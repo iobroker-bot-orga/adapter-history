@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2024-09-14
+#### updates at latest repository 
+gruenbeck new release 0.0.46  
+jarvis new release 3.2.0-rc.3  
+myuplink new release 0.8.2  
+rct new release 1.2.14  
+reolink new release 1.1.2  
+roborock new release 0.6.14  
+semp new release 1.4.7  
+solarviewdatareader new release 1.1.2  
+wireless-mbus new release 0.9.4  
+#### updates at stable repository 
+fenecon updated to 0.5.0  
+govee-local updated to 0.2.7  
+pushover updated to 4.1.0  
+sureflap updated to 2.2.1  
+wireless-mbus updated to 0.9.3  
 ## 2024-09-13
 #### updates at latest repository 
 alexa-timer-vis new release 2.0.3  
