@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2024-09-15
+#### updates at latest repository 
+admin new release 7.1.1  
+countdown new release 2.2.1  
+deconz new release 1.5.0  
+jarvis new release 3.2.0-rc.5  
+kisshome-research new release 1.0.2  
+mpd new release 2.2.0  
+sureflap new release 2.3.0  
+vis-2-widgets-weather-and-heating new release 0.7.2  
+weatherflow_udp new release 0.1.4  
+#### updates at stable repository 
+residents updated to 1.0.0  
 ## 2024-09-14
 #### updates at latest repository 
 gruenbeck new release 0.0.46  
