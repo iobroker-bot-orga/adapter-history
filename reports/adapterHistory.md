@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-09-16
+#### updates at latest repository 
+gotify-ws new release 0.1.7  
+imap new release 0.2.1  
+openligadb new release 1.5.0  
+shuttercontrol new release 1.8.0  
+tibberlink new release 3.4.9  
+uv-protect new release 0.6.1  
+#### updates at stable repository 
 ## 2024-09-15
 #### updates at latest repository 
 admin new release 7.1.1  
