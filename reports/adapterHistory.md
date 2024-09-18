@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-09-17
+#### updates at latest repository 
+chargemaster new release 0.11.1  
+iot new release 3.4.2  
+openligadb new release 1.7.0  
+solax new release 0.9.10  
+tibberlink new release 3.4.10  
+#### updates at stable repository 
 ## 2024-09-16
 #### updates at latest repository 
 gotify-ws new release 0.1.7  
