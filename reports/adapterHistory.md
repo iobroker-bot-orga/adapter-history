@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2024-09-18
+#### updates at latest repository 
+kostal-piko-ba new release 4.2.1  
+ping new release 1.7.5  
+puppeteer new release 0.4.0  
+solarviewdatareader new release 1.1.3  
+wled new release 0.7.2  
+#### updates at stable repository 
+discovery updated to 5.0.0  
+e3oncan updated to 0.9.4  
+rainbird updated to 1.0.1  
+renacidc updated to 0.1.2  
 ## 2024-09-17
 #### updates at latest repository 
 chargemaster new release 0.11.1  
