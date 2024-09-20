@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-09-19
+#### updates at latest repository 
+alexa-timer-vis new release 2.0.4  
+fb-checkpresence new release 1.2.5  
+kisshome-research new release 1.0.4  
+remeha-home new release 0.2.2  
+shelly new release 8.2.0  
+vis-2-widgets-rssfeed new release 0.3.6  
+webui new release 1.14.0  
+#### updates at stable repository 
+admin updated to 7.1.1  
+echarts updated to 1.9.2  
+kisshome-research updated to 1.0.4  
+vis-2-widgets-rssfeed updated to 0.3.5  
 ## 2024-09-18
 #### updates at latest repository 
 kostal-piko-ba new release 4.2.1  
