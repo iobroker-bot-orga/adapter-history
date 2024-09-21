@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-09-20
+#### updates at latest repository 
+admin new release 7.1.3  
+e3oncan new release 0.9.5  
+kisshome-research new release 1.0.5  
+pegelalarm new release 1.3.4  
+zendure-solarflow new release 1.8.8  
+#### updates at stable repository 
+admin updated to 7.1.2  
 ## 2024-09-19
 #### updates at latest repository 
 alexa-timer-vis new release 2.0.4  
