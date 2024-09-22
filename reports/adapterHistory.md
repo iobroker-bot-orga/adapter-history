@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-09-21
+#### updates at latest repository 
+countdown new release 2.3.0  
+kisshome-research new release 1.0.7  
+ping new release 1.7.6  
+ring new release 6.1.0  
+#### updates at stable repository 
+owntracks updated to 1.1.0  
+semp updated to 1.4.7  
 ## 2024-09-20
 #### updates at latest repository 
 admin new release 7.1.3  
