@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-09-22
+#### updates at latest repository 
+pegelalarm new release 1.3.5  
+schoolfree new release 1.1.5  
+shuttercontrol new release 1.8.1  
+solax new release 0.9.11  
+tinker new release 1.3.3  
+uv-protect new release 0.6.2  
+vaillant new release 0.7.3  
+#### updates at stable repository 
 ## 2024-09-21
 #### updates at latest repository 
 countdown new release 2.3.0  
