@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-09-23
+#### updates at latest repository 
+discord new release 2.5.0  
+energiefluss new release 3.6.1  
+mqtt-client new release 2.0.1  
+odl new release 4.0.0  
+roborock new release 0.6.15  
+shelly new release 8.2.1  
+shuttercontrol new release 1.8.2  
+sun2000 new release 0.12.0  
+vis-2-widgets-jaeger-design new release 1.3.1  
+web new release 6.3.1  
+#### updates at stable repository 
+kisshome-research updated to 1.0.7  
 ## 2024-09-22
 #### updates at latest repository 
 pegelalarm new release 1.3.5  
