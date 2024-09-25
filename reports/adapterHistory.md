@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2024-09-24
+#### updates at latest repository 
+gotify-ws new release 0.1.8  
+hydrawise new release 1.0.2  
+#### updates at stable repository 
 ## 2024-09-23
 #### updates at latest repository 
 discord new release 2.5.0  
