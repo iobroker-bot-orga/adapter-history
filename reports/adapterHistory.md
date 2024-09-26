@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2024-09-25
+#### updates at latest repository 
+linktap new release 1.0.0  
+lorawan new release 1.4.1  
+#### updates at stable repository 
 ## 2024-09-24
 #### updates at latest repository 
 gotify-ws new release 0.1.8  
