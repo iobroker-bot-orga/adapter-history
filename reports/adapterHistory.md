@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-09-26
+#### updates at latest repository 
+admin new release 7.1.5  
+backitup new release 3.0.25  
+ems-esp new release 4.9.0  
+gotify-ws new release 0.1.9  
+kisshome-research new release 1.0.11  
+remeha-home new release 0.2.3  
+solax new release 0.9.12  
+tinker new release 1.3.4  
+uv-protect new release 0.6.3  
+#### updates at stable repository 
+admin updated to 7.1.5  
+kisshome-research updated to 1.0.11  
 ## 2024-09-25
 #### updates at latest repository 
 linktap new release 1.0.0  
