@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2024-09-27
+#### updates at latest repository 
+alexa-timer-vis new release 2.0.5  
+bluelink new release 3.0.1  
+lorawan new release 1.4.2  
+traccar new release 1.1.5  
+#### updates at stable repository 
+alarm updated to 3.6.2  
+lg-thinq updated to 1.0.2  
+tibberlink updated to 3.4.10  
+worx updated to 3.1.0  
 ## 2024-09-26
 #### updates at latest repository 
 admin new release 7.1.5  
