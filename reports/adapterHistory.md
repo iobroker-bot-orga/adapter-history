@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2024-09-28
+#### updates at latest repository 
+ping new release 1.7.7  
+vis-2-widgets-weather-and-heating new release 0.7.3  
+#### updates at stable repository 
 ## 2024-09-27
 #### updates at latest repository 
 alexa-timer-vis new release 2.0.5  
