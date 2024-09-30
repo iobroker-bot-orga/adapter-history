@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2024-09-29
+#### updates at latest repository 
+ecoflow-mqtt new release 1.0.4  
+eusec new release 1.3.3  
+ping new release 1.7.8  
+remeha-home new release 0.2.4  
+samsung new release 0.6.1  
+sun2000 new release 0.12.1  
+#### updates at stable repository 
+klf200 updated to 1.3.1  
+procon-ip updated to 1.6.0  
+radar-trap updated to 2.2.2  
+vis-2-widgets-energy updated to 1.0.2  
 ## 2024-09-28
 #### updates at latest repository 
 ping new release 1.7.7  
