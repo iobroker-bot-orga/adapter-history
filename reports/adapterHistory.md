@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-09-30
+#### updates at latest repository 
+ikettle2 new release 1.0.2  
+kostal-piko-ba new release 4.2.2  
+voltoplus new release 0.1.4  
+#### updates at stable repository 
 ## 2024-09-29
 #### updates at latest repository 
 ecoflow-mqtt new release 1.0.4  
