@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2024-10-01
+#### updates at latest repository 
+admin new release 7.2.0  
+bmw new release 2.8.1  
+dysonairpurifier new release 3.2.4  
+ems-esp new release 4.9.1  
+heytech new release 1.1.0  
+linktap new release 1.0.1  
+mielecloudservice new release 6.5.7  
+ping new release 1.7.9  
+resol new release 1.5.0  
+robonect new release 1.4.2  
+tado new release 0.5.7  
+vw-connect new release 0.6.1  
+wireguard new release 1.7.0  
+#### updates at stable repository 
+sureflap updated to 2.3.0  
 ## 2024-09-30
 #### updates at latest repository 
 ikettle2 new release 1.0.2  
