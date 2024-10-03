@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-10-02
+#### updates at latest repository 
+air-q new release 1.0.4  
+bluelink new release 3.0.3  
+hausbus_de new release 1.4.11  
+klf200 new release 1.3.2  
+upnp new release 1.1.0  
+#### updates at stable repository 
+e3oncan updated to 0.9.5  
+rct updated to 1.2.14  
 ## 2024-10-01
 #### updates at latest repository 
 admin new release 7.2.0  
