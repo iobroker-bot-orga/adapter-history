@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2024-10-03
+#### updates at latest repository 
+deconz new release 1.6.1  
+roborock new release 0.6.16  
+tibberlink new release 3.5.0  
+welcome new release 1.0.2  
+#### updates at stable repository 
+bshb updated to 0.3.0  
+hm-rpc updated to 2.0.2  
+parser updated to 2.2.4  
+scenes updated to 3.2.3  
+sonoff updated to 3.1.2  
+vis-2-widgets-material updated to 1.4.10  
+vis-2-widgets-radar-trap updated to 2.3.0  
+welcome updated to 1.0.2  
 ## 2024-10-02
 #### updates at latest repository 
 air-q new release 1.0.4  
