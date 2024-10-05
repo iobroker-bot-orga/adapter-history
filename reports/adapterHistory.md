@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-10-04
+#### updates at latest repository 
+wireless-settings new release 1.0.2  
+#### updates at stable repository 
+hausbus_de updated to 1.4.11  
+javascript updated to 8.8.3  
+wireless-settings updated to 1.0.2  
 ## 2024-10-03
 #### updates at latest repository 
 deconz new release 1.6.1  
