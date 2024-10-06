@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-10-05
+#### updates at latest repository 
+apg-info new release 0.1.10  
+bluelink new release 3.1.0  
+daikin-cloud new release 0.4.11  
+deconz new release 1.6.3  
+flexcharts new release 0.1.2  
+tibberlink new release 3.5.1  
+#### updates at stable repository 
 ## 2024-10-04
 #### updates at latest repository 
 wireless-settings new release 1.0.2  
