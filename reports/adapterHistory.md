@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-10-06
+#### updates at latest repository 
+admin new release 7.2.1  
+bmw new release 2.8.2  
+flexcharts new release 0.1.4  
+js-controller new release 7.0.0  
+#### updates at stable repository 
 ## 2024-10-05
 #### updates at latest repository 
 apg-info new release 0.1.10  
