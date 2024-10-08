@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-10-07
+#### updates at latest repository 
+admin new release 7.2.2  
+go-e new release 1.0.40  
+rpi2 new release 2.0.1  
+sonoff new release 3.2.1  
+#### updates at stable repository 
+imap updated to 0.2.1  
+lametric updated to 3.4.0  
+shelly updated to 8.2.1  
 ## 2024-10-06
 #### updates at latest repository 
 admin new release 7.2.1  
