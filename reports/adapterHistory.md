@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2024-10-08
+#### updates at latest repository 
+deconz new release 1.6.4  
+dysonairpurifier new release 3.2.5  
+ring new release 6.2.0  
+#### updates at stable repository 
+e3dc-rscp updated to 1.3.1  
+linktap updated to 1.0.1  
+mielecloudservice updated to 6.5.7  
+pixelit updated to 1.1.4  
+robonect updated to 1.4.2  
+roborock updated to 0.6.16  
+wireguard updated to 1.7.0  
 ## 2024-10-07
 #### updates at latest repository 
 admin new release 7.2.2  
