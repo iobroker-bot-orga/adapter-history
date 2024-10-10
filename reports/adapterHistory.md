@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-10-09
+#### updates at latest repository 
+tado new release 0.5.8  
+webui new release 1.15.1  
+#### updates at stable repository 
+frigate updated to 1.3.1  
+hm-rega updated to 5.1.0  
+notification-manager updated to 1.2.1  
 ## 2024-10-08
 #### updates at latest repository 
 deconz new release 1.6.4  
