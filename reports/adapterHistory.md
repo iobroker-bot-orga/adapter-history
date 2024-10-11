@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-10-10
+#### updates at latest repository 
+chromecast new release 4.0.0  
+notification-manager new release 1.3.0  
+webcal new release 1.3.10  
+#### updates at stable repository 
+viessmann updated to 1.4.9  
 ## 2024-10-09
 #### updates at latest repository 
 tado new release 0.5.8  
