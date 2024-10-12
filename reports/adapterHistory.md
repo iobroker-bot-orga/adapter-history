@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-10-11
+#### updates at latest repository 
+admin new release 7.2.6  
+flexcharts new release 0.1.5  
+ring new release 6.2.1  
+shelly new release 8.3.0  
+#### updates at stable repository 
+myuplink updated to 0.8.2  
 ## 2024-10-10
 #### updates at latest repository 
 chromecast new release 4.0.0  
