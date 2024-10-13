@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-10-12
+#### updates at latest repository 
+deyeidc new release 0.1.1  
+opendtu new release 2.1.0  
+sun2000 new release 0.13.0  
+vis-2-widgets-weather-and-heating new release 0.7.4  
+#### updates at stable repository 
+hmip updated to 1.24.3  
+klf200 updated to 1.3.2  
 ## 2024-10-11
 #### updates at latest repository 
 admin new release 7.2.6  
