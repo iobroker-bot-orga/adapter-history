@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2024-10-13
+#### updates at latest repository 
+rpi2 new release 2.1.0  
+#### updates at stable repository 
 ## 2024-10-12
 #### updates at latest repository 
 deyeidc new release 0.1.1  
