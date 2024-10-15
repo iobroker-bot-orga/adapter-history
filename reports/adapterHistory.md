@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2024-10-14
+#### updates at latest repository 
+judoisoft new release 1.1.1  
+pvforecast new release 4.0.0  
+rpi2 new release 2.1.2  
+#### updates at stable repository 
+ecoflow-mqtt updated to 1.0.4  
+lorawan updated to 1.4.2  
+samsung updated to 0.6.1  
+shuttercontrol updated to 1.8.2  
+solax updated to 0.9.12  
 ## 2024-10-13
 #### updates at latest repository 
 rpi2 new release 2.1.0  
