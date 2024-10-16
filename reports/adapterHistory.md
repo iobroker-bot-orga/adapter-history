@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2024-10-15
+#### updates at latest repository 
+e3oncan new release 0.10.0  
+roborock new release 0.6.17  
+rpi2 new release 2.2.1  
+telegram-menu new release 2.1.0  
+#### updates at stable repository 
+alexa-timer-vis updated to 2.0.5  
+backitup updated to 3.0.25  
+eusec updated to 1.3.3  
+modbus updated to 6.3.2  
+mqtt updated to 6.1.2  
+pegelalarm updated to 1.3.5  
+squeezeboxrpc updated to 1.3.15  
+tinker updated to 1.3.4  
+uv-protect updated to 0.6.3  
+zigbee2mqtt updated to 2.13.10  
 ## 2024-10-14
 #### updates at latest repository 
 judoisoft new release 1.1.1  
