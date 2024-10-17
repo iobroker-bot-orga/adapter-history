@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2024-10-16
+#### updates at latest repository 
+apcups new release 4.0.2  
+backitup new release 3.0.26  
+bestway new release 0.0.5  
+ds18b20 new release 3.0.0  
+froeling new release 0.0.9  
+gree-hvac new release 1.1.2  
+hue new release 3.13.1  
+melcloud new release 2.0.3  
+shuttercontrol new release 1.8.3  
+tado new release 0.5.9  
+telegram-menu new release 2.1.1  
+weishaupt-wem new release 0.0.17  
+withings new release 0.0.15  
+#### updates at stable repository 
+gotify-ws updated to 0.1.9  
+schoolfree updated to 1.1.5  
+wireless-mbus updated to 0.9.4  
 ## 2024-10-15
 #### updates at latest repository 
 e3oncan new release 0.10.0  
