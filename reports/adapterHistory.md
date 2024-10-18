@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-10-17
+#### updates at latest repository 
+kisshome-research new release 1.0.13  
+mercedesme new release 0.2.4  
+zigbee2mqtt new release 2.13.11  
+#### updates at stable repository 
+fb-checkpresence updated to 1.2.5  
+vis-2 updated to 2.9.64  
 ## 2024-10-16
 #### updates at latest repository 
 apcups new release 4.0.2  
