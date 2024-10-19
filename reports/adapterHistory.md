@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-10-18
+#### updates at latest repository 
+lorawan new release 1.5.1  
+resol new release 1.5.1  
+solarviewdatareader new release 1.1.4  
+telegram-menu new release 2.1.2  
+#### updates at stable repository 
+energiefluss updated to 3.6.1  
 ## 2024-10-17
 #### updates at latest repository 
 kisshome-research new release 1.0.13  
