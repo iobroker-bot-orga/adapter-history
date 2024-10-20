@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2024-10-19
+#### updates at latest repository 
+adguard new release 1.0.0  
+alexa-shoppinglist new release 1.0.1  
+alexa-timer-vis new release 2.0.6  
+boschindego new release 1.2.2  
+parcel new release 0.2.8  
+sureflap new release 2.3.1  
+tinymqttbroker new release 0.1.2  
+#### updates at stable repository 
+doorbird updated to 2.0.0  
+fullcalendar updated to 2.4.5  
+mpd updated to 2.2.0  
 ## 2024-10-18
 #### updates at latest repository 
 lorawan new release 1.5.1  
