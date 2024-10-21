@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2024-10-20
+#### updates at latest repository 
+alias-manager new release 2.0.0  
+apg-info new release 0.1.11  
+cloudflare new release 1.2.2  
+egigeozone2 new release 1.0.7  
+epson_ecotank_et_2750 new release 1.0.0  
+flexcharts new release 0.1.6  
+myuplink new release 0.8.3  
+opendtu new release 3.0.0  
+shelly new release 8.4.0  
+sun2000 new release 0.14.0  
+tinymqttbroker new release 0.1.3  
+vis-2-widgets-weather-and-heating new release 0.7.6  
+#### updates at stable repository 
+apg-info updated to 0.1.10  
 ## 2024-10-19
 #### updates at latest repository 
 adguard new release 1.0.0  
