@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-10-21
+#### updates at latest repository 
+alexa2 new release 3.26.6  
+e3oncan new release 0.10.1  
+hoover new release 0.1.3  
+iqontrol new release 3.0.0  
+js-controller new release 7.0.1  
+kostal-piko-ba new release 4.2.3  
+#### updates at stable repository 
 ## 2024-10-20
 #### updates at latest repository 
 alias-manager new release 2.0.0  
