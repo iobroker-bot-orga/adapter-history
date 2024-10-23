@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-10-22
+#### updates at latest repository 
+chargemaster new release 0.12.1  
+heatingcontrol new release 2.12.11  
+pvforecast new release 4.0.1  
+telegram-menu new release 2.1.3  
+viessmann new release 1.5.0  
+#### updates at stable repository 
+tado updated to 0.5.9  
 ## 2024-10-21
 #### updates at latest repository 
 alexa2 new release 3.26.6  
