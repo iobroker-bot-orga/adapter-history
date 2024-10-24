@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2024-10-23
+#### updates at latest repository 
+alarm new release 3.6.3  
+discord new release 2.5.1  
+hs100 new release 2.2.2  
+odl new release 4.0.1  
+#### updates at stable repository 
+hydrawise updated to 1.0.2  
+resol updated to 1.5.1  
+tibberlink updated to 3.5.1  
+vds2465-server updated to 1.0.0  
 ## 2024-10-22
 #### updates at latest repository 
 chargemaster new release 0.12.1  
