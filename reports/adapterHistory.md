@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-10-24
+#### updates at latest repository 
+alarm new release 3.6.4  
+alexa2 new release 3.26.7  
+squeezeboxrpc new release 1.3.17  
+tado new release 0.6.0  
+#### updates at stable repository 
 ## 2024-10-23
 #### updates at latest repository 
 alarm new release 3.6.3  
