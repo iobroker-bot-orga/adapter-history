@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-10-25
+#### updates at latest repository 
+growatt new release 3.3.0  
+homeconnect new release 1.4.2  
+sun2000 new release 0.15.0  
+#### updates at stable repository 
 ## 2024-10-24
 #### updates at latest repository 
 alarm new release 3.6.4  
