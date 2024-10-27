@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2024-10-26
+#### updates at latest repository 
+wmswebcontrol new release 0.1.3  
+#### updates at stable repository 
 ## 2024-10-25
 #### updates at latest repository 
 growatt new release 3.3.0  
