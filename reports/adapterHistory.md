@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2024-10-27
+#### updates at latest repository 
+adguard new release 1.0.1  
+chargemaster new release 0.12.2  
+ems-esp new release 5.0.0  
+epson_ecotank_et_2750 new release 1.0.1  
+google-spreadsheet new release 0.3.1  
+growatt new release 3.3.1  
+opendtu new release 3.0.1  
+openligadb new release 1.8.0  
+vesync new release 0.0.8  
+wled new release 0.7.3  
+#### updates at stable repository 
+apcups updated to 4.0.2  
+gree-hvac updated to 1.1.2  
+lcn updated to 2.0.3  
+lightcontrol updated to 1.0.1  
+openligadb updated to 1.7.0  
+puppeteer updated to 0.4.0  
+reolink updated to 1.1.2  
+vis-2-widgets-rssfeed updated to 0.3.6  
 ## 2024-10-26
 #### updates at latest repository 
 wmswebcontrol new release 0.1.3  
