@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-10-28
+#### updates at latest repository 
+bambulab new release 0.3.4  
+go-e new release 1.0.41  
+js-controller new release 7.0.2  
+lorawan new release 1.5.2  
+oilfox new release 4.3.1  
+traccar new release 1.1.6  
+vis-2-widgets-weather-and-heating new release 0.7.7  
+#### updates at stable repository 
+cloudflare updated to 1.2.2  
+kostal-piko-ba updated to 4.2.3  
+remeha-home updated to 0.2.4  
+shuttercontrol updated to 1.8.3  
 ## 2024-10-27
 #### updates at latest repository 
 adguard new release 1.0.1  
