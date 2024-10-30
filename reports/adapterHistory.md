@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-10-29
+#### updates at latest repository 
+air-q new release 1.0.5  
+google-spreadsheet new release 0.4.0  
+gotify new release 0.3.0  
+lametric new release 3.4.1  
+sun2000 new release 0.15.1  
+#### updates at stable repository 
+webcal updated to 1.3.10  
 ## 2024-10-28
 #### updates at latest repository 
 bambulab new release 0.3.4  
