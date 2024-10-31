@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-10-30
+#### updates at latest repository 
+ecoflow-mqtt new release 1.0.5  
+ical new release 1.16.0  
+swiss-weather-api new release 2.1.1  
+#### updates at stable repository 
+deyeidc updated to 0.1.1  
 ## 2024-10-29
 #### updates at latest repository 
 air-q new release 1.0.5  
