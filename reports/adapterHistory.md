@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2024-10-31
+#### updates at latest repository 
+heos new release 2.2.4  
+homekit-controller new release 0.5.11  
+kisshome-research new release 1.1.1  
+lorawan new release 1.5.3  
+ring new release 6.2.3  
+sun2000 new release 0.15.2  
+swiss-weather-api new release 2.2.0  
+tibberlink new release 3.5.2  
+webui new release 1.16.3  
+#### updates at stable repository 
 ## 2024-10-30
 #### updates at latest repository 
 ecoflow-mqtt new release 1.0.5  
