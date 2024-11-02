@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-11-01
+#### updates at latest repository 
+ems-esp new release 5.0.1  
+klf200 new release 1.3.3  
+ring new release 6.2.4  
+swiss-weather-api new release 2.2.2  
+webui new release 1.17.0  
+#### updates at stable repository 
+go-e updated to 1.0.41  
+ring updated to 6.2.1  
 ## 2024-10-31
 #### updates at latest repository 
 heos new release 2.2.4  
