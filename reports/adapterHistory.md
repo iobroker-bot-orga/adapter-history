@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-11-02
+#### updates at latest repository 
+ems-esp new release 5.0.2  
+ical new release 1.16.1  
+nissan new release 0.1.6  
+rpi2 new release 2.2.2  
+sun2000 new release 0.16.0  
+webui new release 1.18.3  
+zigbee new release 1.10.11  
+#### updates at stable repository 
+e3oncan updated to 0.10.1  
+egigeozone2 updated to 1.0.7  
+kisshome-research updated to 1.1.1  
+rpi2 updated to 2.2.1  
 ## 2024-11-01
 #### updates at latest repository 
 ems-esp new release 5.0.1  
