@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-11-03
+#### updates at latest repository 
+canbus new release 2.0.0  
+schedule-switcher new release 0.0.3  
+signifylights new release 0.4.1  
+webui new release 1.19.4  
+zigbee new release 1.10.12  
+#### updates at stable repository 
+countdown updated to 2.3.0  
+tinymqttbroker updated to 0.1.3  
 ## 2024-11-02
 #### updates at latest repository 
 ems-esp new release 5.0.2  
