@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-11-04
+#### updates at latest repository 
+canbus new release 2.1.1  
+#### updates at stable repository 
+sureflap updated to 2.3.1  
+webui updated to 1.15.1  
 ## 2024-11-03
 #### updates at latest repository 
 canbus new release 2.0.0  
