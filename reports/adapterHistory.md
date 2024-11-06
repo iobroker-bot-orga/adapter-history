@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-11-05
+#### updates at latest repository 
+energiefluss new release 3.6.2  
+melcloud new release 2.0.4  
+schedule-switcher new release 0.0.4  
+tado new release 0.6.1  
+wiegand-tcpip new release 0.4.7  
+worx new release 3.1.1  
+#### updates at stable repository 
 ## 2024-11-04
 #### updates at latest repository 
 canbus new release 2.1.1  
