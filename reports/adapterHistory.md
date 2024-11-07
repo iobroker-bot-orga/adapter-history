@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-11-06
+#### updates at latest repository 
+flexcharts new release 0.2.0  
+iot new release 3.4.3  
+jablotron new release 0.1.4  
+schedule-switcher new release 0.0.5  
+sun2000 new release 0.17.0  
+#### updates at stable repository 
+weatherflow_udp updated to 0.1.4  
 ## 2024-11-05
 #### updates at latest repository 
 energiefluss new release 3.6.2  
