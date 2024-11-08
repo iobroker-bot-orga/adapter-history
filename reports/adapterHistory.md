@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-11-07
+#### updates at latest repository 
+shuttercontrol new release 1.8.4  
+signifylights new release 0.4.2  
+trashschedule new release 3.4.0  
+#### updates at stable repository 
 ## 2024-11-06
 #### updates at latest repository 
 flexcharts new release 0.2.0  
