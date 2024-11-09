@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-11-08
+#### updates at latest repository 
+deyeidc new release 0.1.2  
+hmip new release 1.25.0  
+imap new release 0.2.2  
+solarmanpv new release 0.6.2  
+#### updates at stable repository 
 ## 2024-11-07
 #### updates at latest repository 
 shuttercontrol new release 1.8.4  
