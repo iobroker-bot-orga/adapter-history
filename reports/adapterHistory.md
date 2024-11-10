@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-11-09
+#### updates at latest repository 
+alexa-shoppinglist new release 1.0.2  
+luxtronik1 new release 0.4.2  
+renacidc new release 0.1.4  
+ring new release 6.3.0  
+#### updates at stable repository 
 ## 2024-11-08
 #### updates at latest repository 
 deyeidc new release 0.1.2  
