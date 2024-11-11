@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-11-10
+#### updates at latest repository 
+nibeuplink new release 1.3.2  
+tapo new release 0.3.4  
+zigbee new release 1.10.13  
+zoe2 new release 0.2.10  
+#### updates at stable repository 
 ## 2024-11-09
 #### updates at latest repository 
 alexa-shoppinglist new release 1.0.2  
