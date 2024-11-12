@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2024-11-11
+#### updates at latest repository 
+ems-esp new release 5.0.3  
+mytime new release 1.0.15  
+nissan new release 0.1.5  
+weather-warnings new release 0.6.9  
+youtube new release 5.1.0  
+#### updates at stable repository 
+air-q updated to 1.0.4  
+alias-manager updated to 2.0.0  
+apg-info updated to 0.1.11  
+boschindego updated to 1.2.2  
+daikin-cloud updated to 0.4.11  
+ikettle2 updated to 1.0.2  
+myuplink updated to 0.8.3  
+swiss-weather-api updated to 2.2.2  
+tado updated to 0.6.1  
+telegram-menu updated to 2.1.3  
+upnp updated to 1.1.0  
+vis-icontwo updated to 1.6.3  
 ## 2024-11-10
 #### updates at latest repository 
 nibeuplink new release 1.3.2  
