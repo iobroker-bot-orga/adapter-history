@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-11-12
+#### updates at latest repository 
+ems-esp new release 5.0.4  
+nissan new release 0.1.7  
+weather-warnings new release 0.6.10  
+youtube new release 5.1.1  
+#### updates at stable repository 
+alarm updated to 3.6.4  
+vis-2-widgets-ovarious updated to 0.1.9  
+zendure-solarflow updated to 1.8.8  
 ## 2024-11-11
 #### updates at latest repository 
 ems-esp new release 5.0.3  
