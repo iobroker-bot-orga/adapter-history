@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-11-13
+#### updates at latest repository 
+admin new release 7.3.0  
+backitup new release 3.0.27  
+boschindego new release 1.3.0  
+dysonairpurifier new release 3.2.6  
+kisshome-research new release 1.2.0  
+mqtt-client new release 2.1.0  
+mytime new release 1.1.0  
+tractive-gps new release 2.1.0  
+#### updates at stable repository 
+chromecast updated to 4.0.0  
+oilfox updated to 4.3.1  
+openligadb updated to 1.8.0  
 ## 2024-11-12
 #### updates at latest repository 
 ems-esp new release 5.0.4  
