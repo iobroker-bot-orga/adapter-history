@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2024-11-14
+#### updates at latest repository 
+admin new release 7.3.1  
+alpha-ess new release 2.1.5  
+enigma2 new release 2.2.1  
+fb-checkpresence new release 1.2.6  
+js-controller new release 7.0.3  
+mytime new release 1.1.1  
+slideshow new release 0.2.0  
+#### updates at stable repository 
+kisshome-research updated to 1.2.0  
+traccar updated to 1.1.6  
 ## 2024-11-13
 #### updates at latest repository 
 admin new release 7.3.0  
