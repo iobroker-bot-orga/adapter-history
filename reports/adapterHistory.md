@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-11-15
+#### updates at latest repository 
+envertech-pv new release 1.4.0  
+mytime new release 1.2.0  
+pvforecast new release 4.1.0  
+statistics new release 3.0.0  
+#### updates at stable repository 
 ## 2024-11-14
 #### updates at latest repository 
 admin new release 7.3.1  
