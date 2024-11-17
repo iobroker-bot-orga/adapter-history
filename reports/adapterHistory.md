@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2024-11-16
+#### updates at latest repository 
+admin new release 7.3.2  
+e3oncan new release 0.10.2  
+kisshome-research new release 1.2.3  
+libre new release 0.1.3  
+lorawan new release 1.5.4  
+vis-icontwo new release 1.8.0  
+#### updates at stable repository 
+kisshome-research updated to 1.2.3  
+roborock updated to 0.6.17  
 ## 2024-11-15
 #### updates at latest repository 
 envertech-pv new release 1.4.0  
