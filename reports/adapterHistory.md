@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2024-11-17
+#### updates at latest repository 
+discord new release 2.5.2  
+ds18b20 new release 3.0.1  
+mytime new release 1.2.1  
+odl new release 4.0.2  
+schedule-switcher new release 0.0.6  
+tvprogram new release 2.0.2  
+vis-icontwo new release 1.8.1  
+#### updates at stable repository 
+adguard updated to 1.0.1  
+epson_ecotank_et_2750 updated to 1.0.1  
+gotify updated to 0.3.0  
+hs100 updated to 2.2.2  
+lorawan updated to 1.5.3  
 ## 2024-11-16
 #### updates at latest repository 
 admin new release 7.3.2  
