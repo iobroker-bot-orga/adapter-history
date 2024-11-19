@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-11-18
+#### updates at latest repository 
+admin new release 7.4.0  
+innoxel new release 1.0.0  
+statistics new release 3.1.0  
+#### updates at stable repository 
 ## 2024-11-17
 #### updates at latest repository 
 discord new release 2.5.2  
