@@ -1,5 +1,27 @@
 # Adapter publishing report
 
+## 2024-11-19
+#### updates at latest repository 
+admin new release 7.4.1  
+alexa-timer-vis new release 2.0.7  
+birthdays new release 3.1.0  
+bmw new release 2.8.3  
+chargemaster new release 0.12.3  
+fahrplan new release 1.3.0  
+fb-checkpresence new release 1.2.7  
+homeconnect new release 1.4.3  
+kisshome-research new release 1.2.4  
+klf200 new release 1.3.4  
+mytime new release 1.2.2  
+slideshow new release 0.2.1  
+#### updates at stable repository 
+discord updated to 2.5.2  
+ds18b20 updated to 3.0.1  
+growatt updated to 3.3.1  
+kisshome-research updated to 1.2.4  
+klf200 updated to 1.3.3  
+odl updated to 4.0.2  
+solarviewdatareader updated to 1.1.4  
 ## 2024-11-18
 #### updates at latest repository 
 admin new release 7.4.0  
