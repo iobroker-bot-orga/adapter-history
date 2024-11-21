@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-11-20
+#### updates at latest repository 
+awtrix-light new release 1.4.1  
+ebus new release 3.3.7  
+heatingcontrol new release 2.12.12  
+kisshome-research new release 1.2.5  
+zendure-solarflow new release 1.9.0  
+#### updates at stable repository 
 ## 2024-11-19
 #### updates at latest repository 
 admin new release 7.4.1  
