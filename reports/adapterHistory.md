@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2024-11-21
+#### updates at latest repository 
+fb-checkpresence new release 1.2.8  
+heatingcontrol new release 2.12.13  
+klf200 new release 1.3.5  
+lovelace new release 4.1.11  
+semp new release 1.4.8  
+smoothed new release 1.1.1  
+sun2000 new release 0.17.1  
+zendure-solarflow new release 1.9.2  
+#### updates at stable repository 
+iqontrol updated to 3.0.0  
 ## 2024-11-20
 #### updates at latest repository 
 awtrix-light new release 1.4.1  
