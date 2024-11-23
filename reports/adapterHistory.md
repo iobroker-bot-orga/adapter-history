@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-11-22
+#### updates at latest repository 
+bmw new release 2.8.4  
+ems-esp new release 5.0.5  
+nissan new release 0.1.13  
+zendure-solarflow new release 1.9.3  
+#### updates at stable repository 
+ems-esp updated to 5.0.4  
+signifylights updated to 0.4.2  
+worx updated to 3.1.1  
 ## 2024-11-21
 #### updates at latest repository 
 fb-checkpresence new release 1.2.8  
