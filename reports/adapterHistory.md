@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2024-11-23
+#### updates at latest repository 
+google-spreadsheet new release 0.5.0  
+gsmsms new release 1.0.0  
+lorawan new release 1.5.5  
+matrix-org new release 1.1.0  
+modbus new release 6.4.0  
+telegram-menu new release 2.1.4  
+vis-2 new release 2.10.8  
+vis-2-widgets-jaeger-design new release 1.3.2  
+#### updates at stable repository 
+alexa-shoppinglist updated to 1.0.2  
 ## 2024-11-22
 #### updates at latest repository 
 bmw new release 2.8.4  
