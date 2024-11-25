@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-11-24
+#### updates at latest repository 
+chargemaster new release 0.12.4  
+gotify new release 0.4.0  
+shelly new release 8.5.0  
+tibberlink new release 3.5.3  
+vis-2-widgets-weather-and-heating new release 0.8.0  
+vis-icontwo new release 1.9.0  
+#### updates at stable repository 
 ## 2024-11-23
 #### updates at latest repository 
 google-spreadsheet new release 0.5.0  
