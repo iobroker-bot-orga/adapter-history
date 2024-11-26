@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2024-11-25
+#### updates at latest repository 
+bluesound new release 1.1.0  
+ebus new release 3.3.8  
+gotify-ws new release 0.1.10  
+mywallbox new release 1.2.0  
+sbfspot new release 4.3.5  
+trashschedule new release 3.4.1  
+tvprogram new release 2.1.0  
+uv-protect new release 0.6.4  
+#### updates at stable repository 
+homekit-controller updated to 0.5.11  
+kisshome-research updated to 1.2.5  
+melcloud updated to 2.0.4  
+renacidc updated to 0.1.4  
 ## 2024-11-24
 #### updates at latest repository 
 chargemaster new release 0.12.4  
