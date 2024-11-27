@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2024-11-26
+#### updates at latest repository 
+admin new release 7.4.2  
+bidirectional-counter new release 2.2.1  
+bosch-ebike new release 0.1.9  
+drag-indicator new release 2.2.1  
+e3oncan new release 0.10.3  
+janitza-gridvis new release 3.3.2  
+lorawan new release 1.5.7  
+lowpass-filter new release 2.3.1  
+panasonic-comfort-cloud new release 3.0.3  
+pegelalarm new release 1.3.6  
+schedule-switcher new release 0.0.7  
+schoolfree new release 1.1.6  
+smoothed new release 1.1.2  
+vis-2-widgets-gauges new release 1.1.1  
+vis-2-widgets-jaeger-design new release 1.3.3  
+#### updates at stable repository 
+dysonairpurifier updated to 3.2.6  
+panasonic-comfort-cloud updated to 3.0.3  
 ## 2024-11-25
 #### updates at latest repository 
 bluesound new release 1.1.0  
