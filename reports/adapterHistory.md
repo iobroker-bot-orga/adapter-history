@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2024-11-27
+#### updates at latest repository 
+acme new release 1.0.3  
+backitup new release 3.0.28  
+mempool-space new release 0.0.3  
+operating-hours new release 1.1.1  
+remeha-home new release 0.2.5  
+rssfeed new release 3.2.0  
+shuttercontrol new release 1.8.5  
+solax new release 0.9.13  
+tinker new release 1.3.5  
+vis-icontwo new release 1.10.0  
+#### updates at stable repository 
 ## 2024-11-26
 #### updates at latest repository 
 admin new release 7.4.2  
