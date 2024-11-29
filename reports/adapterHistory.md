@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2024-11-28
+#### updates at latest repository 
+bmw new release 2.9.0  
+boschindego new release 1.3.2  
+bring new release 1.9.0  
+controme new release 0.5.3  
+mempool-space new release 0.0.4  
+squeezeboxrpc new release 1.4.0  
+#### updates at stable repository 
+js-controller updated to 7.0.3  
+lametric updated to 3.4.1  
+tractive-gps updated to 2.1.0  
+youtube updated to 5.1.1  
 ## 2024-11-27
 #### updates at latest repository 
 acme new release 1.0.3  
