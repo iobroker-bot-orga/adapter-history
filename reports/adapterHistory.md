@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-11-29
+#### updates at latest repository 
+squeezeboxrpc new release 1.5.0  
+tapo new release 0.4.1  
+weather-warnings new release 0.6.11  
+#### updates at stable repository 
+boschindego updated to 1.3.2  
+enigma2 updated to 2.2.1  
+ical updated to 1.16.1  
 ## 2024-11-28
 #### updates at latest repository 
 bmw new release 2.9.0  
