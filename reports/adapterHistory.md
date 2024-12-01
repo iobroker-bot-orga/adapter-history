@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-11-30
+#### updates at latest repository 
+backitup new release 3.0.31  
+espresense new release 0.4.6  
+kecontact new release 2.3.0  
+minuaru new release 2.0.1  
+squeezeboxrpc new release 1.5.1  
+#### updates at stable repository 
+solarmanpv updated to 0.6.2  
 ## 2024-11-29
 #### updates at latest repository 
 squeezeboxrpc new release 1.5.0  
