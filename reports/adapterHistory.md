@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-12-01
+#### updates at latest repository 
+admin new release 7.4.3  
+alpha-ess new release 2.1.6  
+bluesound new release 1.1.1  
+senec new release 1.6.15  
+tesla-wallconnector3 new release 1.0.6  
+tibberlink new release 3.5.4  
+#### updates at stable repository 
 ## 2024-11-30
 #### updates at latest repository 
 backitup new release 3.0.31  
