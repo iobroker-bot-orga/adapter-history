@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2024-12-02
+#### updates at latest repository 
+lg-thinq new release 1.0.5  
+opendtu new release 3.1.0  
+shelly new release 8.5.1  
+vis-icontwo new release 1.10.1  
+zendure-solarflow new release 1.10.0  
+#### updates at stable repository 
+awtrix-light updated to 1.4.1  
+birthdays updated to 3.1.0  
+envertech-pv updated to 1.4.0  
+hue updated to 3.13.1  
+luxtronik1 updated to 0.4.2  
+pvforecast updated to 4.1.0  
+viessmann updated to 1.5.0  
+webui updated to 1.19.4  
 ## 2024-12-01
 #### updates at latest repository 
 admin new release 7.4.3  
