@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-12-03
+#### updates at latest repository 
+ems-esp new release 5.0.6  
+lgtv new release 2.3.0  
+vis-2 new release 2.11.1  
+vis-2-widgets-jaeger-design new release 1.3.5  
+#### updates at stable repository 
+sun2000 updated to 0.17.1  
 ## 2024-12-02
 #### updates at latest repository 
 lg-thinq new release 1.0.5  
