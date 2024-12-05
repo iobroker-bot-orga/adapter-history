@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2024-12-04
+#### updates at latest repository 
+lgtv new release 2.3.1  
+lowpass-filter new release 2.4.0  
+minuaru new release 2.0.2  
+vis-2-widgets-radar-trap new release 2.3.3  
+vis-homekittiles new release 0.3.2  
+webui new release 1.20.1  
+#### updates at stable repository 
+google-spreadsheet updated to 0.5.0  
+gotify updated to 0.4.0  
+lg-thinq updated to 1.0.5  
+minuaru updated to 2.0.2  
 ## 2024-12-03
 #### updates at latest repository 
 ems-esp new release 5.0.6  
