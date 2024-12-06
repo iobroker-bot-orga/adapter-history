@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2024-12-05
+#### updates at latest repository 
+alexa-shoppinglist new release 1.0.3  
+alexa-timer-vis new release 2.0.8  
+bidirectional-counter new release 2.3.0  
+daswetter new release 3.2.0  
+drag-indicator new release 2.3.0  
+jablotron new release 0.1.5  
+janitza-gridvis new release 3.4.0  
+js-controller new release 7.0.4  
+lorawan new release 1.6.0  
+operating-hours new release 1.2.0  
+smoothed new release 1.2.0  
+telegram-menu new release 2.1.6  
+vis-2-widgets-jaeger-design new release 1.3.8  
+#### updates at stable repository 
 ## 2024-12-04
 #### updates at latest repository 
 lgtv new release 2.3.1  
