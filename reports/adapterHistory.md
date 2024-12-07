@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-12-06
+#### updates at latest repository 
+acme new release 1.0.4  
+mercedesme new release 0.3.3  
+vis-2-widgets-jaeger-design new release 1.3.9  
+#### updates at stable repository 
 ## 2024-12-05
 #### updates at latest repository 
 alexa-shoppinglist new release 1.0.3  
