@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2024-12-07
+#### updates at latest repository 
+daswetter new release 3.2.1  
+sbfspot new release 4.4.0  
+scheduler new release 1.4.2  
+sureflap new release 2.3.2  
+#### updates at stable repository 
+e3oncan updated to 0.10.3  
+espresense updated to 0.4.6  
+homeconnect updated to 1.4.3  
+weather-warnings updated to 0.6.11  
 ## 2024-12-06
 #### updates at latest repository 
 acme new release 1.0.4  
