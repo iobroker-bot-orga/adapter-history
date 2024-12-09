@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2024-12-08
+#### updates at latest repository 
+acme new release 1.0.5  
+admin new release 7.4.4  
+imap new release 0.3.0  
+iot new release 3.4.4  
+js-controller new release 7.0.5  
+kostal-piko-ba new release 5.0.0  
+lg-thinq new release 1.0.6  
+schedule-switcher new release 0.0.8  
+#### updates at stable repository 
+fb-checkpresence updated to 1.2.8  
+heatingcontrol updated to 2.12.13  
+hmip updated to 1.25.0  
+semp updated to 1.4.8  
+tibberlink updated to 3.5.4  
 ## 2024-12-07
 #### updates at latest repository 
 daswetter new release 3.2.1  
