@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-12-09
+#### updates at latest repository 
+hmip new release 1.26.1  
+js-controller new release 7.0.6  
+lg-thinq new release 1.0.7  
+mercedesme new release 0.3.4  
+telegram-menu new release 2.1.7  
+tibberlink new release 4.0.0  
+#### updates at stable repository 
+gsmsms updated to 1.0.0  
 ## 2024-12-08
 #### updates at latest repository 
 acme new release 1.0.5  
