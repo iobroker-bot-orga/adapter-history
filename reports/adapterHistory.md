@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-12-10
+#### updates at latest repository 
+energiefluss-erweitert new release 0.6.0  
+hmip new release 1.26.2  
+innoxel new release 1.0.1  
+kostal-piko-ba new release 5.0.1  
+mywallbox new release 1.3.0  
+tapo new release 0.4.3  
+#### updates at stable repository 
+ecoflow-mqtt updated to 1.0.5  
 ## 2024-12-09
 #### updates at latest repository 
 hmip new release 1.26.1  
