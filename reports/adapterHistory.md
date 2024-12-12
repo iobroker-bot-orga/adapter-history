@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-12-11
+#### updates at latest repository 
+ebus new release 3.4.0  
+plex new release 1.1.5  
+#### updates at stable repository 
+gotify-ws updated to 0.1.10  
+jablotron updated to 0.1.5  
+schoolfree updated to 1.1.6  
+tvprogram updated to 2.1.0  
+uv-protect updated to 0.6.4  
 ## 2024-12-10
 #### updates at latest repository 
 energiefluss-erweitert new release 0.6.0  
