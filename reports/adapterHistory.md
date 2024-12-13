@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-12-12
+#### updates at latest repository 
+admin new release 7.4.7  
+melcloud new release 2.0.5  
+roborock new release 0.6.18  
+srm new release 1.0.0  
+sun2000 new release 0.18.0  
+#### updates at stable repository 
+nibeuplink updated to 1.3.2  
 ## 2024-12-11
 #### updates at latest repository 
 ebus new release 3.4.0  
