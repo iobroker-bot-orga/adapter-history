@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-12-13
+#### updates at latest repository 
+chargemaster new release 0.12.5  
+energiefluss-erweitert new release 0.6.1  
+rainbird new release 2.0.0  
+tapo new release 0.4.4  
+#### updates at stable repository 
 ## 2024-12-12
 #### updates at latest repository 
 admin new release 7.4.7  
