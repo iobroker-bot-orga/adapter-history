@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-12-14
+#### updates at latest repository 
+fahrplan new release 1.4.0  
+knx new release 2.0.29  
+#### updates at stable repository 
+mqtt-client updated to 2.1.0  
+remeha-home updated to 0.2.5  
+shuttercontrol updated to 1.8.5  
 ## 2024-12-13
 #### updates at latest repository 
 chargemaster new release 0.12.5  
