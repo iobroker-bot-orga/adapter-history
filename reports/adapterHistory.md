@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-12-15
+#### updates at latest repository 
+pvoutputorg new release 1.9.0  
+rainbird new release 2.0.1  
+teslafi new release 0.4.5  
+tibberlink new release 4.1.0  
+#### updates at stable repository 
+ring updated to 6.3.0  
 ## 2024-12-14
 #### updates at latest repository 
 fahrplan new release 1.4.0  
