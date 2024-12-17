@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2024-12-16
+#### updates at latest repository 
+alarm new release 3.6.5  
+alpha-ess new release 2.2.0  
+cloudflare new release 1.2.3  
+cloudless-homeconnect new release 1.3.0  
+daswetter new release 3.2.2  
+kisshome-research new release 1.2.6  
+rct new release 1.2.15  
+sbfspot new release 4.4.1  
+scheduler new release 1.4.3  
+selverf new release 0.7.0  
+tapo new release 0.4.5  
+valuetrackerovertime new release 1.1.0  
+virtualpowermeter new release 1.5.0  
+#### updates at stable repository 
+innoxel updated to 1.0.1  
+senec updated to 1.6.15  
 ## 2024-12-15
 #### updates at latest repository 
 pvoutputorg new release 1.9.0  
