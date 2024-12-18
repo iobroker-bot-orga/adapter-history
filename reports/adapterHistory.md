@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-12-17
+#### updates at latest repository 
+rct new release 1.2.16  
+spotify-premium new release 1.5.2  
+squeezeboxrpc new release 1.5.2  
+ta-blnet new release 1.0.30  
+tvprogram new release 2.2.0  
+#### updates at stable repository 
+ems-esp updated to 5.0.6  
 ## 2024-12-16
 #### updates at latest repository 
 alarm new release 3.6.5  
