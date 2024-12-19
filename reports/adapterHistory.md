@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-12-18
+#### updates at latest repository 
+amtronwallbox new release 0.3.0  
+viessmann new release 1.5.1  
+#### updates at stable repository 
+opendtu updated to 3.1.0  
+zendure-solarflow updated to 1.10.0  
 ## 2024-12-17
 #### updates at latest repository 
 rct new release 1.2.16  
