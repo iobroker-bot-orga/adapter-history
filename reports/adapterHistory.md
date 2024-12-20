@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-12-19
+#### updates at latest repository 
+alarm new release 3.6.7  
+energiefluss-erweitert new release 0.6.2  
+ta-blnet new release 1.0.31  
+viessmann new release 1.5.2  
+#### updates at stable repository 
 ## 2024-12-18
 #### updates at latest repository 
 amtronwallbox new release 0.3.0  
