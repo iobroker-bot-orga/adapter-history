@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2024-12-20
+#### updates at latest repository 
+alpha-ess new release 2.3.0  
+echarts new release 1.9.5  
+schedule-switcher new release 0.0.9  
+ta-blnet new release 1.0.33  
+viessmann new release 1.5.3  
+#### updates at stable repository 
+kecontact updated to 2.3.0  
+lgtv updated to 2.3.1  
 ## 2024-12-19
 #### updates at latest repository 
 alarm new release 3.6.7  
