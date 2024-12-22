@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-12-21
+#### updates at latest repository 
+alpha-ess new release 3.0.0  
+solarviewdatareader new release 1.2.0  
+teslafi new release 0.4.6  
+#### updates at stable repository 
 ## 2024-12-20
 #### updates at latest repository 
 alpha-ess new release 2.3.0  
