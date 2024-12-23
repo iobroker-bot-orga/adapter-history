@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2024-12-22
+#### updates at latest repository 
+admin new release 7.4.8  
+alpha-ess new release 3.0.1  
+blebox new release 2.2.0  
+chargemaster new release 0.12.6  
+knx new release 2.0.30  
+lgtv new release 2.3.2  
+ta-blnet new release 1.0.35  
+tibberlink new release 4.1.1  
+vesync new release 0.0.9  
+#### updates at stable repository 
+bidirectional-counter updated to 2.3.0  
+drag-indicator updated to 2.3.0  
+lorawan updated to 1.6.0  
+operating-hours updated to 1.2.0  
+roadtraffic updated to 1.2.0  
+smoothed updated to 1.2.0  
+tibberlink updated to 4.1.0  
 ## 2024-12-21
 #### updates at latest repository 
 alpha-ess new release 3.0.0  
