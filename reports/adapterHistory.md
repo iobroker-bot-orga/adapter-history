@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2024-12-23
+#### updates at latest repository 
+enigma2 new release 2.2.3  
+wolf-smartset new release 1.2.4  
+#### updates at stable repository 
+alexa-timer-vis updated to 2.0.8  
+valuetrackerovertime updated to 1.1.0  
+virtualpowermeter updated to 1.5.0  
 ## 2024-12-22
 #### updates at latest repository 
 admin new release 7.4.8  
