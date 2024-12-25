@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2024-12-24
+#### updates at latest repository 
+lg-ess-home new release 0.4.1  
+rpi2 new release 2.3.0  
+#### updates at stable repository 
 ## 2024-12-23
 #### updates at latest repository 
 enigma2 new release 2.2.3  
