@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2024-12-25
+#### updates at latest repository 
+ems-esp new release 5.1.0  
+#### updates at stable repository 
 ## 2024-12-24
 #### updates at latest repository 
 lg-ess-home new release 0.4.1  
