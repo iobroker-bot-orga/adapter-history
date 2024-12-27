@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2024-12-26
+#### updates at latest repository 
+myuplink new release 0.8.4  
+teslafi new release 1.0.0  
+#### updates at stable repository 
+amtronwallbox updated to 0.3.0  
+daswetter updated to 3.2.2  
+ebus updated to 3.4.0  
+energiefluss-erweitert updated to 0.6.2  
+imap updated to 0.3.0  
+js-controller updated to 7.0.6  
+lg-thinq updated to 1.0.7  
+pvoutputorg updated to 1.9.0  
+sbfspot updated to 4.4.1  
+squeezeboxrpc updated to 1.5.1  
 ## 2024-12-25
 #### updates at latest repository 
 ems-esp new release 5.1.0  
