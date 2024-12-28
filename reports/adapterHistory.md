@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2024-12-27
+#### updates at latest repository 
+blebox new release 2.2.1  
+ems-esp new release 5.1.1  
+withings new release 0.0.16  
+#### updates at stable repository 
 ## 2024-12-26
 #### updates at latest repository 
 myuplink new release 0.8.4  
