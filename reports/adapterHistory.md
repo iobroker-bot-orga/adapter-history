@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2024-12-28
+#### updates at latest repository 
+acme new release 1.0.6  
+lgtv new release 2.4.0  
+rainbird new release 2.0.2  
+vis-2-widgets-weather-and-heating new release 0.8.1  
+webui new release 1.21.0  
+#### updates at stable repository 
+energiefluss updated to 3.6.2  
+klf200 updated to 1.3.5  
+rssfeed updated to 3.2.0  
 ## 2024-12-27
 #### updates at latest repository 
 blebox new release 2.2.1  
