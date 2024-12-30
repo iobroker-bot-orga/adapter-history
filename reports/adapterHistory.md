@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2024-12-29
+#### updates at latest repository 
+admin new release 7.4.9  
+hmip new release 1.26.3  
+iot new release 3.4.5  
+lupusec new release 2.0.3  
+#### updates at stable repository 
+acme updated to 1.0.5  
+cloudflare updated to 1.2.3  
+mytime updated to 1.2.2  
+mywallbox updated to 1.3.0  
+sureflap updated to 2.3.2  
+telegram-menu updated to 2.1.7  
+vis-2-widgets-weather-and-heating updated to 0.8.0  
 ## 2024-12-28
 #### updates at latest repository 
 acme new release 1.0.6  
