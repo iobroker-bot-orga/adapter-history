@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2024-12-30
+#### updates at latest repository 
+admin new release 7.4.10  
+sureflap new release 2.3.3  
+#### updates at stable repository 
+pegelalarm updated to 1.3.6  
+solax updated to 0.9.13  
+tinker updated to 1.3.5  
+zigbee updated to 1.10.13  
 ## 2024-12-29
 #### updates at latest repository 
 admin new release 7.4.9  
