@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2024-12-31
+#### updates at latest repository 
+ems-esp new release 5.1.2  
+fritzdect new release 2.5.12  
+node-red new release 6.0.5  
+schoolfree new release 1.1.7  
+#### updates at stable repository 
 ## 2024-12-30
 #### updates at latest repository 
 admin new release 7.4.10  
