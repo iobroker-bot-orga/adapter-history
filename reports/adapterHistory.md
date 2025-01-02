@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-01-01
+#### updates at latest repository 
+chargemaster new release 0.12.7  
+rct new release 1.2.17  
+telegram-menu new release 2.1.9  
+zigbee new release 1.10.14  
+#### updates at stable repository 
 ## 2024-12-31
 #### updates at latest repository 
 ems-esp new release 5.1.2  
