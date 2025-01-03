@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-01-02
+#### updates at latest repository 
+kostal-piko-ba new release 5.0.2  
+sainlogic new release 0.11.5  
+solarmanpv new release 0.6.3  
+telegram-menu new release 2.1.10  
+tvprogram new release 2.3.1  
+#### updates at stable repository 
 ## 2025-01-01
 #### updates at latest repository 
 chargemaster new release 0.12.7  
