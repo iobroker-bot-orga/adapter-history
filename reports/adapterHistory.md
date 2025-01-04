@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2025-01-03
+#### updates at latest repository 
+deyeidc new release 0.1.3  
+ecoflow-mqtt new release 1.1.1  
+hmip new release 1.26.4  
+mihome-vacuum new release 4.3.0  
+mytime new release 1.4.0  
+tvprogram new release 3.0.3  
+vis-homekittiles new release 0.3.3  
+webcal new release 1.3.11  
+#### updates at stable repository 
+kostal-piko-ba updated to 5.0.1  
+melcloud updated to 2.0.5  
+rct updated to 1.2.16  
+vis-homekittiles updated to 0.3.2  
+zigbee updated to 1.10.14  
 ## 2025-01-02
 #### updates at latest repository 
 kostal-piko-ba new release 5.0.2  
