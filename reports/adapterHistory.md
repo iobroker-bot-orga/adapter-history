@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-01-04
+#### updates at latest repository 
+bluesound new release 1.1.4  
+bosch-ebike new release 0.1.11  
+boschindego new release 1.3.8  
+judoisoft new release 1.1.2  
+synochat new release 1.3.2  
+ta-blnet new release 1.0.36  
+weather-warnings new release 0.7.0  
+webcal new release 1.3.13  
+zigbee2mqtt new release 3.0.1  
+#### updates at stable repository 
+alarm updated to 3.6.7  
+schedule-switcher updated to 0.0.9  
 ## 2025-01-03
 #### updates at latest repository 
 deyeidc new release 0.1.3  
