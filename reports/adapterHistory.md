@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-01-05
+#### updates at latest repository 
+feiertage new release 1.2.1  
+hs100 new release 3.0.0  
+mihome-vacuum new release 5.0.0  
+telegram-menu new release 2.2.0  
+vis-icontwo new release 1.11.0  
+#### updates at stable repository 
 ## 2025-01-04
 #### updates at latest repository 
 bluesound new release 1.1.4  
