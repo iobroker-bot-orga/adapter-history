@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-01-06
+#### updates at latest repository 
+bshb new release 0.4.0  
+echarts new release 2.0.0  
+fullybrowser new release 3.0.13  
+lowpass-filter new release 2.4.1  
+lupusec new release 2.0.4  
+rpi2 new release 2.3.1  
+trashschedule new release 4.0.0  
+#### updates at stable repository 
+alpha-ess updated to 3.0.1  
+boschindego updated to 1.3.8  
+lowpass-filter updated to 2.4.0  
+shelly updated to 8.5.1  
 ## 2025-01-05
 #### updates at latest repository 
 feiertage new release 1.2.1  
