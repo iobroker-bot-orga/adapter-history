@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-01-07
+#### updates at latest repository 
+awtrix-light new release 1.5.0  
+octoprint new release 6.0.0  
+zendure-solarflow new release 1.10.1  
+zigbee2mqtt new release 3.0.2  
+#### updates at stable repository 
+ems-esp updated to 5.1.2  
+enigma2 updated to 2.2.3  
+judoisoft updated to 1.1.1  
+wolf-smartset updated to 1.2.4  
 ## 2025-01-06
 #### updates at latest repository 
 bshb new release 0.4.0  
