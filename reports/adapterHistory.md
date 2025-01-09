@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-01-08
+#### updates at latest repository 
+bluelink new release 3.1.1  
+echarts new release 2.0.2  
+ecoflow-mqtt new release 1.1.2  
+hue new release 3.14.0  
+#### updates at stable repository 
+admin updated to 7.4.10  
+matrix-org updated to 1.1.0  
+solarviewdatareader updated to 1.2.0  
 ## 2025-01-07
 #### updates at latest repository 
 awtrix-light new release 1.5.0  
