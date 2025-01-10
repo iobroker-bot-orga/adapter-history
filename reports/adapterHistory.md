@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-01-09
+#### updates at latest repository 
+alarm new release 3.6.8  
+echarts new release 2.0.3  
+flexcharts new release 0.3.0  
+solax new release 0.9.14  
+sun2000 new release 0.18.1  
+tibberlink new release 4.2.1  
+tuya new release 3.17.0  
+viessmann new release 1.5.4  
+#### updates at stable repository 
+backitup updated to 3.0.31  
+lg-ess-home updated to 0.4.1  
 ## 2025-01-08
 #### updates at latest repository 
 bluelink new release 3.1.1  
