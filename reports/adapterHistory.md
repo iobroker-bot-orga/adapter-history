@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-01-10
+#### updates at latest repository 
+gotify-ws new release 0.1.11  
+pegelalarm new release 1.3.7  
+remeha-home new release 0.2.7  
+weather-warnings new release 0.7.1  
+#### updates at stable repository 
+selverf updated to 0.7.0  
+spotify-premium updated to 1.5.2  
 ## 2025-01-09
 #### updates at latest repository 
 alarm new release 3.6.8  
