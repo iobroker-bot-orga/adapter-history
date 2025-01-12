@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-01-11
+#### updates at latest repository 
+deyeidc new release 0.1.4  
+ecoflow-mqtt new release 1.1.3  
+lorawan new release 1.6.1  
+teslafi new release 1.0.1  
+vis-2-widgets-weather-and-heating new release 0.9.0  
+#### updates at stable repository 
+bluesound updated to 1.1.4  
+ta-blnet updated to 1.0.36  
+teslafi updated to 1.0.0  
+vis-icontwo updated to 1.11.0  
 ## 2025-01-10
 #### updates at latest repository 
 gotify-ws new release 0.1.11  
