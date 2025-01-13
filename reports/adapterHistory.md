@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-01-12
+#### updates at latest repository 
+admin new release 7.4.12  
+shuttercontrol new release 1.8.6  
+telegram-menu new release 2.2.1  
+tinker new release 1.3.6  
+uv-protect new release 0.6.5  
+vis-2-widgets-weather-and-heating new release 0.9.1  
+#### updates at stable repository 
+alexa-shoppinglist updated to 1.0.3  
+plex updated to 1.1.5  
 ## 2025-01-11
 #### updates at latest repository 
 deyeidc new release 0.1.4  
