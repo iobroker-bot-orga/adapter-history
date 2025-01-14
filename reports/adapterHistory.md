@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-01-13
+#### updates at latest repository 
+telegram new release 4.0.0  
+vis-material new release 0.2.0  
+webcal new release 1.4.0  
+#### updates at stable repository 
+myuplink updated to 0.8.4  
+rainbird updated to 2.0.2  
 ## 2025-01-12
 #### updates at latest repository 
 admin new release 7.4.12  
