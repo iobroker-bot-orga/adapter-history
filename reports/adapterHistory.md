@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-01-14
+#### updates at latest repository 
+echarts new release 2.0.4  
+tapo new release 0.4.7  
+weather-warnings new release 0.7.2  
+#### updates at stable repository 
 ## 2025-01-13
 #### updates at latest repository 
 telegram new release 4.0.0  
