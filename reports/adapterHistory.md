@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-01-15
+#### updates at latest repository 
+bshb new release 0.4.1  
+cloudless-homeconnect new release 1.4.0  
+e3oncan new release 0.10.4  
+paperless-ngx new release 0.2.1  
+tibberlink new release 4.2.3  
+vis-homekittiles new release 0.4.0  
+zendure-solarflow new release 1.10.4  
+#### updates at stable repository 
+deconz updated to 1.6.4  
+heytech updated to 1.1.0  
+tibberlink updated to 4.2.1  
+voltoplus updated to 0.1.4  
 ## 2025-01-14
 #### updates at latest repository 
 echarts new release 2.0.4  
