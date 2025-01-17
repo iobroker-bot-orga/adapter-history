@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-01-16
+#### updates at latest repository 
+admin new release 7.4.14  
+cloudless-homeconnect new release 1.4.1  
+ecoflow-mqtt new release 1.2.0  
+janitza-gridvis new release 3.4.3  
+lorawan new release 1.6.2  
+parcel new release 0.2.10  
+weather-warnings new release 0.7.3  
+webui new release 1.22.0  
+zendure-solarflow new release 1.10.5  
+#### updates at stable repository 
+flexcharts updated to 0.3.0  
 ## 2025-01-15
 #### updates at latest repository 
 bshb new release 0.4.1  
