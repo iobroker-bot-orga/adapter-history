@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-01-17
+#### updates at latest repository 
+nissan new release 0.1.14  
+zendure-solarflow new release 1.10.6  
+#### updates at stable repository 
 ## 2025-01-16
 #### updates at latest repository 
 admin new release 7.4.14  
