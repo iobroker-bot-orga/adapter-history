@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-01-18
+#### updates at latest repository 
+contactid new release 2.0.0  
+espresense new release 0.4.7  
+#### updates at stable repository 
+sainlogic updated to 0.11.5  
+schoolfree updated to 1.1.7  
+solax updated to 0.9.14  
 ## 2025-01-17
 #### updates at latest repository 
 nissan new release 0.1.14  
