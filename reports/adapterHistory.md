@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-01-19
+#### updates at latest repository 
+accuweather new release 2.0.1  
+boschindego new release 1.3.9  
+ecoflow-mqtt new release 1.2.1  
+espresense new release 0.4.8  
+mihome-vacuum new release 5.1.0  
+#### updates at stable repository 
+kostal-piko-ba updated to 5.0.2  
+sun2000 updated to 0.18.1  
 ## 2025-01-18
 #### updates at latest repository 
 contactid new release 2.0.0  
