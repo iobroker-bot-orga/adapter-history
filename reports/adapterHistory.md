@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-01-20
+#### updates at latest repository 
+tvprogram new release 3.0.5  
+webui new release 1.24.4  
+#### updates at stable repository 
+feiertage updated to 1.2.1  
+gotify-ws updated to 0.1.11  
+remeha-home updated to 0.2.7  
+uv-protect updated to 0.6.5  
+zigbee2mqtt updated to 3.0.2  
 ## 2025-01-19
 #### updates at latest repository 
 accuweather new release 2.0.1  
