@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-01-21
+#### updates at latest repository 
+airquality new release 0.1.4  
+lorawan new release 1.6.3  
+rssfeed new release 3.3.0  
+shuttercontrol new release 1.8.7  
+zendure-solarflow new release 1.10.7  
+#### updates at stable repository 
 ## 2025-01-20
 #### updates at latest repository 
 tvprogram new release 3.0.5  
