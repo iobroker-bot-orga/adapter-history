@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2025-01-22
+#### updates at latest repository 
+accuweather new release 2.1.0  
+artnet-recorder new release 0.1.1  
+bring new release 1.9.1  
+javascript new release 8.9.0  
+lorawan new release 1.6.4  
+sainlogic new release 0.11.6  
+tvprogram new release 4.0.0  
+webui new release 1.25.0  
+#### updates at stable repository 
+mytime updated to 1.4.0  
+pegelalarm updated to 1.3.7  
+squeezeboxrpc updated to 1.5.2  
+tinker updated to 1.3.6  
 ## 2025-01-21
 #### updates at latest repository 
 airquality new release 0.1.4  
