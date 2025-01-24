@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-01-23
+#### updates at latest repository 
+admin new release 7.4.15  
+maxxi-charge new release 1.4.4  
+mihome-vacuum new release 5.2.0  
+rssfeed new release 3.3.1  
+sureflap new release 3.0.0  
+#### updates at stable repository 
+roborock updated to 0.6.18  
+viessmann updated to 1.5.4  
 ## 2025-01-22
 #### updates at latest repository 
 accuweather new release 2.1.0  
