@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-01-24
+#### updates at latest repository 
+admin new release 7.4.16  
+asterisk new release 2.0.0  
+maxxi-charge new release 1.4.5  
+openligadb new release 1.8.1  
+scenes new release 4.0.1  
+solax new release 0.9.15  
+vis-2 new release 2.11.2  
+#### updates at stable repository 
+e3oncan updated to 0.10.4  
+rpi2 updated to 2.3.1  
+weather-warnings updated to 0.7.3  
 ## 2025-01-23
 #### updates at latest repository 
 admin new release 7.4.15  
