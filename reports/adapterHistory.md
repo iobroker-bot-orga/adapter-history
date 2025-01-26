@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-01-25
+#### updates at latest repository 
+admin new release 7.4.17  
+mqtt-client new release 3.0.0  
+vis-2-widgets-collection new release 1.0.3  
+webui new release 1.25.1  
+#### updates at stable repository 
+espresense updated to 0.4.8  
+knx updated to 2.0.30  
 ## 2025-01-24
 #### updates at latest repository 
 admin new release 7.4.16  
