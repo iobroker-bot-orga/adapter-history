@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-01-26
+#### updates at latest repository 
+admin new release 7.4.18  
+asterisk new release 2.0.1  
+lorawan new release 1.6.5  
+matter new release 0.4.9  
+proxmox new release 2.3.1  
+teslafi new release 1.1.0  
+vis-2-widgets-collection new release 1.1.6  
+#### updates at stable repository 
+contactid updated to 2.0.0  
 ## 2025-01-25
 #### updates at latest repository 
 admin new release 7.4.17  
