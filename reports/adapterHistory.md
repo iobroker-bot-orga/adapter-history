@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-01-27
+#### updates at latest repository 
+admin new release 7.4.19  
+awtrix-light new release 1.6.0  
+hmip new release 1.26.5  
+javascript new release 8.9.1  
+maxxi-charge new release 1.4.6  
+senec new release 1.6.16  
+shuttercontrol new release 1.8.8  
+synochat new release 1.3.3  
+wmswebcontrol new release 0.1.4  
+#### updates at stable repository 
+acme updated to 1.0.6  
+lgtv updated to 2.4.0  
 ## 2025-01-26
 #### updates at latest repository 
 admin new release 7.4.18  
