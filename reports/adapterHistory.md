@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-01-28
+#### updates at latest repository 
+dreame new release 0.2.2  
+ebus new release 3.5.0  
+lorawan new release 1.6.6  
+matter new release 0.4.11  
+maxxi-charge new release 1.4.8  
+proxmox new release 2.4.0  
+tagesschau new release 0.5.0  
+#### updates at stable repository 
+paperless-ngx updated to 0.2.1  
+sainlogic updated to 0.11.6  
+vis-material updated to 0.2.0  
 ## 2025-01-27
 #### updates at latest repository 
 admin new release 7.4.19  
