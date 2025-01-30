@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-01-29
+#### updates at latest repository 
+bmw new release 2.9.3  
+espresense new release 0.5.0  
+senec new release 1.6.17  
+sia new release 2.0.1  
+sureflap new release 3.0.1  
+vis-2-widgets-collection new release 1.1.9  
+wifilight new release 2.0.3  
+#### updates at stable repository 
+telegram updated to 4.0.0  
 ## 2025-01-28
 #### updates at latest repository 
 dreame new release 0.2.2  
