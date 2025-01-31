@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-01-30
+#### updates at latest repository 
+myvbus new release 0.5.0  
+vbus-gw new release 0.2.0  
+#### updates at stable repository 
 ## 2025-01-29
 #### updates at latest repository 
 bmw new release 2.9.3  
