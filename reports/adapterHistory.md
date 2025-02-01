@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-01-31
+#### updates at latest repository 
+sia new release 2.0.2  
+vis-2-widgets-collection new release 1.1.10  
+#### updates at stable repository 
 ## 2025-01-30
 #### updates at latest repository 
 myvbus new release 0.5.0  
