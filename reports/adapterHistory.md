@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2025-02-01
+#### updates at latest repository 
+ai-assistant new release 0.1.3  
+ai-toolbox new release 0.1.3  
+enocean new release 0.9.4  
+matter new release 0.4.13  
+netatmo-energy new release 2.8.0  
+oxxify-fan-control new release 0.0.4  
+sma-em new release 1.2.0  
+teslafi new release 1.1.1  
+vis-2-widgets-collection new release 1.1.11  
+#### updates at stable repository 
+bshb updated to 0.4.1  
+rct updated to 1.2.17  
+teslafi updated to 1.1.0  
 ## 2025-01-31
 #### updates at latest repository 
 sia new release 2.0.2  
