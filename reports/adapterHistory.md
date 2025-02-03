@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-02-02
+#### updates at latest repository 
+asterisk new release 2.0.2  
+contactid new release 2.0.1  
+ebus new release 3.5.1  
+echarts new release 2.0.5  
+ecoflow-mqtt new release 1.2.2  
+flexcharts new release 0.3.1  
+frontier_silicon new release 0.4.0  
+hue new release 3.14.1  
+lupusec new release 2.0.5  
+sia new release 2.0.3  
+#### updates at stable repository 
 ## 2025-02-01
 #### updates at latest repository 
 ai-assistant new release 0.1.3  
