@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-02-03
+#### updates at latest repository 
+echarts new release 2.0.6  
+vis-2-widgets-collection new release 1.1.12  
+zigbee2mqtt new release 3.0.3  
+#### updates at stable repository 
+janitza-gridvis updated to 3.4.3  
 ## 2025-02-02
 #### updates at latest repository 
 asterisk new release 2.0.2  
