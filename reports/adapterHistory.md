@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-02-04
+#### updates at latest repository 
+bshb new release 0.4.2  
+net-tools new release 1.1.0  
+tapo new release 0.4.8  
+vis-2-widgets-collection new release 1.1.13  
+weather-warnings new release 0.7.4  
+#### updates at stable repository 
+senec updated to 1.6.17  
 ## 2025-02-03
 #### updates at latest repository 
 echarts new release 2.0.6  
