@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-02-05
+#### updates at latest repository 
+vis-2-widgets-collection new release 1.1.15  
+#### updates at stable repository 
+accuweather updated to 2.1.0  
 ## 2025-02-04
 #### updates at latest repository 
 bshb new release 0.4.2  
