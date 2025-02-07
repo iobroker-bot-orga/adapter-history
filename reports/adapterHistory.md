@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-02-06
+#### updates at latest repository 
+espresense new release 0.6.3  
+smoothed new release 1.2.2  
+solarmanpv new release 0.6.4  
+vis-2-widgets-collection new release 1.1.17  
+webui new release 1.25.2  
+xbox new release 1.1.2  
+#### updates at stable repository 
 ## 2025-02-05
 #### updates at latest repository 
 vis-2-widgets-collection new release 1.1.15  
