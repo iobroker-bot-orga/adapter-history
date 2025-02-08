@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-02-07
+#### updates at latest repository 
+admin new release 7.4.21  
+bshb new release 0.5.0  
+deyeidc new release 0.2.0  
+mercedesme new release 0.3.6  
+rpi2 new release 2.3.2  
+sainlogic new release 0.12.1  
+sia new release 2.0.4  
+#### updates at stable repository 
+tvprogram updated to 4.0.0  
 ## 2025-02-06
 #### updates at latest repository 
 espresense new release 0.6.3  
