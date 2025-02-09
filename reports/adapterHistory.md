@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-02-08
+#### updates at latest repository 
+fenecon new release 0.6.0  
+maxxi-charge new release 1.4.9  
+reolink new release 1.2.0  
+vis-homekittiles new release 0.4.1  
+ws new release 3.0.0  
+#### updates at stable repository 
+bshb updated to 0.5.0  
+contactid updated to 2.0.1  
+lupusec updated to 2.0.5  
+vis-homekittiles updated to 0.4.0  
 ## 2025-02-07
 #### updates at latest repository 
 admin new release 7.4.21  
