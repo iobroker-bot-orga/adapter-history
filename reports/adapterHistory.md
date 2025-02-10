@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-02-09
+#### updates at latest repository 
+ble new release 0.14.1  
+hoover new release 0.1.4  
+matter new release 0.4.14  
+reolink new release 1.2.1  
+roborock new release 0.6.19  
+socketio new release 7.0.0  
+vis-2-widgets-collection new release 1.1.19  
+vis-homekittiles new release 0.4.2  
+ws new release 3.0.1  
+#### updates at stable repository 
 ## 2025-02-08
 #### updates at latest repository 
 fenecon new release 0.6.0  
