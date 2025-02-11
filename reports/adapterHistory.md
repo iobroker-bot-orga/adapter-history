@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-02-10
+#### updates at latest repository 
+flexcharts new release 0.3.2  
+philips-air new release 1.2.0  
+sun2000 new release 1.0.0  
+tibberlink new release 4.3.0  
+vivitek new release 0.1.0  
+#### updates at stable repository 
+alarm updated to 3.6.8  
+artnet-recorder updated to 0.1.1  
+openligadb updated to 1.8.1  
+rssfeed updated to 3.3.1  
+telegram-menu updated to 2.2.1  
+tibberlink updated to 4.2.3  
 ## 2025-02-09
 #### updates at latest repository 
 ble new release 0.14.1  
