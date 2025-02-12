@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-02-11
+#### updates at latest repository 
+fenecon new release 0.6.1  
+lupusec new release 2.0.6  
+shelly new release 9.0.0  
+ws new release 3.0.4  
+zendure-solarflow new release 1.11.0  
+#### updates at stable repository 
 ## 2025-02-10
 #### updates at latest repository 
 flexcharts new release 0.3.2  
