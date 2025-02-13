@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-02-12
+#### updates at latest repository 
+fenecon new release 0.6.2  
+mercedesme new release 0.3.7  
+schedule-switcher new release 0.0.10  
+smartthings new release 0.2.2  
+socketio new release 7.0.1  
+ws new release 3.0.5  
+#### updates at stable repository 
+asterisk updated to 2.0.2  
+synochat updated to 1.3.3  
 ## 2025-02-11
 #### updates at latest repository 
 fenecon new release 0.6.1  
