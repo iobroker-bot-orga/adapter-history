@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-02-13
+#### updates at latest repository 
+cloudless-homeconnect new release 1.4.2  
+#### updates at stable repository 
 ## 2025-02-12
 #### updates at latest repository 
 fenecon new release 0.6.2  
