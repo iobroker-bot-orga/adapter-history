@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-02-14
+#### updates at latest repository 
+blebox new release 2.2.3  
+cloudflare new release 1.2.4  
+dysonairpurifier new release 3.2.7  
+mielecloudservice new release 6.5.8  
+playstation new release 0.0.2  
+#### updates at stable repository 
+sureflap updated to 3.0.1  
 ## 2025-02-13
 #### updates at latest repository 
 cloudless-homeconnect new release 1.4.2  
