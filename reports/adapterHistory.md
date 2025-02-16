@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-02-15
+#### updates at latest repository 
+controme new release 0.5.4  
+fb-checkpresence new release 1.3.0  
+myvbus new release 0.5.1  
+playstation new release 0.0.3  
+vis-homekittiles new release 0.4.5  
+wireguard new release 1.8.0  
+#### updates at stable repository 
 ## 2025-02-14
 #### updates at latest repository 
 blebox new release 2.2.3  
