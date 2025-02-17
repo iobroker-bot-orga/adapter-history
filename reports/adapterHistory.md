@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2025-02-16
+#### updates at latest repository 
+chargemaster new release 0.12.8  
+fullybrowser new release 3.1.0  
+mediola-gateway new release 1.2.0  
+vds2465-server new release 1.0.1  
+wireless-mbus new release 0.10.0  
+#### updates at stable repository 
+flexcharts updated to 0.3.2  
+frontier_silicon updated to 0.4.0  
+fullybrowser updated to 3.0.13  
+maxxi-charge updated to 1.4.9  
+sma-em updated to 1.2.0  
+tagesschau updated to 0.5.0  
+teslafi updated to 1.1.1  
 ## 2025-02-15
 #### updates at latest repository 
 controme new release 0.5.4  
