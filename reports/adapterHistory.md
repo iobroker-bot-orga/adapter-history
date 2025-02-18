@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-02-17
+#### updates at latest repository 
+vis-2-widgets-collection new release 1.2.0  
+x-touch new release 0.7.0  
+#### updates at stable repository 
+proxmox updated to 2.4.0  
 ## 2025-02-16
 #### updates at latest repository 
 chargemaster new release 0.12.8  
