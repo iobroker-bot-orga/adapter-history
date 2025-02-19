@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-02-18
+#### updates at latest repository 
+fritzdect new release 2.5.13  
+lowpass-filter new release 2.5.0  
+#### updates at stable repository 
+boschindego updated to 1.3.9  
+ecoflow-mqtt updated to 1.2.2  
+wifilight updated to 2.0.3  
 ## 2025-02-17
 #### updates at latest repository 
 vis-2-widgets-collection new release 1.2.0  
