@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-02-19
+#### updates at latest repository 
+cloudless-homeconnect new release 1.4.3  
+e3oncan new release 0.10.6  
+lorawan new release 1.7.0  
+rssfeed new release 3.4.1  
+vis-2-widgets-rssfeed new release 1.0.0  
+#### updates at stable repository 
 ## 2025-02-18
 #### updates at latest repository 
 fritzdect new release 2.5.13  
