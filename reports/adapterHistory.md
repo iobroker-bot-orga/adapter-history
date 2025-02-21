@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-02-20
+#### updates at latest repository 
+controme new release 0.5.5  
+fritzdect new release 2.6.0  
+fullybrowser new release 3.1.1  
+#### updates at stable repository 
+air-q updated to 1.0.5  
+zendure-solarflow updated to 1.11.0  
 ## 2025-02-19
 #### updates at latest repository 
 cloudless-homeconnect new release 1.4.3  
