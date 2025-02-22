@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-02-21
+#### updates at latest repository 
+apcups new release 4.0.3  
+controme new release 0.5.6  
+gree-hvac new release 1.1.3  
+vis-2-widgets-collection new release 1.3.0  
+#### updates at stable repository 
 ## 2025-02-20
 #### updates at latest repository 
 controme new release 0.5.5  
