@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-02-22
+#### updates at latest repository 
+bidirectional-counter new release 2.4.0  
+drag-indicator new release 2.4.0  
+janitza-gridvis new release 3.5.0  
+operating-hours new release 1.3.0  
+paperless-ngx new release 0.3.0  
+smoothed new release 1.3.0  
+ws new release 3.0.7  
+zigbee new release 2.0.0  
+#### updates at stable repository 
+mihome-vacuum updated to 5.2.0  
+shuttercontrol updated to 1.8.8  
 ## 2025-02-21
 #### updates at latest repository 
 apcups new release 4.0.3  
