@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2025-02-23
+#### updates at latest repository 
+chargemaster new release 0.13.0  
+controme new release 0.5.7  
+egigeozone2 new release 1.0.8  
+gotify-ws new release 0.1.12  
+kostal-piko-ba new release 5.0.3  
+lupusec new release 2.0.7  
+nissan new release 0.1.15  
+pegelalarm new release 1.3.8  
+remeha-home new release 0.2.8  
+schoolfree new release 1.1.8  
+solax new release 0.9.16  
+teslafi new release 1.2.0  
+tinker new release 1.3.7  
+uv-protect new release 0.6.6  
+ws new release 3.0.8  
+#### updates at stable repository 
+cloudflare updated to 1.2.4  
+myvbus updated to 0.5.1  
 ## 2025-02-22
 #### updates at latest repository 
 bidirectional-counter new release 2.4.0  
