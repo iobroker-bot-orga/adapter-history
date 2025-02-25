@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-02-24
+#### updates at latest repository 
+bayernluft new release 3.0.0  
+cloudless-homeconnect new release 1.5.0  
+emporia new release 0.0.13  
+huum-sauna new release 0.5.0  
+tibberlink new release 4.3.1  
+valloxmv new release 1.3.0  
+#### updates at stable repository 
+mqtt-client updated to 3.0.0  
+tibberlink updated to 4.3.0  
 ## 2025-02-23
 #### updates at latest repository 
 chargemaster new release 0.13.0  
