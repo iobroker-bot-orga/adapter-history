@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2025-02-25
+#### updates at latest repository 
+apcups new release 4.0.4  
+artnet-recorder new release 0.1.3  
+backitup new release 3.0.32  
+emporia new release 0.1.0  
+gree-hvac new release 1.1.4  
+iot new release 3.5.0  
+matter new release 0.4.15  
+rct new release 1.2.18  
+valloxmv new release 1.4.0  
+vivitek new release 0.1.1  
+vw-connect new release 0.7.0  
+ws new release 3.0.9  
+x-touch new release 0.7.1  
+#### updates at stable repository 
+vis-2-widgets-weather-and-heating updated to 0.9.1  
 ## 2025-02-24
 #### updates at latest repository 
 bayernluft new release 3.0.0  
