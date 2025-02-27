@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-02-26
+#### updates at latest repository 
+backitup new release 3.0.33  
+bmw new release 2.9.4  
+e3oncan new release 0.10.7  
+mielecloudservice new release 6.5.9  
+vw-connect new release 0.7.3  
+ws new release 3.0.10  
+yeelight-2 new release 1.5.1  
+zigbee new release 2.0.1  
+#### updates at stable repository 
 ## 2025-02-25
 #### updates at latest repository 
 apcups new release 4.0.4  
