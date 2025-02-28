@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2025-02-27
+#### updates at latest repository 
+amtronwallbox new release 0.3.1  
+backitup new release 3.0.36  
+cloudless-homeconnect new release 1.6.0  
+daswetter new release 3.2.3  
+ebus new release 3.5.2  
+pvoutputorg new release 1.9.1  
+sbfspot new release 4.4.2  
+shelly new release 9.1.0  
+socketio new release 7.0.2  
+solarviewdatareader new release 1.2.1  
+vis-2-widgets-collection new release 1.4.0  
+ws new release 3.0.13  
+#### updates at stable repository 
+reolink updated to 1.2.1  
 ## 2025-02-26
 #### updates at latest repository 
 backitup new release 3.0.33  
