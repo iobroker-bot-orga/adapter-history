@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-02-28
+#### updates at latest repository 
+heatingcontrol new release 2.12.14  
+socketio new release 7.0.6  
+vis-weather new release 2.5.11  
+vw-connect new release 0.7.6  
+ws new release 3.0.17  
+#### updates at stable repository 
+hmip updated to 1.26.5  
+hue updated to 3.14.1  
+philips-air updated to 1.2.0  
+schedule-switcher updated to 0.0.10  
+webui updated to 1.25.2  
 ## 2025-02-27
 #### updates at latest repository 
 amtronwallbox new release 0.3.1  
