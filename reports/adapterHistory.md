@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-03-01
+#### updates at latest repository 
+apcups new release 4.0.5  
+backitup new release 3.0.37  
+e3dc-rscp new release 1.4.0  
+gree-hvac new release 1.1.5  
+yeelight-2 new release 1.5.2  
+#### updates at stable repository 
 ## 2025-02-28
 #### updates at latest repository 
 heatingcontrol new release 2.12.14  
