@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-03-02
+#### updates at latest repository 
+admin new release 7.5.0  
+e3dc-rscp new release 1.4.1  
+kostal-piko-ba new release 5.1.0  
+sun2000 new release 1.0.1  
+tibberlink new release 4.4.0  
+vw-connect new release 0.7.7  
+zigbee new release 2.0.2  
+#### updates at stable repository 
 ## 2025-03-01
 #### updates at latest repository 
 apcups new release 4.0.5  
