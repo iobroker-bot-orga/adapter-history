@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2025-03-03
+#### updates at latest repository 
+admin new release 7.5.1  
+backitup new release 3.1.0  
+doorbird new release 3.0.0  
+fb-checkpresence new release 1.3.1  
+garmin new release 0.2.1  
+logparser new release 2.3.0  
+paperless-ngx new release 0.4.0  
+remeha-home new release 1.0.0  
+socketio new release 7.0.7  
+vis-2-widgets-collection new release 1.5.1  
+vis-2-widgets-weather-and-heating new release 0.10.0  
+ws new release 3.0.18  
+#### updates at stable repository 
+airquality updated to 0.1.4  
+deyeidc updated to 0.2.0  
+e3oncan updated to 0.10.7  
+solarmanpv updated to 0.6.4  
 ## 2025-03-02
 #### updates at latest repository 
 admin new release 7.5.0  
