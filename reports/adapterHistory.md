@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-03-04
+#### updates at latest repository 
+paperless-ngx new release 0.4.1  
+web new release 7.0.3  
+webui new release 1.26.0  
+#### updates at stable repository 
 ## 2025-03-03
 #### updates at latest repository 
 admin new release 7.5.1  
