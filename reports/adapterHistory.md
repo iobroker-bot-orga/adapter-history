@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-03-05
+#### updates at latest repository 
+admin new release 7.5.2  
+ankersolix2 new release 1.1.0  
+fyta new release 0.1.4  
+remeha-home new release 1.0.1  
+seplos-v3-sniffer new release 0.1.1  
+socketio new release 7.0.8  
+tibberlink new release 4.5.0  
+vis-homekittiles new release 0.4.6  
+web new release 7.0.4  
+ws new release 3.0.19  
+#### updates at stable repository 
+lorawan updated to 1.7.0  
 ## 2025-03-04
 #### updates at latest repository 
 paperless-ngx new release 0.4.1  
