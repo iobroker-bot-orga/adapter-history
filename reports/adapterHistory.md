@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-03-06
+#### updates at latest repository 
+birthdays new release 4.0.0  
+chargemaster new release 0.13.1  
+kostal-piko-ba new release 5.1.1  
+lightcontrol new release 2.0.0  
+lovelace new release 4.1.13  
+rpi2 new release 2.4.0  
+teslafi new release 1.2.1  
+vis-2-widgets-collection new release 1.5.2  
+#### updates at stable repository 
 ## 2025-03-05
 #### updates at latest repository 
 admin new release 7.5.2  
