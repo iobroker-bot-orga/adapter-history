@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-03-07
+#### updates at latest repository 
+apg-info new release 0.1.12  
+hue new release 3.16.1  
+remeha-home new release 1.0.2  
+zigbee new release 2.0.3  
+#### updates at stable repository 
+lovelace updated to 4.1.11  
 ## 2025-03-06
 #### updates at latest repository 
 birthdays new release 4.0.0  
