@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-03-08
+#### updates at latest repository 
+admin new release 7.6.1  
+e3oncan new release 0.10.8  
+remeha-home new release 1.0.4  
+#### updates at stable repository 
 ## 2025-03-07
 #### updates at latest repository 
 apg-info new release 0.1.12  
