@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-03-09
+#### updates at latest repository 
+ankersolix2 new release 2.0.0  
+tado new release 0.7.1  
+#### updates at stable repository 
+apcups updated to 4.0.5  
+gree-hvac updated to 1.1.5  
+lupusec updated to 2.0.7  
+sia updated to 2.0.4  
+vis-2-widgets-rssfeed updated to 1.0.0  
 ## 2025-03-08
 #### updates at latest repository 
 admin new release 7.6.1  
