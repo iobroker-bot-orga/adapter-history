@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-03-10
+#### updates at latest repository 
+admin new release 7.6.2  
+bluesound new release 1.1.5  
+lovelace new release 4.1.14  
+simple-api new release 3.0.0  
+vis-2-widgets-rssfeed new release 1.0.1  
+web new release 7.0.6  
+zigbee new release 2.0.4  
+#### updates at stable repository 
 ## 2025-03-09
 #### updates at latest repository 
 ankersolix2 new release 2.0.0  
