@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-03-11
+#### updates at latest repository 
+jablotron new release 0.1.6  
+kecontact new release 3.0.0  
+lovelace new release 4.1.15  
+#### updates at stable repository 
+tado updated to 0.7.1  
 ## 2025-03-10
 #### updates at latest repository 
 admin new release 7.6.2  
