@@ -1,5 +1,30 @@
 # Adapter publishing report
 
+## 2025-03-12
+#### updates at latest repository 
+apg-info new release 0.1.13  
+email new release 2.0.0  
+evcc new release 0.2.0  
+followthesun new release 0.5.2  
+fronius-solarweb new release 0.1.1  
+fuelpricemonitor new release 0.4.2  
+tado new release 0.7.2  
+teslafi new release 1.2.2  
+#### updates at stable repository 
+artnet-recorder updated to 0.1.3  
+bidirectional-counter updated to 2.4.0  
+drag-indicator updated to 2.4.0  
+e3dc-rscp updated to 1.4.1  
+gotify-ws updated to 0.1.12  
+janitza-gridvis updated to 3.5.0  
+lowpass-filter updated to 2.5.0  
+operating-hours updated to 1.3.0  
+paperless-ngx updated to 0.4.1  
+schoolfree updated to 1.1.8  
+smoothed updated to 1.3.0  
+uv-protect updated to 0.6.6  
+vivitek updated to 0.1.1  
+x-touch updated to 0.7.1  
 ## 2025-03-11
 #### updates at latest repository 
 jablotron new release 0.1.6  
