@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-03-13
+#### updates at latest repository 
+shelly new release 9.2.0  
+#### updates at stable repository 
 ## 2025-03-12
 #### updates at latest repository 
 apg-info new release 0.1.13  
