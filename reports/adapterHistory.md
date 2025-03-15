@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-03-14
+#### updates at latest repository 
+net-tools new release 1.1.1  
+simple-api new release 3.0.5  
+vis-2-widgets-collection new release 1.6.0  
+#### updates at stable repository 
 ## 2025-03-13
 #### updates at latest repository 
 shelly new release 9.2.0  
