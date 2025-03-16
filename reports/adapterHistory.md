@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-03-15
+#### updates at latest repository 
+email new release 2.0.2  
+kecontact new release 3.0.1  
+schoolfree new release 1.1.9  
+vis-2-widgets-collection new release 1.6.1  
+#### updates at stable repository 
+rct updated to 1.2.18  
 ## 2025-03-14
 #### updates at latest repository 
 net-tools new release 1.1.1  
