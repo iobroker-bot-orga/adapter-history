@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-03-16
+#### updates at latest repository 
+janitza-gridvis new release 3.5.2  
+simple-api new release 3.0.6  
+sprinklecontrol new release 0.2.14  
+web new release 7.0.7  
+youtube new release 6.0.0  
+#### updates at stable repository 
+tado updated to 0.7.2  
 ## 2025-03-15
 #### updates at latest repository 
 email new release 2.0.2  
