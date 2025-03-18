@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-03-17
+#### updates at latest repository 
+maxxi-charge new release 1.4.10  
+tado new release 0.7.3  
+#### updates at stable repository 
+e3oncan updated to 0.10.8  
+vis-homekittiles updated to 0.4.6  
+yeelight-2 updated to 1.5.2  
 ## 2025-03-16
 #### updates at latest repository 
 janitza-gridvis new release 3.5.2  
