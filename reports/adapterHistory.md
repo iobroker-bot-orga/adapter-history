@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-03-18
+#### updates at latest repository 
+admin new release 7.6.3  
+maxxi-charge new release 1.4.11  
+zendure-solarflow new release 1.12.1  
+#### updates at stable repository 
+fb-checkpresence updated to 1.3.1  
+logparser updated to 2.3.0  
+oxxify-fan-control updated to 0.0.4  
+solarviewdatareader updated to 1.2.1  
 ## 2025-03-17
 #### updates at latest repository 
 maxxi-charge new release 1.4.10  
