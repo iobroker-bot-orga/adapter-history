@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-03-19
+#### updates at latest repository 
+rssfeed new release 3.5.0  
+vis-2-widgets-collection new release 1.7.0  
+web new release 7.0.8  
+zendure-solarflow new release 1.12.4  
+#### updates at stable repository 
 ## 2025-03-18
 #### updates at latest repository 
 admin new release 7.6.3  
