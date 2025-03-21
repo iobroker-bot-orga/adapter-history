@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-03-20
+#### updates at latest repository 
+sun2000 new release 1.1.0  
+telegram new release 4.1.0  
+vis-2-widgets-rssfeed new release 1.1.2  
+vw-connect new release 0.7.9  
+#### updates at stable repository 
 ## 2025-03-19
 #### updates at latest repository 
 rssfeed new release 3.5.0  
