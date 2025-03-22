@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-03-21
+#### updates at latest repository 
+e3dc-rscp new release 1.4.2  
+kecontact new release 3.1.0  
+rssfeed new release 3.5.2  
+telegram-menu new release 2.2.2  
+vis-2-widgets-collection new release 1.7.1  
+vis-2-widgets-ovarious new release 1.0.0  
+zendure-solarflow new release 1.12.6  
+#### updates at stable repository 
+teslafi updated to 1.2.2  
+wireless-mbus updated to 0.10.0  
 ## 2025-03-20
 #### updates at latest repository 
 sun2000 new release 1.1.0  
