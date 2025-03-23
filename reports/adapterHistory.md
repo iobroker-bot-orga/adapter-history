@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2025-03-22
+#### updates at latest repository 
+chargemaster new release 0.13.2  
+kostal-piko-ba new release 5.1.2  
+oxxify-fan-control new release 0.0.5  
+vis-2-widgets-collection new release 1.7.3  
+#### updates at stable repository 
+amtronwallbox updated to 0.3.1  
+apg-info updated to 0.1.13  
+daswetter updated to 3.2.3  
+ebus updated to 3.5.2  
+followthesun updated to 0.5.2  
+fuelpricemonitor updated to 0.4.2  
+heatingcontrol updated to 2.12.14  
+pvoutputorg updated to 1.9.1  
+sbfspot updated to 4.4.2  
+solax updated to 0.9.16  
+vis-2-widgets-weather-and-heating updated to 0.10.0  
+vis-weather updated to 2.5.11  
 ## 2025-03-21
 #### updates at latest repository 
 e3dc-rscp new release 1.4.2  
