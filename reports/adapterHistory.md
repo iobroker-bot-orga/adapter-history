@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-03-23
+#### updates at latest repository 
+bosch-ebike new release 0.1.12  
+vis-2-widgets-collection new release 1.7.5  
+#### updates at stable repository 
+seplos-v3-sniffer updated to 0.1.1  
 ## 2025-03-22
 #### updates at latest repository 
 chargemaster new release 0.13.2  
