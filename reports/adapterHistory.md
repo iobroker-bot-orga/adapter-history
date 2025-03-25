@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2025-03-24
+#### updates at latest repository 
+flexcharts new release 0.4.0  
+fyta new release 0.1.5  
+node-red new release 6.0.7  
+parser new release 2.3.1  
+shuttercontrol new release 2.0.0  
+tado new release 0.7.4  
+tibberlink new release 4.5.1  
+zendure-solarflow new release 1.12.7  
+#### updates at stable repository 
+admin updated to 7.6.3  
+bluesound updated to 1.1.5  
+remeha-home updated to 1.0.4  
+web updated to 7.0.8  
 ## 2025-03-23
 #### updates at latest repository 
 bosch-ebike new release 0.1.12  
