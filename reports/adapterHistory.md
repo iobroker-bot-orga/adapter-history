@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-03-25
+#### updates at latest repository 
+email new release 2.0.3  
+hmip new release 1.27.0  
+lcn new release 3.0.1  
+shuttercontrol new release 2.0.1  
+signifylights new release 0.4.3  
+zigbee new release 2.0.5  
+#### updates at stable repository 
+egigeozone2 updated to 1.0.8  
 ## 2025-03-24
 #### updates at latest repository 
 flexcharts new release 0.4.0  
