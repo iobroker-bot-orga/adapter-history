@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-03-26
+#### updates at latest repository 
+#### updates at stable repository 
+jablotron updated to 0.1.6  
+tinker updated to 1.3.7  
 ## 2025-03-25
 #### updates at latest repository 
 email new release 2.0.3  
