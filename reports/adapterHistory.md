@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-03-27
+#### updates at latest repository 
+sureflap new release 3.1.0  
+#### updates at stable repository 
 ## 2025-03-26
 #### updates at latest repository 
 #### updates at stable repository 
