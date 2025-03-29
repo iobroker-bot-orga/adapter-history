@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-03-28
+#### updates at latest repository 
+batrium-bms new release 0.6.0  
+ecoflow-mqtt new release 1.3.0  
+fritzdect new release 2.6.1  
+govee-local new release 0.2.8  
+maxxi-charge new release 1.4.24  
+#### updates at stable repository 
 ## 2025-03-27
 #### updates at latest repository 
 sureflap new release 3.1.0  
