@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-03-29
+#### updates at latest repository 
+maxxi-charge new release 1.4.30  
+web new release 7.0.9  
+#### updates at stable repository 
+bayernluft updated to 3.0.0  
+kecontact updated to 3.1.0  
 ## 2025-03-28
 #### updates at latest repository 
 batrium-bms new release 0.6.0  
