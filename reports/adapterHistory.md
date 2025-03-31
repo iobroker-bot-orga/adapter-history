@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-03-30
+#### updates at latest repository 
+apg-info new release 0.1.14  
+asterisk new release 2.0.3  
+dnscope new release 0.2.0  
+maxxi-charge new release 1.4.31  
+mhi-wfrac new release 2.1.1  
+teslafi new release 1.3.0  
+vis-2-widgets-weather-and-heating new release 0.10.1  
+webui new release 1.27.1  
+#### updates at stable repository 
+e3dc-rscp updated to 1.4.2  
+tibberlink updated to 4.5.1  
 ## 2025-03-29
 #### updates at latest repository 
 maxxi-charge new release 1.4.30  
