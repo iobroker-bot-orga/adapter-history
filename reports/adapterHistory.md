@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-03-31
+#### updates at latest repository 
+cloudflare new release 1.2.6  
+mhi-wfrac new release 2.1.2  
+tado new release 0.7.5  
+teslafi new release 1.4.0  
+#### updates at stable repository 
 ## 2025-03-30
 #### updates at latest repository 
 apg-info new release 0.1.14  
