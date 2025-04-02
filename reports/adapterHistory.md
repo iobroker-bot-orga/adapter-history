@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-04-01
+#### updates at latest repository 
+hs100 new release 3.0.2  
+refoss new release 0.1.10  
+viessmannapi new release 2.4.1  
+vis-2-widgets-collection new release 1.7.7  
+vis-2-widgets-inventwo new release 0.1.12  
+vis-inventwo new release 3.3.5  
+#### updates at stable repository 
+lovelace updated to 4.1.15  
 ## 2025-03-31
 #### updates at latest repository 
 cloudflare new release 1.2.6  
