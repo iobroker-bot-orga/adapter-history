@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-04-02
+#### updates at latest repository 
+admin new release 7.6.4  
+hs100 new release 3.0.3  
+rct new release 1.2.19  
+sun2000 new release 1.2.2  
+trivum new release 0.0.4  
+vis-material-webfont new release 0.0.2  
+vis-materialdesign new release 0.5.94  
+vis-plumb new release 1.0.3  
+vr200 new release 1.1.0  
+welcome new release 1.1.0  
+wolf-smartset new release 2.0.0  
+#### updates at stable repository 
 ## 2025-04-01
 #### updates at latest repository 
 hs100 new release 3.0.2  
