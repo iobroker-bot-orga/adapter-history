@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-04-03
+#### updates at latest repository 
+mielecloudservice new release 6.5.10  
+sun2000 new release 1.3.0  
+tado new release 0.7.6  
+#### updates at stable repository 
+controme updated to 0.5.7  
 ## 2025-04-02
 #### updates at latest repository 
 admin new release 7.6.4  
