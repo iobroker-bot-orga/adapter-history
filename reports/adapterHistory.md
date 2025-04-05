@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-04-04
+#### updates at latest repository 
+hs100 new release 3.0.4  
+smoothed new release 1.4.0  
+tinyrx4 new release 1.0.1  
+vedirect new release 0.3.3  
+vis-players new release 0.2.0  
+#### updates at stable repository 
 ## 2025-04-03
 #### updates at latest repository 
 mielecloudservice new release 6.5.10  
