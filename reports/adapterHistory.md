@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-04-05
+#### updates at latest repository 
+backitup new release 3.2.0  
+telegram-menu new release 2.2.3  
+vis-2-widgets-collection new release 1.7.9  
+vis-2-widgets-weather-and-heating new release 0.10.2  
+#### updates at stable repository 
+batrium-bms updated to 0.6.0  
+flexcharts updated to 0.4.0  
+telegram updated to 4.1.0  
+zendure-solarflow updated to 1.12.7  
 ## 2025-04-04
 #### updates at latest repository 
 hs100 new release 3.0.4  
