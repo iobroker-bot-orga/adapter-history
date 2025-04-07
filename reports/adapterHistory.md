@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-04-06
+#### updates at latest repository 
+alexa-timer-vis new release 2.0.9  
+ecoflow-mqtt new release 1.3.1  
+lorawan new release 1.8.0  
+maxxi-charge new release 1.4.32  
+shrdzm new release 0.2.0  
+vis-2-widgets-weather-and-heating new release 0.10.3  
+#### updates at stable repository 
+kostal-piko-ba updated to 5.1.2  
 ## 2025-04-05
 #### updates at latest repository 
 backitup new release 3.2.0  
