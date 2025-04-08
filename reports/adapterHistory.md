@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-04-07
+#### updates at latest repository 
+dnscope new release 0.2.1  
+lorawan new release 1.8.1  
+plenticore-g3 new release 0.1.0  
+skiinfo new release 0.4.0  
+#### updates at stable repository 
+zigbee updated to 2.0.5  
 ## 2025-04-06
 #### updates at latest repository 
 alexa-timer-vis new release 2.0.9  
