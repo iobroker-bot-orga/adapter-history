@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2025-04-08
+#### updates at latest repository 
+admin new release 7.6.5  
+awtrix-light new release 1.7.0  
+ecoflow-mqtt new release 1.3.2  
+lametric new release 4.0.0  
+plenticore-g3 new release 0.1.1  
+skiinfo new release 0.4.1  
+solax new release 0.9.17  
+soliscloud new release 1.4.3  
+sourceanalytix new release 0.4.15-alpha.1  
+sun2000 new release 1.4.0  
+tado new release 0.7.7  
+tronity new release 1.2.1  
+vis-2-widgets-weather-and-heating new release 0.10.4  
+worx new release 3.2.0  
+zigbee new release 3.0.0  
+#### updates at stable repository 
+pegelalarm updated to 1.3.8  
 ## 2025-04-07
 #### updates at latest repository 
 dnscope new release 0.2.1  
