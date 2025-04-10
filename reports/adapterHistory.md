@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-04-09
+#### updates at latest repository 
+energiefluss-erweitert new release 0.7.0  
+lg-thinq new release 1.1.0  
+#### updates at stable repository 
 ## 2025-04-08
 #### updates at latest repository 
 admin new release 7.6.5  
