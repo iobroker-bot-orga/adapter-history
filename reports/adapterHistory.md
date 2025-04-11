@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-04-10
+#### updates at latest repository 
+#### updates at stable repository 
+fyta updated to 0.1.5  
+hue updated to 3.16.1  
+rpi2 updated to 2.4.0  
+shelly updated to 9.2.0  
+teslafi updated to 1.4.0  
 ## 2025-04-09
 #### updates at latest repository 
 energiefluss-erweitert new release 0.7.0  
