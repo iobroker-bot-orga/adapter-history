@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-04-11
+#### updates at latest repository 
+lovelace new release 5.0.0  
+mhi-wfrac new release 2.1.3  
+paperless-ngx new release 0.4.4  
+tado new release 0.7.8  
+#### updates at stable repository 
+birthdays updated to 4.0.0  
+youtube updated to 6.0.0  
 ## 2025-04-10
 #### updates at latest repository 
 #### updates at stable repository 
