@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-04-12
+#### updates at latest repository 
+admin new release 7.6.6  
+hue new release 3.16.2  
+#### updates at stable repository 
 ## 2025-04-11
 #### updates at latest repository 
 lovelace new release 5.0.0  
