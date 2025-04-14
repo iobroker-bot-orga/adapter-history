@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-04-13
+#### updates at latest repository 
+telegram-menu new release 2.2.4  
+#### updates at stable repository 
 ## 2025-04-12
 #### updates at latest repository 
 admin new release 7.6.6  
