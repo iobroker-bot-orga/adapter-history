@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-04-14
+#### updates at latest repository 
+shelly new release 9.3.0  
+valloxmv new release 1.4.1  
+#### updates at stable repository 
+apg-info updated to 0.1.14  
+cloudflare updated to 1.2.6  
+email updated to 2.0.3  
+fritzdect updated to 2.6.1  
+maxxi-charge updated to 1.4.32  
+shuttercontrol updated to 2.0.1  
+sureflap updated to 3.1.0  
 ## 2025-04-13
 #### updates at latest repository 
 telegram-menu new release 2.2.4  
