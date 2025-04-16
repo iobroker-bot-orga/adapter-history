@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-04-15
+#### updates at latest repository 
+email new release 2.0.4  
+teslafi new release 1.5.0  
+#### updates at stable repository 
 ## 2025-04-14
 #### updates at latest repository 
 shelly new release 9.3.0  
