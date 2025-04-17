@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-04-16
+#### updates at latest repository 
+admin new release 7.6.7  
+lorawan new release 1.9.0  
+remeha-home new release 1.0.5  
+shelly new release 9.4.0  
+skiinfo new release 0.5.0  
+spotify-premium new release 1.5.3  
+statistics new release 4.0.0  
+tahoma new release 0.11.0  
+#### updates at stable repository 
 ## 2025-04-15
 #### updates at latest repository 
 email new release 2.0.4  
