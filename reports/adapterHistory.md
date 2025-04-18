@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2025-04-17
+#### updates at latest repository 
+ankersolix2 new release 2.1.0  
+apg-info new release 0.1.15  
+gotify-ws new release 0.1.13  
+js-controller new release 7.0.7  
+lorawan new release 1.10.1  
+shelly new release 9.4.1  
+sureflap new release 3.1.1  
+tado new release 0.7.9  
+yahka new release 1.1.0  
+#### updates at stable repository 
+asterisk updated to 2.0.3  
+fullybrowser updated to 3.1.1  
+judoisoft updated to 1.1.2  
+shrdzm updated to 0.2.0  
+tado updated to 0.7.8  
+valloxmv updated to 1.4.0  
 ## 2025-04-16
 #### updates at latest repository 
 admin new release 7.6.7  
