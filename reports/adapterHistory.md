@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-04-18
+#### updates at latest repository 
+comfoairq new release 0.5.1  
+oxxify-fan-control new release 0.0.6  
+#### updates at stable repository 
+ankersolix2 updated to 2.1.0  
+schoolfree updated to 1.1.9  
+webui updated to 1.27.1  
 ## 2025-04-17
 #### updates at latest repository 
 ankersolix2 new release 2.1.0  
