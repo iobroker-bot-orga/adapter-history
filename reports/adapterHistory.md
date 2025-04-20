@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-04-19
+#### updates at latest repository 
+admin new release 7.6.8  
+hiob new release 0.1.7  
+lupusec new release 2.0.8  
+tibberlink new release 4.5.2  
+wolf-smartset new release 2.0.1  
+#### updates at stable repository 
+doorbird updated to 3.0.0  
+sun2000 updated to 1.4.0  
 ## 2025-04-18
 #### updates at latest repository 
 comfoairq new release 0.5.1  
