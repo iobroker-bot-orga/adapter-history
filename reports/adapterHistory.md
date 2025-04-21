@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-04-20
+#### updates at latest repository 
+devices new release 1.2.0  
+#### updates at stable repository 
 ## 2025-04-19
 #### updates at latest repository 
 admin new release 7.6.8  
