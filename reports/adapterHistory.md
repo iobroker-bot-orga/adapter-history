@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-04-21
+#### updates at latest repository 
+net-tools new release 1.1.2  
+#### updates at stable repository 
 ## 2025-04-20
 #### updates at latest repository 
 devices new release 1.2.0  
