@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2025-04-22
+#### updates at latest repository 
+admin new release 7.6.13  
+cloudless-homeconnect new release 1.6.1  
+devices new release 1.2.1  
+energiefluss-erweitert new release 0.7.1  
+fahrplan new release 1.4.1  
+gotify-ws new release 0.2.0  
+signifylights new release 0.4.5  
+tinymqttbroker new release 0.1.4  
+yahka new release 1.1.1  
+#### updates at stable repository 
+dysonairpurifier updated to 3.2.7  
+rct updated to 1.2.19  
+smoothed updated to 1.4.0  
+tado updated to 0.7.9  
+vis-2-widgets-rssfeed updated to 1.1.2  
 ## 2025-04-21
 #### updates at latest repository 
 net-tools new release 1.1.2  
