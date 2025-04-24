@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-04-23
+#### updates at latest repository 
+admin new release 7.6.14  
+pvforecast new release 5.0.0  
+refoss new release 0.1.11  
+solarmanpv new release 0.7.0  
+#### updates at stable repository 
 ## 2025-04-22
 #### updates at latest repository 
 admin new release 7.6.13  
