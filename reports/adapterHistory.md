@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-04-24
+#### updates at latest repository 
+#### updates at stable repository 
+ecoflow-mqtt updated to 1.3.2  
+fahrplan updated to 1.4.1  
+govee-local updated to 0.2.8  
+huum-sauna updated to 0.5.0  
 ## 2025-04-23
 #### updates at latest repository 
 admin new release 7.6.14  
