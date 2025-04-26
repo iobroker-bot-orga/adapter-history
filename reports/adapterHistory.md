@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-04-25
+#### updates at latest repository 
+energiefluss-erweitert new release 0.7.2  
+netatmo-energy new release 2.8.1  
+solarmanpv new release 0.7.1  
+tado new release 0.7.10  
+#### updates at stable repository 
+hmip updated to 1.27.0  
+netatmo-energy updated to 2.8.0  
 ## 2025-04-24
 #### updates at latest repository 
 #### updates at stable repository 
