@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-04-26
+#### updates at latest repository 
+backitup new release 3.2.1  
+zigbee new release 3.0.1  
+#### updates at stable repository 
 ## 2025-04-25
 #### updates at latest repository 
 energiefluss-erweitert new release 0.7.2  
