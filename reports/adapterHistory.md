@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-04-27
+#### updates at latest repository 
+devices new release 1.2.3  
+mhi-wfrac new release 2.1.4  
+#### updates at stable repository 
+lg-thinq updated to 1.1.0  
+paperless-ngx updated to 0.4.4  
+teslafi updated to 1.5.0  
+vis-2-widgets-weather-and-heating updated to 0.10.4  
+worx updated to 3.2.0  
 ## 2025-04-26
 #### updates at latest repository 
 backitup new release 3.2.1  
