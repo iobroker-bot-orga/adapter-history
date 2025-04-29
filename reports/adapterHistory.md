@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-04-28
+#### updates at latest repository 
+devices new release 1.2.4  
+energiefluss-erweitert new release 0.7.3  
+fyta new release 0.2.0  
+javascript new release 8.9.2  
+rest-api new release 3.0.0  
+signifylights new release 1.0.0  
+#### updates at stable repository 
 ## 2025-04-27
 #### updates at latest repository 
 devices new release 1.2.3  
