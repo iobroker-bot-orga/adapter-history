@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2025-04-29
+#### updates at latest repository 
+admin new release 7.6.15  
+alexa-timer-vis new release 2.1.1  
+bluelink new release 3.1.2  
+devices new release 1.2.6  
+evcc new release 0.2.2  
+kisshome-research new release 1.2.7  
+mhi-wfrac new release 2.1.5  
+remeha-home new release 1.0.6  
+vis-2-widgets-jaeger-design new release 1.3.12  
+yahka new release 1.1.2  
+#### updates at stable repository 
+alexa-timer-vis updated to 2.0.9  
+kisshome-research updated to 1.2.7  
+rssfeed updated to 3.5.2  
 ## 2025-04-28
 #### updates at latest repository 
 devices new release 1.2.4  
