@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-04-30
+#### updates at latest repository 
+zendure-solarflow new release 1.13.0  
+#### updates at stable repository 
 ## 2025-04-29
 #### updates at latest repository 
 admin new release 7.6.15  
