@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-05-01
+#### updates at latest repository 
+energiefluss-erweitert new release 0.7.4  
+reolink new release 1.2.2  
+#### updates at stable repository 
+apg-info updated to 0.1.15  
+mhi-wfrac updated to 2.1.3  
+solax updated to 0.9.17  
+tinymqttbroker updated to 0.1.4  
+valloxmv updated to 1.4.1  
 ## 2025-04-30
 #### updates at latest repository 
 zendure-solarflow new release 1.13.0  
