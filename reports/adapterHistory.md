@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-05-02
+#### updates at latest repository 
+apcups new release 5.0.0  
+awtrix-light new release 2.0.0  
+gira-iot new release 0.6.1  
+go-e new release 1.0.42  
+gree-hvac new release 2.0.0  
+nsclient new release 0.3.0  
+#### updates at stable repository 
+mediola-gateway updated to 1.2.0  
+mielecloudservice updated to 6.5.10  
+signifylights updated to 0.4.5  
 ## 2025-05-01
 #### updates at latest repository 
 energiefluss-erweitert new release 0.7.4  
