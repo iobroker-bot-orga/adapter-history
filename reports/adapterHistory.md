@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-05-03
+#### updates at latest repository 
+admin new release 7.6.16  
+airquality new release 0.1.5  
+dnscope new release 0.2.2  
+linktap new release 1.0.2  
+#### updates at stable repository 
+awtrix-light updated to 1.7.0  
+webcal updated to 1.4.0  
 ## 2025-05-02
 #### updates at latest repository 
 apcups new release 5.0.0  
