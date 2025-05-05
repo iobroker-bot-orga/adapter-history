@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-05-04
+#### updates at latest repository 
+alarm new release 3.7.0  
+dnscope new release 0.2.3  
+kostal-piko-ba new release 6.0.0  
+matter new release 0.5.0  
+mqtt new release 6.1.3  
+rct new release 1.2.21  
+shelly new release 9.5.0  
+viessmann new release 1.6.0  
+vis-2 new release 2.12.8  
+webui new release 1.28.0  
+yahka new release 1.1.3  
+#### updates at stable repository 
 ## 2025-05-03
 #### updates at latest repository 
 admin new release 7.6.16  
