@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-05-05
+#### updates at latest repository 
+lorawan new release 1.10.2  
+squeezeboxrpc new release 1.6.2  
+teslafi new release 2.0.0  
+vw-connect new release 0.7.11  
+#### updates at stable repository 
+net-tools updated to 1.1.2  
+tado updated to 0.7.10  
 ## 2025-05-04
 #### updates at latest repository 
 alarm new release 3.7.0  
