@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-05-06
+#### updates at latest repository 
+ai-assistant new release 0.1.4  
+bluelink new release 3.1.3  
+chargemaster new release 0.14.0  
+mhi-wfrac new release 2.1.6  
+zendure-solarflow new release 1.13.1  
+#### updates at stable repository 
 ## 2025-05-05
 #### updates at latest repository 
 lorawan new release 1.10.2  
