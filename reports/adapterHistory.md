@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-05-07
+#### updates at latest repository 
+frigate new release 1.3.2  
+linktap new release 1.0.3  
+lorawan new release 1.10.3  
+mqtt new release 6.1.4  
+vw-connect new release 0.7.12  
+#### updates at stable repository 
+hiob updated to 0.1.7  
+lcn updated to 3.0.1  
+refoss updated to 0.1.11  
+signifylights updated to 1.0.0  
 ## 2025-05-06
 #### updates at latest repository 
 ai-assistant new release 0.1.4  
