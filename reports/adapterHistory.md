@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-05-08
+#### updates at latest repository 
+ems-esp new release 6.0.0  
+ico-cloud new release 2.0.0  
+yahka new release 1.1.4  
+#### updates at stable repository 
 ## 2025-05-07
 #### updates at latest repository 
 frigate new release 1.3.2  
