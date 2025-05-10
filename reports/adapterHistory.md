@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-05-09
+#### updates at latest repository 
+admin new release 7.6.17  
+fritzdect new release 2.6.2  
+#### updates at stable repository 
+mhi-wfrac updated to 2.1.6  
+plenticore-g3 updated to 0.1.1  
 ## 2025-05-08
 #### updates at latest repository 
 ems-esp new release 6.0.0  
