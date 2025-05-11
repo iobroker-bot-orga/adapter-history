@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-05-10
+#### updates at latest repository 
+shelly new release 9.5.1  
+#### updates at stable repository 
 ## 2025-05-09
 #### updates at latest repository 
 admin new release 7.6.17  
