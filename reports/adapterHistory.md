@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-05-11
+#### updates at latest repository 
+zigbee2mqtt new release 3.0.4  
+#### updates at stable repository 
+apcups updated to 5.0.0  
+bluelink updated to 3.1.3  
+gotify-ws updated to 0.2.0  
+gree-hvac updated to 2.0.0  
+lupusec updated to 2.0.8  
+zigbee2mqtt updated to 3.0.3  
 ## 2025-05-10
 #### updates at latest repository 
 shelly new release 9.5.1  
