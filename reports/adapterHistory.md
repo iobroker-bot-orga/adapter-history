@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-05-12
+#### updates at latest repository 
+ico-cloud new release 2.0.1  
+#### updates at stable repository 
+matter updated to 0.5.0  
 ## 2025-05-11
 #### updates at latest repository 
 zigbee2mqtt new release 3.0.4  
