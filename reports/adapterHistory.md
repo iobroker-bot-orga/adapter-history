@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-05-13
+#### updates at latest repository 
+ico-cloud new release 2.0.3  
+maxxi-charge new release 1.4.40  
+refoss new release 1.0.0  
+telegram-menu new release 2.3.0  
+#### updates at stable repository 
 ## 2025-05-12
 #### updates at latest repository 
 ico-cloud new release 2.0.1  
