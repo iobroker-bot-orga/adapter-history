@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-05-14
+#### updates at latest repository 
+places new release 1.3.0  
+radar2 new release 2.3.0  
+#### updates at stable repository 
+teslafi updated to 2.0.0  
+wolf-smartset updated to 2.0.1  
 ## 2025-05-13
 #### updates at latest repository 
 ico-cloud new release 2.0.3  
