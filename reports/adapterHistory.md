@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-05-15
+#### updates at latest repository 
+x-touch new release 0.8.0  
+#### updates at stable repository 
 ## 2025-05-14
 #### updates at latest repository 
 places new release 1.3.0  
