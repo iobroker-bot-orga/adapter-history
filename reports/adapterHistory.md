@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-05-16
+#### updates at latest repository 
+ankersolix2 new release 2.1.1  
+hs100 new release 3.0.5  
+lorawan new release 1.10.6  
+midea new release 0.1.0  
+miele new release 0.1.6  
+multicast new release 0.2.0-ALpha.1  
+#### updates at stable repository 
+email updated to 2.0.4  
+lorawan updated to 1.10.1  
+remeha-home updated to 1.0.6  
 ## 2025-05-15
 #### updates at latest repository 
 x-touch new release 0.8.0  
