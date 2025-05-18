@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-05-17
+#### updates at latest repository 
+backitup new release 3.2.2  
+lorawan new release 1.10.9  
+mhi-wfrac new release 2.1.7  
+rmb-bhkw new release 1.1.0  
+tibberlink new release 4.5.3  
+#### updates at stable repository 
+dnscope updated to 0.2.3  
+skiinfo updated to 0.5.0  
 ## 2025-05-16
 #### updates at latest repository 
 ankersolix2 new release 2.1.1  
