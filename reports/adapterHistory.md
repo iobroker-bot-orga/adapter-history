@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-05-18
+#### updates at latest repository 
+bmw new release 2.9.5  
+#### updates at stable repository 
 ## 2025-05-17
 #### updates at latest repository 
 backitup new release 3.2.2  
