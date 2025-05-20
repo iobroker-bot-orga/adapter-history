@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-05-19
+#### updates at latest repository 
+apg-info new release 0.1.16  
+lorawan new release 1.10.10  
+tibberlink new release 4.5.4  
+#### updates at stable repository 
 ## 2025-05-18
 #### updates at latest repository 
 bmw new release 2.9.5  
