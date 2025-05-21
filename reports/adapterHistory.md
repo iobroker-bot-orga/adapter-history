@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-05-20
+#### updates at latest repository 
+vis-2 new release 2.12.9  
+vis-2-widgets-jaeger-design new release 1.4.1  
+#### updates at stable repository 
+airquality updated to 0.1.5  
+kostal-piko-ba updated to 6.0.0  
+oxxify-fan-control updated to 0.0.6  
+sureflap updated to 3.1.1  
+zendure-solarflow updated to 1.13.1  
 ## 2025-05-19
 #### updates at latest repository 
 apg-info new release 0.1.16  
