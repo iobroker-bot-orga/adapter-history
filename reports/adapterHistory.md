@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-05-21
+#### updates at latest repository 
+eventlist new release 2.1.0  
+rest-api new release 3.0.1  
+telegram-menu new release 2.3.1  
+x-touch new release 0.8.1  
+#### updates at stable repository 
 ## 2025-05-20
 #### updates at latest repository 
 vis-2 new release 2.12.9  
