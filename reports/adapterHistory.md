@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-05-22
+#### updates at latest repository 
+e3oncan new release 0.10.9  
+flexcharts new release 0.4.1  
+openweathermap new release 1.3.0  
+scheduler new release 1.5.0  
+#### updates at stable repository 
+maxxi-charge updated to 1.4.40  
+mhi-wfrac updated to 2.1.7  
+rct updated to 1.2.21  
 ## 2025-05-21
 #### updates at latest repository 
 eventlist new release 2.1.0  
