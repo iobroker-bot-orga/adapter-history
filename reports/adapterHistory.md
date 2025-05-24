@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-05-23
+#### updates at latest repository 
+knx new release 2.0.31  
+vis-2-widgets-inventwo new release 0.2.0  
+#### updates at stable repository 
 ## 2025-05-22
 #### updates at latest repository 
 e3oncan new release 0.10.9  
