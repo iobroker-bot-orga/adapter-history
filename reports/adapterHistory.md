@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-05-25
+#### updates at latest repository 
+daikin new release 1.5.1  
+daikin-cloud new release 0.4.12  
+esphome new release 0.6.1  
+semp new release 1.5.0  
+vis-2-widgets-inventwo new release 0.2.2  
+webui new release 1.30.0  
+#### updates at stable repository 
+frigate updated to 1.3.2  
+nsclient updated to 0.3.0  
+vis-inventwo updated to 3.3.5  
 ## 2025-05-24
 #### updates at latest repository 
 telegram-menu new release 2.4.0  
