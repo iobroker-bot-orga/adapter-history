@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-05-26
+#### updates at latest repository 
+enet new release 2.0.1  
+lorawan new release 1.10.11  
+odl new release 5.0.0  
+telegram-menu new release 2.4.1  
+vis-2 new release 2.12.10  
+vis-2-widgets-jaeger-design new release 1.4.2  
+worx new release 3.2.1  
+#### updates at stable repository 
+admin updated to 7.6.17  
 ## 2025-05-25
 #### updates at latest repository 
 daikin new release 1.5.1  
