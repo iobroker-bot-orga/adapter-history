@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-05-27
+#### updates at latest repository 
+canbus new release 2.2.0  
+telegram-menu new release 2.4.2  
+#### updates at stable repository 
+backitup updated to 3.2.2  
+linktap updated to 1.0.3  
+solarmanpv updated to 0.7.1  
 ## 2025-05-26
 #### updates at latest repository 
 enet new release 2.0.1  
