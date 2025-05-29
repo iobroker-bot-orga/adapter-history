@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-05-28
+#### updates at latest repository 
+ankersolix2 new release 2.1.2  
+cloudless-homeconnect new release 1.6.2  
+systeminfo new release 1.3.0  
+#### updates at stable repository 
 ## 2025-05-27
 #### updates at latest repository 
 canbus new release 2.2.0  
