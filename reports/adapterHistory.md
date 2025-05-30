@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-05-29
+#### updates at latest repository 
+fb-checkpresence new release 1.4.0  
+sun2000 new release 1.5.0  
+worx new release 3.2.2  
+zigbee2mqtt new release 3.0.5  
+#### updates at stable repository 
+shelly updated to 9.5.1  
 ## 2025-05-28
 #### updates at latest repository 
 ankersolix2 new release 2.1.2  
