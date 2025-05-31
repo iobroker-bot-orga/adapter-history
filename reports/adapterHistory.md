@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-05-30
+#### updates at latest repository 
+admin new release 7.6.18  
+cloudflare new release 1.2.7  
+enet new release 2.0.2  
+lorawan new release 1.10.12  
+shelly new release 10.0.0  
+#### updates at stable repository 
+javascript updated to 8.9.2  
+places updated to 1.3.0  
+reolink updated to 1.2.2  
+squeezeboxrpc updated to 1.6.2  
 ## 2025-05-29
 #### updates at latest repository 
 fb-checkpresence new release 1.4.0  
