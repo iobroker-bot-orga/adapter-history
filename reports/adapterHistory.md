@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-05-31
+#### updates at latest repository 
+iot new release 3.5.1  
+netatmo-energy new release 2.8.2  
+semp new release 1.5.1  
+solarviewdatareader new release 1.2.2  
+vis-2-widgets-collection new release 1.8.0  
+vis-2-widgets-jaeger-design new release 1.4.3  
+zigbee2mqtt new release 3.0.6  
+#### updates at stable repository 
+radar2 updated to 2.3.0  
 ## 2025-05-30
 #### updates at latest repository 
 admin new release 7.6.18  
