@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-06-01
+#### updates at latest repository 
+lorawan new release 1.10.13  
+sprinklecontrol new release 0.2.15  
+tibberlink new release 5.0.0  
+#### updates at stable repository 
 ## 2025-05-31
 #### updates at latest repository 
 iot new release 3.5.1  
