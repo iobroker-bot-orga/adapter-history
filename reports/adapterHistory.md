@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-06-02
+#### updates at latest repository 
+mytime new release 1.4.2  
+plenticore-g3 new release 0.1.2  
+viessmann new release 1.7.1  
+#### updates at stable repository 
 ## 2025-06-01
 #### updates at latest repository 
 lorawan new release 1.10.13  
