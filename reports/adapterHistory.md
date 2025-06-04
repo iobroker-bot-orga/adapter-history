@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-06-03
+#### updates at latest repository 
+rct new release 1.2.22  
+sureflap new release 3.2.0  
+vis-weather new release 2.5.12  
+#### updates at stable repository 
+alarm updated to 3.7.0  
+alexa-timer-vis updated to 2.1.1  
+ankersolix2 updated to 2.1.2  
+janitza-gridvis updated to 3.5.2  
+viessmann updated to 1.6.0  
 ## 2025-06-02
 #### updates at latest repository 
 mytime new release 1.4.2  
