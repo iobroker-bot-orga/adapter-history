@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-06-04
+#### updates at latest repository 
+apg-info new release 0.1.17  
+drops-weather new release 1.2.3  
+energiefluss-erweitert new release 0.7.5  
+iot new release 3.5.2  
+vis-icontwo new release 1.12.0  
+#### updates at stable repository 
+x-touch updated to 0.8.1  
 ## 2025-06-03
 #### updates at latest repository 
 rct new release 1.2.22  
