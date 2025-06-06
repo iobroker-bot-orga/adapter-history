@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-06-05
+#### updates at latest repository 
+drops-weather new release 1.2.4  
+energiefluss-erweitert new release 0.7.6  
+enet new release 2.0.3  
+vis-2-widgets-rssfeed new release 1.2.0  
+#### updates at stable repository 
+flexcharts updated to 0.4.1  
+ico-cloud updated to 2.0.3  
+refoss updated to 1.0.0  
 ## 2025-06-04
 #### updates at latest repository 
 apg-info new release 0.1.17  
