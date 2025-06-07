@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-06-06
+#### updates at latest repository 
+countdown new release 3.0.0  
+meteoalarm new release 4.0.0  
+telegram-menu new release 2.4.3  
+worx new release 3.2.3  
+#### updates at stable repository 
 ## 2025-06-05
 #### updates at latest repository 
 drops-weather new release 1.2.4  
