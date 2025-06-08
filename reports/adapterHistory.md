@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-06-07
+#### updates at latest repository 
+ebus new release 3.6.1  
+enet new release 2.0.4  
+mytime new release 1.4.3  
+wireless-mbus new release 0.10.1  
+zendure-solarflow new release 1.14.1  
+zigbee2mqtt new release 3.0.7  
+#### updates at stable repository 
+e3oncan updated to 0.10.9  
 ## 2025-06-06
 #### updates at latest repository 
 countdown new release 3.0.0  
