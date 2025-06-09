@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-06-08
+#### updates at latest repository 
+admin new release 7.6.19  
+chargemaster new release 0.14.1  
+sbfspot new release 5.0.0  
+sprinklecontrol new release 0.2.16  
+teslafi new release 2.0.1  
+zendure-solarflow new release 1.14.2  
+zigbee2mqtt new release 3.0.8  
+#### updates at stable repository 
 ## 2025-06-07
 #### updates at latest repository 
 ebus new release 3.6.1  
