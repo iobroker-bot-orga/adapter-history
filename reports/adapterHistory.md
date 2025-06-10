@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-06-09
+#### updates at latest repository 
+ebus new release 3.6.2  
+logparser new release 2.4.0  
+pvoutputorg new release 1.9.2  
+telegram-menu new release 2.4.4  
+#### updates at stable repository 
+plenticore-g3 updated to 0.1.2  
 ## 2025-06-08
 #### updates at latest repository 
 admin new release 7.6.19  
