@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-06-10
+#### updates at latest repository 
+bluelink new release 3.1.6  
+bmw new release 3.0.0  
+janitza-gridvis new release 3.5.3  
+lorawan new release 1.10.14  
+zendure-solarflow new release 1.14.3  
+#### updates at stable repository 
 ## 2025-06-09
 #### updates at latest repository 
 ebus new release 3.6.2  
