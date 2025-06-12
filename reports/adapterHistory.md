@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-06-11
+#### updates at latest repository 
+netatmo-crawler new release 0.9.0  
+refoss new release 1.1.0  
+#### updates at stable repository 
+odl updated to 5.0.0  
+tibberlink updated to 5.0.0  
 ## 2025-06-10
 #### updates at latest repository 
 bluelink new release 3.1.6  
