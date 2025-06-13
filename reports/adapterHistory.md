@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-06-12
+#### updates at latest repository 
+energiefluss-erweitert new release 0.7.7  
+enet new release 2.0.5  
+javascript new release 9.0.3  
+matter new release 0.5.1  
+net-tools new release 1.2.0  
+#### updates at stable repository 
+systeminfo updated to 1.3.0  
 ## 2025-06-11
 #### updates at latest repository 
 netatmo-crawler new release 0.9.0  
