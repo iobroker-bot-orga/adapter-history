@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-06-13
+#### updates at latest repository 
+netatmo-crawler new release 1.0.0  
+onlycat new release 0.3.0  
+#### updates at stable repository 
+webui updated to 1.30.0  
 ## 2025-06-12
 #### updates at latest repository 
 energiefluss-erweitert new release 0.7.7  
