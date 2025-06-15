@@ -1,5 +1,8 @@
 # Adapter publishing report
 
+## 2025-06-14
+#### updates at latest repository 
+#### updates at stable repository 
 ## 2025-06-13
 #### updates at latest repository 
 netatmo-crawler new release 1.0.0  
