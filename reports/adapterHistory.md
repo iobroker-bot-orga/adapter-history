@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-06-15
+#### updates at latest repository 
+devices new release 1.2.7  
+plenticore-g3 new release 0.1.3  
+sprinklecontrol new release 0.2.17  
+worx new release 3.2.4  
+#### updates at stable repository 
 ## 2025-06-14
 #### updates at latest repository 
 #### updates at stable repository 
