@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-06-16
+#### updates at latest repository 
+admin new release 7.6.20  
+apg-info new release 0.1.18  
+backitup new release 3.3.0  
+ical new release 1.16.2  
+lorawan new release 1.10.17  
+#### updates at stable repository 
+canbus updated to 2.2.0  
+energiefluss-erweitert updated to 0.7.7  
+netatmo-crawler updated to 1.0.0  
 ## 2025-06-15
 #### updates at latest repository 
 devices new release 1.2.7  
