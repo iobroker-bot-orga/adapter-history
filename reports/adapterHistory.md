@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-06-17
+#### updates at latest repository 
+admin new release 7.7.0  
+javascript new release 9.0.5  
+mytime new release 1.4.4  
+plenticore-g3 new release 0.1.4  
+scenes new release 4.0.2  
+simple-api new release 3.0.7  
+#### updates at stable repository 
 ## 2025-06-16
 #### updates at latest repository 
 admin new release 7.6.20  
