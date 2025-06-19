@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-06-18
+#### updates at latest repository 
+energiefluss-erweitert new release 0.7.8  
+enet new release 2.0.6  
+heizoel24-mex new release 1.4.2  
+heizungssteuerung new release 2.0.0  
+javascript new release 9.0.6  
+#### updates at stable repository 
+zigbee2mqtt updated to 3.0.7  
 ## 2025-06-17
 #### updates at latest repository 
 admin new release 7.7.0  
