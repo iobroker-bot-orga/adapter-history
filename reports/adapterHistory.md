@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-06-19
+#### updates at latest repository 
+backitup new release 3.3.1  
+bluelink new release 3.1.8  
+drops-weather new release 1.2.5  
+zigbee2mqtt new release 3.0.9  
+#### updates at stable repository 
+fb-checkpresence updated to 1.4.0  
+telegram-menu updated to 2.4.4  
 ## 2025-06-18
 #### updates at latest repository 
 energiefluss-erweitert new release 0.7.8  
