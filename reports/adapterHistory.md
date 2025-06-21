@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-06-20
+#### updates at latest repository 
+backitup new release 3.3.2  
+fronius-wattpilot new release 4.7.0  
+#### updates at stable repository 
 ## 2025-06-19
 #### updates at latest repository 
 backitup new release 3.3.1  
