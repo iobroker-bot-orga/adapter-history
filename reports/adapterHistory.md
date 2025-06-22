@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-06-21
+#### updates at latest repository 
+admin new release 7.7.1  
+heizoel24-mex new release 1.4.4  
+sureflap new release 3.2.1  
+#### updates at stable repository 
+countdown updated to 3.0.0  
+ems-esp updated to 6.0.0  
+worx updated to 3.2.4  
 ## 2025-06-20
 #### updates at latest repository 
 backitup new release 3.3.2  
