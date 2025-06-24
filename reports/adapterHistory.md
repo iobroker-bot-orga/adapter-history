@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-06-23
+#### updates at latest repository 
+apg-info new release 0.1.19  
+knx new release 2.0.33  
+#### updates at stable repository 
+hs100 updated to 3.0.5  
+sureflap updated to 3.2.0  
+vis-weather updated to 2.5.12  
 ## 2025-06-22
 #### updates at latest repository 
 #### updates at stable repository 
