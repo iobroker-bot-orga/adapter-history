@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-06-24
+#### updates at latest repository 
+heizungssteuerung new release 2.0.2  
+meteoalarm new release 4.0.1  
+sureflap new release 3.2.2  
+#### updates at stable repository 
+plenticore-g3 updated to 0.1.4  
 ## 2025-06-23
 #### updates at latest repository 
 apg-info new release 0.1.19  
