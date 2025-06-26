@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-06-25
+#### updates at latest repository 
+backitup new release 3.3.3  
+drops-weather new release 1.2.6  
+enet new release 2.0.7  
+velux new release 0.0.9  
+#### updates at stable repository 
+ebus updated to 3.6.2  
+fritzdect updated to 2.6.2  
+logparser updated to 2.4.0  
+pvoutputorg updated to 1.9.2  
+sbfspot updated to 5.0.0  
+semp updated to 1.5.1  
 ## 2025-06-24
 #### updates at latest repository 
 heizungssteuerung new release 2.0.2  
