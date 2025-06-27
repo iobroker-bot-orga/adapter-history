@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-06-26
+#### updates at latest repository 
+bluelink new release 3.1.10  
+dnscope new release 0.2.4  
+enet new release 2.0.8  
+remeha-home new release 1.0.7  
+worx new release 3.2.5  
+zendure-solarflow new release 1.14.4  
+#### updates at stable repository 
+apg-info updated to 0.1.19  
+refoss updated to 1.1.0  
+vis-2-widgets-rssfeed updated to 1.2.0  
 ## 2025-06-25
 #### updates at latest repository 
 backitup new release 3.3.3  
