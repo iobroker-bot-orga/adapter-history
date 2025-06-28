@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-06-27
+#### updates at latest repository 
+backitup new release 3.3.4  
+ring new release 6.4.0  
+zendure-solarflow new release 1.15.0  
+#### updates at stable repository 
+worx updated to 3.2.5  
 ## 2025-06-26
 #### updates at latest repository 
 bluelink new release 3.1.10  
