@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-06-28
+#### updates at latest repository 
+amtronwallbox new release 0.3.2  
+bshb new release 0.5.1  
+ebus new release 3.6.3  
+gotify-ws new release 0.2.1  
+pvoutputorg new release 1.9.3  
+solax new release 0.9.18  
+vaillant new release 0.7.4  
+#### updates at stable repository 
 ## 2025-06-27
 #### updates at latest repository 
 backitup new release 3.3.4  
