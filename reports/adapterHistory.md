@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-06-29
+#### updates at latest repository 
+bshb new release 0.5.2  
+enet new release 2.0.10  
+pegelalarm new release 1.3.9  
+sureflap new release 3.2.3  
+uv-protect new release 0.6.7  
+worx new release 3.2.6  
+#### updates at stable repository 
+matter updated to 0.5.1  
 ## 2025-06-28
 #### updates at latest repository 
 amtronwallbox new release 0.3.2  
