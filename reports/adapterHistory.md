@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-06-30
+#### updates at latest repository 
+heatingcontrol new release 2.12.15  
+javascript new release 9.0.7  
+sbfspot new release 5.0.1  
+schoolfree new release 1.1.10  
+shuttercontrol new release 2.0.2  
+sprinklecontrol new release 0.2.18  
+tinker new release 1.3.8  
+vis-2-widgets-jaeger-design new release 1.4.4  
+#### updates at stable repository 
 ## 2025-06-29
 #### updates at latest repository 
 bshb new release 0.5.2  
