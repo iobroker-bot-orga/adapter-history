@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-07-01
+#### updates at latest repository 
+ankersolix2 new release 2.2.0  
+reolink new release 1.2.3  
+shelly new release 10.1.0  
+sun2000 new release 2.0.0  
+vis-2-widgets-collection new release 1.8.1  
+vis-2-widgets-jaeger-design new release 1.4.7  
+#### updates at stable repository 
+solarviewdatareader updated to 1.2.2  
 ## 2025-06-30
 #### updates at latest repository 
 heatingcontrol new release 2.12.15  
