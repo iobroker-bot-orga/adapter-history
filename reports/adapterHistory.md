@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-07-02
+#### updates at latest repository 
+heizungssteuerung new release 2.0.3  
+luftdaten new release 5.0.0  
+oxxify-fan-control new release 0.0.7  
+velux new release 0.0.10  
+vis-2 new release 2.12.11  
+vis-2-widgets-gauges new release 2.0.1  
+#### updates at stable repository 
+heizoel24-mex updated to 1.4.4  
+mytime updated to 1.4.4  
 ## 2025-07-01
 #### updates at latest repository 
 ankersolix2 new release 2.2.0  
