@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-07-03
+#### updates at latest repository 
+bluelink new release 3.1.16  
+iot new release 3.6.0  
+sprinklecontrol new release 0.2.19  
+#### updates at stable repository 
+janitza-gridvis updated to 3.5.3  
+lorawan updated to 1.10.17  
+shelly updated to 10.0.0  
 ## 2025-07-02
 #### updates at latest repository 
 heizungssteuerung new release 2.0.3  
