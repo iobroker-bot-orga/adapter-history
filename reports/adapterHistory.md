@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-07-04
+#### updates at latest repository 
+trashschedule new release 4.0.1  
+#### updates at stable repository 
+dnscope updated to 0.2.4  
+gotify-ws updated to 0.2.1  
+remeha-home updated to 1.0.7  
 ## 2025-07-03
 #### updates at latest repository 
 bluelink new release 3.1.16  
