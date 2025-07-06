@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-07-05
+#### updates at latest repository 
+nissan new release 0.1.16  
+#### updates at stable repository 
 ## 2025-07-04
 #### updates at latest repository 
 trashschedule new release 4.0.1  
