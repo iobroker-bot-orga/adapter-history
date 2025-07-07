@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-07-06
+#### updates at latest repository 
+backitup new release 3.3.5  
+sun2000 new release 2.1.0  
+#### updates at stable repository 
 ## 2025-07-05
 #### updates at latest repository 
 nissan new release 0.1.16  
