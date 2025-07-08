@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-07-07
+#### updates at latest repository 
+zigbee new release 3.0.2  
+#### updates at stable repository 
 ## 2025-07-06
 #### updates at latest repository 
 backitup new release 3.3.5  
