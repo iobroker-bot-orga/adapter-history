@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-07-08
+#### updates at latest repository 
+sureflap new release 3.2.4  
+#### updates at stable repository 
 ## 2025-07-07
 #### updates at latest repository 
 zigbee new release 3.0.2  
