@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-07-09
+#### updates at latest repository 
+lametric new release 4.1.0  
+opcua new release 1.2.0  
+vaillant new release 0.7.5  
+vis-2-widgets-inventwo new release 0.3.1  
+yahka new release 1.1.5  
+#### updates at stable repository 
 ## 2025-07-08
 #### updates at latest repository 
 sureflap new release 3.2.4  
