@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-07-10
+#### updates at latest repository 
+javascript new release 9.0.8  
+#### updates at stable repository 
+viessmann updated to 1.7.1  
+vis-2-widgets-inventwo updated to 0.2.2  
+worx updated to 3.2.6  
 ## 2025-07-09
 #### updates at latest repository 
 lametric new release 4.1.0  
