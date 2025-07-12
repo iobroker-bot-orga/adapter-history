@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-07-11
+#### updates at latest repository 
+opcua new release 1.2.1  
+zendure-solarflow new release 1.15.1  
+#### updates at stable repository 
 ## 2025-07-10
 #### updates at latest repository 
 javascript new release 9.0.8  
