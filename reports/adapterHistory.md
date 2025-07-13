@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-07-12
+#### updates at latest repository 
+drops-weather new release 1.2.7  
+mercedesme new release 0.3.8  
+onlycat new release 0.3.1  
+viessmannapi new release 2.4.2  
+vis-2-widgets-inventwo new release 0.3.2  
+#### updates at stable repository 
 ## 2025-07-11
 #### updates at latest repository 
 opcua new release 1.2.1  
