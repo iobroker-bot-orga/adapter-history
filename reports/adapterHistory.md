@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-07-13
+#### updates at latest repository 
+onlycat new release 0.4.0  
+steam new release 0.5.6  
+sureflap new release 3.3.0  
+#### updates at stable repository 
+ical updated to 1.16.2  
+meteoalarm updated to 4.0.1  
+shelly updated to 10.1.0  
+vis-2-widgets-collection updated to 1.8.1  
+vis-icontwo updated to 1.12.0  
 ## 2025-07-12
 #### updates at latest repository 
 drops-weather new release 1.2.7  
