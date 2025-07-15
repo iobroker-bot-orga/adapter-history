@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-07-14
+#### updates at latest repository 
+kecontact new release 3.2.0  
+vis-2-widgets-rssfeed new release 1.2.2  
+zendure-solarflow new release 1.15.2  
+#### updates at stable repository 
+reolink updated to 1.2.3  
+solax updated to 0.9.18  
+tinker updated to 1.3.8  
 ## 2025-07-13
 #### updates at latest repository 
 onlycat new release 0.4.0  
