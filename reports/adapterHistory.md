@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-07-15
+#### updates at latest repository 
+alexa-shoppinglist new release 1.1.0  
+wireless-mbus new release 0.10.2  
+#### updates at stable repository 
+sprinklecontrol updated to 0.2.19  
+uv-protect updated to 0.6.7  
 ## 2025-07-14
 #### updates at latest repository 
 kecontact new release 3.2.0  
