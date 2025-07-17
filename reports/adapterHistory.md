@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-07-16
+#### updates at latest repository 
+alexa2 new release 3.27.3  
+evcc new release 0.2.3  
+pi-hole2 new release 1.0.0  
+#### updates at stable repository 
+backitup updated to 3.3.5  
+schoolfree updated to 1.1.10  
+shuttercontrol updated to 2.0.2  
 ## 2025-07-15
 #### updates at latest repository 
 alexa-shoppinglist new release 1.1.0  
