@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-07-17
+#### updates at latest repository 
+energy-tracker new release 0.2.8  
+vis-2-widgets-inventwo new release 0.3.3  
+zendure-solarflow new release 1.15.4  
+#### updates at stable repository 
+alexa2 updated to 3.27.3  
+cloudflare updated to 1.2.7  
+sun2000 updated to 2.1.0  
 ## 2025-07-16
 #### updates at latest repository 
 alexa2 new release 3.27.3  
