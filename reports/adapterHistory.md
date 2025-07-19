@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-07-18
+#### updates at latest repository 
+#### updates at stable repository 
+ankersolix2 updated to 2.2.0  
 ## 2025-07-17
 #### updates at latest repository 
 energy-tracker new release 0.2.8  
