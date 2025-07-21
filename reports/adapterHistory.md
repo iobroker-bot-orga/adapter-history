@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-07-20
+#### updates at latest repository 
+bluelink new release 3.1.17  
+fullybrowser new release 3.1.2  
+#### updates at stable repository 
 ## 2025-07-19
 #### updates at latest repository 
 #### updates at stable repository 
