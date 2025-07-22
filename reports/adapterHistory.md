@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-07-21
+#### updates at latest repository 
+devices new release 1.2.8  
+gotify-ws new release 0.2.2  
+scenes new release 4.0.3  
+vis-2 new release 2.12.12  
+#### updates at stable repository 
 ## 2025-07-20
 #### updates at latest repository 
 bluelink new release 3.1.17  
