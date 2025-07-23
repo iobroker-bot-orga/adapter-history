@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2025-07-22
+#### updates at latest repository 
+admin new release 7.7.2  
+mytime new release 1.4.6  
+plenticore-g3 new release 0.2.0  
+weathersense new release 1.0.3  
+zendure-solarflow new release 2.0.1  
+#### updates at stable repository 
+awtrix-light updated to 2.0.0  
+drops-weather updated to 1.2.7  
+enet updated to 2.0.10  
+fronius-wattpilot updated to 4.7.0  
+kecontact updated to 3.2.0  
+lametric updated to 4.1.0  
+onlycat updated to 0.3.0  
+zendure-solarflow updated to 1.15.4  
 ## 2025-07-21
 #### updates at latest repository 
 devices new release 1.2.8  
