@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-07-23
+#### updates at latest repository 
+shuttercontrol new release 2.0.3  
+#### updates at stable repository 
 ## 2025-07-22
 #### updates at latest repository 
 admin new release 7.7.2  
