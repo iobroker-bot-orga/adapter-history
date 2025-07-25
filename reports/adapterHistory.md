@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-07-24
+#### updates at latest repository 
+bluesound new release 1.2.0  
+lorawan new release 1.10.20  
+pi-hole2 new release 1.1.0  
+telegram-menu new release 3.0.0  
+#### updates at stable repository 
 ## 2025-07-23
 #### updates at latest repository 
 shuttercontrol new release 2.0.3  
