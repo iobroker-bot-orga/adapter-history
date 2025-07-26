@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-07-25
+#### updates at latest repository 
+javascript new release 9.0.9  
+mihome-vacuum new release 5.3.0  
+pi-hole2 new release 1.1.1  
+#### updates at stable repository 
 ## 2025-07-24
 #### updates at latest repository 
 bluesound new release 1.2.0  
