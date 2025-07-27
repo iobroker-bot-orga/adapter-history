@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-07-26
+#### updates at latest repository 
+mytime new release 1.4.7  
+#### updates at stable repository 
 ## 2025-07-25
 #### updates at latest repository 
 javascript new release 9.0.9  
