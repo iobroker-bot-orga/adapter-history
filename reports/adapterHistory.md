@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-07-27
+#### updates at latest repository 
+javascript new release 9.0.10  
+lorawan new release 1.10.22  
+#### updates at stable repository 
+fullybrowser updated to 3.1.2  
+zigbee2mqtt updated to 3.0.9  
 ## 2025-07-26
 #### updates at latest repository 
 mytime new release 1.4.7  
