@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-07-28
+#### updates at latest repository 
+vis-icontwo new release 1.14.0  
+zigbee new release 3.0.3  
+#### updates at stable repository 
+srm updated to 1.0.0  
 ## 2025-07-27
 #### updates at latest repository 
 javascript new release 9.0.10  
