@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-07-29
+#### updates at latest repository 
+melcloud new release 3.0.0  
+#### updates at stable repository 
+bluesound updated to 1.2.0  
 ## 2025-07-28
 #### updates at latest repository 
 vis-icontwo new release 1.14.0  
