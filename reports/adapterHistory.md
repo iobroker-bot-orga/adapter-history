@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-07-30
+#### updates at latest repository 
+javascript new release 9.0.11  
+vis-icontwo new release 1.16.1  
+#### updates at stable repository 
+oxxify-fan-control updated to 0.0.7  
+vis-2-widgets-rssfeed updated to 1.2.2  
 ## 2025-07-29
 #### updates at latest repository 
 melcloud new release 3.0.0  
