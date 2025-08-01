@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-07-31
+#### updates at latest repository 
+alarm new release 3.7.2  
+vis-icontwo new release 1.17.0  
+#### updates at stable repository 
+amtronwallbox updated to 0.3.2  
+ebus updated to 3.6.3  
+heatingcontrol updated to 2.12.15  
+pvoutputorg updated to 1.9.3  
+sbfspot updated to 5.0.1  
 ## 2025-07-30
 #### updates at latest repository 
 javascript new release 9.0.11  
