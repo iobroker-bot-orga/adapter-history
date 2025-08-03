@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-08-02
+#### updates at latest repository 
+bydhvs new release 1.5.3  
+device-watcher new release 2.12.3  
+hoymiles-ms new release 0.1.1  
+telegram-menu new release 3.0.1  
+#### updates at stable repository 
+plenticore-g3 updated to 0.2.0  
+rct updated to 1.2.22  
+sureflap updated to 3.3.0  
 ## 2025-08-01
 #### updates at latest repository 
 #### updates at stable repository 
