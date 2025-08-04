@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-08-03
+#### updates at latest repository 
+device-watcher new release 2.12.4  
+hoymiles-ms new release 0.1.2  
+openweathermap new release 1.4.0  
+#### updates at stable repository 
 ## 2025-08-02
 #### updates at latest repository 
 bydhvs new release 1.5.3  
