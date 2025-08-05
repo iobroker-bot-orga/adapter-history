@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-08-04
+#### updates at latest repository 
+bydhvs new release 1.5.4  
+device-watcher new release 2.12.5  
+matter new release 0.5.2  
+openligadb new release 1.9.0  
+#### updates at stable repository 
+alexa-shoppinglist updated to 1.1.0  
+evcc updated to 0.2.3  
+onlycat updated to 0.4.0  
+wireless-mbus updated to 0.10.2  
 ## 2025-08-03
 #### updates at latest repository 
 device-watcher new release 2.12.4  
