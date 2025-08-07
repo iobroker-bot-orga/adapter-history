@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-08-06
+#### updates at latest repository 
+mielecloudservice new release 6.5.11  
+wolf-smartset new release 2.1.1  
+#### updates at stable repository 
 ## 2025-08-05
 #### updates at latest repository 
 #### updates at stable repository 
