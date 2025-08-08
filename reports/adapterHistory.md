@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-08-07
+#### updates at latest repository 
+e3oncan new release 0.10.10  
+refoss new release 1.1.1  
+#### updates at stable repository 
 ## 2025-08-06
 #### updates at latest repository 
 mielecloudservice new release 6.5.11  
