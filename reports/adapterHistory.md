@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-08-08
+#### updates at latest repository 
+esphome new release 0.6.2  
+refoss new release 1.1.3  
+#### updates at stable repository 
 ## 2025-08-07
 #### updates at latest repository 
 e3oncan new release 0.10.10  
