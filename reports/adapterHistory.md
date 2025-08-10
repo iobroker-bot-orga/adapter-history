@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-08-09
+#### updates at latest repository 
+bluelink new release 3.1.19  
+device-watcher new release 2.12.6  
+panasonic-comfort-cloud new release 3.1.0  
+#### updates at stable repository 
 ## 2025-08-08
 #### updates at latest repository 
 esphome new release 0.6.2  
