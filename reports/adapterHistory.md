@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-08-10
+#### updates at latest repository 
+solax new release 0.9.19  
+vis-2-widgets-inventwo new release 0.3.5  
+vis-2-widgets-weather-and-heating new release 1.0.1  
+#### updates at stable repository 
 ## 2025-08-09
 #### updates at latest repository 
 bluelink new release 3.1.19  
