@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-08-11
+#### updates at latest repository 
+viessmannapi new release 2.4.3  
+#### updates at stable repository 
+mytime updated to 1.4.7  
 ## 2025-08-10
 #### updates at latest repository 
 solax new release 0.9.19  
