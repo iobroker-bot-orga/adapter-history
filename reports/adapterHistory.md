@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-08-12
+#### updates at latest repository 
+nextcloudtalk new release 1.0.2  
+#### updates at stable repository 
 ## 2025-08-11
 #### updates at latest repository 
 viessmannapi new release 2.4.3  
