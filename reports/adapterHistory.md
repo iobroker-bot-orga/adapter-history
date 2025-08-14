@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-08-13
+#### updates at latest repository 
+alexa-shoppinglist new release 1.1.1  
+alexa-timer-vis new release 2.1.2  
+melcloud new release 3.0.1  
+telegram-menu new release 3.0.2  
+vis-icontwo new release 1.18.0  
+#### updates at stable repository 
 ## 2025-08-12
 #### updates at latest repository 
 nextcloudtalk new release 1.0.2  
