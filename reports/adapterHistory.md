@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-08-14
+#### updates at latest repository 
+bluelink new release 3.1.20  
+shrdzm new release 1.0.0  
+vis-2-widgets-weather-and-heating new release 1.1.0  
+wolf-smartset new release 2.1.2  
+#### updates at stable repository 
+hue updated to 3.16.2  
+lorawan updated to 1.10.22  
+refoss updated to 1.1.3  
 ## 2025-08-13
 #### updates at latest repository 
 alexa-shoppinglist new release 1.1.1  
