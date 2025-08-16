@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-08-15
+#### updates at latest repository 
+lametric new release 4.2.0  
+sureflap new release 3.4.0  
+tibberlink new release 5.0.1  
+#### updates at stable repository 
 ## 2025-08-14
 #### updates at latest repository 
 bluelink new release 3.1.20  
