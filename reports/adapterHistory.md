@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-08-16
+#### updates at latest repository 
+radar2 new release 2.3.1  
+s7 new release 1.4.4  
+schoolfree new release 1.1.11  
+semp new release 1.5.2  
+vis-2-widgets-weather-and-heating new release 1.1.1  
+#### updates at stable repository 
+gotify-ws updated to 0.2.2  
+js-controller updated to 7.0.7  
+pegelalarm updated to 1.3.9  
+shuttercontrol updated to 2.0.3  
 ## 2025-08-15
 #### updates at latest repository 
 lametric new release 4.2.0  
