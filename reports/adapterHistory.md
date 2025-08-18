@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2025-08-17
+#### updates at latest repository 
+ankersolix2 new release 2.3.0  
+echarts new release 2.0.7  
+envertech-pv new release 1.5.0  
+kostal-piko-ba new release 6.0.1  
+lg-thinq new release 1.1.1  
+lorawan new release 1.11.2  
+nmea new release 0.3.0  
+schedule-switcher new release 0.0.11  
+snmp new release 3.3.0  
+telegram-menu new release 3.0.3  
+vis-2-widgets-weather-and-heating new release 1.1.2  
+weathersense new release 2.0.2  
+worx new release 3.2.7  
+#### updates at stable repository 
+pi-hole2 updated to 1.1.1  
 ## 2025-08-16
 #### updates at latest repository 
 radar2 new release 2.3.1  
