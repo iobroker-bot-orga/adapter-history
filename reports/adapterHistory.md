@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-08-18
+#### updates at latest repository 
+alarm new release 3.7.4  
+ecoflow-mqtt new release 1.4.0  
+lorawan new release 1.11.3  
+weathersense new release 3.0.0  
+#### updates at stable repository 
+yahka updated to 1.1.5  
 ## 2025-08-17
 #### updates at latest repository 
 ankersolix2 new release 2.3.0  
