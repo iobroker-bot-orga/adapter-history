@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-08-19
+#### updates at latest repository 
+echarts new release 2.0.8  
+lg-thinq new release 1.1.2  
+weathersense new release 3.0.1  
+webui new release 1.31.2  
+#### updates at stable repository 
+vis-2 updated to 2.12.12  
+vis-2-widgets-gauges updated to 2.0.1  
 ## 2025-08-18
 #### updates at latest repository 
 alarm new release 3.7.4  
