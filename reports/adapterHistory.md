@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-08-20
+#### updates at latest repository 
+ecoflow-mqtt new release 1.4.1  
+rct new release 1.2.23  
+webui new release 1.32.0  
+#### updates at stable repository 
 ## 2025-08-19
 #### updates at latest repository 
 echarts new release 2.0.8  
