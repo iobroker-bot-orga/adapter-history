@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-08-21
+#### updates at latest repository 
+ecoflow-mqtt new release 1.4.2  
+refoss new release 1.1.4  
+#### updates at stable repository 
+energy-tracker updated to 0.2.8  
+openligadb updated to 1.9.0  
 ## 2025-08-20
 #### updates at latest repository 
 ecoflow-mqtt new release 1.4.1  
