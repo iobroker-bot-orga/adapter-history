@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-08-22
+#### updates at latest repository 
+airquality new release 0.1.7  
+telegram-menu new release 3.0.4  
+#### updates at stable repository 
 ## 2025-08-21
 #### updates at latest repository 
 ecoflow-mqtt new release 1.4.2  
