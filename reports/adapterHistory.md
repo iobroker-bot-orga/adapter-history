@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-08-23
+#### updates at latest repository 
+anelhut new release 1.0.16  
+ebus new release 3.6.6  
+govee-local new release 0.2.9  
+#### updates at stable repository 
 ## 2025-08-22
 #### updates at latest repository 
 airquality new release 0.1.7  
