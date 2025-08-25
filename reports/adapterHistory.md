@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-08-24
+#### updates at latest repository 
+hoymiles-ms new release 0.2.0  
+lorawan new release 1.11.4  
+telegram-menu new release 3.0.5  
+vis-2 new release 2.13.0  
+#### updates at stable repository 
+e3oncan updated to 0.10.10  
+weather-warnings updated to 0.7.4  
 ## 2025-08-23
 #### updates at latest repository 
 anelhut new release 1.0.16  
