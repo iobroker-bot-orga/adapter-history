@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-08-25
+#### updates at latest repository 
+octoprint new release 6.0.1  
+radar2 new release 2.4.0  
+s7 new release 1.5.0  
+teslafi new release 2.0.2  
+vis-2 new release 2.13.1  
+#### updates at stable repository 
+espresense updated to 0.6.3  
+notification-manager updated to 1.3.0  
+pvforecast updated to 5.0.0  
+ring updated to 6.4.0  
 ## 2025-08-24
 #### updates at latest repository 
 hoymiles-ms new release 0.2.0  
