@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-08-26
+#### updates at latest repository 
+heizungssteuerung new release 2.1.0  
+iot new release 4.0.2  
+openligadb new release 1.9.1  
+pirate-weather new release 0.3.0  
+#### updates at stable repository 
 ## 2025-08-25
 #### updates at latest repository 
 octoprint new release 6.0.1  
