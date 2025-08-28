@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-08-27
+#### updates at latest repository 
+vis-2 new release 2.13.2  
+vis-2-widgets-gauges new release 2.0.2  
+webui new release 1.33.0  
+#### updates at stable repository 
 ## 2025-08-26
 #### updates at latest repository 
 heizungssteuerung new release 2.1.0  
