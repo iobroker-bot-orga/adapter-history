@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-08-28
+#### updates at latest repository 
+chargemaster new release 0.14.2  
+frontier_silicon new release 0.5.0  
+iot new release 4.0.3  
+pirate-weather new release 0.4.0  
+schedule-switcher new release 0.0.12  
+vis-2 new release 2.13.3  
+vis-2-widgets-material new release 1.5.3  
+zigbee new release 3.0.5  
+#### updates at stable repository 
 ## 2025-08-27
 #### updates at latest repository 
 vis-2 new release 2.13.2  
