@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-08-29
+#### updates at latest repository 
+brightsky new release 0.2.4  
+deyeidc new release 0.3.0  
+myvbus new release 0.6.0  
+plenticore-g3 new release 0.2.1  
+sma-em new release 1.3.0  
+vbus-gw new release 0.3.0  
+#### updates at stable repository 
+matter updated to 0.5.2  
 ## 2025-08-28
 #### updates at latest repository 
 chargemaster new release 0.14.2  
