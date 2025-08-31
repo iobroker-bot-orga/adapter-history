@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-08-30
+#### updates at latest repository 
+heizoel24-mex new release 1.4.5  
+lorawan new release 1.11.5  
+weathersense new release 3.0.2  
+#### updates at stable repository 
+shrdzm updated to 1.0.0  
+wolf-smartset updated to 2.1.2  
 ## 2025-08-29
 #### updates at latest repository 
 brightsky new release 0.2.4  
