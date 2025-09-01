@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-08-31
+#### updates at latest repository 
+janitza-gridvis new release 3.5.4  
+lorawan new release 1.11.8  
+#### updates at stable repository 
+sureflap updated to 3.4.0  
 ## 2025-08-30
 #### updates at latest repository 
 heizoel24-mex new release 1.4.5  
