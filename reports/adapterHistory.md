@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2025-09-01
+#### updates at latest repository 
+backitup new release 3.3.6  
+dnscope new release 0.2.5  
+gotify-ws new release 0.2.3  
+lorawan new release 1.11.10  
+mielecloudservice new release 6.5.12  
+pegelalarm new release 1.3.10  
+remeha-home new release 1.0.8  
+schoolfree new release 1.1.12  
+shuttercontrol new release 2.0.4  
+solax new release 0.9.20  
+telegram-menu new release 3.0.6  
+tinker new release 1.3.9  
+uv-protect new release 0.6.8  
+#### updates at stable repository 
+envertech-pv updated to 1.5.0  
 ## 2025-08-31
 #### updates at latest repository 
 janitza-gridvis new release 3.5.4  
