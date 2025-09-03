@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-09-02
+#### updates at latest repository 
+echarts new release 2.0.10  
+lorawan new release 1.12.1  
+rct new release 1.2.24  
+vis-2-widgets-inventwo new release 0.3.6  
+#### updates at stable repository 
 ## 2025-09-01
 #### updates at latest repository 
 backitup new release 3.3.6  
