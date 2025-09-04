@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2025-09-03
+#### updates at latest repository 
+accuweather new release 2.1.1  
+ecoflow-mqtt new release 1.4.3  
+heizungssteuerung new release 2.1.1  
+homeconnect new release 1.5.0  
+refoss new release 1.2.0  
+vis-2-widgets-icontwo new release 0.9.0  
+vis-jsontemplate new release 4.0.2  
+#### updates at stable repository 
+ankersolix2 updated to 2.3.0  
+rct updated to 1.2.23  
+snmp updated to 3.3.0  
+vis-icontwo updated to 1.18.0  
+worx updated to 3.2.7  
+zendure-solarflow updated to 2.0.1  
 ## 2025-09-02
 #### updates at latest repository 
 echarts new release 2.0.10  
