@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-09-04
+#### updates at latest repository 
+lorawan new release 1.13.3  
+p2pool new release 1.1.0  
+refoss new release 1.2.1  
+shuttercontrol new release 2.0.5  
+sofarcloud new release 3.0.1  
+vis-2-widgets-icontwo new release 0.11.1  
+vis-2-widgets-material new release 1.6.0  
+#### updates at stable repository 
+lg-thinq updated to 1.1.2  
 ## 2025-09-03
 #### updates at latest repository 
 accuweather new release 2.1.1  
