@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-09-05
+#### updates at latest repository 
+device-watcher new release 2.13.0  
+discovergy new release 0.6.0  
+lorawan new release 1.13.4  
+n8n new release 0.2.0  
+tibberlink new release 5.0.2  
+vis-2 new release 2.13.4  
+vis-2-widgets-icontwo new release 0.15.0  
+x-touch new release 0.8.2  
+#### updates at stable repository 
+alarm updated to 3.7.4  
+device-watcher updated to 2.12.6  
+teslafi updated to 2.0.2  
 ## 2025-09-04
 #### updates at latest repository 
 lorawan new release 1.13.3  
