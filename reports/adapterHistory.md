@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-09-06
+#### updates at latest repository 
+artnet-recorder new release 0.1.4  
+device-watcher new release 2.13.1  
+e3oncan new release 0.10.11  
+vis-2-widgets-icontwo new release 0.17.0  
+vivitek new release 0.1.2  
+#### updates at stable repository 
 ## 2025-09-05
 #### updates at latest repository 
 device-watcher new release 2.13.0  
