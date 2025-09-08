@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-09-07
+#### updates at latest repository 
+ebus new release 3.6.7  
+lorawan new release 1.13.7  
+n8n new release 0.3.0  
+vis-2-widgets-icontwo new release 0.20.0  
+vis-2-widgets-weather-and-heating new release 1.1.3  
+#### updates at stable repository 
+semp updated to 1.5.2  
+sonoff updated to 3.2.1  
+zigbee updated to 3.0.5  
 ## 2025-09-06
 #### updates at latest repository 
 artnet-recorder new release 0.1.4  
