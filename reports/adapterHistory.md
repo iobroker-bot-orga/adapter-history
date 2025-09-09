@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-09-08
+#### updates at latest repository 
+adguard new release 1.1.0  
+bayernluft new release 3.1.0  
+lorawan new release 1.13.9  
+onlycat new release 0.5.0  
+vis-2-widgets-icontwo new release 0.22.0  
+#### updates at stable repository 
+discovergy updated to 0.6.0  
+vis-2 updated to 2.13.4  
 ## 2025-09-07
 #### updates at latest repository 
 ebus new release 3.6.7  
