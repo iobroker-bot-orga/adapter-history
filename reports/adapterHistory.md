@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2025-09-09
+#### updates at latest repository 
+devices new release 1.2.9  
+lorawan new release 1.13.11  
+lovelace new release 5.0.1  
+mytime new release 2.0.1  
+onlycat new release 0.5.1  
+shelly new release 10.2.0  
+vis-2-widgets-icontwo new release 0.24.0  
+zendure-solarflow new release 2.0.3  
+#### updates at stable repository 
+airquality updated to 0.1.7  
+daikin updated to 1.5.1  
+daikin-cloud updated to 0.4.12  
+radar2 updated to 2.4.0  
+vis-2-widgets-icontwo updated to 0.22.0  
 ## 2025-09-08
 #### updates at latest repository 
 adguard new release 1.1.0  
