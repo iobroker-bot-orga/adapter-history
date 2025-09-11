@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-09-10
+#### updates at latest repository 
+lorawan new release 1.13.14  
+myuplink new release 0.8.5  
+vis-2-widgets-icontwo new release 0.25.0  
+#### updates at stable repository 
+pirate-weather updated to 0.4.0  
 ## 2025-09-09
 #### updates at latest repository 
 devices new release 1.2.9  
