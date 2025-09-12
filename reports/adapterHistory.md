@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-09-11
+#### updates at latest repository 
+lorawan new release 1.14.1  
+vis-2-widgets-icontwo new release 0.26.0  
+vis-2-widgets-inventwo new release 0.3.7  
+#### updates at stable repository 
 ## 2025-09-10
 #### updates at latest repository 
 lorawan new release 1.13.14  
