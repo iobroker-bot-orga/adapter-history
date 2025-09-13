@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-09-12
+#### updates at latest repository 
+lorawan new release 1.14.6  
+pirate-weather new release 0.4.1  
+vis-2-widgets-icontwo new release 0.27.0  
+zendure-solarflow new release 2.0.4  
+#### updates at stable repository 
+admin updated to 7.7.2  
+devices updated to 1.2.8  
 ## 2025-09-11
 #### updates at latest repository 
 lorawan new release 1.14.1  
