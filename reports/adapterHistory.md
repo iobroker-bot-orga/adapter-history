@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-09-13
+#### updates at latest repository 
+bambulab new release 0.3.5  
+ecoflow-mqtt new release 1.4.5  
+lorawan new release 1.14.7  
+telegram-menu new release 3.1.0  
+vis-2-widgets-icontwo new release 0.28.0  
+#### updates at stable repository 
 ## 2025-09-12
 #### updates at latest repository 
 lorawan new release 1.14.6  
