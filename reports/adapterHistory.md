@@ -1,5 +1,28 @@
 # Adapter publishing report
 
+## 2025-09-14
+#### updates at latest repository 
+bambulab new release 0.4.1  
+heizoel24-mex new release 1.4.6  
+kostal-piko-ba new release 6.0.2  
+lorawan new release 1.15.1  
+telegram-menu new release 3.1.1  
+vis-2-widgets-icontwo new release 0.29.0  
+vis-jsontemplate new release 4.1.2  
+xsense new release 0.0.18  
+#### updates at stable repository 
+brightsky updated to 0.2.4  
+ebus updated to 3.6.7  
+frontier_silicon updated to 0.5.0  
+melcloud updated to 3.0.1  
+mqtt updated to 6.1.4  
+myvbus updated to 0.6.0  
+panasonic-comfort-cloud updated to 3.1.0  
+plenticore-g3 updated to 0.2.1  
+sma-em updated to 1.3.0  
+vis-2-widgets-icontwo updated to 0.28.0  
+vis-2-widgets-weather-and-heating updated to 1.1.3  
+webui updated to 1.33.0  
 ## 2025-09-13
 #### updates at latest repository 
 bambulab new release 0.3.5  
