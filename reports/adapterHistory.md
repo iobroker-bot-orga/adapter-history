@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-09-15
+#### updates at latest repository 
+brightsky new release 0.3.0  
+cloudless-homeconnect new release 1.6.3  
+e3oncan new release 0.10.12  
+ical new release 1.17.0  
+lorawan new release 1.15.6  
+sofarcloud new release 3.1.0  
+vis-2-widgets-icontwo new release 1.1.0  
+weathersense new release 3.0.3  
+#### updates at stable repository 
+schedule-switcher updated to 0.0.12  
 ## 2025-09-14
 #### updates at latest repository 
 bambulab new release 0.4.1  
