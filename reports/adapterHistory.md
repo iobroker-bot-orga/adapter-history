@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-09-16
+#### updates at latest repository 
+brightsky new release 0.3.1  
+esphome new release 0.6.3  
+jeelink new release 1.2.7  
+lifx new release 1.0.9  
+lorawan new release 1.16.0  
+vis-2-widgets-icontwo new release 1.3.0  
+zigbee new release 3.1.2  
+#### updates at stable repository 
 ## 2025-09-15
 #### updates at latest repository 
 brightsky new release 0.3.0  
