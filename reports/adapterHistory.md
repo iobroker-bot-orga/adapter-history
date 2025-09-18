@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-09-17
+#### updates at latest repository 
+bambulab new release 0.4.3  
+flexcharts new release 0.5.0  
+lorawan new release 1.16.7  
+sayit new release 5.1.0  
+sofarcloud new release 3.2.1  
+vis-2 new release 2.13.5  
+#### updates at stable repository 
+artnet-recorder updated to 0.1.4  
+x-touch updated to 0.8.2  
 ## 2025-09-16
 #### updates at latest repository 
 brightsky new release 0.3.1  
