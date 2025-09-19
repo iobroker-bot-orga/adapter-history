@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-09-18
+#### updates at latest repository 
+brightsky new release 0.3.2  
+ecoflow-mqtt new release 1.4.6  
+kecontact new release 3.3.0  
+lorawan new release 1.16.11  
+refoss new release 1.2.2  
+smartloadmanager new release 0.0.7  
+tibberlink new release 5.0.3  
+#### updates at stable repository 
+govee-local updated to 0.2.9  
+tibberlink updated to 5.0.2  
+vbus-gw updated to 0.3.0  
+vivitek updated to 0.1.2  
 ## 2025-09-17
 #### updates at latest repository 
 bambulab new release 0.4.3  
