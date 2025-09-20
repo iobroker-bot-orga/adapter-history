@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-09-19
+#### updates at latest repository 
+brightsky new release 0.3.4  
+e3dc-rscp new release 1.4.3  
+fb-checkpresence new release 1.4.1  
+heizoel24-mex new release 1.4.7  
+lorawan new release 1.17.3  
+refoss new release 1.2.3  
+sofarcloud new release 3.2.2  
+solarviewdatareader new release 1.2.3  
+tagesschau new release 0.6.0  
+vis-hqwidgets new release 1.5.4  
+#### updates at stable repository 
+accuweather updated to 2.1.1  
 ## 2025-09-18
 #### updates at latest repository 
 brightsky new release 0.3.2  
