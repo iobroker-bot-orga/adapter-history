@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2025-09-20
+#### updates at latest repository 
+alexa-shoppinglist new release 1.1.2  
+ankersolix2 new release 2.4.0  
+homeconnect new release 1.5.1  
+lorawan new release 1.17.8  
+procon-ip new release 1.7.0  
+sonoff new release 3.3.0  
+telegram-menu new release 3.1.2  
+vis-2-widgets-icontwo new release 1.4.0  
+vis-2-widgets-inventwo new release 0.3.9  
+#### updates at stable repository 
+device-watcher updated to 2.13.1  
+pirate-weather updated to 0.4.1  
+vis-2-widgets-icontwo updated to 1.3.0  
 ## 2025-09-19
 #### updates at latest repository 
 brightsky new release 0.3.4  
