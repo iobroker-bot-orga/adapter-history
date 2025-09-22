@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-09-21
+#### updates at latest repository 
+brightsky new release 0.3.5  
+lorawan new release 1.17.9  
+matter new release 0.5.3  
+vis-2-widgets-icontwo new release 1.5.0  
+vis-hqwidgets new release 1.6.0  
+webui new release 1.34.2  
+#### updates at stable repository 
+deyeidc updated to 0.3.0  
+heizungssteuerung updated to 2.1.1  
+shelly updated to 10.2.0  
 ## 2025-09-20
 #### updates at latest repository 
 alexa-shoppinglist new release 1.1.2  
