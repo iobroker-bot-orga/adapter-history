@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2025-09-22
+#### updates at latest repository 
+backitup new release 3.3.7  
+refoss new release 1.2.4  
+vds2465-server new release 1.0.2  
+vis-2-widgets-icontwo new release 1.6.0  
+#### updates at stable repository 
+dnscope updated to 0.2.5  
+gotify-ws updated to 0.2.3  
+heizoel24-mex updated to 1.4.7  
+pegelalarm updated to 1.3.10  
+remeha-home updated to 1.0.8  
+schoolfree updated to 1.1.12  
+shuttercontrol updated to 2.0.5  
+solax updated to 0.9.20  
+tinker updated to 1.3.9  
+uv-protect updated to 0.6.8  
 ## 2025-09-21
 #### updates at latest repository 
 brightsky new release 0.3.5  
