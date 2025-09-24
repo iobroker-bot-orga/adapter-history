@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-09-23
+#### updates at latest repository 
+lorawan new release 1.17.11  
+rssfeed new release 3.6.1  
+vis-2-widgets-icontwo new release 1.7.0  
+#### updates at stable repository 
+bayernluft updated to 3.1.0  
 ## 2025-09-22
 #### updates at latest repository 
 backitup new release 3.3.7  
