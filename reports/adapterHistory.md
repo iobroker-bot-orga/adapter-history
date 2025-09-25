@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-09-24
+#### updates at latest repository 
+lorawan new release 1.17.13  
+sun2000 new release 2.1.1  
+webui new release 1.35.4  
+#### updates at stable repository 
 ## 2025-09-23
 #### updates at latest repository 
 lorawan new release 1.17.11  
