@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-09-25
+#### updates at latest repository 
+admin new release 7.7.3  
+brightsky new release 0.4.0  
+lorawan new release 1.17.16  
+pirate-weather new release 0.6.0  
+#### updates at stable repository 
 ## 2025-09-24
 #### updates at latest repository 
 lorawan new release 1.17.13  
