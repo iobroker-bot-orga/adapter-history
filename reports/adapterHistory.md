@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-09-26
+#### updates at latest repository 
+heizoel24-mex new release 1.5.0  
+zigbee new release 3.1.4  
+#### updates at stable repository 
+onlycat updated to 0.5.1  
 ## 2025-09-25
 #### updates at latest repository 
 admin new release 7.7.3  
