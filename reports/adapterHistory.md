@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-09-27
+#### updates at latest repository 
+brightsky new release 0.5.1  
+chargemaster new release 0.14.3  
+pirate-weather new release 0.6.2  
+voltoplus new release 0.2.0  
+#### updates at stable repository 
 ## 2025-09-26
 #### updates at latest repository 
 heizoel24-mex new release 1.5.0  
