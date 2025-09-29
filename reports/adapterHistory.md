@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-09-28
+#### updates at latest repository 
+bmw new release 3.0.1  
+brightsky new release 0.5.2  
+egigeozone2 new release 1.0.9  
+netatmo-crawler new release 1.1.0  
+teslafi new release 2.0.3  
+tibberlink new release 5.0.4  
+vis-2-widgets-icontwo new release 1.8.0  
+#### updates at stable repository 
+e3oncan updated to 0.10.12  
+myuplink updated to 0.8.5  
+vis-2-widgets-icontwo updated to 1.7.0  
 ## 2025-09-27
 #### updates at latest repository 
 brightsky new release 0.5.1  
