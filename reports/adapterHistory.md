@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-09-29
+#### updates at latest repository 
+fenecon new release 0.7.0  
+#### updates at stable repository 
+mytime updated to 2.0.1  
+zendure-solarflow updated to 2.0.4  
 ## 2025-09-28
 #### updates at latest repository 
 bmw new release 3.0.1  
