@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-09-30
+#### updates at latest repository 
+zendure-solarflow new release 3.0.0  
+#### updates at stable repository 
+lovelace updated to 5.0.1  
 ## 2025-09-29
 #### updates at latest repository 
 fenecon new release 0.7.0  
