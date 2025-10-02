@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-10-01
+#### updates at latest repository 
+apcups new release 5.0.1  
+bmw new release 4.0.3  
+brightsky new release 0.6.0  
+e3oncan new release 0.10.13  
+gree-hvac new release 2.0.1  
+lgtv new release 2.5.0  
+pirate-weather new release 0.7.0  
+#### updates at stable repository 
 ## 2025-09-30
 #### updates at latest repository 
 zendure-solarflow new release 3.0.0  
