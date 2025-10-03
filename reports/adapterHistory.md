@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-10-02
+#### updates at latest repository 
+bmw new release 4.0.5  
+brightsky new release 0.6.1  
+deyeidc new release 0.3.1  
+gree-hvac new release 2.0.2  
+lovelace new release 5.0.2  
+solarmanpv new release 0.7.2  
+zendure-solarflow new release 3.0.1  
+#### updates at stable repository 
+kecontact updated to 3.3.0  
 ## 2025-10-01
 #### updates at latest repository 
 apcups new release 5.0.1  
