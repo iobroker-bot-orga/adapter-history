@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2025-10-03
+#### updates at latest repository 
+brightsky new release 0.6.2  
+ems-esp new release 6.0.1  
+nut new release 1.7.0  
+sbms new release 0.4.1  
+smartloadmanager new release 0.0.8  
+telegram-menu new release 3.1.4  
+tibberlink new release 6.0.0-beta.1  
+weather-warnings new release 0.8.0  
+#### updates at stable repository 
+brightsky updated to 0.3.5  
+flexcharts updated to 0.5.0  
+heizoel24-mex updated to 1.5.0  
+lgtv updated to 2.5.0  
+openligadb updated to 1.9.1  
+refoss updated to 1.2.4  
+sofarcloud updated to 3.2.2  
+tagesschau updated to 0.6.0  
+weathersense updated to 3.0.3  
 ## 2025-10-02
 #### updates at latest repository 
 bmw new release 4.0.5  
