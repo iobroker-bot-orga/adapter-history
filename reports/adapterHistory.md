@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2025-10-04
+#### updates at latest repository 
+amtronwallbox new release 0.3.3  
+bmw new release 4.1.1  
+brightsky new release 0.6.5  
+canbus new release 2.3.0  
+lg-thinq new release 1.1.3  
+lorawan new release 1.17.17  
+sofarcloud new release 3.2.3  
+synochat new release 1.4.2  
+tibberlink new release 6.0.0-beta.2  
+zigbee new release 3.1.5  
+#### updates at stable repository 
+ical updated to 1.17.0  
+s7 updated to 1.5.0  
 ## 2025-10-03
 #### updates at latest repository 
 brightsky new release 0.6.2  
