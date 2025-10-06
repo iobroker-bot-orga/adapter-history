@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2025-10-05
+#### updates at latest repository 
+bmw new release 4.2.0  
+daswetter new release 3.2.4  
+ebus new release 3.6.8  
+heatingcontrol new release 2.12.16  
+odl new release 5.1.0  
+pvoutputorg new release 1.9.4  
+sbfspot new release 5.0.2  
+semp new release 1.5.3  
+sun2000 new release 2.2.0  
+tibberlink new release 6.0.0-beta.4  
+vis-2-widgets-icontwo new release 1.9.0  
+xsense new release 0.1.1  
+#### updates at stable repository 
+ecoflow-mqtt updated to 1.4.6  
+lifx updated to 1.0.9  
+sofarcloud updated to 3.2.3  
+vis-2-widgets-icontwo updated to 1.8.0  
 ## 2025-10-04
 #### updates at latest repository 
 amtronwallbox new release 0.3.3  
