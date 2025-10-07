@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-10-06
+#### updates at latest repository 
+apg-info new release 0.1.20  
+backitup new release 3.3.8  
+ecoflow-mqtt new release 1.4.7  
+lorawan new release 1.17.18  
+rest-api new release 3.1.0  
+tibberlink new release 6.0.0-beta.5  
+unraid new release 0.6.1  
+zendure-solarflow new release 3.0.2  
+#### updates at stable repository 
+rest-api updated to 3.0.1  
 ## 2025-10-05
 #### updates at latest repository 
 bmw new release 4.2.0  
