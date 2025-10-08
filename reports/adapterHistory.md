@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-10-07
+#### updates at latest repository 
+bluelink new release 3.1.21  
+lorawan new release 1.17.19  
+matter new release 0.5.4  
+modbus new release 7.0.0  
+plenticore-g3 new release 0.3.0  
+sbms new release 0.4.2  
+shelly new release 10.3.0  
+tibberlink new release 6.0.0  
+vis-2-widgets-ovarious new release 2.0.0  
+xsense new release 0.1.2  
+zendure-solarflow new release 3.0.3  
+#### updates at stable repository 
 ## 2025-10-06
 #### updates at latest repository 
 apg-info new release 0.1.20  
