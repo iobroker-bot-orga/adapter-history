@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-10-08
+#### updates at latest repository 
+backitup new release 3.3.9  
+modbus new release 7.0.4  
+plenticore-g3 new release 0.4.0  
+skiinfo new release 1.0.0  
+sofarcloud new release 3.2.4  
+tado new release 0.8.0  
+weatherflow-tempest-api new release 1.1.1  
+#### updates at stable repository 
+e3dc-rscp updated to 1.4.3  
+e3oncan updated to 0.10.13  
+rssfeed updated to 3.6.1  
+sofarcloud updated to 3.2.4  
 ## 2025-10-07
 #### updates at latest repository 
 bluelink new release 3.1.21  
