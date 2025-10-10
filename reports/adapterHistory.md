@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-10-09
+#### updates at latest repository 
+bmw new release 4.3.0  
+libre new release 0.1.4  
+unifi-network new release 1.1.6  
+weatherflow-tempest-api new release 1.1.2  
+zendure-solarflow new release 3.0.4  
+#### updates at stable repository 
 ## 2025-10-08
 #### updates at latest repository 
 backitup new release 3.3.9  
