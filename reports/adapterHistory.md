@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-10-10
+#### updates at latest repository 
+ankersolix2 new release 2.4.1  
+apcups new release 5.0.2  
+asuswrt new release 1.0.2  
+gree-hvac new release 2.0.3  
+lovelace new release 5.0.3  
+rest-api new release 3.1.1  
+sofarcloud new release 3.2.5  
+tibberlink new release 6.0.1  
+#### updates at stable repository 
+apcups updated to 5.0.1  
+gree-hvac updated to 2.0.2  
+pirate-weather updated to 0.7.0  
 ## 2025-10-09
 #### updates at latest repository 
 bmw new release 4.3.0  
