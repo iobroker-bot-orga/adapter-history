@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-10-11
+#### updates at latest repository 
+asuswrt new release 1.0.3  
+vis-2 new release 2.13.6  
+vis-2-widgets-jaeger-design new release 1.4.8  
+#### updates at stable repository 
 ## 2025-10-10
 #### updates at latest repository 
 ankersolix2 new release 2.4.1  
