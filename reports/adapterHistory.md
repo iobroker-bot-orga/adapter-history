@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-10-12
+#### updates at latest repository 
+brightsky new release 0.6.6  
+freeair new release 1.0.5  
+openmediavault new release 1.0.3  
+vis-2-widgets-icontwo new release 1.12.0  
+#### updates at stable repository 
+tibberlink updated to 6.0.1  
 ## 2025-10-11
 #### updates at latest repository 
 asuswrt new release 1.0.3  
