@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-10-13
+#### updates at latest repository 
+alarm new release 3.7.5  
+apg-info new release 0.1.21  
+iot new release 4.1.0  
+modbus new release 7.0.5  
+shelly new release 10.4.0  
+shuttercontrol new release 2.0.6  
+viessmann new release 1.7.2  
+vis-2-widgets-icontwo new release 1.14.0  
+voltoplus new release 0.2.1  
+#### updates at stable repository 
+netatmo-crawler updated to 1.1.0  
 ## 2025-10-12
 #### updates at latest repository 
 brightsky new release 0.6.6  
