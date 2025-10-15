@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-10-14
+#### updates at latest repository 
+iot new release 4.1.2  
+#### updates at stable repository 
+teslafi updated to 2.0.3  
 ## 2025-10-13
 #### updates at latest repository 
 alarm new release 3.7.5  
