@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-10-15
+#### updates at latest repository 
+docker-manager new release 0.1.0  
+sofarcloud new release 3.2.7  
+webui new release 1.37.0  
+#### updates at stable repository 
+plenticore-g3 updated to 0.4.0  
+vis-jsontemplate updated to 4.1.2  
 ## 2025-10-14
 #### updates at latest repository 
 iot new release 4.1.2  
