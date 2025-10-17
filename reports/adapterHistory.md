@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-10-16
+#### updates at latest repository 
+bluelink new release 3.1.22  
+docker-manager new release 0.1.3  
+iot new release 4.1.3  
+matter new release 0.5.5  
+rct new release 1.2.25  
+vis-2-widgets-jaeger-design new release 1.4.9  
+#### updates at stable repository 
+ankersolix2 updated to 2.4.1  
+egigeozone2 updated to 1.0.9  
+fb-checkpresence updated to 1.4.1  
+tado updated to 0.8.0  
 ## 2025-10-15
 #### updates at latest repository 
 docker-manager new release 0.1.0  
