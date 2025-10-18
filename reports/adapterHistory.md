@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-10-17
+#### updates at latest repository 
+apcups new release 5.0.3  
+bluelink new release 3.1.23  
+gree-hvac new release 2.0.4  
+iot new release 4.1.4  
+matrix-org new release 1.2.0  
+oxxify-fan-control new release 0.0.8  
+pirate-weather new release 0.7.1  
+plenticore-g3 new release 0.4.1  
+#### updates at stable repository 
+brightsky updated to 0.6.5  
+rct updated to 1.2.24  
 ## 2025-10-16
 #### updates at latest repository 
 bluelink new release 3.1.22  
