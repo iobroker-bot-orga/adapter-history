@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-10-18
+#### updates at latest repository 
+backitup new release 3.3.10  
+bluesound new release 1.2.1  
+vis-2-widgets-icontwo new release 1.15.0  
+#### updates at stable repository 
+deyeidc updated to 0.3.1  
+freeair updated to 1.0.5  
+unifi-network updated to 1.1.6  
+vis-2-widgets-icontwo updated to 1.14.0  
 ## 2025-10-17
 #### updates at latest repository 
 apcups new release 5.0.3  
