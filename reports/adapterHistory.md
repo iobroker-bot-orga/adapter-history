@@ -1,5 +1,28 @@
 # Adapter publishing report
 
+## 2025-10-19
+#### updates at latest repository 
+bidirectional-counter new release 2.5.0  
+drag-indicator new release 2.5.0  
+freeair new release 1.0.6  
+govee-local new release 0.3.1  
+iot new release 4.1.6  
+janitza-gridvis new release 3.6.0  
+kostal-piko-ba new release 6.0.3  
+lorawan new release 1.18.0  
+lowpass-filter new release 2.6.0  
+openmediavault new release 1.0.4  
+operating-hours new release 1.4.0  
+paperless-ngx new release 0.5.0  
+smoothed new release 1.5.0  
+unifi-network new release 1.1.7  
+unraid new release 0.6.2  
+vds2465-server new release 1.0.3  
+vis-2-widgets-icontwo new release 1.16.0  
+weatherflow-tempest-api new release 1.1.3  
+#### updates at stable repository 
+lorawan updated to 1.18.0  
+weather-warnings updated to 0.8.0  
 ## 2025-10-18
 #### updates at latest repository 
 backitup new release 3.3.10  
