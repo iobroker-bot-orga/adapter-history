@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-10-20
+#### updates at latest repository 
+flexcharts new release 0.6.0  
+ical new release 1.18.0  
+iot new release 4.1.10  
+scenes new release 4.0.4  
+steam new release 0.5.7  
+telegram-menu new release 3.2.0  
+zendure-solarflow new release 3.0.7  
+#### updates at stable repository 
 ## 2025-10-19
 #### updates at latest repository 
 bidirectional-counter new release 2.5.0  
