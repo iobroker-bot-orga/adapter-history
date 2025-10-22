@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2025-10-21
+#### updates at latest repository 
+awtrix-light new release 3.0.0  
+discord new release 2.6.0  
+ds18b20 new release 3.1.0  
+energiefluss-erweitert new release 0.8.0  
+hm-rpc new release 3.0.0  
+iot new release 4.1.11  
+matter new release 0.5.6  
+seq new release 0.4.2  
+sun2000 new release 2.3.0  
+xsense new release 0.2.0  
+#### updates at stable repository 
+fyta updated to 0.2.0  
+matter updated to 0.5.5  
 ## 2025-10-20
 #### updates at latest repository 
 flexcharts new release 0.6.0  
