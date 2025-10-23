@@ -1,5 +1,29 @@
 # Adapter publishing report
 
+## 2025-10-22
+#### updates at latest repository 
+amtronwallbox new release 0.3.4  
+apg-info new release 0.1.22  
+daswetter new release 3.2.5  
+ebus new release 3.6.9  
+iot new release 4.2.1  
+janitza-gridvis new release 3.6.1  
+lametric new release 5.0.0  
+onlycat new release 0.5.2  
+pvoutputorg new release 1.9.5  
+sbfspot new release 5.0.3  
+solarlog new release 2.4.0  
+sun2000 new release 2.3.1  
+sureflap new release 3.4.1  
+zendure-solarflow new release 3.0.8  
+zigbee new release 3.1.6  
+#### updates at stable repository 
+canbus updated to 2.3.0  
+ems-esp updated to 6.0.1  
+odl updated to 5.1.0  
+openmediavault updated to 1.0.3  
+weatherflow-tempest-api updated to 1.1.2  
+zigbee updated to 3.1.5  
 ## 2025-10-21
 #### updates at latest repository 
 awtrix-light new release 3.0.0  
