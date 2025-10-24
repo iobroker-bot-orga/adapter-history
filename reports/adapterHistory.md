@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2025-10-23
+#### updates at latest repository 
+cmicoe new release 1.2.2  
+daswetter new release 3.2.6  
+hm-rpc new release 3.0.1  
+iot new release 4.2.2  
+teslafi new release 2.0.4  
+vis-weather new release 2.5.13  
+#### updates at stable repository 
+apg-info updated to 0.1.21  
+skiinfo updated to 1.0.0  
+solarviewdatareader updated to 1.2.3  
+vis-2-widgets-jaeger-design updated to 1.4.9  
+vis-2-widgets-ovarious updated to 2.0.0  
+xsense updated to 0.1.2  
 ## 2025-10-22
 #### updates at latest repository 
 amtronwallbox new release 0.3.4  
