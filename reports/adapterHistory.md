@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-10-24
+#### updates at latest repository 
+artnet-recorder new release 0.1.5  
+energiefluss-erweitert new release 0.8.1  
+solarviewdatareader new release 1.2.4  
+sun2000 new release 2.3.2  
+vivitek new release 0.1.3  
+x-touch new release 0.8.3  
+#### updates at stable repository 
 ## 2025-10-23
 #### updates at latest repository 
 cmicoe new release 1.2.2  
