@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-10-25
+#### updates at latest repository 
+admin new release 7.7.16  
+cmicoe new release 1.2.3  
+ical new release 1.18.1  
+tibberlink new release 6.0.2  
+#### updates at stable repository 
 ## 2025-10-24
 #### updates at latest repository 
 artnet-recorder new release 0.1.5  
