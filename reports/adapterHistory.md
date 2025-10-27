@@ -1,5 +1,40 @@
 # Adapter publishing report
 
+## 2025-10-26
+#### updates at latest repository 
+admin new release 7.7.19  
+alarm new release 3.7.6  
+amtronwallbox new release 0.3.5  
+brightsky new release 0.6.7  
+canbus new release 2.3.1  
+discord new release 2.6.1  
+dnscope new release 0.2.6  
+ds18b20 new release 3.1.1  
+ebus new release 3.6.10  
+eusec new release 2.0.3  
+heatingcontrol new release 2.12.18  
+iot new release 4.2.7  
+nanoleaf-lightpanels new release 1.6.0  
+odl new release 5.1.1  
+pvoutputorg new release 1.9.6  
+sbfspot new release 5.0.4  
+semp new release 1.5.4  
+unifi-network new release 1.1.8  
+viessmann new release 1.7.3  
+vis-2-widgets-icontwo new release 1.17.0  
+vis-2-widgets-weather-and-heating new release 1.1.5  
+zigbee new release 3.2.1  
+#### updates at stable repository 
+bidirectional-counter updated to 2.5.0  
+blebox updated to 2.2.3  
+bluesound updated to 1.2.1  
+brightsky updated to 0.6.6  
+drag-indicator updated to 2.5.0  
+operating-hours updated to 1.4.0  
+paperless-ngx updated to 0.5.0  
+smoothed updated to 1.5.0  
+sofarcloud updated to 3.2.7  
+vis-2-widgets-icontwo updated to 1.16.0  
 ## 2025-10-25
 #### updates at latest repository 
 admin new release 7.7.16  
