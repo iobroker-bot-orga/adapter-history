@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-10-27
+#### updates at latest repository 
+pjlink new release 0.1.2  
+stiebel-isg new release 2.0.0  
+#### updates at stable repository 
 ## 2025-10-26
 #### updates at latest repository 
 admin new release 7.7.19  
