@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-10-28
+#### updates at latest repository 
+iot new release 4.2.8  
+vis-2-widgets-icontwo new release 1.18.0  
+zigbee new release 3.2.2  
+#### updates at stable repository 
 ## 2025-10-27
 #### updates at latest repository 
 pjlink new release 0.1.2  
