@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-10-29
+#### updates at latest repository 
+apg-info new release 0.1.23  
+extron new release 0.3.0  
+heos new release 3.0.0  
+iot new release 4.2.9  
+plenticore-g3 new release 0.5.0  
+weather-warnings new release 0.9.0  
+#### updates at stable repository 
+janitza-gridvis updated to 3.6.1  
+lowpass-filter updated to 2.6.0  
 ## 2025-10-28
 #### updates at latest repository 
 iot new release 4.2.8  
