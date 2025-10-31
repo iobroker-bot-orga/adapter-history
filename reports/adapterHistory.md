@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-10-30
+#### updates at latest repository 
+birthdays new release 5.0.0  
+evcc new release 0.2.4  
+fb-checkpresence new release 1.4.2  
+iot new release 5.0.2  
+modbus new release 7.0.6  
+vis-keyboard new release 0.0.3  
+xsense new release 0.2.1  
+#### updates at stable repository 
 ## 2025-10-29
 #### updates at latest repository 
 apg-info new release 0.1.23  
