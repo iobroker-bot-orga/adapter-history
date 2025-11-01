@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-10-31
+#### updates at latest repository 
+iot new release 5.0.5  
+kisshome-defender new release 1.1.1  
+sun2000 new release 2.3.3  
+zigbee new release 3.2.4  
+#### updates at stable repository 
+iot updated to 5.0.5  
+kisshome-defender updated to 1.1.1  
 ## 2025-10-30
 #### updates at latest repository 
 birthdays new release 5.0.0  
