@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-11-01
+#### updates at latest repository 
+alpha-ess new release 4.0.0  
+cloud new release 5.1.2  
+ems-esp new release 6.0.2  
+flexcharts new release 0.6.1  
+kisshome-defender new release 1.1.3  
+netatmo-energy new release 2.8.5  
+radiohead new release 1.4.0  
+sun2000 new release 2.3.4  
+zigbee new release 3.2.5  
+#### updates at stable repository 
+admin updated to 7.7.19  
+kisshome-defender updated to 1.1.3  
 ## 2025-10-31
 #### updates at latest repository 
 iot new release 5.0.5  
