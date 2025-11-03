@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-11-02
+#### updates at latest repository 
+daswetter new release 3.2.7  
+ebus new release 3.7.0  
+iot new release 5.0.6  
+netatmo-energy new release 2.8.8  
+#### updates at stable repository 
 ## 2025-11-01
 #### updates at latest repository 
 alpha-ess new release 4.0.0  
