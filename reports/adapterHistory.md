@@ -1,5 +1,27 @@
 # Adapter publishing report
 
+## 2025-11-03
+#### updates at latest repository 
+daswetter new release 3.2.8  
+e3oncan new release 0.10.14  
+govee-local new release 0.4.0  
+harmony new release 2.0.2  
+heatingcontrol new release 2.12.19  
+iot new release 5.0.7  
+kisshome-defender new release 1.1.4  
+pegelalarm new release 1.3.11  
+shelly new release 10.4.1  
+shuttercontrol new release 2.0.7  
+text2command new release 4.0.0  
+unifi-network new release 1.1.9  
+uv-protect new release 0.6.9  
+vis-jsontemplate new release 4.1.3  
+#### updates at stable repository 
+backitup updated to 3.3.10  
+dnscope updated to 0.2.6  
+eusec updated to 2.0.3  
+shelly updated to 10.4.0  
+vis-2-widgets-icontwo updated to 1.18.0  
 ## 2025-11-02
 #### updates at latest repository 
 daswetter new release 3.2.7  
