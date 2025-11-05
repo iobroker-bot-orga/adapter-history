@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-11-04
+#### updates at latest repository 
+harmony new release 2.0.3  
+heos new release 3.0.2  
+kisshome-defender new release 1.1.5  
+lorawan new release 1.18.2  
+solarmanpv new release 0.7.3  
+#### updates at stable repository 
+iot updated to 5.0.7  
+webui updated to 1.37.0  
 ## 2025-11-03
 #### updates at latest repository 
 daswetter new release 3.2.8  
