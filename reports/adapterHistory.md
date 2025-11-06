@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-11-05
+#### updates at latest repository 
+kisshome-defender new release 1.1.7  
+solarprognose new release 2.0.0  
+tado new release 0.8.1  
+unifi-network new release 1.2.0  
+#### updates at stable repository 
+lg-thinq updated to 1.1.3  
+plenticore-g3 updated to 0.5.0  
 ## 2025-11-04
 #### updates at latest repository 
 harmony new release 2.0.3  
