@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-11-06
+#### updates at latest repository 
+alexa2 new release 3.27.4  
+apg-info new release 0.1.24  
+bidirectional-counter new release 2.5.2  
+kisshome-defender new release 1.1.8  
+lorawan new release 1.18.3  
+#### updates at stable repository 
+alexa2 updated to 3.27.4  
+solarlog updated to 2.4.0  
 ## 2025-11-05
 #### updates at latest repository 
 kisshome-defender new release 1.1.7  
