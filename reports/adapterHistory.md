@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-11-07
+#### updates at latest repository 
+govee-local new release 0.4.1  
+gree-hvac new release 2.0.6  
+kisshome-defender new release 1.1.9  
+tado new release 0.8.2  
+#### updates at stable repository 
+kisshome-defender updated to 1.1.9  
+onlycat updated to 0.5.2  
+sureflap updated to 3.4.1  
 ## 2025-11-06
 #### updates at latest repository 
 alexa2 new release 3.27.4  
