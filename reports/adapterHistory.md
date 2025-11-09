@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-11-08
+#### updates at latest repository 
+govee-local new release 0.4.2  
+hydrop new release 0.1.3  
+lorawan new release 1.18.4  
+smartloadmanager new release 0.1.0  
+#### updates at stable repository 
+sun2000 updated to 2.3.4  
 ## 2025-11-07
 #### updates at latest repository 
 govee-local new release 0.4.1  
