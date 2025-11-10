@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-11-09
+#### updates at latest repository 
+netatmo-energy new release 3.0.0  
+#### updates at stable repository 
 ## 2025-11-08
 #### updates at latest repository 
 govee-local new release 0.4.2  
