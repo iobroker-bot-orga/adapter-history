@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-11-10
+#### updates at latest repository 
+kisshome-defender new release 1.1.10  
+net-tools new release 1.2.3  
+unifi-network new release 1.2.1  
+vis-2 new release 2.13.7  
+vw-connect new release 0.7.13  
+#### updates at stable repository 
+alexa-shoppinglist updated to 1.1.2  
+alexa-timer-vis updated to 2.1.2  
+discord updated to 2.6.1  
+ical updated to 1.18.1  
+synochat updated to 1.4.2  
 ## 2025-11-09
 #### updates at latest repository 
 netatmo-energy new release 3.0.0  
