@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-11-11
+#### updates at latest repository 
+bidirectional-counter new release 2.5.4  
+govee-local new release 0.4.3  
+yahka new release 1.1.6  
+#### updates at stable repository 
+rct updated to 1.2.25  
 ## 2025-11-10
 #### updates at latest repository 
 kisshome-defender new release 1.1.10  
