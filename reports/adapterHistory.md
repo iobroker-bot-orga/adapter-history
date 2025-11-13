@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-11-12
+#### updates at latest repository 
+hyperion-connector new release 0.2.1  
+kisshome-defender new release 1.1.11  
+mercedesme new release 0.3.9  
+refoss new release 1.3.0  
+#### updates at stable repository 
+telegram-menu updated to 3.2.0  
+x-touch updated to 0.8.3  
 ## 2025-11-11
 #### updates at latest repository 
 bidirectional-counter new release 2.5.4  
