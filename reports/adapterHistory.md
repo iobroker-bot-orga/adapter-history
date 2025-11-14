@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-11-13
+#### updates at latest repository 
+kisshome-defender new release 1.1.12  
+stiebel-isg new release 2.0.1  
+weather-warnings new release 0.10.0  
+#### updates at stable repository 
+kisshome-defender updated to 1.1.12  
 ## 2025-11-12
 #### updates at latest repository 
 hyperion-connector new release 0.2.1  
