@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-11-14
+#### updates at latest repository 
+govee-local new release 0.4.4  
+siegenia new release 1.2.1  
+tado new release 0.8.3  
+unifi-network new release 1.2.2  
+#### updates at stable repository 
+energiefluss-erweitert updated to 0.8.1  
 ## 2025-11-13
 #### updates at latest repository 
 kisshome-defender new release 1.1.12  
