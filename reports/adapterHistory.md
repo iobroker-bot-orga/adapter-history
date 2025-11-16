@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-11-15
+#### updates at latest repository 
+nspanel-lovelace-ui new release 0.8.1  
+vis-jsontemplate new release 4.2.0  
+#### updates at stable repository 
 ## 2025-11-14
 #### updates at latest repository 
 govee-local new release 0.4.4  
