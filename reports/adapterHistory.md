@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-11-16
+#### updates at latest repository 
+admin new release 7.7.20  
+airconwithme new release 1.0.0  
+apg-info new release 0.1.26  
+batrium-bms new release 0.7.0  
+device-watcher new release 2.14.5  
+govee-local new release 0.4.5  
+trashschedule new release 5.0.0  
+vis-2 new release 2.13.8  
+welcome new release 1.1.1  
+#### updates at stable repository 
 ## 2025-11-15
 #### updates at latest repository 
 nspanel-lovelace-ui new release 0.8.1  
