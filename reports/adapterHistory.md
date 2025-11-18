@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-11-17
+#### updates at latest repository 
+tibberlink new release 6.0.3  
+vis-2-widgets-icontwo new release 1.20.0  
+#### updates at stable repository 
+alarm updated to 3.7.6  
+awtrix-light updated to 3.0.0  
+birthdays updated to 5.0.0  
+e3oncan updated to 0.10.14  
+flexcharts updated to 0.6.1  
+lametric updated to 5.0.0  
+net-tools updated to 1.2.3  
+viessmann updated to 1.7.3  
 ## 2025-11-16
 #### updates at latest repository 
 admin new release 7.7.20  
