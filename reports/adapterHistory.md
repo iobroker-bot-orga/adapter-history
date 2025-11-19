@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-11-18
+#### updates at latest repository 
+sun2000 new release 2.3.5  
+#### updates at stable repository 
 ## 2025-11-17
 #### updates at latest repository 
 tibberlink new release 6.0.3  
