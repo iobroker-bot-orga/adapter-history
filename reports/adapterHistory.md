@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2025-11-19
+#### updates at latest repository 
+pirate-weather new release 0.8.0  
+schoolfree new release 1.1.13  
+tinker new release 1.3.11  
+#### updates at stable repository 
+fb-checkpresence updated to 1.4.2  
+freeair updated to 1.0.6  
+openmediavault updated to 1.0.4  
+solarprognose updated to 2.0.0  
+tado updated to 0.8.3  
+weatherflow-tempest-api updated to 1.1.3  
+xsense updated to 0.2.1  
 ## 2025-11-18
 #### updates at latest repository 
 sun2000 new release 2.3.5  
