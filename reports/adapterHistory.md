@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-11-20
+#### updates at latest repository 
+apg-info new release 0.1.27  
+plenticore-g3 new release 0.5.1  
+sbms new release 0.4.3  
+#### updates at stable repository 
+refoss updated to 1.3.0  
 ## 2025-11-19
 #### updates at latest repository 
 pirate-weather new release 0.8.0  
