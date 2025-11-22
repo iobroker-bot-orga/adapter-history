@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-11-21
+#### updates at latest repository 
+lorawan new release 1.18.6  
+mihome-cloud new release 0.2.0  
+nspanel-lovelace-ui new release 0.9.0  
+vis-2-widgets-inventwo new release 0.3.10  
+webui new release 1.38.1  
+#### updates at stable repository 
 ## 2025-11-20
 #### updates at latest repository 
 apg-info new release 0.1.27  
