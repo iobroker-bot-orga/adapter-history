@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-11-22
+#### updates at latest repository 
+apcups new release 5.0.4  
+openmediavault new release 1.1.0  
+#### updates at stable repository 
+heatingcontrol updated to 2.12.19  
+pvoutputorg updated to 1.9.6  
+sbfspot updated to 5.0.4  
+semp updated to 1.5.4  
+vis-2-widgets-inventwo updated to 0.3.9  
+vis-2-widgets-weather-and-heating updated to 1.1.5  
+vis-weather updated to 2.5.13  
 ## 2025-11-21
 #### updates at latest repository 
 lorawan new release 1.18.6  
