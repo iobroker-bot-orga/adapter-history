@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-11-23
+#### updates at latest repository 
+lorawan new release 1.18.8  
+mihome-cloud new release 0.2.1  
+openmediavault new release 1.2.0  
+remeha-home new release 1.0.9  
+stiebel-isg new release 2.0.2  
+webui new release 1.38.3  
+#### updates at stable repository 
 ## 2025-11-22
 #### updates at latest repository 
 apcups new release 5.0.4  
