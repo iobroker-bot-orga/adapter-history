@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2025-11-24
+#### updates at latest repository 
+backitup new release 3.3.11  
+dnscope new release 0.2.7  
+energy-tracker new release 0.3.0  
+gotify-ws new release 0.2.4  
+hydrop new release 0.1.4  
+lorawan new release 1.18.13  
+openmediavault new release 1.3.0  
+pegelalarm new release 1.3.12  
+shuttercontrol new release 2.0.8  
+solax new release 0.9.21  
+unifi-network new release 1.3.0  
+uv-protect new release 0.6.10  
+#### updates at stable repository 
 ## 2025-11-23
 #### updates at latest repository 
 lorawan new release 1.18.8  
