@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2025-11-25
+#### updates at latest repository 
+lorawan new release 1.18.15  
+vis-colorpicker new release 2.1.0  
+webui new release 1.38.6  
+#### updates at stable repository 
+amtronwallbox updated to 0.3.5  
+canbus updated to 2.3.1  
+daswetter updated to 3.2.8  
+ds18b20 updated to 3.1.1  
+ebus updated to 3.7.0  
+odl updated to 5.1.1  
+pegelalarm updated to 1.3.11  
+plenticore-g3 updated to 0.5.1  
+shuttercontrol updated to 2.0.7  
+uv-protect updated to 0.6.9  
+vis-2-widgets-icontwo updated to 1.20.0  
 ## 2025-11-24
 #### updates at latest repository 
 backitup new release 3.3.11  
