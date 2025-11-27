@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-11-26
+#### updates at latest repository 
+bmw new release 4.3.1  
+energy-tracker new release 0.3.1  
+kisshome-defender new release 1.1.13  
+kostal-piko-ba new release 6.0.4  
+lorawan new release 1.18.23  
+schedule-switcher new release 0.1.0  
+trashschedule new release 5.0.1  
+#### updates at stable repository 
+javascript updated to 9.0.11  
 ## 2025-11-25
 #### updates at latest repository 
 lorawan new release 1.18.15  
