@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-11-27
+#### updates at latest repository 
+lorawan new release 1.18.27  
+oekofen-json new release 2.0.0  
+telegram-menu new release 3.2.1  
+#### updates at stable repository 
+apg-info updated to 0.1.27  
+kisshome-defender updated to 1.1.13  
 ## 2025-11-26
 #### updates at latest repository 
 bmw new release 4.3.1  
