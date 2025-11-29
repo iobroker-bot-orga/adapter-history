@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-11-28
+#### updates at latest repository 
+lorawan new release 1.18.34  
+mytime new release 2.1.0  
+rpi2 new release 3.0.0  
+#### updates at stable repository 
 ## 2025-11-27
 #### updates at latest repository 
 lorawan new release 1.18.27  
