@@ -1,5 +1,28 @@
 # Adapter publishing report
 
+## 2025-11-29
+#### updates at latest repository 
+alexa-shoppinglist new release 1.1.3  
+alexa-timer-vis new release 2.1.3  
+energymanager new release 2.0.0  
+iot new release 5.0.8  
+lorawan new release 1.18.35  
+nspanel-lovelace-ui new release 0.9.1  
+refoss new release 1.3.3  
+rpi2 new release 3.0.1  
+sainlogic new release 1.0.13  
+shuttercontrol new release 2.0.9  
+uv-protect new release 0.6.11  
+webui new release 1.38.7  
+#### updates at stable repository 
+artnet-recorder updated to 0.1.5  
+bmw updated to 4.3.0  
+energy-tracker updated to 0.3.1  
+extron updated to 0.3.0  
+hydrop updated to 0.1.4  
+sbms updated to 0.4.2  
+shelly updated to 10.4.1  
+vivitek updated to 0.1.3  
 ## 2025-11-28
 #### updates at latest repository 
 lorawan new release 1.18.34  
