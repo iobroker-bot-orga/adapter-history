@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-11-30
+#### updates at latest repository 
+fronius-wattpilot new release 4.8.0  
+lorawan new release 1.18.38  
+nmea new release 0.4.0  
+#### updates at stable repository 
 ## 2025-11-29
 #### updates at latest repository 
 alexa-shoppinglist new release 1.1.3  
