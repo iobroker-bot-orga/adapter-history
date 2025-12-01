@@ -5,12 +5,64 @@
 
 const fs = require('node:fs');
 //const github = require('../lib/githubTools.js');
-const iobroker = require('@iobroker-bot-orga/iobroker-lib');
 
 const HISTORY_FILE = './data/adapterHistory.json';
 const HISTORY_LOG_FILE = './data/adapterHistoryLog.json';
 const REPORT_FILE = './reports/adapterHistory.md';
 const MAIL_FILE = '.adapterHistory.txt';
+
+// Repository URLs
+const LATEST_REPO_URL = 'https://download.iobroker.net/sources-dist-latest.json';
+const STABLE_REPO_URL = 'https://download.iobroker.net/sources-dist.json';
+
+// Default timeout for HTTP requests (in milliseconds)
+const DEFAULT_TIMEOUT = 30000;
+
+/**
+ * Helper function to fetch JSON with timeout support.
+ * @param {string} url - URL to fetch
+ * @param {number} timeout - Timeout in milliseconds
+ * @returns {Promise<object>} returns parsed JSON response
+ */
+async function fetchJson(url, timeout = DEFAULT_TIMEOUT) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), timeout);
+
+    try {
+        const response = await fetch(url, {
+            signal: controller.signal,
+        });
+
+        clearTimeout(timeoutId);
+
+        if (!response.ok) {
+            throw new Error(`HTTP error retrieving ${url}, status: ${response.status}`);
+        }
+
+        return await response.json();
+    } catch (error) {
+        clearTimeout(timeoutId);
+        throw error;
+    }
+}
+
+/**
+ * Retrieves the current latest repository data from iobroker.
+ * @returns {Promise<object>} returns repository json
+ */
+async function getLatestRepo() {
+    console.log(`retrieving "${LATEST_REPO_URL}"`);
+    return await fetchJson(LATEST_REPO_URL);
+}
+
+/**
+ * Retrieves the current stable repository data from iobroker.
+ * @returns {Promise<object>} returns repository json
+ */
+async function getStableRepo() {
+    console.log(`retrieving "${STABLE_REPO_URL}"`);
+    return await fetchJson(STABLE_REPO_URL);
+}
 
 let history = {};
 let historyLog = {};
@@ -23,7 +75,7 @@ const nowDateStr = nowDate.toISOString();
 async function processLatest() {
     console.log( 'processing LATEST repository' );
 
-    const adapters = await iobroker.getLatestRepoLive();
+    const adapters = await getLatestRepo();
     const repoTime = firstRun?'1970-01-01T00:00:00.000Z':adapters._repoInfo.repoTime;
     const historyLogKey = repoTime.split('T')[0]+'T00:00:00.000Z';
 
@@ -66,7 +118,7 @@ async function processLatest() {
 async function processStable() {
     console.log( 'processing STABLE repository' );
 
-    const adapters = await iobroker.getStableRepoLive();
+    const adapters = await getStableRepo();
     const repoTime = firstRun?'1970-01-01T00:00:00.000Z':adapters._repoInfo.repoTime;
     const historyLogKey = repoTime.split('T')[0]+'T00:00:00.000Z';
 

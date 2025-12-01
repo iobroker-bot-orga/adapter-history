@@ -15,9 +15,7 @@
   "engines": {
     "node": ">= 18"
   },
-  "dependencies": {
-    "@iobroker-bot-orga/iobroker-lib": "^1.1.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@alcalzone/release-script": "^3.8.0",
     "@alcalzone/release-script-plugin-license": "^3.7.0",
