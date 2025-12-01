@@ -33,16 +33,13 @@ async function fetchJson(url, timeout = DEFAULT_TIMEOUT) {
             signal: controller.signal,
         });
 
-        clearTimeout(timeoutId);
-
         if (!response.ok) {
             throw new Error(`HTTP error retrieving ${url}, status: ${response.status}`);
         }
 
         return await response.json();
-    } catch (error) {
+    } finally {
         clearTimeout(timeoutId);
-        throw error;
     }
 }
 
