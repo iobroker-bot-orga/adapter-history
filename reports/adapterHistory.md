@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-12-01
+#### updates at latest repository 
+ems-esp new release 6.0.3  
+lorawan new release 1.18.41  
+mytime new release 2.2.1  
+openmediavault new release 1.4.0  
+rpi2 new release 3.0.2  
+unraid new release 0.7.1  
+zendure-solarflow new release 3.1.1  
+#### updates at stable repository 
 ## 2025-11-30
 #### updates at latest repository 
 fronius-wattpilot new release 4.8.0  
