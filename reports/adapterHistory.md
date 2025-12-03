@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-12-02
+#### updates at latest repository 
+javascript new release 9.0.12  
+lorawan new release 1.18.42  
+openmediavault new release 1.4.1  
+oxxify-fan-control new release 0.0.9  
+sainlogic new release 1.0.14  
+unifi-network new release 1.3.1  
+#### updates at stable repository 
+vis-jsontemplate updated to 4.2.0  
 ## 2025-12-01
 #### updates at latest repository 
 ems-esp new release 6.0.3  
