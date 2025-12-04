@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-12-03
+#### updates at latest repository 
+lorawan new release 1.18.44  
+mytime new release 2.3.0  
+#### updates at stable repository 
+ping updated to 1.7.9  
 ## 2025-12-02
 #### updates at latest repository 
 javascript new release 9.0.12  
