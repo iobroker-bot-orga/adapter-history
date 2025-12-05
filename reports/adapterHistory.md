@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2025-12-04
+#### updates at latest repository 
+bluesound new release 1.3.0  
+ems-esp new release 6.0.5  
+lorawan new release 1.18.45  
+mihome-cloud new release 0.2.2  
+openmediavault new release 1.4.2  
+vw-connect new release 0.7.15  
+#### updates at stable repository 
+weather-warnings updated to 0.10.0  
 ## 2025-12-03
 #### updates at latest repository 
 lorawan new release 1.18.44  
