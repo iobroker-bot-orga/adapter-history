@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-12-05
+#### updates at latest repository 
+hydrawise new release 1.0.5  
+pi-hole new release 2.0.0  
+vis-2-widgets-inventwo new release 0.3.11  
+#### updates at stable repository 
+govee-local updated to 0.4.5  
 ## 2025-12-04
 #### updates at latest repository 
 bluesound new release 1.3.0  
