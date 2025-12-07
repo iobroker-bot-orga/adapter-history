@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-12-06
+#### updates at latest repository 
+javascript new release 9.0.13  
+lorawan new release 1.18.46  
+webui new release 1.39.0  
+#### updates at stable repository 
+smartloadmanager updated to 0.1.0  
+tibberlink updated to 6.0.3  
 ## 2025-12-05
 #### updates at latest repository 
 hydrawise new release 1.0.5  
