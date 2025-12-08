@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-12-07
+#### updates at latest repository 
+danfoss-ally new release 0.2.13  
+js-controller new release 7.1.0  
+proxmox new release 2.4.2  
+vis-2-widgets-inventwo new release 0.3.12  
+zigbee2mqtt new release 3.0.10  
+#### updates at stable repository 
+openmediavault updated to 1.4.2  
+stiebel-isg updated to 2.0.2  
+unifi-network updated to 1.3.1  
 ## 2025-12-06
 #### updates at latest repository 
 javascript new release 9.0.13  
