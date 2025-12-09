@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-12-08
+#### updates at latest repository 
+fyta new release 0.2.1  
+melcloud new release 3.0.2  
+#### updates at stable repository 
 ## 2025-12-07
 #### updates at latest repository 
 danfoss-ally new release 0.2.13  
