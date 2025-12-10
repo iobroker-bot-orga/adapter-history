@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-12-09
+#### updates at latest repository 
+ems-esp new release 7.0.0  
+lorawan new release 1.18.47  
+spotify-premium new release 1.5.6  
+zigbee new release 3.3.0  
+#### updates at stable repository 
 ## 2025-12-08
 #### updates at latest repository 
 fyta new release 0.2.1  
