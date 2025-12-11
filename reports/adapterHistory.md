@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-12-10
+#### updates at latest repository 
+alexa-timer-vis new release 2.2.0  
+telegram-menu new release 3.2.2  
+trashschedule new release 5.1.0  
+#### updates at stable repository 
+zendure-solarflow updated to 3.1.1  
 ## 2025-12-09
 #### updates at latest repository 
 ems-esp new release 7.0.0  
