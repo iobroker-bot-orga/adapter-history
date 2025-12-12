@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-12-11
+#### updates at latest repository 
+air-q new release 1.0.6  
+heizungssteuerung new release 2.1.2  
+refoss new release 1.3.4  
+youtube new release 6.1.0  
+#### updates at stable repository 
 ## 2025-12-10
 #### updates at latest repository 
 alexa-timer-vis new release 2.2.0  
