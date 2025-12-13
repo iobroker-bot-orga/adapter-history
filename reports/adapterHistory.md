@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2025-12-12
+#### updates at latest repository 
+air-q new release 1.0.7  
+alexa-timer-vis new release 2.2.1  
+apg-info new release 0.1.28  
+loxone new release 4.0.0  
+serial-gps new release 0.0.4  
+teltonika new release 0.1.0  
+#### updates at stable repository 
+bidirectional-counter updated to 2.5.4  
+pirate-weather updated to 0.8.0  
 ## 2025-12-11
 #### updates at latest repository 
 air-q new release 1.0.6  
