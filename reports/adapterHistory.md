@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2025-12-13
+#### updates at latest repository 
+alexa-timer-vis new release 2.2.2  
+shelly new release 10.5.0  
+telegram-menu new release 3.2.3  
+vis-2-widgets-inventwo new release 0.4.0  
+#### updates at stable repository 
+solarviewdatareader updated to 1.2.4  
 ## 2025-12-12
 #### updates at latest repository 
 air-q new release 1.0.7  
