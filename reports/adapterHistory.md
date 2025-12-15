@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-12-14
+#### updates at latest repository 
+cmicoe new release 1.2.4  
+#### updates at stable repository 
 ## 2025-12-13
 #### updates at latest repository 
 alexa-timer-vis new release 2.2.2  
