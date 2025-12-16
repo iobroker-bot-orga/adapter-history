@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2025-12-15
+#### updates at latest repository 
+admin new release 7.7.22  
+backitup new release 3.3.13  
+bmw new release 4.3.2  
+homeconnect new release 1.5.2  
+javascript new release 9.0.17  
+lg-thinq new release 1.1.4  
+#### updates at stable repository 
+dnscope updated to 0.2.7  
+gotify-ws updated to 0.2.4  
+pegelalarm updated to 1.3.12  
 ## 2025-12-14
 #### updates at latest repository 
 cmicoe new release 1.2.4  
