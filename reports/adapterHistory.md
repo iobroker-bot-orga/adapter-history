@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-12-16
+#### updates at latest repository 
+lg-thinq new release 1.1.5  
+lorawan new release 1.18.50  
+vis-2-widgets-jaeger-design new release 1.4.13  
+#### updates at stable repository 
+oxxify-fan-control updated to 0.0.9  
 ## 2025-12-15
 #### updates at latest repository 
 admin new release 7.7.22  
