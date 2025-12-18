@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-12-17
+#### updates at latest repository 
+iot new release 5.0.11  
+viessmannapi new release 2.4.4  
+zendure-solarflow new release 3.2.0  
+#### updates at stable repository 
+apg-info updated to 0.1.28  
+bluesound updated to 1.3.0  
+bmw updated to 4.3.1  
 ## 2025-12-16
 #### updates at latest repository 
 lg-thinq new release 1.1.5  
