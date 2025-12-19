@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-12-18
+#### updates at latest repository 
+janitza-gridvis new release 3.6.2  
+kisshome-defender new release 1.3.3  
+lg-thinq new release 1.1.6  
+zendure-solarflow new release 3.2.1  
+#### updates at stable repository 
 ## 2025-12-17
 #### updates at latest repository 
 iot new release 5.0.11  
