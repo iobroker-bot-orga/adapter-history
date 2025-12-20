@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2025-12-19
+#### updates at latest repository 
+vis-2-widgets-inventwo new release 0.4.1  
+#### updates at stable repository 
+sainlogic updated to 1.0.14  
 ## 2025-12-18
 #### updates at latest repository 
 janitza-gridvis new release 3.6.2  
