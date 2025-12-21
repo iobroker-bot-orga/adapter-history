@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-12-20
+#### updates at latest repository 
+lorawan new release 1.18.51  
+reolink new release 1.3.0  
+#### updates at stable repository 
+mytime updated to 2.3.0  
 ## 2025-12-19
 #### updates at latest repository 
 vis-2-widgets-inventwo new release 0.4.1  
