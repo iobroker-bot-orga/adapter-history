@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-12-21
+#### updates at latest repository 
+panasonic-comfort-cloud new release 3.2.1  
+#### updates at stable repository 
 ## 2025-12-20
 #### updates at latest repository 
 lorawan new release 1.18.51  
