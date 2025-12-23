@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2025-12-22
+#### updates at latest repository 
+iot new release 5.0.12  
+lovelace new release 5.0.5  
+panasonic-comfort-cloud new release 3.2.2  
+proxmox new release 2.4.4  
+sainlogic new release 1.0.16  
+shuttercontrol new release 2.0.11  
+trashschedule new release 5.2.0  
+vis-2-widgets-inventwo new release 0.4.2  
+zendure-solarflow new release 3.2.2  
+#### updates at stable repository 
+remeha-home updated to 1.0.9  
+schoolfree updated to 1.1.13  
+solax updated to 0.9.21  
+sun2000 updated to 2.3.5  
+tinker updated to 1.3.11  
+uv-protect updated to 0.6.11  
 ## 2025-12-21
 #### updates at latest repository 
 panasonic-comfort-cloud new release 3.2.1  
