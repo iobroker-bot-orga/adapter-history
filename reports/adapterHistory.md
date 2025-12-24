@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-12-23
+#### updates at latest repository 
+drops-weather new release 1.2.10  
+hausbus_de new release 1.5.2  
+proxmox new release 2.4.6  
+volumio new release 0.9.0  
+#### updates at stable repository 
 ## 2025-12-22
 #### updates at latest repository 
 iot new release 5.0.12  
