@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2025-12-24
+#### updates at latest repository 
+elero-usb-transmitter new release 1.0.1  
+netatmo-energy new release 3.0.1  
+sainlogic new release 1.1.0  
+vis-2-widgets-collection new release 2.0.7  
+vis-2-widgets-inventwo new release 0.5.1  
+#### updates at stable repository 
+kostal-piko-ba updated to 6.0.4  
 ## 2025-12-23
 #### updates at latest repository 
 drops-weather new release 1.2.10  
