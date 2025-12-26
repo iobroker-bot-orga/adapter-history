@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-12-25
+#### updates at latest repository 
+apcups new release 5.0.5  
+gree-hvac new release 2.0.7  
+vis-2-widgets-collection new release 2.0.11  
+#### updates at stable repository 
 ## 2025-12-24
 #### updates at latest repository 
 elero-usb-transmitter new release 1.0.1  
