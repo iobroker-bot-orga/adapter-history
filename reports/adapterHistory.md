@@ -1,5 +1,9 @@
 # Adapter publishing report
 
+## 2025-12-26
+#### updates at latest repository 
+netatmo-energy new release 3.0.2  
+#### updates at stable repository 
 ## 2025-12-25
 #### updates at latest repository 
 apcups new release 5.0.5  
