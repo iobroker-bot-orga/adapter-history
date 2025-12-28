@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2025-12-27
+#### updates at latest repository 
+google-spreadsheet new release 0.6.0  
+myuplink new release 0.8.6  
+proxmox new release 2.4.8  
+#### updates at stable repository 
 ## 2025-12-26
 #### updates at latest repository 
 netatmo-energy new release 3.0.2  
