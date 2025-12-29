@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2025-12-28
+#### updates at latest repository 
+bluelink new release 3.1.25  
+daswetter new release 4.0.0  
+ford new release 1.1.3  
+gotify new release 0.5.0  
+panasonic-comfort-cloud new release 3.3.0  
+shelly new release 10.5.1  
+#### updates at stable repository 
+bluelink updated to 3.1.23  
+bmw updated to 4.3.2  
+fyta updated to 0.2.1  
+loxone updated to 4.0.0  
+oekofen-json updated to 2.0.0  
 ## 2025-12-27
 #### updates at latest repository 
 google-spreadsheet new release 0.6.0  
