@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2025-12-29
+#### updates at latest repository 
+daswetter new release 4.1.0  
+fyta new release 0.2.4  
+heatingcontrol new release 3.0.0  
+lorawan new release 1.18.52  
+sainlogic new release 1.1.1  
+shelly new release 10.5.2  
+tesla-motors new release 1.5.0  
+vis-homekittiles new release 0.4.7  
+#### updates at stable repository 
+bluelink updated to 3.1.25  
+energymanager updated to 2.0.0  
+matrix-org updated to 1.2.0  
+youtube updated to 6.1.0  
 ## 2025-12-28
 #### updates at latest repository 
 bluelink new release 3.1.25  
