@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2025-12-30
+#### updates at latest repository 
+ford new release 1.1.4  
+lorawan new release 1.18.56  
+panasonic-comfort-cloud new release 3.4.0  
+vds2465-server new release 1.1.0  
+#### updates at stable repository 
 ## 2025-12-29
 #### updates at latest repository 
 daswetter new release 4.1.0  
