@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-01-01
+#### updates at latest repository 
+cloudflare new release 1.2.9  
+elero-usb-transmitter new release 1.0.5  
+heatingcontrol new release 3.0.1  
+janitza-gridvis new release 3.6.3  
+lorawan new release 1.18.58  
+vis-2-widgets-icontwo new release 1.22.0  
+vis-2-widgets-weather-and-heating new release 1.2.1  
+zigbee new release 3.3.1  
+#### updates at stable repository 
+webui updated to 1.39.0  
 ## 2025-12-30
 #### updates at latest repository 
 ford new release 1.1.4  
