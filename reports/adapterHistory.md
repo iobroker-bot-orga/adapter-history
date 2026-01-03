@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-01-02
+#### updates at latest repository 
+chargemaster new release 0.14.5  
+daswetter new release 4.2.0  
+heatingcontrol new release 3.0.2  
+kostal-piko-ba new release 6.0.5  
+lorawan new release 1.18.63  
+meater new release 1.1.2  
+teslafi new release 2.0.5  
+vis-homekittiles new release 0.4.8  
+#### updates at stable repository 
 ## 2026-01-01
 #### updates at latest repository 
 cloudflare new release 1.2.9  
