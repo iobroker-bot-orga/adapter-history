@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-01-03
+#### updates at latest repository 
+bmw new release 4.3.3  
+lorawan new release 1.19.2  
+vis-2-widgets-icontwo new release 1.22.1  
+#### updates at stable repository 
+apcups updated to 5.0.5  
+google-spreadsheet updated to 0.6.0  
+gotify updated to 0.5.0  
+gree-hvac updated to 2.0.7  
+homeconnect updated to 1.5.2  
 ## 2026-01-02
 #### updates at latest repository 
 chargemaster new release 0.14.5  
