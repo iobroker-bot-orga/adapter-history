@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-01-04
+#### updates at latest repository 
+daswetter new release 4.3.0  
+lorawan new release 1.19.5  
+mytime new release 2.3.2  
+tibberlink new release 6.1.0  
+vis-2-widgets-weather-and-heating new release 1.3.0  
+#### updates at stable repository 
+nspanel-lovelace-ui updated to 0.9.1  
 ## 2026-01-03
 #### updates at latest repository 
 bmw new release 4.3.3  
