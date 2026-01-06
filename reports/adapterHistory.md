@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-01-05
+#### updates at latest repository 
+ems-esp new release 7.0.1  
+heatingcontrol new release 3.0.3  
+lorawan new release 1.19.12  
+nmea new release 0.4.2  
+plenticore-g3 new release 0.5.2  
+unraid new release 0.7.2  
+weatherflow_udp new release 0.1.5  
+zigbee new release 3.3.2  
+#### updates at stable repository 
 ## 2026-01-04
 #### updates at latest repository 
 daswetter new release 4.3.0  
