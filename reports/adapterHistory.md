@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-01-06
+#### updates at latest repository 
+vis-2-widgets-icontwo new release 1.22.2  
+#### updates at stable repository 
+lg-thinq updated to 1.1.6  
+melcloud updated to 3.0.2  
+volumio updated to 0.9.0  
 ## 2026-01-05
 #### updates at latest repository 
 ems-esp new release 7.0.1  
