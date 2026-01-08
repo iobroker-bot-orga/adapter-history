@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-01-07
+#### updates at latest repository 
+device-watcher new release 2.15.0  
+google-spreadsheet new release 1.0.0  
+loxone new release 4.0.1  
+#### updates at stable repository 
+matter updated to 0.5.6  
 ## 2026-01-06
 #### updates at latest repository 
 vis-2-widgets-icontwo new release 1.22.2  
