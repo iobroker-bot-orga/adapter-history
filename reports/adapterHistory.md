@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-01-08
+#### updates at latest repository 
+heizoel24-mex new release 1.6.0  
+#### updates at stable repository 
+backitup updated to 3.3.13  
+lovelace updated to 5.0.5  
+shuttercontrol updated to 2.0.11  
+text2command updated to 4.0.0  
 ## 2026-01-07
 #### updates at latest repository 
 device-watcher new release 2.15.0  
