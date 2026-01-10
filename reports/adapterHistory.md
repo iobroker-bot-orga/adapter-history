@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-01-09
+#### updates at latest repository 
+docker-manager new release 0.1.5  
+e3dc-rscp new release 1.4.4  
+hoymiles-ms new release 0.2.1  
+onlycat new release 0.5.3  
+proxmox new release 2.4.9  
+sureflap new release 3.4.2  
+trashschedule new release 5.2.1  
+vis-2-widgets-collection new release 2.1.1  
+#### updates at stable repository 
+drops-weather updated to 1.2.10  
 ## 2026-01-08
 #### updates at latest repository 
 heizoel24-mex new release 1.6.0  
