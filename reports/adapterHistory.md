@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-01-10
+#### updates at latest repository 
+brightsky new release 1.0.0  
+bwt new release 0.1.2  
+device-watcher new release 2.15.3  
+elv-sup2 new release 0.2.2  
+hoymiles-ms new release 0.2.2  
+smartm new release 0.0.4  
+vis-2-widgets-icontwo new release 1.23.0  
+vis-2-widgets-inventwo new release 0.5.4  
+#### updates at stable repository 
+alexa-shoppinglist updated to 1.1.3  
+alexa-timer-vis updated to 2.2.2  
+telegram-menu updated to 3.2.3  
 ## 2026-01-09
 #### updates at latest repository 
 docker-manager new release 0.1.5  
