@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2026-01-11
+#### updates at latest repository 
+ical new release 1.19.0  
+vis-2-widgets-icontwo new release 1.24.0  
+#### updates at stable repository 
+plenticore-g3 updated to 0.5.2  
 ## 2026-01-10
 #### updates at latest repository 
 brightsky new release 1.0.0  
