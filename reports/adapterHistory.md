@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-01-12
+#### updates at latest repository 
+ical new release 1.19.1  
+javascript new release 9.0.18  
+lorawan new release 1.19.18  
+mitsubishi-local-control new release 1.0.4  
+otlp new release 0.1.0  
+vesync new release 1.0.3  
+vis-2-widgets-icontwo new release 1.25.0  
+vis-2-widgets-inventwo new release 0.5.5  
+zigbee new release 3.3.3  
+#### updates at stable repository 
 ## 2026-01-11
 #### updates at latest repository 
 ical new release 1.19.0  
