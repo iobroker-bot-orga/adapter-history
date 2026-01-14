@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-01-13
+#### updates at latest repository 
+device-watcher new release 2.15.5  
+ical new release 1.19.2  
+lorawan new release 1.19.21  
+porsche new release 0.5.0  
+#### updates at stable repository 
 ## 2026-01-12
 #### updates at latest repository 
 ical new release 1.19.1  
