@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-01-14
+#### updates at latest repository 
+autodarts new release 1.0.0  
+lorawan new release 1.19.25  
+mitsubishi-local-control new release 1.0.5  
+porsche new release 0.5.1  
+smartfriends new release 1.3.2  
+#### updates at stable repository 
+cloudflare updated to 1.2.9  
 ## 2026-01-13
 #### updates at latest repository 
 device-watcher new release 2.15.5  
