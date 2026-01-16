@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2026-01-15
+#### updates at latest repository 
+lorawan new release 1.19.27  
+xsense new release 0.2.3  
+#### updates at stable repository 
+heizoel24-mex updated to 1.6.0  
 ## 2026-01-14
 #### updates at latest repository 
 autodarts new release 1.0.0  
