@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-01-16
+#### updates at latest repository 
+garmin new release 1.0.0  
+lorawan new release 1.19.29  
+#### updates at stable repository 
+admin updated to 7.7.22  
+myuplink updated to 0.8.6  
 ## 2026-01-15
 #### updates at latest repository 
 lorawan new release 1.19.27  
