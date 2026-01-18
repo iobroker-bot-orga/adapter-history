@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-01-17
+#### updates at latest repository 
+lorawan new release 1.19.32  
+porsche new release 0.5.2  
+#### updates at stable repository 
+e3dc-rscp updated to 1.4.4  
+teslafi updated to 2.0.5  
+vis-2-widgets-inventwo updated to 0.5.5  
+weatherflow_udp updated to 0.1.5  
 ## 2026-01-16
 #### updates at latest repository 
 garmin new release 1.0.0  
