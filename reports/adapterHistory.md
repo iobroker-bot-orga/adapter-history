@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-01-18
+#### updates at latest repository 
+bluelink new release 3.1.26  
+kecontact new release 3.4.0  
+lorawan new release 1.19.33  
+nspanel-lovelace-ui new release 0.10.0  
+smartfriends new release 1.3.3  
+vis-2-widgets-jaeger-design new release 1.4.16  
+#### updates at stable repository 
 ## 2026-01-17
 #### updates at latest repository 
 lorawan new release 1.19.32  
