@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-01-19
+#### updates at latest repository 
+rest-api new release 3.1.3  
+sainlogic new release 1.1.2  
+vis-2-widgets-collection new release 2.2.1  
+#### updates at stable repository 
+proxmox updated to 2.4.9  
+shelly updated to 10.5.2  
+vis-2-widgets-icontwo updated to 1.25.0  
+zigbee2mqtt updated to 3.0.10  
 ## 2026-01-18
 #### updates at latest repository 
 bluelink new release 3.1.26  
