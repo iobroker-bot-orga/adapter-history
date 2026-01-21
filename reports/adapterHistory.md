@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-01-20
+#### updates at latest repository 
+autodarts new release 1.0.1  
+daswetter new release 4.4.1  
+lorawan new release 1.19.34  
+steam new release 0.5.8  
+#### updates at stable repository 
+loxone updated to 4.0.1  
+mytime updated to 2.3.2  
+steam updated to 0.5.7  
 ## 2026-01-19
 #### updates at latest repository 
 rest-api new release 3.1.3  
