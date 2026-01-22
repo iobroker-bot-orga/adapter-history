@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2026-01-21
+#### updates at latest repository 
+autodarts new release 1.0.2  
+jablotron new release 0.1.8  
+melcloud new release 3.0.3  
+#### updates at stable repository 
 ## 2026-01-20
 #### updates at latest repository 
 autodarts new release 1.0.1  
