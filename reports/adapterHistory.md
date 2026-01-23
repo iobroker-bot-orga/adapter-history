@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2026-01-22
+#### updates at latest repository 
+autodarts new release 1.0.3  
+smartfriends new release 1.3.4  
+#### updates at stable repository 
 ## 2026-01-21
 #### updates at latest repository 
 autodarts new release 1.0.2  
