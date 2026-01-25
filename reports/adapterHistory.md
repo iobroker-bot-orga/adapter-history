@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-01-24
+#### updates at latest repository 
+meteoswiss new release 1.0.2  
+weathersense new release 4.0.2  
+xsense new release 0.2.5  
+zwavews new release 0.0.11  
+#### updates at stable repository 
+kecontact updated to 3.4.0  
+kostal-piko-ba updated to 6.0.5  
+sainlogic updated to 1.1.1  
+serial-gps updated to 0.0.4  
+steam updated to 0.5.8  
+tibberlink updated to 6.1.0  
 ## 2026-01-23
 #### updates at latest repository 
 #### updates at stable repository 
