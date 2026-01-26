@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-01-25
+#### updates at latest repository 
+autodarts new release 1.0.4  
+lorawan new release 1.20.5  
+vis-2-widgets-icontwo new release 1.26.0  
+vis-jsontemplate new release 4.3.10  
+weathersense new release 4.0.3  
+xsense new release 0.3.4  
+#### updates at stable repository 
 ## 2026-01-24
 #### updates at latest repository 
 meteoswiss new release 1.0.2  
