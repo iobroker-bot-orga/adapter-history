@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-01-26
+#### updates at latest repository 
+cloudflare new release 1.2.10  
+hagelschutz-vkf new release 1.0.1  
+lorawan new release 1.20.8  
+vis-jqui-mfd new release 1.1.3  
+vis-jsontemplate new release 4.3.11  
+xsense new release 0.3.6  
+zigbee2mqtt new release 3.0.13  
+#### updates at stable repository 
+solarmanpv updated to 0.7.3  
+sureflap updated to 3.4.2  
 ## 2026-01-25
 #### updates at latest repository 
 autodarts new release 1.0.4  
