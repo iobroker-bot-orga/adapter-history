@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-01-27
+#### updates at latest repository 
+frigate new release 1.4.0  
+lorawan new release 1.20.16  
+vis-2-widgets-jaeger-design new release 1.4.17  
+zigbee new release 3.3.4  
+zigbee2mqtt new release 3.0.15  
+#### updates at stable repository 
 ## 2026-01-26
 #### updates at latest repository 
 cloudflare new release 1.2.10  
