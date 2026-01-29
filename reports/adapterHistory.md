@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-01-28
+#### updates at latest repository 
+lorawan new release 1.20.25  
+proxmox new release 2.4.10  
+tvprogram new release 4.0.2  
+vis-2-widgets-inventwo new release 0.5.8  
+vis-2-widgets-jaeger-design new release 1.4.18  
+zigbee2mqtt new release 3.0.18  
+#### updates at stable repository 
 ## 2026-01-27
 #### updates at latest repository 
 frigate new release 1.4.0  
