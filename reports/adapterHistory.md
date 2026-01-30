@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-01-29
+#### updates at latest repository 
+admin new release 7.7.23  
+harmony new release 2.0.4  
+heizoel24-mex new release 1.7.0  
+sofarcloud new release 3.3.0  
+weathersense new release 4.1.0  
+zigbee2mqtt new release 3.0.21  
+#### updates at stable repository 
+autodarts updated to 1.0.3  
+device-watcher updated to 2.15.5  
+mitsubishi-local-control updated to 1.0.5  
+zwavews updated to 0.1.11  
 ## 2026-01-28
 #### updates at latest repository 
 lorawan new release 1.20.25  
