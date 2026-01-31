@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-01-30
+#### updates at latest repository 
+lorawan new release 1.20.30  
+sun2000 new release 2.3.6  
+weathersense new release 4.2.0  
+zendure-solarflow new release 3.3.1  
+#### updates at stable repository 
 ## 2026-01-29
 #### updates at latest repository 
 admin new release 7.7.23  
