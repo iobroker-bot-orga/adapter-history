@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2026-01-31
+#### updates at latest repository 
+daswetter new release 4.5.0  
+lorawan new release 1.20.35  
+zigbee new release 3.3.5  
+#### updates at stable repository 
 ## 2026-01-30
 #### updates at latest repository 
 lorawan new release 1.20.30  
