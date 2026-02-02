@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-02-01
+#### updates at latest repository 
+ical new release 1.19.4  
+lorawan new release 1.20.39  
+smartthings new release 0.3.0  
+vis-icontwo new release 2.0.0  
+#### updates at stable repository 
 ## 2026-01-31
 #### updates at latest repository 
 daswetter new release 4.5.0  
