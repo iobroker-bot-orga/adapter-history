@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-02-02
+#### updates at latest repository 
+bshb new release 0.6.0  
+daswetter new release 4.5.1  
+lorawan new release 1.20.41  
+senec new release 2.0.0  
+sun2000 new release 2.3.7  
+vis-icontwo new release 2.1.1  
+zendure-solarflow new release 3.3.2  
+zwavews new release 0.0.12  
+#### updates at stable repository 
 ## 2026-02-01
 #### updates at latest repository 
 ical new release 1.19.4  
