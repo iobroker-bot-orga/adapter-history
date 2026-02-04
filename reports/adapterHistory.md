@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-02-03
+#### updates at latest repository 
+janitza-gridvis new release 3.6.4  
+lorawan new release 1.20.43  
+pvforecast new release 5.1.0  
+#### updates at stable repository 
+zwavews updated to 0.0.12  
 ## 2026-02-02
 #### updates at latest repository 
 bshb new release 0.6.0  
