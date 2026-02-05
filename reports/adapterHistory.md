@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-02-04
+#### updates at latest repository 
+lorawan new release 1.20.44  
+mercedesme new release 0.4.1  
+senec new release 2.1.2  
+weathersense new release 4.2.1  
+#### updates at stable repository 
 ## 2026-02-03
 #### updates at latest repository 
 janitza-gridvis new release 3.6.4  
