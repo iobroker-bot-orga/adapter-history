@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-02-05
+#### updates at latest repository 
+airzone new release 3.0.0  
+devices new release 1.2.12  
+lorawan new release 1.20.45  
+senec new release 2.1.3  
+#### updates at stable repository 
 ## 2026-02-04
 #### updates at latest repository 
 lorawan new release 1.20.44  
