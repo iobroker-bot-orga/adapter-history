@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-02-06
+#### updates at latest repository 
+bshb new release 0.6.2  
+knx new release 2.0.35  
+lorawan new release 1.20.46  
+senec new release 2.2.2  
+tibberlink new release 6.1.1  
+#### updates at stable repository 
 ## 2026-02-05
 #### updates at latest repository 
 airzone new release 3.0.0  
