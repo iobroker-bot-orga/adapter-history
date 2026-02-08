@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-02-07
+#### updates at latest repository 
+devices new release 1.2.14  
+harmony new release 2.0.5  
+lorawan new release 1.20.47  
+zwavews new release 0.0.13  
+#### updates at stable repository 
 ## 2026-02-06
 #### updates at latest repository 
 bshb new release 0.6.2  
