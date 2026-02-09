@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-02-08
+#### updates at latest repository 
+janitza-gridvis new release 3.6.5  
+lorawan new release 1.20.49  
+mercedesme new release 0.4.2  
+shelly new release 10.6.0  
+#### updates at stable repository 
+ems-esp updated to 7.0.1  
+evcc updated to 0.2.4  
+fronius-wattpilot updated to 4.8.0  
+heizoel24-mex updated to 1.7.0  
+nspanel-lovelace-ui updated to 0.10.0  
+sofarcloud updated to 3.3.0  
+vis-icontwo updated to 2.1.1  
 ## 2026-02-07
 #### updates at latest repository 
 devices new release 1.2.14  
