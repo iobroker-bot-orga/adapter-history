@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-02-09
+#### updates at latest repository 
+admin new release 7.7.28  
+janitza-gridvis new release 3.6.7  
+mercedesme new release 0.5.0  
+vis-icontwo new release 2.2.0  
+zwavews new release 0.0.16  
+#### updates at stable repository 
+onlycat updated to 0.5.3  
+zigbee updated to 3.3.5  
 ## 2026-02-08
 #### updates at latest repository 
 janitza-gridvis new release 3.6.5  
