@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-02-10
+#### updates at latest repository 
+bidirectional-counter new release 2.5.5  
+janitza-gridvis new release 3.6.9  
+lorawan new release 1.20.50  
+mercedesme new release 0.5.3  
+nspanel-lovelace-ui new release 0.11.0  
+onlycat new release 0.5.4  
+vis-icontwo new release 2.3.0  
+#### updates at stable repository 
+senec updated to 2.2.2  
+zendure-solarflow updated to 3.3.2  
 ## 2026-02-09
 #### updates at latest repository 
 admin new release 7.7.28  
