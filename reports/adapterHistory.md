@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-02-11
+#### updates at latest repository 
+accuweather new release 2.2.0  
+adguard new release 1.1.1  
+bayernluft new release 3.1.1  
+janitza-gridvis new release 3.6.12  
+mercedesme new release 0.5.4  
+vis-icontwo new release 2.4.0  
+#### updates at stable repository 
+adguard updated to 1.1.0  
+frigate updated to 1.4.0  
+javascript updated to 9.0.18  
+smartfriends updated to 1.3.4  
+weathersense updated to 4.2.1  
 ## 2026-02-10
 #### updates at latest repository 
 bidirectional-counter new release 2.5.5  
