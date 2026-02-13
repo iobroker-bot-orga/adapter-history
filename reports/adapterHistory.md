@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-02-12
+#### updates at latest repository 
+beckhoff new release 1.7.0  
+mercedesme new release 0.5.5  
+vis-icontwo new release 2.5.0  
+#### updates at stable repository 
+jablotron updated to 0.1.8  
+vis-2-widgets-jaeger-design updated to 1.4.18  
 ## 2026-02-11
 #### updates at latest repository 
 accuweather new release 2.2.0  
