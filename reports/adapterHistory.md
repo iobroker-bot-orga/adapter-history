@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-02-13
+#### updates at latest repository 
+acme new release 2.0.0  
+admin new release 7.7.30  
+alias-manager new release 2.1.0  
+benq new release 0.3.1  
+evcc new release 0.2.6  
+matrix-org new release 1.2.1  
+telegram-menu new release 4.0.0  
+vis-2-widgets-collection new release 2.3.0  
+vis-icontwo new release 2.6.0  
+#### updates at stable repository 
+modbus updated to 7.0.6  
+tvprogram updated to 4.0.2  
 ## 2026-02-12
 #### updates at latest repository 
 beckhoff new release 1.7.0  
