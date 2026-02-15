@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-02-14
+#### updates at latest repository 
+alpha-ess new release 4.1.0  
+boschindego new release 1.4.0  
+gree-hvac new release 2.0.8  
+lorawan new release 1.20.51  
+vis-2-widgets-collection new release 2.3.2  
+vis-icontwo new release 2.8.0  
+#### updates at stable repository 
+meteoswiss updated to 1.0.2  
 ## 2026-02-13
 #### updates at latest repository 
 acme new release 2.0.0  
