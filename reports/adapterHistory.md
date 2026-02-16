@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-02-15
+#### updates at latest repository 
+apg-info new release 0.1.29  
+envertech-pv new release 1.5.1  
+samsung new release 0.7.0  
+vis-2-widgets-icontwo new release 1.26.1  
+vis-icontwo new release 2.9.0  
+#### updates at stable repository 
 ## 2026-02-14
 #### updates at latest repository 
 alpha-ess new release 4.1.0  
