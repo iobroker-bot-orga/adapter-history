@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2026-02-16
+#### updates at latest repository 
+discovergy new release 0.7.0  
+echarts new release 3.0.0  
+esphome new release 0.7.0-beta.1  
+feiertage new release 1.3.0  
+google-spreadsheet new release 1.0.1  
+ical new release 1.19.5  
+modbus new release 8.0.0  
+snmp new release 3.4.0  
+vis-2-widgets-collection new release 2.3.3  
+wled new release 0.9.2  
+zendure-solarflow new release 3.4.0  
+#### updates at stable repository 
+bluelink updated to 3.1.26  
+cloudflare updated to 1.2.10  
+wled updated to 0.7.3  
 ## 2026-02-15
 #### updates at latest repository 
 apg-info new release 0.1.29  
