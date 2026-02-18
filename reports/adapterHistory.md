@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-02-17
+#### updates at latest repository 
+admin new release 7.7.31  
+botvac new release 2.3.0  
+chromecast new release 4.1.1  
+echarts new release 3.0.2  
+frigate new release 2.0.2  
+mercedesme new release 0.6.1  
+modbus new release 8.0.3  
+rest-api new release 4.0.1  
+web new release 8.0.0  
+ws new release 4.0.0  
+#### updates at stable repository 
 ## 2026-02-16
 #### updates at latest repository 
 discovergy new release 0.7.0  
