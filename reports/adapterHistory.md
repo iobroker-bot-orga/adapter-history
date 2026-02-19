@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-02-18
+#### updates at latest repository 
+air-q new release 1.1.0  
+botvac new release 2.3.1  
+mercedesme new release 0.6.3  
+minuvis new release 2.7.0  
+senec new release 2.3.0  
+zendure-solarflow new release 3.5.0  
+#### updates at stable repository 
+bmw updated to 4.3.3  
+tibberlink updated to 6.1.1  
+vis-icontwo updated to 2.9.0  
+xsense updated to 0.3.6  
 ## 2026-02-17
 #### updates at latest repository 
 admin new release 7.7.31  
