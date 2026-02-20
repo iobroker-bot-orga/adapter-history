@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-02-19
+#### updates at latest repository 
+backitup new release 3.3.14  
+zendure-solarflow new release 3.5.1  
+#### updates at stable repository 
+bidirectional-counter updated to 2.5.5  
+janitza-gridvis updated to 3.6.12  
+lorawan updated to 1.20.51  
 ## 2026-02-18
 #### updates at latest repository 
 air-q new release 1.1.0  
