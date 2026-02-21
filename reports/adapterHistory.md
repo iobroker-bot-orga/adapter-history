@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-02-20
+#### updates at latest repository 
+brightsky new release 1.0.1  
+lorawan new release 1.20.52  
+nspanel-lovelace-ui new release 0.12.1  
+#### updates at stable repository 
+zwavews updated to 0.0.16  
 ## 2026-02-19
 #### updates at latest repository 
 backitup new release 3.3.14  
