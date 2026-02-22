@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2026-02-21
+#### updates at latest repository 
+foxesscloud new release 0.1.6  
+zwavews new release 0.0.17  
+#### updates at stable repository 
 ## 2026-02-20
 #### updates at latest repository 
 brightsky new release 1.0.1  
