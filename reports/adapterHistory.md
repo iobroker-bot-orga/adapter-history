@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-02-22
+#### updates at latest repository 
+lorawan new release 1.20.53  
+minuvis new release 2.7.1  
+shuttercontrol new release 2.0.12  
+solax new release 0.9.22  
+#### updates at stable repository 
+gree-hvac updated to 2.0.8  
+harmony updated to 2.0.5  
+minuvis updated to 2.7.0  
+sainlogic updated to 1.1.2  
 ## 2026-02-21
 #### updates at latest repository 
 foxesscloud new release 0.1.6  
