@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-02-23
+#### updates at latest repository 
+heatingcontrol new release 3.0.4  
+knx new release 2.0.37  
+rct new release 1.2.26  
+tinker new release 1.3.12  
+#### updates at stable repository 
+melcloud updated to 3.0.3  
+zwavews updated to 0.0.17  
 ## 2026-02-22
 #### updates at latest repository 
 lorawan new release 1.20.53  
