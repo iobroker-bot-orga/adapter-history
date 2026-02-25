@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-02-24
+#### updates at latest repository 
+apg-info new release 0.1.30  
+apsystems-ez1 new release 0.2.4  
+comfoair new release 1.3.0  
+countdown new release 3.1.0  
+doorbird new release 3.1.0  
+ical new release 1.19.6  
+shelly new release 10.6.1  
+smartfriends new release 1.3.5  
+solectrus-influxdb new release 1.2.1  
+tado new release 0.8.4  
+#### updates at stable repository 
 ## 2026-02-23
 #### updates at latest repository 
 heatingcontrol new release 3.0.4  
