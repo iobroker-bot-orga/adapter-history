@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2026-02-25
+#### updates at latest repository 
+matter new release 1.0.0  
+solectrus-influxdb new release 1.2.2  
+#### updates at stable repository 
+devices updated to 1.2.14  
 ## 2026-02-24
 #### updates at latest repository 
 apg-info new release 0.1.30  
