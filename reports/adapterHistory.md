@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-02-26
+#### updates at latest repository 
+ping new release 2.0.0  
+vis-icontwo new release 2.11.0  
+#### updates at stable repository 
+hagelschutz-vkf updated to 1.0.1  
+senec updated to 2.3.0  
 ## 2026-02-25
 #### updates at latest repository 
 matter new release 1.0.0  
