@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2026-02-27
+#### updates at latest repository 
+janitza-gridvis new release 3.6.13  
+tvprogram new release 4.0.3  
+#### updates at stable repository 
+onlycat updated to 0.5.4  
 ## 2026-02-26
 #### updates at latest repository 
 ping new release 2.0.0  
