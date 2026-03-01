@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-02-28
+#### updates at latest repository 
+autodarts new release 1.0.6  
+bidirectional-counter new release 2.5.8  
+bsblan new release 0.4.0  
+chargemaster new release 0.14.6  
+drag-indicator new release 2.5.1  
+foxesscloud new release 0.1.7  
+janitza-gridvis new release 3.6.14  
+lorawan new release 1.20.54  
+lowpass-filter new release 2.6.1  
+operating-hours new release 1.4.1  
+paperless-ngx new release 0.5.1  
+smoothed new release 1.5.1  
+teslafi new release 2.0.6  
+vis-2-widgets-icontwo new release 1.26.2  
+vis-icontwo new release 2.11.1  
+zwavews new release 0.0.18  
+#### updates at stable repository 
 ## 2026-02-27
 #### updates at latest repository 
 janitza-gridvis new release 3.6.13  
