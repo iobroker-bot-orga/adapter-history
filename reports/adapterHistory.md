@@ -1,5 +1,27 @@
 # Adapter publishing report
 
+## 2026-03-01
+#### updates at latest repository 
+autodarts new release 1.0.7  
+bmw new release 4.3.4  
+bsblan new release 1.0.0  
+grohe-smarthome new release 0.2.5  
+heos new release 3.0.4  
+kostal-piko-ba new release 6.0.6  
+mhi-wfrac new release 2.2.0  
+senec new release 2.4.0  
+spotify-premium new release 1.6.0  
+valloxmv new release 1.5.0  
+zendure-solarflow new release 3.5.2  
+#### updates at stable repository 
+adguard updated to 1.1.1  
+alias-manager updated to 2.1.0  
+boschindego updated to 1.4.0  
+google-spreadsheet updated to 1.0.1  
+nspanel-lovelace-ui updated to 0.12.1  
+proxmox updated to 2.4.10  
+rct updated to 1.2.26  
+vis-jsontemplate updated to 4.3.11  
 ## 2026-02-28
 #### updates at latest repository 
 autodarts new release 1.0.6  
