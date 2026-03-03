@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-03-02
+#### updates at latest repository 
+admin new release 7.8.2  
+echarts new release 3.1.0  
+knx new release 2.0.38  
+lorawan new release 1.21.1  
+nspanel-lovelace-ui new release 0.13.2  
+semp new release 2.0.3  
+senec new release 2.4.1  
+vis-2-widgets-collection new release 2.4.0  
+vis-2-widgets-inventwo new release 0.6.0  
+zendure-solarflow new release 3.5.3  
+#### updates at stable repository 
 ## 2026-03-01
 #### updates at latest repository 
 autodarts new release 1.0.7  
