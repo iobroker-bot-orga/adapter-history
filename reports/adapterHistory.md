@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2026-03-03
+#### updates at latest repository 
+kecontact new release 3.5.0  
+lorawan new release 1.21.4  
+#### updates at stable repository 
+envertech-pv updated to 1.5.1  
 ## 2026-03-02
 #### updates at latest repository 
 admin new release 7.8.2  
