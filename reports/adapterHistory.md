@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-03-04
+#### updates at latest repository 
+admin new release 7.8.3  
+cloud new release 6.0.1  
+drops-weather new release 1.3.0  
+elv-sup2 new release 0.2.3  
+emby new release 1.3.0  
+lorawan new release 1.21.5  
+myvbus new release 0.6.1  
+parser new release 3.0.0  
+ping new release 2.1.0  
+senec new release 2.4.5  
+sma-em new release 1.3.1  
+stiebel-isg new release 2.0.3  
+vbus-gw new release 0.3.2  
+#### updates at stable repository 
+parser updated to 2.3.1  
+pvforecast updated to 5.1.0  
 ## 2026-03-03
 #### updates at latest repository 
 kecontact new release 3.5.0  
