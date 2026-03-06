@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2026-03-05
+#### updates at latest repository 
+energymanager new release 2.0.1  
+lorawan new release 1.21.8  
+nspanel-lovelace-ui new release 0.13.3  
+solectrus-influxdb new release 1.3.0  
+tinymqttbroker new release 0.1.5  
+vis-2-widgets-inventwo new release 0.6.1  
+weathersense new release 4.2.2  
+zendure-solarflow new release 3.5.4  
+#### updates at stable repository 
+apg-info updated to 0.1.30  
+feiertage updated to 1.3.0  
+snmp updated to 3.4.0  
+tado updated to 0.8.4  
 ## 2026-03-04
 #### updates at latest repository 
 admin new release 7.8.3  
