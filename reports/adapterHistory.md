@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2026-03-06
+#### updates at latest repository 
+acme new release 3.0.0  
+enigma2 new release 2.3.0  
+epson_ecotank_et_2750 new release 1.1.0  
+epson_stylus_px830 new release 0.4.0  
+ical new release 1.19.7  
+lorawan new release 1.21.9  
+rssfeed new release 4.0.0  
+schlueter-thermostat new release 0.4.1  
+weathersense new release 4.3.0  
+zendure-solarflow new release 3.6.0  
+#### updates at stable repository 
+bayernluft updated to 3.1.1  
+senec updated to 2.4.5  
 ## 2026-03-05
 #### updates at latest repository 
 energymanager new release 2.0.1  
