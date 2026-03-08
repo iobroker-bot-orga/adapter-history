@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-03-07
+#### updates at latest repository 
+fakeroku new release 0.4.0  
+rssfeed new release 4.0.2  
+schlueter-thermostat new release 0.4.3  
+solectrus-influxdb new release 1.3.1  
+#### updates at stable repository 
 ## 2026-03-06
 #### updates at latest repository 
 acme new release 3.0.0  
