@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2026-03-08
+#### updates at latest repository 
+firetv new release 2.2.0  
+foobar2000 new release 2.3.0  
+frigate new release 2.1.0  
+fritzbox new release 0.7.0  
+fronius new release 2.2.0  
+frontier_silicon new release 0.5.1  
+gsmsms new release 1.1.0  
+nspanel-lovelace-ui new release 0.13.4  
+porsche new release 0.5.5  
+tibberlink new release 6.2.0  
+zwavews new release 0.1.0  
+#### updates at stable repository 
+autodarts updated to 1.0.7  
+rest-api updated to 4.0.1  
+vis-icontwo updated to 2.11.1  
 ## 2026-03-07
 #### updates at latest repository 
 fakeroku new release 0.4.0  
