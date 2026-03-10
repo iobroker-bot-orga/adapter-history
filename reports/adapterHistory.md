@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-03-09
+#### updates at latest repository 
+daswetter new release 4.5.3  
+freeair new release 1.0.7  
+frigate new release 2.1.1  
+openmediavault new release 1.4.3  
+senec new release 2.4.6  
+#### updates at stable repository 
+minuvis updated to 2.7.1  
 ## 2026-03-08
 #### updates at latest repository 
 firetv new release 2.2.0  
