@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2026-03-10
+#### updates at latest repository 
+acme new release 3.0.1  
+evcc new release 0.2.8  
+#### updates at stable repository 
+zwavews updated to 0.1.0  
 ## 2026-03-09
 #### updates at latest repository 
 daswetter new release 4.5.3  
