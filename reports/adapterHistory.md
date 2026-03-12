@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2026-03-11
+#### updates at latest repository 
+acme new release 3.0.2  
+history new release 4.0.0  
+smartm new release 0.0.5  
+#### updates at stable repository 
 ## 2026-03-10
 #### updates at latest repository 
 acme new release 3.0.1  
