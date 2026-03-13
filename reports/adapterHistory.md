@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-03-12
+#### updates at latest repository 
+grohe-smarthome new release 0.2.6  
+lorawan new release 1.21.10  
+open-meteo-weather new release 2.6.1  
+openknx new release 0.9.1  
+pushover new release 5.0.0  
+vis-2-widgets-collection new release 2.4.1  
+#### updates at stable repository 
+countdown updated to 3.1.0  
+kecontact updated to 3.5.0  
+samsung updated to 0.7.0  
 ## 2026-03-11
 #### updates at latest repository 
 acme new release 3.0.2  
