@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-03-13
+#### updates at latest repository 
+cloudless-homeconnect new release 1.6.4  
+foxesscloud new release 0.1.9  
+smartfriends new release 1.3.6  
+vis-2-widgets-icontwo new release 1.26.5  
+vis-icontwo new release 2.11.2  
+#### updates at stable repository 
 ## 2026-03-12
 #### updates at latest repository 
 grohe-smarthome new release 0.2.6  
