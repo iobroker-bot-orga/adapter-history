@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-03-14
+#### updates at latest repository 
+frigate new release 2.1.2  
+mihome-cloud new release 1.0.4  
+nspanel-lovelace-ui new release 0.14.0  
+reolink new release 1.4.0  
+senec new release 2.4.8  
+vis-2-widgets-icontwo new release 1.27.0  
+vis-2-widgets-jaeger-design new release 1.4.19  
+#### updates at stable repository 
+accuweather updated to 2.2.0  
+weathersense updated to 4.3.0  
 ## 2026-03-13
 #### updates at latest repository 
 cloudless-homeconnect new release 1.6.4  
