@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-03-15
+#### updates at latest repository 
+alarm new release 3.7.7  
+jeelink new release 1.2.8  
+lifx new release 2.0.0  
+lorawan new release 1.21.11  
+nissan new release 0.1.17  
+openknx new release 1.0.0  
+otlp new release 0.2.1  
+powerfox2 new release 0.0.15  
+sun2000 new release 2.4.0  
+viessmann new release 1.7.4  
+vis-2-widgets-icontwo new release 1.28.0  
+vis-2-widgets-material new release 1.6.1  
+zwavews new release 0.1.2  
+#### updates at stable repository 
+backitup updated to 3.3.14  
+beckhoff updated to 1.7.0  
+benq updated to 0.3.1  
+doorbird updated to 3.1.0  
+heos updated to 3.0.4  
 ## 2026-03-14
 #### updates at latest repository 
 frigate new release 2.1.2  
