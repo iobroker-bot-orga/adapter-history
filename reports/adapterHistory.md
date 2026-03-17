@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-03-16
+#### updates at latest repository 
+amtronwallbox new release 0.3.6  
+aurora-nowcast new release 2.1.4  
+mercedesme new release 0.7.0  
+nspanel-lovelace-ui new release 0.15.0  
+openknx new release 1.0.3  
+oxxify-fan-control new release 0.0.10  
+poolcontrol new release 1.2.6  
+pvoutputorg new release 1.9.7  
+reolink new release 1.4.1  
+#### updates at stable repository 
+daswetter updated to 4.5.3  
+drag-indicator updated to 2.5.1  
+operating-hours updated to 1.4.1  
+paperless-ngx updated to 0.5.1  
+smoothed updated to 1.5.1  
+spotify-premium updated to 1.6.0  
+teslafi updated to 2.0.6  
 ## 2026-03-15
 #### updates at latest repository 
 alarm new release 3.7.7  
