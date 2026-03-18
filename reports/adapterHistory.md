@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-03-17
+#### updates at latest repository 
+freeair new release 1.0.8  
+heatingcontrol new release 3.1.0  
+openmediavault new release 1.4.4  
+poolcontrol new release 1.2.7  
+reolink new release 1.4.2  
+solarprognose new release 2.0.1  
+solectrus-influxdb new release 1.4.0  
+weatherflow-tempest-api new release 1.1.4  
+zendure-solarflow new release 4.0.0  
+#### updates at stable repository 
+tinymqttbroker updated to 0.1.5  
 ## 2026-03-16
 #### updates at latest repository 
 amtronwallbox new release 0.3.6  
