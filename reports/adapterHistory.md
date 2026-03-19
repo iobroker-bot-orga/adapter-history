@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-03-18
+#### updates at latest repository 
+ebus new release 3.8.0  
+nspanel-lovelace-ui new release 0.15.1  
+openknx new release 1.1.0  
+sbfspot new release 5.0.5  
+schlueter-thermostat new release 0.5.1  
+semp new release 2.0.5  
+vis-icontwo new release 2.11.3  
+vw-connect new release 0.7.16  
+#### updates at stable repository 
+bmw updated to 4.3.4  
+mihome-cloud updated to 1.0.4  
 ## 2026-03-17
 #### updates at latest repository 
 freeair new release 1.0.8  
