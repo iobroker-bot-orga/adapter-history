@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-03-19
+#### updates at latest repository 
+admin new release 7.8.5  
+grohe-smarthome new release 0.3.1  
+poolcontrol new release 1.2.9  
+solectrus-influxdb new release 1.4.1  
+vis-2-widgets-icontwo new release 1.28.2  
+vis-2-widgets-inventwo new release 0.6.2  
+#### updates at stable repository 
 ## 2026-03-18
 #### updates at latest repository 
 ebus new release 3.8.0  
