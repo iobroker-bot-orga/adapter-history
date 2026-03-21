@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-03-20
+#### updates at latest repository 
+frigate new release 2.1.3  
+javascript new release 9.1.1  
+lorawan new release 1.21.12  
+tinymqttbroker new release 0.1.6  
+vis-2-widgets-inventwo new release 0.6.4  
+zendure-solarflow new release 4.0.1  
+#### updates at stable repository 
+botvac updated to 2.3.1  
+chromecast updated to 4.1.1  
+drops-weather updated to 1.3.0  
+emby updated to 1.3.0  
+myvbus updated to 0.6.1  
+nspanel-lovelace-ui updated to 0.13.4  
+zigbee2mqtt updated to 3.0.21  
 ## 2026-03-19
 #### updates at latest repository 
 admin new release 7.8.5  
