@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-03-21
+#### updates at latest repository 
+admin new release 7.8.6  
+maxxi-charge new release 1.4.45  
+nextcloud-monitoring new release 2.0.3  
+poolcontrol new release 1.2.12  
+schlueter-thermostat new release 0.5.2  
+solectrus-influxdb new release 1.5.0  
+sprinklecontrol new release 1.0.0  
+#### updates at stable repository 
+vbus-gw updated to 0.3.2  
 ## 2026-03-20
 #### updates at latest repository 
 frigate new release 2.1.3  
