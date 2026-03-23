@@ -1,5 +1,11 @@
 # Adapter publishing report
 
+## 2026-03-22
+#### updates at latest repository 
+grohe-smarthome new release 0.3.2  
+poolcontrol new release 1.2.13  
+steam new release 0.5.9  
+#### updates at stable repository 
 ## 2026-03-21
 #### updates at latest repository 
 admin new release 7.8.6  
