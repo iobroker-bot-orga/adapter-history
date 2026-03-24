@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-03-23
+#### updates at latest repository 
+alarm new release 4.0.0  
+danfoss-ally new release 0.2.15  
+lorawan new release 1.21.13  
+openknx new release 1.1.2  
+poolcontrol new release 1.2.15  
+sainlogic new release 1.2.0  
+#### updates at stable repository 
+brightsky updated to 1.0.1  
+bsblan updated to 1.0.0  
+enigma2 updated to 2.3.0  
+epson_ecotank_et_2750 updated to 1.1.0  
+ical updated to 1.19.7  
+mhi-wfrac updated to 2.2.0  
+valloxmv updated to 1.5.0  
 ## 2026-03-22
 #### updates at latest repository 
 grohe-smarthome new release 0.3.2  
