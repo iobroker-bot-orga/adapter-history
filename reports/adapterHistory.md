@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-03-24
+#### updates at latest repository 
+brightsky new release 1.1.0  
+devices new release 2.0.2  
+openknx new release 1.1.3  
+#### updates at stable repository 
+senec updated to 2.4.8  
 ## 2026-03-23
 #### updates at latest repository 
 alarm new release 4.0.0  
