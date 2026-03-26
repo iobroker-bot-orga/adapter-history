@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-03-25
+#### updates at latest repository 
+admin new release 7.8.9  
+devices new release 2.0.3  
+energiefluss-erweitert new release 0.8.2  
+mcdu new release 0.2.2  
+places new release 1.4.0  
+pv-notifications new release 1.2.24  
+speedport new release 0.1.0  
+squeezeboxrpc new release 1.6.4  
+vis-jsontemplate new release 4.4.0  
+zendure-solarflow new release 4.0.2  
+#### updates at stable repository 
+hoymiles-ms updated to 0.2.2  
+smartm updated to 0.0.5  
+tesla-motors updated to 1.5.0  
 ## 2026-03-24
 #### updates at latest repository 
 brightsky new release 1.1.0  
