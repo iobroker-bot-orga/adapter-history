@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-03-26
+#### updates at latest repository 
+grohe-smarthome new release 0.3.3  
+loxone new release 4.0.2  
+nextcloud-monitoring new release 2.0.4  
+open-meteo-weather new release 2.6.2  
+zwift new release 0.1.2  
+#### updates at stable repository 
+acme updated to 3.0.2  
+comfoair updated to 1.3.0  
+fakeroku updated to 0.4.0  
+fritzbox updated to 0.7.0  
+frontier_silicon updated to 0.5.1  
+shelly updated to 10.6.1  
 ## 2026-03-25
 #### updates at latest repository 
 admin new release 7.8.9  
