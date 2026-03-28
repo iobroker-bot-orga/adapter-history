@@ -1,5 +1,42 @@
 # Adapter publishing report
 
+## 2026-03-27
+#### updates at latest repository 
+air-q new release 1.2.0  
+devices new release 2.0.5  
+nextcloud-monitoring new release 2.0.5  
+nspanel-lovelace-ui new release 0.15.2  
+open-meteo-weather new release 2.6.3  
+rssfeed new release 4.0.3  
+vis-2 new release 2.13.16  
+vis-2-widgets-icontwo new release 1.29.0  
+witmotion new release 0.0.4  
+#### updates at stable repository 
+echarts updated to 3.1.0  
+eventlist updated to 2.1.0  
+hm-rpc updated to 3.0.1  
+iot updated to 5.0.12  
+kisshome-defender updated to 1.3.3  
+modbus updated to 8.0.3  
+opcua updated to 1.2.1  
+openweathermap updated to 1.4.0  
+parser updated to 3.0.0  
+rssfeed updated to 4.0.2  
+sayit updated to 5.1.0  
+scenes updated to 4.0.4  
+scheduler updated to 1.5.0  
+simple-api updated to 3.0.7  
+socketio updated to 7.0.8  
+sonoff updated to 3.3.0  
+vis-2 updated to 2.13.8  
+vis-2-widgets-gauges updated to 2.0.2  
+vis-colorpicker updated to 2.1.0  
+vis-hqwidgets updated to 1.6.0  
+vis-jqui-mfd updated to 1.1.3  
+vis-keyboard updated to 0.0.3  
+web updated to 8.0.0  
+welcome updated to 1.1.1  
+ws updated to 4.0.0  
 ## 2026-03-26
 #### updates at latest repository 
 grohe-smarthome new release 0.3.3  
