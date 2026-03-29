@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-03-28
+#### updates at latest repository 
+hausbus_de new release 1.6.2  
+lorawan new release 1.21.15  
+openknx new release 1.1.4  
+senec new release 2.5.0  
+tvprogram new release 4.0.4  
+vis-2-widgets-icontwo new release 1.30.0  
+#### updates at stable repository 
+amtronwallbox updated to 0.3.6  
+ebus updated to 3.8.0  
+heatingcontrol updated to 3.1.0  
+pvoutputorg updated to 1.9.7  
+semp updated to 2.0.5  
 ## 2026-03-27
 #### updates at latest repository 
 air-q new release 1.2.0  
