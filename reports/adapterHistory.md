@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-03-29
+#### updates at latest repository 
+admin new release 7.8.17  
+frigate new release 2.2.1  
+hausbus_de new release 1.6.12  
+kecontact new release 3.6.0  
+mitsubishi-local-control new release 1.0.6  
+vis-2-widgets-icontwo new release 1.31.0  
+#### updates at stable repository 
+smartfriends updated to 1.3.6  
 ## 2026-03-28
 #### updates at latest repository 
 hausbus_de new release 1.6.2  
