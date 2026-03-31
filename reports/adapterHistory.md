@@ -1,5 +1,32 @@
 # Adapter publishing report
 
+## 2026-03-30
+#### updates at latest repository 
+admin new release 7.8.19  
+deconz new release 1.7.4  
+dnscope new release 0.2.8  
+frigate new release 2.3.1  
+gotify-ws new release 0.2.5  
+hydrop new release 0.1.5  
+lorawan new release 1.21.18  
+matrix-org new release 1.2.2  
+nextcloud-monitoring new release 2.0.6  
+open-meteo-weather new release 2.6.4  
+openligadb new release 1.9.3  
+pegelalarm new release 1.3.13  
+remeha-home new release 1.0.10  
+schoolfree new release 1.1.14  
+solax new release 0.9.23  
+uv-protect new release 0.6.12  
+vis-2 new release 2.13.17  
+vis-2-widgets-icontwo new release 1.35.0  
+#### updates at stable repository 
+deconz updated to 1.7.4  
+matrix-org updated to 1.2.1  
+shuttercontrol updated to 2.0.12  
+solax updated to 0.9.22  
+tibberlink updated to 6.2.0  
+tinker updated to 1.3.12  
 ## 2026-03-29
 #### updates at latest repository 
 admin new release 7.8.17  
