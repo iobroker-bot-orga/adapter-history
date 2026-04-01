@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-03-31
+#### updates at latest repository 
+admin new release 7.8.20  
+aurora-nowcast new release 2.2.0  
+heytech new release 1.1.3  
+ikettle2 new release 1.0.3  
+iot new release 5.0.13  
+lorawan new release 1.21.22  
+mytime new release 2.3.4  
+refoss new release 1.4.0  
+senec new release 2.5.1  
+tesla-wallconnector3 new release 1.1.0  
+tibberlink new release 6.2.1  
+vis-2-widgets-icontwo new release 1.37.0  
+voltoplus new release 0.2.7  
+zendure-solarflow new release 4.0.3  
+#### updates at stable repository 
+pi-hole updated to 2.0.0  
 ## 2026-03-30
 #### updates at latest repository 
 admin new release 7.8.19  
