@@ -1,5 +1,27 @@
 # Adapter publishing report
 
+## 2026-04-01
+#### updates at latest repository 
+cmicoe new release 1.2.5  
+hass new release 2.0.2  
+i2c new release 2.0.0  
+lorawan new release 1.21.25  
+mihome-cloud new release 1.0.5  
+openknx new release 1.1.5  
+senec new release 2.5.2  
+spotify-premium new release 2.0.1  
+upnp new release 1.1.5  
+vis-2-widgets-icontwo new release 1.38.0  
+#### updates at stable repository 
+air-q updated to 1.1.0  
+freeair updated to 1.0.8  
+kostal-piko-ba updated to 6.0.6  
+openmediavault updated to 1.4.4  
+pjlink updated to 0.1.2  
+sma-em updated to 1.3.1  
+solarprognose updated to 2.0.1  
+voltoplus updated to 0.2.1  
+weatherflow-tempest-api updated to 1.1.4  
 ## 2026-03-31
 #### updates at latest repository 
 admin new release 7.8.20  
