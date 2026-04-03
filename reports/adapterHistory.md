@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-04-02
+#### updates at latest repository 
+hass new release 2.0.3  
+janitza-gridvis new release 3.7.1  
+lorawan new release 1.22.1  
+maxxi-charge new release 1.4.48  
+plenticore-g3 new release 0.5.3  
+residents new release 1.1.0  
+volvo new release 1.0.0  
+#### updates at stable repository 
+bidirectional-counter updated to 2.5.8  
+lowpass-filter updated to 2.6.1  
+nspanel-lovelace-ui updated to 0.15.2  
 ## 2026-04-01
 #### updates at latest repository 
 cmicoe new release 1.2.5  
