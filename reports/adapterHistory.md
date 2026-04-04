@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-04-03
+#### updates at latest repository 
+deconz new release 1.7.6  
+heytech new release 1.1.5  
+ikettle2 new release 1.0.4  
+janitza-gridvis new release 3.7.3  
+tapo new release 0.5.1  
+upnp new release 1.1.8  
+voltoplus new release 0.2.8  
+zwavews new release 0.1.3  
+#### updates at stable repository 
 ## 2026-04-02
 #### updates at latest repository 
 hass new release 2.0.3  
