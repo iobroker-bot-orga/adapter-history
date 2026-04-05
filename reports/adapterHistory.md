@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-04-04
+#### updates at latest repository 
+janitza-gridvis new release 3.7.5  
+nspanel-lovelace-ui new release 0.15.4  
+paperless-ngx new release 1.0.0  
+sun2000 new release 2.4.2  
+tapo new release 0.5.2  
+volvo new release 1.0.3  
+#### updates at stable repository 
 ## 2026-04-03
 #### updates at latest repository 
 deconz new release 1.7.6  
