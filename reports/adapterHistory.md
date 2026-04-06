@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-04-05
+#### updates at latest repository 
+bidirectional-counter new release 2.5.15  
+drag-indicator new release 2.6.1  
+janitza-gridvis new release 3.7.7  
+knx new release 2.0.39  
+parcel new release 0.3.0  
+upnp new release 1.1.9  
+volvo new release 1.0.5  
+#### updates at stable repository 
 ## 2026-04-04
 #### updates at latest repository 
 janitza-gridvis new release 3.7.5  
