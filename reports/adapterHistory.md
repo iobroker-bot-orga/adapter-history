@@ -1,5 +1,27 @@
 # Adapter publishing report
 
+## 2026-04-06
+#### updates at latest repository 
+bluelink new release 3.1.27  
+ebus new release 4.0.1  
+heizoel24-mex new release 1.8.0  
+js-controller new release 7.1.1  
+operating-hours new release 1.5.1  
+parcel new release 0.3.1  
+sbfspot new release 5.0.6  
+schoolfree new release 2.0.0  
+semp new release 2.0.7  
+seq new release 1.0.2  
+smoothed new release 1.7.0  
+sofarcloud new release 3.4.0  
+solectrus-influxdb new release 1.6.0  
+spotify-premium new release 2.0.3  
+tapo new release 0.5.3  
+weathersense new release 4.4.0  
+#### updates at stable repository 
+energymanager updated to 2.0.1  
+epson_stylus_px830 updated to 0.4.0  
+vis-2-widgets-icontwo updated to 1.31.0  
 ## 2026-04-05
 #### updates at latest repository 
 bidirectional-counter new release 2.5.15  
