@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-04-07
+#### updates at latest repository 
+foxesscloud new release 0.2.0  
+heizoel24-mex new release 1.8.1  
+ical new release 1.20.0  
+volvo new release 2.0.0  
+#### updates at stable repository 
+firetv updated to 2.2.0  
+foobar2000 updated to 2.3.0  
+fronius updated to 2.2.0  
+nmea updated to 0.4.2  
+nut updated to 1.7.0  
+siegenia updated to 1.2.1  
+statistics updated to 4.0.0  
+vis-2-widgets-jaeger-design updated to 1.4.19  
+vis-2-widgets-material updated to 1.6.1  
 ## 2026-04-06
 #### updates at latest repository 
 bluelink new release 3.1.27  
