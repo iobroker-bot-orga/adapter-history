@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-04-08
+#### updates at latest repository 
+alarm new release 4.0.2  
+iot new release 6.0.1  
+janitza-gridvis new release 3.7.9  
+lorawan new release 1.22.2  
+poolcontrol new release 1.2.18  
+sainlogic new release 1.2.1  
+seplos-v3-sniffer new release 1.0.0  
+unifi-network new release 1.4.0  
+#### updates at stable repository 
+grohe-smarthome updated to 0.3.3  
+gsmsms updated to 1.1.0  
+jeelink updated to 1.2.8  
+node-red updated to 6.0.7  
+sainlogic updated to 1.2.0  
+schlueter-thermostat updated to 0.5.2  
+tibberlink updated to 6.2.1  
 ## 2026-04-07
 #### updates at latest repository 
 foxesscloud new release 0.2.0  
