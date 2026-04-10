@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-04-09
+#### updates at latest repository 
+bluelink new release 3.1.28  
+heatingcontrol new release 3.1.1  
+nspanel-lovelace-ui new release 0.16.1  
+oxxify-fan-control new release 0.0.13  
+vis-2-widgets-icontwo new release 1.38.1  
+#### updates at stable repository 
+places updated to 1.4.0  
+reolink updated to 1.4.2  
+rpi2 updated to 3.0.2  
+seq updated to 0.4.2  
+tinymqttbroker updated to 0.1.6  
+zwavews updated to 0.1.3  
 ## 2026-04-08
 #### updates at latest repository 
 alarm new release 4.0.2  
