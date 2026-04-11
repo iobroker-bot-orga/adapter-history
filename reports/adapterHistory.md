@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-04-10
+#### updates at latest repository 
+brunner-eas3 new release 1.1.1  
+lorawan new release 1.22.6  
+melcloud new release 3.0.4  
+nspanel-lovelace-ui new release 0.16.2  
+pvforecast new release 6.0.0  
+refoss new release 1.4.2  
+solectrus-influxdb new release 1.7.0  
+#### updates at stable repository 
+steam updated to 0.5.9  
+stiebel-isg updated to 2.0.3  
+vis-jsontemplate updated to 4.4.0  
 ## 2026-04-09
 #### updates at latest repository 
 bluelink new release 3.1.28  
