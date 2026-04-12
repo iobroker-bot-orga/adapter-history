@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-04-11
+#### updates at latest repository 
+backitup new release 3.3.15  
+heatingcontrol new release 3.1.2  
+poolcontrol new release 1.2.20  
+sprinklecontrol new release 1.0.1  
+ultrahuman new release 0.1.13  
+#### updates at stable repository 
+history updated to 4.0.0  
+senec updated to 2.5.2  
 ## 2026-04-10
 #### updates at latest repository 
 brunner-eas3 new release 1.1.1  
