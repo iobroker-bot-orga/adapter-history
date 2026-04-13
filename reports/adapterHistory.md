@@ -1,5 +1,28 @@
 # Adapter publishing report
 
+## 2026-04-12
+#### updates at latest repository 
+bmw new release 4.3.5  
+ebus new release 4.0.3  
+enpal new release 0.2.0  
+fullybrowser new release 3.1.3  
+heatingcontrol new release 3.1.3  
+hueemu new release 1.2.3  
+javascript new release 9.2.0  
+modbus new release 8.1.0  
+openknx new release 1.1.6  
+semp new release 2.0.8  
+solectrus-influxdb new release 1.7.1  
+tapo new release 0.5.4  
+telegram-menu new release 4.1.0  
+tesla-motors new release 2.0.0  
+vis-2-widgets-inventwo new release 0.6.5  
+vis-2-widgets-sigenergy new release 1.6.7  
+webui new release 1.40.2  
+worx new release 3.3.0  
+#### updates at stable repository 
+seplos-v3-sniffer updated to 1.0.0  
+worx updated to 3.3.0  
 ## 2026-04-11
 #### updates at latest repository 
 backitup new release 3.3.15  
