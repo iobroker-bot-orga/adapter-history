@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2026-04-13
+#### updates at latest repository 
+modbus new release 8.1.2  
+nspanel-lovelace-ui new release 0.17.2  
+senec new release 2.5.3  
+socketio new release 7.1.3  
+vis-hqwidgets new release 1.6.1  
+vis-jsontemplate new release 4.4.1  
+web new release 8.1.0  
+ws new release 4.1.0  
+xsense new release 0.3.7  
+xterm new release 3.0.2  
+#### updates at stable repository 
+hausbus_de updated to 1.6.12  
+mitsubishi-local-control updated to 1.0.6  
+residents updated to 1.1.0  
+tvprogram updated to 4.0.4  
 ## 2026-04-12
 #### updates at latest repository 
 bmw new release 4.3.5  
