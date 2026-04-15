@@ -1,5 +1,30 @@
 # Adapter publishing report
 
+## 2026-04-14
+#### updates at latest repository 
+autodarts new release 1.0.8  
+bydhvs new release 1.5.5  
+e3oncan new release 0.11.0  
+flexcharts new release 0.6.2  
+foxesscloud new release 0.2.1  
+hs100 new release 3.0.6  
+hueemu new release 1.2.4  
+kostal-piko-ba new release 6.0.7  
+modbus new release 8.1.3  
+nspanel-lovelace-ui new release 0.17.3  
+parser new release 3.1.0  
+semp new release 2.0.9  
+teslafi new release 2.0.7  
+tibberlink new release 6.2.2  
+traccar new release 1.1.7  
+vis-jsontemplate new release 4.4.2  
+volvo new release 2.0.1  
+vw-connect new release 0.8.0  
+zendure-solarflow new release 4.0.4  
+#### updates at stable repository 
+heizoel24-mex updated to 1.8.1  
+sofarcloud updated to 3.4.0  
+weathersense updated to 4.4.0  
 ## 2026-04-13
 #### updates at latest repository 
 modbus new release 8.1.2  
