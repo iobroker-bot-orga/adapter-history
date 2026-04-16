@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-04-15
+#### updates at latest repository 
+backitup new release 3.3.17  
+brunner-eas3 new release 1.1.4  
+poolcontrol new release 1.2.21  
+smartloadmanager new release 0.1.2  
+webui new release 1.41.3  
+#### updates at stable repository 
+aurora-nowcast updated to 2.2.0  
+nextcloud-monitoring updated to 2.0.6  
+open-meteo-weather updated to 2.6.4  
 ## 2026-04-14
 #### updates at latest repository 
 autodarts new release 1.0.8  
