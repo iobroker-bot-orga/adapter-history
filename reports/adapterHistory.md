@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-04-16
+#### updates at latest repository 
+flexcharts new release 0.7.0  
+haier new release 1.2.1  
+harmony new release 2.1.0  
+lorawan new release 1.22.7  
+mercedesme new release 0.7.1  
+poolcontrol new release 1.2.22  
+tesla-motors new release 2.0.1  
+zwavews new release 0.1.4  
+#### updates at stable repository 
+zendure-solarflow updated to 4.0.4  
 ## 2026-04-15
 #### updates at latest repository 
 backitup new release 3.3.17  
