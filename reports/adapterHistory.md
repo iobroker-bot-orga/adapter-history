@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-04-17
+#### updates at latest repository 
+chargemaster new release 0.14.7  
+hueemu new release 1.2.5  
+nspanel-lovelace-ui new release 0.17.4  
+poolcontrol new release 1.3.1  
+tesla-motors new release 2.0.2  
+vis-2-widgets-sigenergy new release 1.7.2  
+#### updates at stable repository 
 ## 2026-04-16
 #### updates at latest repository 
 flexcharts new release 0.7.0  
