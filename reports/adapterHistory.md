@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-04-18
+#### updates at latest repository 
+aurora-nowcast new release 2.2.2  
+dreame new release 0.3.1  
+hueemu new release 1.2.6  
+poolcontrol new release 1.3.2  
+#### updates at stable repository 
+vis-jsontemplate updated to 4.4.2  
 ## 2026-04-17
 #### updates at latest repository 
 chargemaster new release 0.14.7  
