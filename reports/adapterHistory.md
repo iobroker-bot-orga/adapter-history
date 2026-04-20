@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-04-19
+#### updates at latest repository 
+dreame new release 0.3.4  
+nspanel-lovelace-ui new release 0.17.5  
+open-meteo-weather new release 3.0.0  
+poolcontrol new release 1.3.3  
+sprinklecontrol new release 1.0.2  
+telegram-menu new release 4.1.1  
+zwift new release 0.1.3  
+#### updates at stable repository 
 ## 2026-04-18
 #### updates at latest repository 
 aurora-nowcast new release 2.2.2  
