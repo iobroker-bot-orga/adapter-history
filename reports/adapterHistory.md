@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2026-04-20
+#### updates at latest repository 
+fyta new release 0.2.5  
+lorawan new release 1.22.11  
+poolcontrol new release 1.3.5  
+sun2000 new release 2.4.3  
+unraid new release 0.8.0  
+vis-2-widgets-material new release 1.6.2  
+weather-warnings new release 0.10.1  
+wireless-settings new release 1.2.2  
+#### updates at stable repository 
+bmw updated to 4.3.5  
+kecontact updated to 3.6.0  
+lifx updated to 2.0.0  
+mytime updated to 2.3.4  
+squeezeboxrpc updated to 1.6.4  
+vis-icontwo updated to 2.11.3  
 ## 2026-04-19
 #### updates at latest repository 
 dreame new release 0.3.4  
