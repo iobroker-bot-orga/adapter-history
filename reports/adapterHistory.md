@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-04-21
+#### updates at latest repository 
+dreame new release 0.3.6  
+fullybrowser new release 3.1.5  
+lgtv new release 2.6.0  
+poolcontrol new release 1.3.6  
+sigenergy new release 1.9.7  
+simple-proxy-manager new release 0.1.9  
+victron-cerbo new release 0.2.1  
+vis-2-widgets-sigenergy new release 1.7.7  
+zigbee2mqtt new release 3.1.1  
+#### updates at stable repository 
+plenticore-g3 updated to 0.5.3  
+volvo updated to 2.0.1  
 ## 2026-04-20
 #### updates at latest repository 
 fyta new release 0.2.5  
