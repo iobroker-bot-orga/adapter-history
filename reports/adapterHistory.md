@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-04-22
+#### updates at latest repository 
+semp new release 2.0.10  
+sigenergy new release 1.9.8  
+trashschedule new release 5.3.0  
+vis-2-widgets-inventwo new release 0.7.0  
+vis-jsontemplate new release 4.4.3  
+xsense new release 0.4.0  
+zwavews new release 0.1.5  
+#### updates at stable repository 
 ## 2026-04-21
 #### updates at latest repository 
 dreame new release 0.3.6  
