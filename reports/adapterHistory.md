@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-04-23
+#### updates at latest repository 
+e3oncan new release 0.11.1  
+iot new release 6.0.3  
+life360ng new release 1.1.0  
+nspanel-lovelace-ui new release 0.17.6  
+pegelalarm new release 1.4.0  
+poolcontrol new release 1.3.7  
+proxmox new release 2.5.3  
+traccar new release 1.2.0  
+zwavews new release 0.1.6  
+#### updates at stable repository 
+ical updated to 1.20.0  
+loxone updated to 4.0.2  
+matrix-org updated to 1.2.2  
+nspanel-lovelace-ui updated to 0.16.2  
+openligadb updated to 1.9.3  
+refoss updated to 1.4.2  
+tuya updated to 3.17.0  
 ## 2026-04-22
 #### updates at latest repository 
 semp new release 2.0.10  
