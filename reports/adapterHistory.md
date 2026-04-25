@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-04-24
+#### updates at latest repository 
+bydhvs new release 1.5.6  
+hueemu new release 1.2.7  
+nspanel-lovelace-ui new release 0.17.7  
+xsense new release 0.4.2  
+zigbee2mqtt new release 3.1.5  
+#### updates at stable repository 
 ## 2026-04-23
 #### updates at latest repository 
 e3oncan new release 0.11.1  
