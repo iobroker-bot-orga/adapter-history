@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-04-25
+#### updates at latest repository 
+amtronwallbox new release 1.0.0  
+bydhvs new release 1.5.9  
+nspanel-lovelace-ui new release 0.17.8  
+open-meteo-weather new release 3.0.1  
+poolcontrol new release 1.3.9  
+semp new release 2.0.12  
+solectrus-influxdb new release 1.8.0  
+sprinklecontrol new release 1.0.3  
+vis-2-widgets-inventwo new release 0.7.1  
+#### updates at stable repository 
+bidirectional-counter updated to 2.5.15  
+drag-indicator updated to 2.6.1  
+flexcharts updated to 0.7.0  
+operating-hours updated to 1.5.1  
+paperless-ngx updated to 1.0.0  
+smoothed updated to 1.7.0  
+vis-2-widgets-icontwo updated to 1.38.1  
 ## 2026-04-24
 #### updates at latest repository 
 bydhvs new release 1.5.6  
