@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-04-26
+#### updates at latest repository 
+al-ko new release 0.3.5  
+bydhvs new release 1.5.10  
+miner new release 1.0.4  
+pvforecast new release 6.1.0  
+residents new release 1.1.1  
+solectrus-influxdb new release 1.8.1  
+sprinklecontrol new release 1.0.4  
+vis-2-widgets-inventwo new release 0.7.2  
+#### updates at stable repository 
+openknx updated to 1.1.16  
+residents updated to 1.1.1  
 ## 2026-04-25
 #### updates at latest repository 
 amtronwallbox new release 1.0.0  
