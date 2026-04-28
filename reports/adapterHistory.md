@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2026-04-27
+#### updates at latest repository 
+admin new release 7.8.23  
+al-ko new release 0.3.6  
+bydhvs new release 1.5.11  
+dnscope new release 0.2.9  
+heatingcontrol new release 3.1.4  
+hueemu new release 1.2.8  
+vis-2 new release 2.13.19  
+vis-2-widgets-jaeger-design new release 1.4.20  
+vis-2-widgets-material new release 1.6.5  
+webui new release 1.42.1  
+xsense new release 0.5.0  
+zigbee2mqtt new release 3.2.0  
+zwavews new release 0.2.0  
+#### updates at stable repository 
+openknx updated to 1.1.6  
+rssfeed updated to 4.0.3  
+schoolfree updated to 2.0.0  
+vis-jsontemplate updated to 4.4.3  
 ## 2026-04-26
 #### updates at latest repository 
 al-ko new release 0.3.5  
