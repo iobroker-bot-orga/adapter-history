@@ -1,5 +1,10 @@
 # Adapter publishing report
 
+## 2026-04-28
+#### updates at latest repository 
+webui new release 1.44.0  
+#### updates at stable repository 
+aurora-nowcast updated to 2.2.2  
 ## 2026-04-27
 #### updates at latest repository 
 admin new release 7.8.23  
