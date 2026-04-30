@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-04-29
+#### updates at latest repository 
+hoymiles new release 0.3.4  
+hueemu new release 1.2.9  
+openknx new release 1.1.7  
+public-transport new release 0.2.2  
+simple-proxy-manager new release 0.1.10  
+#### updates at stable repository 
+senec updated to 2.5.3  
+vis-2-widgets-inventwo updated to 0.7.2  
 ## 2026-04-28
 #### updates at latest repository 
 webui new release 1.44.0  
