@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-04-30
+#### updates at latest repository 
+dreame new release 0.3.7  
+mihome-cloud new release 1.0.6  
+openknx new release 1.1.8  
+#### updates at stable repository 
+autodarts updated to 1.0.8  
+enpal updated to 0.2.0  
 ## 2026-04-29
 #### updates at latest repository 
 hoymiles new release 0.3.4  
