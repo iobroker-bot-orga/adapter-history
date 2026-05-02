@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-05-01
+#### updates at latest repository 
+bydhvs new release 1.5.12  
+hueemu new release 1.3.3  
+javascript new release 9.2.1  
+life360ng new release 1.2.0  
+#### updates at stable repository 
+cloud updated to 6.0.1  
+harmony updated to 2.1.0  
+pushover updated to 5.0.0  
 ## 2026-04-30
 #### updates at latest repository 
 dreame new release 0.3.7  
