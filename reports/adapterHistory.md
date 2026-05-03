@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-05-02
+#### updates at latest repository 
+e3oncan new release 0.11.2  
+life360ng new release 1.2.1  
+poolcontrol new release 1.3.11  
+viessmannapi new release 2.4.5  
+#### updates at stable repository 
 ## 2026-05-01
 #### updates at latest repository 
 bydhvs new release 1.5.12  
