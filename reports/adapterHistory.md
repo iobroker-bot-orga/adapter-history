@@ -1,5 +1,28 @@
 # Adapter publishing report
 
+## 2026-05-03
+#### updates at latest repository 
+apg-info new release 0.1.32  
+deconz new release 1.7.7  
+e3oncan new release 0.11.3  
+hausbus_de new release 1.6.14  
+heizoel24-mex new release 1.9.0  
+heytech new release 1.1.6  
+ikettle2 new release 1.0.5  
+life360ng new release 1.2.3  
+nissan new release 0.1.18  
+open-meteo-weather new release 3.1.0  
+poolcontrol new release 1.3.12  
+public-transport new release 0.3.0  
+unraid new release 0.9.0  
+upnp new release 1.1.10  
+voltoplus new release 0.2.9  
+volvo new release 3.0.0  
+xsense new release 0.5.1  
+zigbee new release 3.4.1  
+#### updates at stable repository 
+sun2000 updated to 2.4.3  
+unifi-network updated to 1.4.0  
 ## 2026-05-02
 #### updates at latest repository 
 e3oncan new release 0.11.2  
