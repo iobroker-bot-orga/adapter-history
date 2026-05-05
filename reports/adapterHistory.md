@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-05-04
+#### updates at latest repository 
+grohe-smarthome new release 0.3.4  
+life360ng new release 1.3.1  
+nextcloudtalk new release 1.0.3  
+schlueter-thermostat new release 0.5.3  
+solectrus-influxdb new release 1.8.2  
+sprinklecontrol new release 1.0.5  
+xsense new release 0.6.1  
+#### updates at stable repository 
+life360ng updated to 1.1.0  
+speedport updated to 0.1.0  
+tesla-motors updated to 2.0.2  
+teslafi updated to 2.0.7  
 ## 2026-05-03
 #### updates at latest repository 
 apg-info new release 0.1.32  
