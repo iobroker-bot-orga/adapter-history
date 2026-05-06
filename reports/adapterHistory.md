@@ -1,5 +1,29 @@
 # Adapter publishing report
 
+## 2026-05-05
+#### updates at latest repository 
+accuweather new release 2.3.0  
+adguard new release 1.2.0  
+admin new release 7.8.24  
+birthdays new release 6.0.0  
+chromecast new release 4.2.0  
+feiertage new release 1.4.0  
+flexcharts new release 0.7.1  
+gira-iot new release 0.7.0  
+hass new release 2.0.4  
+lametric new release 6.0.0  
+luftdaten new release 6.0.1  
+mqtt-client new release 4.0.0  
+octoprint new release 7.0.0  
+onlycat new release 0.6.0  
+openknx new release 1.1.10  
+roborock new release 0.7.0  
+sun2000 new release 2.4.4  
+teslafi new release 3.0.0  
+youtube new release 7.0.0  
+#### updates at stable repository 
+admin updated to 7.8.23  
+e3oncan updated to 0.11.3  
 ## 2026-05-04
 #### updates at latest repository 
 grohe-smarthome new release 0.3.4  
