@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-05-06
+#### updates at latest repository 
+device-watcher new release 2.15.12  
+grohe-smarthome new release 0.4.0  
+oxxify-fan-control new release 0.0.15  
+ping new release 2.2.2  
+vis-2-widgets-material new release 1.6.6  
+vw-connect new release 0.8.1  
+zigbee2mqtt new release 3.2.1  
+#### updates at stable repository 
 ## 2026-05-05
 #### updates at latest repository 
 accuweather new release 2.3.0  
