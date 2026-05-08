@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2026-05-08
+#### updates at latest repository 
+al-ko new release 0.3.7  
+e3oncan new release 1.0.0  
+flexcharts new release 0.7.2  
+hm-rpc new release 3.0.2  
+hueemu new release 1.4.1  
+ical new release 1.20.1  
+javascript new release 9.2.2  
+js-controller new release 7.1.2  
+life360ng new release 1.4.0  
+public-transport new release 0.4.0  
+webui new release 1.45.2  
+zigbee new release 3.4.2  
+#### updates at stable repository 
 ## 2026-05-06
 #### updates at latest repository 
 device-watcher new release 2.15.12  
