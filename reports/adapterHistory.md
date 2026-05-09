@@ -12,9 +12,13 @@ javascript new release 9.2.2
 js-controller new release 7.1.2  
 life360ng new release 1.4.0  
 public-transport new release 0.4.0  
-webui new release 1.45.2  
+webui new release 1.46.1  
 zigbee new release 3.4.2  
+poolcontrol new release 1.3.15  
 #### updates at stable repository 
+haier updated to 1.2.1  
+spotify-premium updated to 2.0.3  
+weather-warnings updated to 0.10.1  
 ## 2026-05-06
 #### updates at latest repository 
 device-watcher new release 2.15.12  
