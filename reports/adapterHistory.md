@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-05-09
+#### updates at latest repository 
+dune-hd-remote new release 1.2.1  
+grohe-smarthome new release 0.5.1  
+kostal-piko-ba new release 7.0.0  
+nextcloud-monitoring new release 2.1.0  
+openknx new release 1.1.11  
+schlueter-thermostat new release 0.6.0  
+script-restore new release 0.0.12  
+zigbee new release 3.4.3  
+#### updates at stable repository 
 ## 2026-05-08
 #### updates at latest repository 
 al-ko new release 0.3.7  
