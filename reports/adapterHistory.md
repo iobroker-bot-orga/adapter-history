@@ -1,5 +1,34 @@
 # Adapter publishing report
 
+## 2026-05-10
+#### updates at latest repository 
+bosesoundtouch new release 0.12.0  
+chargemaster new release 0.15.0  
+hueemu new release 1.4.4  
+lgtv new release 2.7.0  
+life360ng new release 1.5.0  
+logparser new release 2.5.0  
+lorawan new release 1.22.12  
+netatmo-crawler new release 1.2.0  
+parcelapp new release 0.4.1  
+plex new release 2.0.0  
+proxmox new release 2.5.5  
+rainbird new release 2.1.1  
+schlueter-thermostat new release 0.6.1  
+telegram-menu new release 4.2.0  
+vis-2-widgets-icontwo new release 1.39.0  
+vw-connect new release 0.8.3  
+#### updates at stable repository 
+amtronwallbox updated to 1.0.0  
+ebus updated to 4.0.3  
+heatingcontrol updated to 3.1.4  
+janitza-gridvis updated to 3.7.9  
+parser updated to 3.1.0  
+sbfspot updated to 5.0.6  
+semp updated to 2.0.12  
+socketio updated to 7.1.3  
+vis-2-widgets-weather-and-heating updated to 1.3.0  
+vis-hqwidgets updated to 1.6.1  
 ## 2026-05-09
 #### updates at latest repository 
 dune-hd-remote new release 1.2.1  
