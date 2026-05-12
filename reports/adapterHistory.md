@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2026-05-11
+#### updates at latest repository 
+danfoss-ally new release 0.2.16  
+e3oncan new release 1.0.1  
+helios new release 0.2.0  
+homeconnect new release 1.6.0  
+lgtv new release 2.7.2  
+life360ng new release 1.5.2  
+onlycat new release 0.6.1  
+parcelapp new release 0.4.2  
+poolcontrol new release 1.3.17  
+sprinklecontrol new release 1.0.6  
+#### updates at stable repository 
+fyta updated to 0.2.5  
+melcloud updated to 3.0.4  
 ## 2026-05-10
 #### updates at latest repository 
 bosesoundtouch new release 0.12.0  
