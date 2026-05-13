@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-05-12
+#### updates at latest repository 
+alarm new release 4.0.3  
+life360ng new release 1.6.0  
+poolcontrol new release 1.3.18  
+tesla-motors new release 2.0.3  
+#### updates at stable repository 
 ## 2026-05-11
 #### updates at latest repository 
 danfoss-ally new release 0.2.16  
