@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-05-13
+#### updates at latest repository 
+device-watcher new release 2.15.15  
+homeconnect new release 1.6.1  
+mspa new release 0.3.7  
+plenticore-g3 new release 1.0.0  
+poolcontrol new release 1.3.20  
+proxmox new release 2.6.0  
+script-restore new release 0.1.0  
+vis-2-widgets-icontwo new release 1.40.0  
+#### updates at stable repository 
+knx updated to 2.0.39  
+pvforecast updated to 6.1.0  
+volvo updated to 3.0.0  
 ## 2026-05-12
 #### updates at latest repository 
 alarm new release 4.0.3  
