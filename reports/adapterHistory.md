@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2026-05-14
+#### updates at latest repository 
+cmicoe new release 1.3.0  
+danfoss-ally new release 0.2.17  
+devices new release 2.0.12  
+foxesscloud new release 0.2.3  
+grohe-smarthome new release 0.5.2  
+homepilot new release 1.3.0  
+hoymiles new release 0.3.5  
+hueemu new release 1.4.5  
+life360ng new release 1.7.0  
+nuki-extended new release 2.8.2  
+parcelapp new release 0.4.4  
+plex new release 2.1.0  
+schlueter-thermostat new release 0.6.3  
+sigenergy new release 1.9.9  
+#### updates at stable repository 
 ## 2026-05-13
 #### updates at latest repository 
 device-watcher new release 2.15.15  
