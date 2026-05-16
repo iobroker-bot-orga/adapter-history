@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2026-05-15
+#### updates at latest repository 
+bshb new release 0.6.3  
+cloud new release 6.0.3  
+flowers new release 0.3.9  
+linky new release 0.1.0  
+schlueter-thermostat new release 0.7.0  
+sun2000 new release 2.4.5  
+vis-2-widgets-inventwo new release 0.8.0  
+vis-inventwo new release 4.0.1  
+vw-connect new release 0.8.4  
+x-touch new release 0.9.0  
+#### updates at stable repository 
+flexcharts updated to 0.7.2  
+heizoel24-mex updated to 1.9.0  
+life360ng updated to 1.4.0  
+tibberlink updated to 6.2.2  
 ## 2026-05-14
 #### updates at latest repository 
 cmicoe new release 1.3.0  
