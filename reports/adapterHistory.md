@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-05-16
+#### updates at latest repository 
+cloudflare new release 1.2.11  
+danfoss-ally new release 0.2.18  
+devices new release 2.0.18  
+fyta new release 0.2.6  
+ping new release 2.2.4  
+vis-2-widgets-tibberlink new release 0.4.5  
+wattcycle new release 0.2.2  
+#### updates at stable repository 
+mspa updated to 0.3.7  
+nextcloudtalk updated to 1.0.3  
+openknx updated to 1.1.11  
+solectrus-influxdb updated to 1.8.2  
 ## 2026-05-15
 #### updates at latest repository 
 bshb new release 0.6.3  
