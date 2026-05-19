@@ -1,5 +1,34 @@
 # Adapter publishing report
 
+## 2026-05-18
+#### updates at latest repository 
+admin new release 7.8.25  
+alarm new release 4.0.4  
+bmw new release 5.0.0  
+cloud new release 6.0.4  
+e3oncan new release 1.0.2  
+esphome new release 0.7.0  
+flowers new release 0.4.0  
+frigate new release 3.0.0  
+fyta new release 0.2.7  
+govee-local new release 0.4.6  
+hass new release 2.1.0  
+hueemu new release 1.4.6  
+innoxel new release 2.0.0  
+kostal-piko-ba new release 7.0.2  
+life360ng new release 1.9.0  
+parcelapp new release 0.4.7  
+poolcontrol new release 1.3.21  
+public-transport new release 0.5.0  
+solarviewdatareader new release 1.2.5  
+vesync new release 1.0.4  
+viessmann new release 2.0.4  
+vis-2-widgets-inventwo new release 1.0.0  
+vis-2-widgets-material new release 1.6.7  
+vis-inventwo new release 4.1.0  
+zigbee new release 3.4.5  
+#### updates at stable repository 
+open-meteo-weather updated to 3.1.0  
 ## 2026-05-16
 #### updates at latest repository 
 cloudflare new release 1.2.11  
