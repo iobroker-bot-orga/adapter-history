@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-05-19
+#### updates at latest repository 
+birthdays new release 6.0.1  
+comfoairq new release 0.6.0  
+foxesscloud new release 0.4.0  
+hueemu new release 1.4.7  
+midea new release 1.6.0  
+openknx new release 1.1.12  
+oxxify-fan-control new release 0.0.16  
+roborock new release 0.7.1  
+#### updates at stable repository 
+apg-info updated to 0.1.32  
+mihome-cloud updated to 1.0.6  
 ## 2026-05-18
 #### updates at latest repository 
 admin new release 7.8.25  
