@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-05-20
+#### updates at latest repository 
+devices new release 2.1.1  
+life360ng new release 1.9.1  
+midea new release 1.7.1  
+parcelapp new release 0.4.8  
+rct new release 1.2.27  
+renault new release 0.0.23  
+roborock new release 0.7.2  
+#### updates at stable repository 
+adguard updated to 1.2.0  
+feiertage updated to 1.4.0  
+vis-2-widgets-icontwo updated to 1.40.0  
 ## 2026-05-19
 #### updates at latest repository 
 birthdays new release 6.0.1  
