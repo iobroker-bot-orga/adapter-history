@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-05-21
+#### updates at latest repository 
+hueemu new release 1.4.8  
+proxmox new release 2.6.1  
+webui new release 1.47.0  
+#### updates at stable repository 
+nissan updated to 0.1.18  
+trashschedule updated to 5.3.0  
 ## 2026-05-20
 #### updates at latest repository 
 devices new release 2.1.1  
