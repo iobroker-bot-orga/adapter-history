@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-05-22
+#### updates at latest repository 
+alexa2 new release 3.28.1  
+apcups new release 5.0.7  
+gree-hvac new release 2.0.9  
+grohe-smarthome new release 0.5.3  
+hueemu new release 1.5.0  
+parcelapp new release 0.5.0  
+schlueter-thermostat new release 0.7.1  
+solectrus-influxdb new release 1.8.3  
+#### updates at stable repository 
+brunner-eas3 updated to 1.1.4  
+lorawan updated to 1.22.12  
+sun2000 updated to 2.4.5  
 ## 2026-05-21
 #### updates at latest repository 
 hueemu new release 1.4.8  
