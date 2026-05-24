@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-05-23
+#### updates at latest repository 
+alexa-timer-vis new release 3.0.1  
+foxesscloud new release 0.5.0  
+heizoel24-mex new release 1.9.1  
+life360ng new release 1.10.0  
+mspa new release 0.3.8  
+parcelapp new release 0.5.1  
+roborock new release 0.7.3  
+solectrus-influxdb new release 1.8.4  
+#### updates at stable repository 
 ## 2026-05-22
 #### updates at latest repository 
 alexa2 new release 3.28.1  
