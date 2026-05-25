@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-05-24
+#### updates at latest repository 
+grohe-smarthome new release 0.5.4  
+hueemu new release 1.5.1  
+life360ng new release 1.10.1  
+parcelapp new release 0.5.3  
+schlueter-thermostat new release 0.7.2  
+script-restore new release 0.1.3  
+solectrus-influxdb new release 1.8.5  
+vis-2-widgets-icontwo new release 1.41.0  
+#### updates at stable repository 
 ## 2026-05-23
 #### updates at latest repository 
 alexa-timer-vis new release 3.0.1  
