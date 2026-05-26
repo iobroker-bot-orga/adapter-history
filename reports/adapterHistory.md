@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-05-25
+#### updates at latest repository 
+admin new release 7.8.27  
+autodarts new release 1.0.9  
+enpal new release 0.2.1  
+foxesscloud new release 0.5.1  
+knx new release 2.0.40  
+life360ng new release 1.10.2  
+lorawan new release 1.22.13  
+midea new release 1.8.3  
+poolcontrol new release 1.3.22  
+schlueter-thermostat new release 0.7.3  
+script-restore new release 0.1.4  
+solectrus-influxdb new release 1.8.6  
+sprinklecontrol new release 1.0.7  
+tapo new release 0.5.5  
+vis-icontwo new release 2.11.5  
+vw-connect new release 0.8.5  
+zwavews new release 0.2.1  
+#### updates at stable repository 
+nextcloud-monitoring updated to 2.1.0  
 ## 2026-05-24
 #### updates at latest repository 
 grohe-smarthome new release 0.5.4  
