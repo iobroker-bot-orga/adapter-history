@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-05-26
+#### updates at latest repository 
+apcups new release 5.0.8  
+apg-info new release 0.1.33  
+gree-hvac new release 3.0.0  
+poolcontrol new release 1.3.25  
+public-transport new release 0.6.0  
+zigbee2mqtt new release 3.2.2  
+#### updates at stable repository 
+maxxi-charge updated to 1.4.48  
 ## 2026-05-25
 #### updates at latest repository 
 admin new release 7.8.27  
