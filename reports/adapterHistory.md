@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2026-05-27
+#### updates at latest repository 
+foxesscloud new release 0.6.0  
+heizoel24-mex new release 1.9.2  
+javascript new release 9.2.3  
+mspa new release 0.3.9  
+senec new release 2.5.4  
+sigenergy new release 1.9.14  
+sofarcloud new release 3.4.1  
+vis-2-widgets-sigenergy new release 1.7.9  
+vis-2-widgets-tibberlink new release 0.4.7  
+vis-2-widgets-weather-and-heating new release 1.4.0  
+vw-connect new release 0.8.7  
+weathersense new release 4.4.1  
+#### updates at stable repository 
 ## 2026-05-26
 #### updates at latest repository 
 apcups new release 5.0.8  
