@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-05-28
+#### updates at latest repository 
+al-ko new release 0.3.9  
+birthdays new release 6.1.0  
+life360ng new release 1.11.0  
+vw-connect new release 0.8.8  
+#### updates at stable repository 
+homeconnect updated to 1.6.1  
+onlycat updated to 0.6.1  
+plenticore-g3 updated to 1.0.0  
 ## 2026-05-27
 #### updates at latest repository 
 foxesscloud new release 0.6.0  
