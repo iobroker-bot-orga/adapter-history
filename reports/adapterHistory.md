@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-05-29
+#### updates at latest repository 
+apcups new release 5.0.9  
+asuswrt new release 1.0.5  
+foxesscloud new release 0.6.1  
+gree-hvac new release 3.0.2  
+heizoel24-mex new release 1.9.3  
+modbus new release 8.2.0  
+poolcontrol new release 1.3.26  
+serial-gps new release 1.0.0  
+sofarcloud new release 3.4.2  
+solarmanpv new release 0.7.4  
+weathersense new release 4.4.2  
+#### updates at stable repository 
+vis-2-widgets-inventwo updated to 1.0.0  
+vis-inventwo updated to 4.1.0  
 ## 2026-05-28
 #### updates at latest repository 
 al-ko new release 0.3.9  
