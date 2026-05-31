@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-05-30
+#### updates at latest repository 
+admin new release 7.8.29  
+alexa-timer-vis new release 3.0.2  
+apcups new release 6.0.2  
+asuswrt new release 1.0.6  
+ems-esp new release 7.0.3  
+frigate new release 3.0.2  
+heizoel24-mex new release 1.10.0  
+lovelace new release 5.1.0  
+vis-2 new release 2.14.0  
+weathersense new release 4.4.3  
+#### updates at stable repository 
 ## 2026-05-29
 #### updates at latest repository 
 apcups new release 5.0.9  
