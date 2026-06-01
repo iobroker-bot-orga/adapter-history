@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-05-31
+#### updates at latest repository 
+al-ko new release 0.3.10  
+danfoss-ally new release 0.2.19  
+daswetter new release 4.5.4  
+deyeidc new release 0.3.2  
+hueemu new release 1.5.2  
+imap new release 0.4.0  
+lg-thinq new release 1.2.0  
+playstation new release 0.0.4  
+poolcontrol new release 1.3.27  
+schedule-switcher new release 0.2.0  
+tesla-motors new release 3.0.1  
+vis-2-widgets-icontwo new release 1.42.0  
+vw-connect new release 0.9.2  
+#### updates at stable repository 
+bshb updated to 0.6.3  
+cloudflare updated to 1.2.11  
+lorawan updated to 1.22.13  
+xsense updated to 0.6.1  
+zwavews updated to 0.2.1  
 ## 2026-05-30
 #### updates at latest repository 
 admin new release 7.8.29  
