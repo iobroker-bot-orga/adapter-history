@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-06-01
+#### updates at latest repository 
+apcups new release 6.0.3  
+gree-hvac new release 3.0.3  
+hueemu new release 1.6.0  
+oasecontrol new release 0.1.4  
+parcelapp new release 0.6.0  
+smartfriends new release 2.0.0  
+tesla-motors new release 3.2.0  
+vw-connect new release 0.9.3  
+#### updates at stable repository 
+fyta updated to 0.2.7  
 ## 2026-05-31
 #### updates at latest repository 
 al-ko new release 0.3.10  
