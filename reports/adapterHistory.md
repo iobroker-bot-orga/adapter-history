@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-06-02
+#### updates at latest repository 
+e3oncan new release 1.0.3  
+ecoflow-mqtt new release 1.4.8  
+foxesscloud new release 0.6.2  
+govee-local new release 0.4.7  
+iot new release 6.1.0  
+lovelace new release 5.2.0  
+midea new release 1.8.4  
+openknx new release 1.1.13  
+public-transport new release 0.7.0  
+statistics new release 5.0.0  
+#### updates at stable repository 
 ## 2026-06-01
 #### updates at latest repository 
 apcups new release 6.0.3  
