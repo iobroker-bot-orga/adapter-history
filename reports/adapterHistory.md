@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-06-03
+#### updates at latest repository 
+brightsky new release 1.2.0  
+kostal-piko-ba new release 7.0.3  
+lgtv new release 2.7.3  
+life360ng new release 1.11.1  
+lorawan new release 1.22.14  
+mspa new release 0.4.0  
+poolcontrol new release 1.3.28  
+renacidc new release 0.2.0  
+steam new release 0.5.10  
+vis-2-widgets-inventwo new release 1.2.0  
+volvo new release 3.0.1  
+weather-warnings new release 0.11.0  
+zendure-solarflow new release 4.0.5  
+#### updates at stable repository 
+kostal-piko-ba updated to 7.0.2  
+life360ng updated to 1.11.0  
 ## 2026-06-02
 #### updates at latest repository 
 e3oncan new release 1.0.3  
