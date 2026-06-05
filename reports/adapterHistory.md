@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-06-04
+#### updates at latest repository 
+alexa-shoppinglist new release 1.1.5  
+chargemaster new release 0.15.1  
+heatingcontrol new release 3.2.0  
+vis-2-widgets-inventwo new release 1.3.0  
+#### updates at stable repository 
+telegram-menu updated to 4.2.0  
 ## 2026-06-03
 #### updates at latest repository 
 brightsky new release 1.2.0  
