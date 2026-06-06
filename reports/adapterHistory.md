@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-06-05
+#### updates at latest repository 
+autodarts new release 1.0.10  
+bluesound new release 1.3.1  
+enpal new release 0.2.2  
+foxesscloud new release 0.6.3  
+grohe-smarthome new release 0.6.0  
+life360ng new release 1.11.2  
+lorawan new release 1.22.15  
+mediola-gateway new release 1.3.0  
+poolcontrol new release 1.3.30  
+rainbird new release 2.1.2  
+sainlogic new release 1.2.3  
+schlueter-thermostat new release 0.7.4  
+solectrus-influxdb new release 1.9.0  
+tibberlink new release 7.0.0  
+vis-2-widgets-inventwo new release 1.4.0  
+vis-inventwo new release 4.1.1  
+#### updates at stable repository 
+accuweather updated to 2.3.0  
+chromecast updated to 4.2.0  
 ## 2026-06-04
 #### updates at latest repository 
 alexa-shoppinglist new release 1.1.5  
