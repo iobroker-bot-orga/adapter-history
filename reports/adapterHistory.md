@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-06-06
+#### updates at latest repository 
+solectrus-influxdb new release 1.9.1  
+telegram-menu new release 4.2.1  
+tesla-motors new release 3.2.1  
+teslafi new release 3.0.1  
+vis-2-widgets-weather-and-heating new release 1.4.2  
+vw-connect new release 0.9.4  
+#### updates at stable repository 
+hueemu updated to 1.5.1  
+linky updated to 0.1.0  
+parcelapp updated to 0.5.3  
+teslafi updated to 3.0.0  
+zigbee2mqtt updated to 3.2.2  
 ## 2026-06-05
 #### updates at latest repository 
 autodarts new release 1.0.10  
