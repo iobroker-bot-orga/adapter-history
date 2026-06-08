@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-06-07
+#### updates at latest repository 
+beszel new release 0.6.0  
+enpal new release 0.3.0  
+govee-smart new release 2.14.1  
+hassemu new release 1.34.0  
+homewizard new release 0.11.0  
+lorawan new release 1.22.17  
+poolcontrol new release 1.3.31  
+roborock new release 0.7.4  
+script-restore new release 0.1.5  
+solectrus-influxdb new release 1.10.0  
+vis-icontwo new release 2.11.6  
+zendure-solarflow new release 4.0.6  
+#### updates at stable repository 
+backitup updated to 3.3.17  
+uv-protect updated to 0.6.12  
+ws updated to 4.1.0  
 ## 2026-06-06
 #### updates at latest repository 
 solectrus-influxdb new release 1.9.1  
