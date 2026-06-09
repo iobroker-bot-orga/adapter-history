@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2026-06-08
+#### updates at latest repository 
+beszel new release 0.7.0  
+echarts new release 4.0.0  
+ecoflow-mqtt new release 1.4.9  
+enpal new release 0.4.0  
+govee-smart new release 2.15.0  
+hassemu new release 1.35.0  
+homewizard new release 0.12.0  
+hueemu new release 1.7.0  
+parcelapp new release 0.7.0  
+sigenergy new release 1.9.17  
+tibberlink new release 7.1.1  
+vis-2-widgets-sigenergy new release 1.8.1  
+#### updates at stable repository 
+js-controller updated to 7.1.2  
+sainlogic updated to 1.2.3  
 ## 2026-06-07
 #### updates at latest repository 
 beszel new release 0.6.0  
