@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-06-09
+#### updates at latest repository 
+frigate new release 3.0.3  
+govee-smart new release 2.16.0  
+javascript new release 9.2.4  
+poolcontrol new release 1.3.32  
+sigenergy new release 2.2.2  
+vis-2 new release 2.14.3  
+#### updates at stable repository 
+apcups updated to 6.0.3  
+bmw updated to 5.0.0  
+gree-hvac updated to 3.0.3  
+public-transport updated to 0.6.0  
 ## 2026-06-08
 #### updates at latest repository 
 beszel new release 0.7.0  
