@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-06-10
+#### updates at latest repository 
+autodarts new release 1.0.11  
+beszel new release 0.7.1  
+enpal new release 0.4.1  
+foxesscloud new release 0.6.4  
+hassemu new release 1.35.1  
+homewizard new release 0.12.1  
+hueemu new release 1.8.0  
+life360ng new release 1.11.3  
+open-meteo-weather new release 3.1.1  
+parcelapp new release 0.7.1  
+rssfeed new release 4.1.2  
+sigenergy new release 2.3.1  
+#### updates at stable repository 
+e3oncan updated to 1.0.3  
 ## 2026-06-09
 #### updates at latest repository 
 frigate new release 3.0.3  
