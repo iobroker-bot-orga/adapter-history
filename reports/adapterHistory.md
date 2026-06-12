@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2026-06-11
+#### updates at latest repository 
+admin new release 7.9.0  
+cloud new release 6.1.1  
+govee-smart new release 2.16.1  
+iot new release 6.1.1  
+pi-hole2 new release 1.2.0  
+sigenergy new release 2.3.3  
+sun2000 new release 2.5.0  
+zigbee new release 3.4.6  
+#### updates at stable repository 
+bosesoundtouch updated to 0.12.0  
+helios updated to 0.2.0  
+ical updated to 1.20.1  
+logparser updated to 2.5.0  
+mqtt-client updated to 4.0.0  
+netatmo-crawler updated to 1.2.0  
+nuki-extended updated to 2.8.2  
+proxmox updated to 2.6.1  
+webui updated to 1.47.0  
 ## 2026-06-10
 #### updates at latest repository 
 autodarts new release 1.0.11  
