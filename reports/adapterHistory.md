@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-06-12
+#### updates at latest repository 
+alexa-timer-vis new release 3.0.3  
+batrium-bms new release 0.8.1  
+beszel new release 0.7.2  
+enpal new release 0.4.2  
+hassemu new release 1.35.2  
+heizoel24-mex new release 1.10.1  
+homewizard new release 0.12.2  
+hueemu new release 1.8.1  
+iot new release 6.1.3  
+openknx new release 1.1.14  
+parcelapp new release 0.7.2  
+sigenergy new release 2.5.1  
+sofarcloud new release 3.4.3  
+sprinklecontrol new release 1.0.8  
+telegram-menu new release 4.2.2  
+weathersense new release 4.4.4  
+#### updates at stable repository 
 ## 2026-06-11
 #### updates at latest repository 
 admin new release 7.9.0  
