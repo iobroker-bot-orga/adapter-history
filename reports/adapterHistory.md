@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-06-13
+#### updates at latest repository 
+admin new release 7.9.1  
+apg-info new release 0.1.34  
+cloud new release 6.1.2  
+mcp new release 1.0.0  
+sigenergy new release 3.0.3  
+vis-2-widgets-tibberlink new release 0.4.10  
+vw-connect new release 0.9.5  
+web new release 8.3.0  
+#### updates at stable repository 
+oxxify-fan-control updated to 0.0.16  
 ## 2026-06-12
 #### updates at latest repository 
 alexa-timer-vis new release 3.0.3  
