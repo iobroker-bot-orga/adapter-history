@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-06-14
+#### updates at latest repository 
+al-ko new release 0.3.11  
+lovelace new release 6.0.0  
+midea new release 1.8.5  
+rest-api new release 4.0.2  
+sigenergy new release 3.0.6  
+vds2465-server new release 1.1.1  
+vis-2-widgets-inventwo new release 1.5.0  
+#### updates at stable repository 
+homepilot updated to 1.3.0  
+tesla-motors updated to 3.2.1  
+vis-2-widgets-inventwo updated to 1.4.0  
+vis-inventwo updated to 4.1.1  
 ## 2026-06-13
 #### updates at latest repository 
 admin new release 7.9.1  
