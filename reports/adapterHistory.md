@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-06-15
+#### updates at latest repository 
+admin new release 7.9.2  
+apg-info new release 0.1.35  
+js-controller new release 7.2.1  
+public-transport new release 0.8.0  
+zigbee new release 3.4.7  
+#### updates at stable repository 
+iot updated to 6.0.3  
+tibberlink updated to 7.1.1  
 ## 2026-06-14
 #### updates at latest repository 
 al-ko new release 0.3.11  
