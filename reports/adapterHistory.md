@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-06-16
+#### updates at latest repository 
+f1 new release 0.1.11  
+followthesun new release 0.5.3  
+fuelpricemonitor new release 0.4.3  
+govee-smart new release 2.16.2  
+hassemu new release 1.35.3  
+js-controller new release 7.2.2  
+lorawan new release 1.22.21  
+lovelace new release 6.0.1  
+mspa new release 0.4.1  
+philips-air new release 1.3.0  
+public-transport new release 0.8.1  
+pwned-check new release 0.0.8  
+tidy new release 0.3.1  
+tinymqttbroker new release 0.1.7  
+zigbee new release 3.4.8  
+#### updates at stable repository 
+foxesscloud updated to 0.6.3  
+smartfriends updated to 2.0.0  
+vis-2-widgets-sigenergy updated to 1.8.1  
 ## 2026-06-15
 #### updates at latest repository 
 admin new release 7.9.2  
