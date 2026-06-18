@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-06-17
+#### updates at latest repository 
+dreame new release 0.3.14  
+lorawan new release 1.22.23  
+lovelace new release 6.0.2  
+mcp new release 1.0.4  
+#### updates at stable repository 
+solarviewdatareader updated to 1.2.5  
 ## 2026-06-16
 #### updates at latest repository 
 f1 new release 0.1.11  
