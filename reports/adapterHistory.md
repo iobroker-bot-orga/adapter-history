@@ -1,5 +1,29 @@
 # Adapter publishing report
 
+## 2026-06-18
+#### updates at latest repository 
+admin new release 7.9.4  
+daswetter new release 4.5.6  
+dreame new release 0.3.16  
+icloud new release 0.7.7  
+javascript new release 9.3.1  
+lgtv new release 2.7.4  
+lovelace new release 6.0.4  
+mcp new release 1.0.8  
+philips-air new release 1.4.0  
+poolcontrol new release 1.3.33  
+rct new release 1.2.28  
+tidy new release 0.3.3  
+weather-warnings new release 0.11.2  
+weathersense new release 4.4.5  
+#### updates at stable repository 
+ems-esp updated to 7.0.3  
+govee-local updated to 0.4.7  
+imap updated to 0.4.0  
+js-controller updated to 7.2.2  
+lg-thinq updated to 1.2.0  
+lorawan updated to 1.22.22  
+schedule-switcher updated to 0.2.0  
 ## 2026-06-17
 #### updates at latest repository 
 dreame new release 0.3.14  
