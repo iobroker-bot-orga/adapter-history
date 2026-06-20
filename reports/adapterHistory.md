@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-06-19
+#### updates at latest repository 
+cloudless-homeconnect new release 1.7.0  
+device-watcher new release 2.15.17  
+kostal-piko-ba new release 7.0.4  
+tado new release 0.8.5  
+teslafi new release 3.0.2  
+vis-2-widgets-inventwo new release 1.6.0  
+zendure-solarflow new release 4.1.0  
+#### updates at stable repository 
+hueemu updated to 1.8.1  
+parcelapp updated to 0.7.2  
+volvo updated to 3.0.1  
 ## 2026-06-18
 #### updates at latest repository 
 admin new release 7.9.4  
