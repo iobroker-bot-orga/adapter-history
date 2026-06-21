@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-06-20
+#### updates at latest repository 
+aurora-nowcast new release 2.3.0  
+dune-hd-remote new release 1.2.3  
+ems-esp new release 7.0.6  
+flowers new release 0.4.1  
+open-meteo-weather new release 3.1.3  
+parcelapp new release 0.8.0  
+tibberlink new release 7.1.2  
+weathersense new release 5.0.2  
+#### updates at stable repository 
 ## 2026-06-19
 #### updates at latest repository 
 cloudless-homeconnect new release 1.7.0  
