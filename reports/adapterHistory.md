@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-06-21
+#### updates at latest repository 
+admin new release 7.9.9  
+dreame new release 0.3.17  
+socketio new release 8.0.1  
+spotify-premium new release 3.0.1  
+toyota new release 0.3.0  
+web new release 9.0.0  
+#### updates at stable repository 
 ## 2026-06-20
 #### updates at latest repository 
 aurora-nowcast new release 2.3.0  
