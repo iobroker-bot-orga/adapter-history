@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-06-22
+#### updates at latest repository 
+admin new release 7.9.10  
+cisco-checkpresence new release 0.0.7  
+google-sharedlocations2 new release 0.3.6  
+hassemu new release 1.36.0  
+hueemu new release 1.9.0  
+openmeteo-notify new release 0.1.8  
+plex new release 2.1.1  
+xsense new release 0.6.4  
+zigbee new release 3.4.9  
+#### updates at stable repository 
+al-ko updated to 0.3.11  
+beszel updated to 0.7.2  
+enpal updated to 0.4.2  
+grohe-smarthome updated to 0.6.0  
+heizoel24-mex updated to 1.10.1  
+homewizard updated to 0.12.2  
+schlueter-thermostat updated to 0.7.4  
+sofarcloud updated to 3.4.3  
+sprinklecontrol updated to 1.0.8  
 ## 2026-06-21
 #### updates at latest repository 
 admin new release 7.9.9  
