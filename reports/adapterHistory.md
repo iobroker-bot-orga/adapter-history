@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-06-23
+#### updates at latest repository 
+dreame new release 0.3.19  
+openmeteo-notify new release 0.1.10  
+solectrus-influxdb new release 1.11.0  
+unifi-network new release 1.5.0  
+#### updates at stable repository 
 ## 2026-06-22
 #### updates at latest repository 
 admin new release 7.9.10  
