@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-06-24
+#### updates at latest repository 
+alarm new release 4.0.5  
+beszel new release 0.8.0  
+lorawan new release 1.22.24  
+lovelace new release 6.1.0  
+parcelapp new release 0.9.0  
+philips-air new release 1.5.0  
+public-transport new release 0.8.2  
+#### updates at stable repository 
+apg-info updated to 0.1.35  
+bluesound updated to 1.3.1  
+ecoflow-mqtt updated to 1.4.9  
 ## 2026-06-23
 #### updates at latest repository 
 dreame new release 0.3.19  
