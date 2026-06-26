@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2026-06-25
+#### updates at latest repository 
+aura new release 0.10.2  
+dreame new release 0.3.21  
+homewizard new release 0.13.0  
+lorawan new release 1.22.25  
+ntfy-client new release 0.1.4  
+openknx new release 1.2.0  
+openmeteo-notify new release 0.1.11  
+vis-2-widgets-inventwo new release 1.7.0  
+#### updates at stable repository 
+google-sharedlocations2 updated to 0.3.6  
+govee-smart updated to 2.16.2  
+openknx updated to 1.1.14  
+renacidc updated to 0.2.0  
+solarmanpv updated to 0.7.4  
+weathersense updated to 5.0.2  
 ## 2026-06-24
 #### updates at latest repository 
 alarm new release 4.0.5  
