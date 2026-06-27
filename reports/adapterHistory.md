@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-06-26
+#### updates at latest repository 
+aura new release 0.11.1  
+lovelace new release 6.1.1  
+zigbee2mqtt new release 3.2.4  
+#### updates at stable repository 
+roborock updated to 0.7.4  
 ## 2026-06-25
 #### updates at latest repository 
 aura new release 0.10.2  
