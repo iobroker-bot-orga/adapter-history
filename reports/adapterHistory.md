@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-06-27
+#### updates at latest repository 
+aura new release 0.11.3  
+devices new release 3.0.0  
+influxdb-prologger new release 1.1.0  
+nmea new release 1.0.1  
+script-restore new release 0.1.6  
+zigbee new release 3.4.11  
+#### updates at stable repository 
 ## 2026-06-26
 #### updates at latest repository 
 aura new release 0.11.1  
