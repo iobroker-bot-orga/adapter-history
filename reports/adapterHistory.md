@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-06-28
+#### updates at latest repository 
+aura new release 0.11.5  
+autodarts new release 1.0.12  
+fiat new release 0.0.11  
+icloud new release 1.0.0  
+matter new release 1.2.0  
+poolcontrol new release 1.3.34  
+public-transport new release 0.8.3  
+sigenergy new release 3.0.7  
+tibberlink new release 7.1.3  
+vis-2-widgets-sigenergy new release 1.8.2  
+vw-connect new release 0.9.6  
+#### updates at stable repository 
+hueemu updated to 1.9.0  
+parcelapp updated to 0.9.0  
+rainbird updated to 2.1.2  
+tibberlink updated to 7.1.2  
+vis-2-widgets-sigenergy updated to 1.8.2  
 ## 2026-06-27
 #### updates at latest repository 
 aura new release 0.11.3  
