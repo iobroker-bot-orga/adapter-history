@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-06-29
+#### updates at latest repository 
+dreame new release 0.3.22  
+ems-esp new release 7.0.7  
+matter new release 1.2.1  
+midea new release 1.8.6  
+plenticore-g3 new release 1.0.1  
+poolcontrol new release 1.3.35  
+sigenergy new release 3.0.10  
+vis-2-widgets-icontwo new release 1.42.1  
+#### updates at stable repository 
 ## 2026-06-28
 #### updates at latest repository 
 aura new release 0.11.5  
