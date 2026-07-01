@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-06-30
+#### updates at latest repository 
+admin new release 7.9.11  
+aura new release 0.13.0  
+devices new release 3.0.1  
+poolcontrol new release 1.4.0  
+solakon-one new release 1.0.15  
+sun2000 new release 2.5.1  
+viessmann new release 2.0.5  
+#### updates at stable repository 
+pi-hole2 updated to 1.2.0  
 ## 2026-06-29
 #### updates at latest repository 
 dreame new release 0.3.22  
