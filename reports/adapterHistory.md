@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2026-07-01
+#### updates at latest repository 
+aura new release 0.14.2  
+autodoc new release 0.9.46  
+devices new release 3.0.2  
+dreame new release 0.3.23  
+motioneye new release 0.5.0  
+mqtt new release 7.0.1  
+nmea new release 1.0.2  
+poolcontrol new release 1.4.1  
+pvoutputorg new release 2.0.0  
+#### updates at stable repository 
+alarm updated to 4.0.5  
+followthesun updated to 0.5.3  
+hassemu updated to 1.36.0  
+vis-2-widgets-tibberlink updated to 0.4.10  
+vis-icontwo updated to 2.11.6  
 ## 2026-06-30
 #### updates at latest repository 
 admin new release 7.9.11  
