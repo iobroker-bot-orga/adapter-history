@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2026-07-02
+#### updates at latest repository 
+anthbot-genie new release 0.1.13  
+dreame new release 0.3.24  
+govee-smart new release 2.17.0  
+heishamon new release 0.0.13  
+life360ng new release 1.11.4  
+mcp new release 1.0.11  
+motioneye new release 0.6.0  
+mqtt new release 7.0.2  
+openmeteo-notify new release 0.1.12  
+poolcontrol new release 1.4.2  
+pwned-check new release 0.0.9  
+script-restore new release 0.1.7  
+sprinklecontrol new release 1.0.9  
+vis-2-widgets-tibberlink new release 0.4.11  
+#### updates at stable repository 
+fuelpricemonitor updated to 0.4.3  
+tado updated to 0.8.5  
+tinymqttbroker updated to 0.1.7  
 ## 2026-07-01
 #### updates at latest repository 
 aura new release 0.14.2  
