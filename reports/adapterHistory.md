@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-07-03
+#### updates at latest repository 
+admin new release 7.9.12  
+aura new release 0.17.1  
+discovery new release 5.0.1  
+google-sharedlocations2 new release 0.4.0  
+govee-smart new release 2.18.0  
+modbus new release 8.3.0  
+motioneye new release 0.7.0  
+mqtt new release 7.1.0  
+philips-air new release 1.6.1  
+public-transport new release 0.9.0  
+shelly new release 11.0.0  
+steam new release 0.5.11  
+#### updates at stable repository 
+alexa-shoppinglist updated to 1.1.5  
+aurora-nowcast updated to 2.3.0  
+steam updated to 0.5.10  
+telegram-menu updated to 4.2.2  
 ## 2026-07-02
 #### updates at latest repository 
 anthbot-genie new release 0.1.13  
