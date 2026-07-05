@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-07-04
+#### updates at latest repository 
+aura new release 0.18.0  
+bosch-smart-home-camera new release 1.7.7  
+govee-smart new release 2.19.0  
+lorawan new release 1.22.27  
+motioneye new release 0.8.0  
+public-holidays new release 0.10.0  
+sunenergyxt500 new release 0.2.5  
+weathersense new release 5.1.0  
+#### updates at stable repository 
+lgtv updated to 2.7.4  
 ## 2026-07-03
 #### updates at latest repository 
 admin new release 7.9.12  
