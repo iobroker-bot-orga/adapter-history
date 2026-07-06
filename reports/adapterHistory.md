@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-07-05
+#### updates at latest repository 
+aura new release 0.18.4  
+chargemaster new release 0.16.0  
+e3oncan new release 1.1.0  
+ems-esp new release 7.0.8  
+go-e-charger new release 1.1.0  
+heishamon new release 0.0.14  
+kostal-piko-ba new release 7.0.5  
+motioneye new release 0.9.0  
+public-transport new release 0.9.1  
+sunenergyxt500 new release 0.2.7  
+teslafi new release 3.0.3  
+vis-2-widgets-icontwo new release 1.42.2  
+weathersense new release 5.1.1  
+#### updates at stable repository 
+dreame updated to 0.3.19  
+mcp updated to 1.0.11  
+open-meteo-weather updated to 3.1.3  
+tidy updated to 0.3.3  
+vis-2-widgets-weather-and-heating updated to 1.4.2  
 ## 2026-07-04
 #### updates at latest repository 
 aura new release 0.18.0  
