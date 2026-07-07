@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-07-06
+#### updates at latest repository 
+alexa2 new release 3.28.3  
+aura new release 0.21.0  
+daswetter new release 4.5.9  
+e3oncan new release 1.1.1  
+lorawan new release 1.22.28  
+nextcloud-monitoring new release 2.1.1  
+pvforecast new release 6.2.0  
+senec new release 2.5.5  
+vis-2-widgets-collection new release 2.4.2  
+vis-2-widgets-weather-and-heating new release 1.4.3  
+#### updates at stable repository 
 ## 2026-07-05
 #### updates at latest repository 
 aura new release 0.18.4  
