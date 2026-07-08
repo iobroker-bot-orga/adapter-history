@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-07-07
+#### updates at latest repository 
+aura new release 0.21.11  
+beszel new release 0.9.0  
+bosch-smart-home-camera new release 1.7.8  
+cmicoe new release 1.3.1  
+homewizard new release 0.14.0  
+lorawan new release 1.22.30  
+public-transport new release 0.10.0  
+senec new release 2.6.0  
+simple-proxy-manager new release 1.0.0  
+valloxmv new release 1.6.0  
+#### updates at stable repository 
+senec updated to 2.5.4  
 ## 2026-07-06
 #### updates at latest repository 
 alexa2 new release 3.28.3  
