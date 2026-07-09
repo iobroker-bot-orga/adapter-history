@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2026-07-08
+#### updates at latest repository 
+alarm new release 4.0.6  
+asuswrt new release 1.0.7  
+aura new release 0.22.3  
+mhi-wfrac new release 2.3.0  
+mqtt new release 7.1.1  
+parcel new release 0.3.2  
+parcelapp new release 0.10.0  
+senec new release 2.7.0  
+telegram-menu new release 4.2.3  
+zwavews new release 1.0.0  
+#### updates at stable repository 
+homewizard updated to 0.13.0  
+sprinklecontrol updated to 1.0.9  
 ## 2026-07-07
 #### updates at latest repository 
 aura new release 0.21.11  
