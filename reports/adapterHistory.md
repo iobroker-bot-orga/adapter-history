@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-07-09
+#### updates at latest repository 
+lorawan new release 1.22.31  
+nmea new release 1.0.3  
+senec new release 2.8.2  
+solectrus-influxdb new release 1.12.0  
+wiegand-tcpip new release 1.0.0  
+#### updates at stable repository 
 ## 2026-07-08
 #### updates at latest repository 
 alarm new release 4.0.6  
