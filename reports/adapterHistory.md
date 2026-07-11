@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-07-10
+#### updates at latest repository 
+aura new release 0.24.0  
+hassemu new release 1.37.0  
+hueemu new release 1.11.0  
+motioneye new release 0.10.0  
+sbfspot new release 5.0.7  
+schedule-switcher new release 0.2.1  
+tibberlink new release 7.1.4  
+weathersense new release 5.2.2  
+#### updates at stable repository 
+alexa2 updated to 3.28.3  
 ## 2026-07-09
 #### updates at latest repository 
 lorawan new release 1.22.31  
