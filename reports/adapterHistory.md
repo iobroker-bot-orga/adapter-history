@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-07-11
+#### updates at latest repository 
+amtronwallbox new release 1.0.1  
+aura new release 0.25.0  
+ebus new release 4.0.4  
+govee-smart new release 2.20.0  
+hassemu new release 1.37.1  
+motioneye new release 1.3.0  
+public-transport new release 0.10.1  
+#### updates at stable repository 
+beszel updated to 0.8.0  
+birthdays updated to 6.1.0  
+playstation updated to 0.0.4  
+plenticore-g3 updated to 1.0.1  
+viessmann updated to 2.0.5  
+vis-2-widgets-inventwo updated to 1.7.0  
 ## 2026-07-10
 #### updates at latest repository 
 aura new release 0.24.0  
