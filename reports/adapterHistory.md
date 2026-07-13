@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-07-12
+#### updates at latest repository 
+aura new release 0.25.2  
+bosch-smart-home-camera new release 1.8.0  
+bosesoundtouch new release 0.13.0  
+cctvql new release 1.0.4  
+go-e-charger new release 1.2.0  
+govee-smart new release 2.21.0  
+hueemu new release 1.12.0  
+motioneye new release 1.3.1  
+octopus-energy-monitor new release 0.6.8  
+siku new release 0.2.2  
+tibberlink new release 7.1.5  
+#### updates at stable repository 
+autodarts updated to 1.0.12  
+foxesscloud updated to 0.6.4  
+life360ng updated to 1.11.4  
+miner updated to 1.0.4  
+statistics updated to 5.0.0  
+tibberlink updated to 7.1.3  
+vis-2-widgets-icontwo updated to 1.42.2  
 ## 2026-07-11
 #### updates at latest repository 
 amtronwallbox new release 1.0.1  
