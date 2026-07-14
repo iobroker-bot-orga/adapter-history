@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-07-13
+#### updates at latest repository 
+admin new release 7.9.13  
+aura new release 0.30.1  
+beszel new release 0.10.0  
+blackmagic-atem new release 0.2.9  
+blustream-mfp new release 0.4.2  
+hassemu new release 1.38.0  
+homewizard new release 0.15.0  
+miner new release 1.1.0  
+octopus-energy-monitor new release 0.7.0  
+openmediavault new release 1.5.0  
+parcelapp new release 0.10.1  
+public-holidays new release 0.11.0  
+senec new release 2.8.4  
+solarmanpv new release 0.7.5  
+#### updates at stable repository 
+rct updated to 1.2.28  
 ## 2026-07-12
 #### updates at latest repository 
 aura new release 0.25.2  
