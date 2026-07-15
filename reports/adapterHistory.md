@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-07-14
+#### updates at latest repository 
+aura new release 0.32.0  
+bosch-smart-home-camera new release 1.8.2  
+modbus new release 8.3.1  
+mytime new release 2.3.5  
+vis-2-widgets-automatic-feeder new release 0.2.3  
+zendure-solarflow new release 4.1.1  
+#### updates at stable repository 
 ## 2026-07-13
 #### updates at latest repository 
 admin new release 7.9.13  
