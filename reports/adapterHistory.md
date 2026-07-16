@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-07-15
+#### updates at latest repository 
+absaar new release 0.1.13  
+advansol-optimizer new release 0.1.12  
+aura new release 0.33.0  
+blink new release 0.0.38  
+clage-dsx new release 0.0.8  
+kecontact new release 3.7.0  
+linktap new release 1.0.6  
+openmeteo-notify new release 0.1.13  
+proxmox new release 2.6.2  
+script-restore new release 0.1.8  
+zendure-solarflow new release 4.1.2  
+zwavews new release 1.0.3  
+#### updates at stable repository 
+dreame updated to 0.3.24  
+solectrus-influxdb updated to 1.12.0  
+zendure-solarflow updated to 4.1.0  
 ## 2026-07-14
 #### updates at latest repository 
 aura new release 0.32.0  
