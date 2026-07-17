@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-07-16
+#### updates at latest repository 
+aura new release 0.33.2  
+blustream-mfp new release 0.5.0  
+bosch-smart-home-camera new release 1.8.3  
+clage-dsx new release 0.0.9  
+e3oncan new release 1.1.2  
+hannah new release 0.32.5  
+senec new release 2.9.1  
+victron-gx new release 0.8.10  
+#### updates at stable repository 
 ## 2026-07-15
 #### updates at latest repository 
 absaar new release 0.1.13  
