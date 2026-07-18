@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-07-17
+#### updates at latest repository 
+blustream-mfp new release 0.5.1  
+bosch-ebike new release 0.1.13  
+harvia-fenix new release 0.2.6  
+linktap new release 1.0.7  
+openmeteo-notify new release 0.1.14  
+public-transport new release 0.10.2  
+senec new release 2.9.3  
+vis-2-widgets-inventwo new release 1.8.0  
+vis-2-widgets-rssfeed new release 1.2.3  
+#### updates at stable repository 
+alarm updated to 4.0.6  
+mhi-wfrac updated to 2.3.0  
+motioneye updated to 1.3.1  
+wiegand-tcpip updated to 1.0.0  
 ## 2026-07-16
 #### updates at latest repository 
 aura new release 0.33.2  
