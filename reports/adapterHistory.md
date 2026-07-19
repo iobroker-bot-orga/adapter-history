@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-07-18
+#### updates at latest repository 
+egigeozone2 new release 1.0.10  
+harvia-fenix new release 0.2.7  
+hoymiles new release 0.4.0  
+judoisoft new release 1.1.3  
+open-meteo-weather new release 3.1.4  
+script-restore new release 0.1.9  
+viessmannapi new release 2.5.0  
+vis-2-widgets-collection new release 2.5.0  
+#### updates at stable repository 
 ## 2026-07-17
 #### updates at latest repository 
 blustream-mfp new release 0.5.1  
