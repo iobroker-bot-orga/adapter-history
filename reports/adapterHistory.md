@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-07-19
+#### updates at latest repository 
+aura new release 0.33.3  
+hoymiles new release 0.4.1  
+matter new release 1.3.0  
+openmeteo-notify new release 0.1.15  
+parcel new release 0.3.3  
+pwned-check new release 0.0.10  
+script-restore new release 0.1.12  
+valloxmv new release 1.6.1  
+#### updates at stable repository 
+alexa-timer-vis updated to 3.0.3  
+beszel updated to 0.10.0  
+ems-esp updated to 7.0.8  
+govee-smart updated to 2.21.0  
+hassemu updated to 1.38.0  
+homewizard updated to 0.15.0  
+hueemu updated to 1.12.0  
+parcelapp updated to 0.10.1  
 ## 2026-07-18
 #### updates at latest repository 
 egigeozone2 new release 1.0.10  
