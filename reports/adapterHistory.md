@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-07-20
+#### updates at latest repository 
+cctvql new release 1.0.5  
+dreame new release 0.3.25  
+lovelace new release 6.1.2  
+omron-fins new release 0.1.0  
+senec new release 2.10.0  
+victron-gx new release 0.9.0  
+vis-2-widgets-collection new release 2.5.1  
+weather-warnings new release 0.11.3  
+wiegand-tcpip new release 1.0.1  
+#### updates at stable repository 
 ## 2026-07-19
 #### updates at latest repository 
 aura new release 0.33.3  
