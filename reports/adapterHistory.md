@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-07-21
+#### updates at latest repository 
+bestway new release 0.1.0  
+dreame new release 0.3.26  
+enpal new release 0.4.3  
+ical new release 1.21.0  
+mytime new release 2.5.0  
+senec new release 2.11.2  
+tesla-wallconnector3 new release 1.2.0  
+#### updates at stable repository 
+luftdaten updated to 6.0.1  
+nextcloud-monitoring updated to 2.1.1  
+weathersense updated to 5.2.2  
+youtube updated to 7.0.0  
 ## 2026-07-20
 #### updates at latest repository 
 cctvql new release 1.0.5  
