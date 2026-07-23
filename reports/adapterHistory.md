@@ -1,5 +1,12 @@
 # Adapter publishing report
 
+## 2026-07-22
+#### updates at latest repository 
+kecontact new release 3.8.0  
+script-restore new release 0.1.13  
+senec new release 2.11.4  
+vis-jsontemplate new release 4.4.4  
+#### updates at stable repository 
 ## 2026-07-21
 #### updates at latest repository 
 bestway new release 0.1.0  
