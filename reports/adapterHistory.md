@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-07-23
+#### updates at latest repository 
+matter new release 1.3.1  
+sun2000 new release 2.6.0  
+vis-jsontemplate new release 4.4.5  
+zwavews new release 1.0.4  
+#### updates at stable repository 
+kecontact updated to 3.7.0  
+teslafi updated to 3.0.3  
 ## 2026-07-22
 #### updates at latest repository 
 kecontact new release 3.8.0  
