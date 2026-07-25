@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-07-24
+#### updates at latest repository 
+aura new release 0.33.4  
+govee-smart new release 2.22.0  
+mytime new release 2.5.1  
+senec new release 2.12.0  
+solakon-one new release 1.0.18  
+vaillant new release 1.0.1  
+vis-2-widgets-collection new release 2.6.0  
+vis-2-widgets-inventwo new release 1.8.1  
+#### updates at stable repository 
+enpal updated to 0.4.3  
+wiegand-tcpip updated to 1.0.1  
 ## 2026-07-23
 #### updates at latest repository 
 matter new release 1.3.1  
