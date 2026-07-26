@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-07-25
+#### updates at latest repository 
+aura new release 0.35.2  
+bluesound new release 1.4.0  
+poolcontrol new release 1.4.3  
+#### updates at stable repository 
+matter updated to 1.3.1  
+valloxmv updated to 1.6.1  
 ## 2026-07-24
 #### updates at latest repository 
 aura new release 0.33.4  
