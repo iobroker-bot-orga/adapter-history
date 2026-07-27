@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-07-26
+#### updates at latest repository 
+aura new release 0.36.4  
+siku new release 0.2.3  
+sprinklecontrol new release 1.0.10  
+weathersense new release 5.2.3  
+zigbee new release 3.5.3  
+#### updates at stable repository 
 ## 2026-07-25
 #### updates at latest repository 
 aura new release 0.35.2  
