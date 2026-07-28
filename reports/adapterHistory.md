@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-07-27
+#### updates at latest repository 
+aura new release 0.37.0  
+ford new release 2.0.1  
+hannah new release 0.32.6  
+harvia-fenix new release 0.2.8  
+maveo new release 0.1.2  
+mercedesme new release 0.7.2  
+mqtt new release 7.1.2  
+tesla-motors new release 3.2.2  
+vaillant new release 1.0.2  
+zigbee new release 3.5.4  
+#### updates at stable repository 
+e3oncan updated to 1.1.2  
+google-sharedlocations2 updated to 0.4.0  
+vis-2-widgets-inventwo updated to 1.8.1  
 ## 2026-07-26
 #### updates at latest repository 
 aura new release 0.36.4  
