@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-07-28
+#### updates at latest repository 
+aura new release 0.38.1  
+kostal-piko-ba new release 7.0.6  
+sourceanalytix new release 0.5.1  
+vaillant new release 1.0.3  
+victron-gx new release 0.9.3  
+#### updates at stable repository 
 ## 2026-07-27
 #### updates at latest repository 
 aura new release 0.37.0  
