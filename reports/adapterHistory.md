@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-07-29
+#### updates at latest repository 
+aura new release 0.38.3  
+heos new release 3.1.0  
+sourceanalytix new release 0.5.3  
+victron-gx new release 0.9.4  
+vis-jsontemplate new release 4.5.0  
+#### updates at stable repository 
 ## 2026-07-28
 #### updates at latest repository 
 aura new release 0.38.1  
