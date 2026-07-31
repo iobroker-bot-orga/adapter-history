@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-07-30
+#### updates at latest repository 
+aura new release 0.38.7  
+awtrix-light new release 4.0.0  
+harvia-fenix new release 0.3.0  
+sunenergyxt500 new release 0.2.8  
+tibberlink new release 7.2.0  
+vis-2-widgets-inventwo new release 1.9.0  
+vis-jsontemplate new release 4.6.0  
+#### updates at stable repository 
 ## 2026-07-29
 #### updates at latest repository 
 aura new release 0.38.3  
