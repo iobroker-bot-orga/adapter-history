@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-07-31
+#### updates at latest repository 
+aura new release 0.38.9  
+proxmox new release 2.6.3  
+tapo new release 0.6.0  
+vis-jsontemplate new release 4.6.1  
+#### updates at stable repository 
+kecontact updated to 3.8.0  
+miner updated to 1.1.0  
+tibberlink updated to 7.1.5  
 ## 2026-07-30
 #### updates at latest repository 
 aura new release 0.38.7  
