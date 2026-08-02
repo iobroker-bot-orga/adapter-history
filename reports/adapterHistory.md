@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-08-01
+#### updates at latest repository 
+aura new release 0.38.12  
+dreame new release 0.4.0  
+go-e-charger new release 1.2.1  
+hueemu new release 1.12.1  
+poolcontrol new release 1.4.4  
+pv-notifications new release 1.2.25  
+senec new release 2.13.0  
+sprinklecontrol new release 1.0.11  
+#### updates at stable repository 
 ## 2026-07-31
 #### updates at latest repository 
 aura new release 0.38.9  
