@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-08-02
+#### updates at latest repository 
+aura new release 0.39.2  
+hannah new release 0.33.2  
+pv-notifications new release 1.2.26  
+senec new release 2.14.1  
+sourceanalytix new release 0.5.6  
+sunenergyxt500 new release 0.2.9  
+victron-gx new release 0.10.0  
+#### updates at stable repository 
 ## 2026-08-01
 #### updates at latest repository 
 aura new release 0.38.12  
