@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2026-08-03
+#### updates at latest repository 
+admin new release 8.0.1  
+aura new release 0.39.5  
+blustream-mfp new release 0.5.3  
+dune-hd-remote new release 1.2.4  
+flowers new release 0.4.2  
+pv-notifications new release 1.2.27  
+sunenergyxt500 new release 0.2.10  
+#### updates at stable repository 
+kostal-piko-ba updated to 7.0.5  
+open-meteo-weather updated to 3.1.4  
+panasonic-comfort-cloud updated to 3.4.0  
+sun2000 updated to 2.6.0  
+weathersense updated to 5.2.3  
 ## 2026-08-02
 #### updates at latest repository 
 aura new release 0.39.2  
