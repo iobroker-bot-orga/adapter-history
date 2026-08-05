@@ -1,5 +1,37 @@
 # Adapter publishing report
 
+## 2026-08-04
+#### updates at latest repository 
+acme new release 4.0.3  
+aura new release 0.40.0  
+cisco-checkpresence new release 0.1.0  
+dreame new release 0.4.1  
+dune-hd-remote new release 1.2.5  
+echarts new release 5.0.0  
+email new release 3.0.0  
+flowers new release 0.4.4  
+go-e-charger new release 1.3.0  
+govee-smart new release 2.23.1  
+hannah new release 0.33.3  
+harvia-fenix new release 0.3.1  
+hausbus_de new release 1.7.0  
+hmip new release 2.0.0  
+javascript new release 10.0.0  
+lametric new release 6.0.1  
+parser new release 4.0.1  
+ping new release 3.0.1  
+pushbullet new release 3.0.1  
+pv-notifications new release 1.2.29  
+solectrus-influxdb new release 2.0.0  
+telegram new release 5.0.2  
+#### updates at stable repository 
+blink updated to 0.0.38  
+go-e-charger updated to 1.2.1  
+hoymiles updated to 0.4.1  
+public-holidays updated to 0.11.0  
+script-restore updated to 0.1.8  
+tesla-wallconnector3 updated to 1.2.0  
+victron-gx updated to 0.9.4  
 ## 2026-08-03
 #### updates at latest repository 
 admin new release 8.0.1  
