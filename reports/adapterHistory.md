@@ -1,5 +1,29 @@
 # Adapter publishing report
 
+## 2026-08-05
+#### updates at latest repository 
+aura new release 0.41.2  
+backitup new release 4.0.0  
+bluelink new release 3.1.29  
+fakeroku new release 0.6.0  
+hannah new release 0.33.4  
+mcp new release 1.1.0  
+nmea new release 2.0.0  
+paperless-ngx new release 1.0.2  
+s7 new release 3.0.0  
+sigenergy new release 3.1.0  
+solectrus-influxdb new release 2.0.1  
+sql new release 4.0.0  
+tesla-wallconnector3 new release 1.3.0  
+vis-2-widgets-automatic-feeder new release 0.2.5  
+vis-2-widgets-sigenergy new release 1.8.3  
+web new release 9.1.0  
+welcome new release 2.0.0  
+#### updates at stable repository 
+gira-iot updated to 0.7.0  
+openknx updated to 1.2.0  
+philips-air updated to 1.6.1  
+public-transport updated to 0.10.2  
 ## 2026-08-04
 #### updates at latest repository 
 acme new release 4.0.3  
