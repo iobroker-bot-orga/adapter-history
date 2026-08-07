@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-08-06
+#### updates at latest repository 
+ai-energy-manager new release 0.4.3  
+anker-solix new release 0.10.86  
+aura new release 0.42.0  
+fairland new release 0.2.16  
+fakeroku new release 1.0.0  
+fullcalendar new release 3.0.1  
+grohe-smarthome new release 0.7.0  
+hannah new release 0.34.2  
+#### updates at stable repository 
 ## 2026-08-05
 #### updates at latest repository 
 aura new release 0.41.2  
