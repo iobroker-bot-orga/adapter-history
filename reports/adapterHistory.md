@@ -1,5 +1,37 @@
 # Adapter publishing report
 
+## 2026-08-07
+#### updates at latest repository 
+agent-dvr new release 0.5.2  
+alarm new release 5.0.1  
+aura new release 0.42.2  
+automatic-feeder new release 1.10.0  
+electrolux-aeg new release 0.0.14  
+go-e-charger new release 1.3.1  
+goodwe-pv new release 0.2.4  
+hannah new release 1.0.1  
+harmony new release 3.0.0  
+iiyama-prolite new release 0.1.4  
+iot new release 7.0.1  
+jetframe new release 1.1.0  
+leapmotor new release 0.6.2  
+luxtronik2-controller new release 0.6.5  
+maxcul new release 2.0.1  
+midas-aquatemp new release 1.3.3  
+modbus new release 9.0.1  
+onvif new release 1.1.5  
+sayit new release 5.2.4  
+scenes new release 5.0.1  
+scheduler new release 2.0.0  
+sigenergy new release 3.1.2  
+text2command new release 5.0.0  
+traccar new release 1.2.1  
+xterm new release 4.0.1  
+zigbee new release 3.5.5  
+#### updates at stable repository 
+bosesoundtouch updated to 0.13.0  
+ical updated to 1.21.0  
+mihome-vacuum updated to 5.3.0  
 ## 2026-08-06
 #### updates at latest repository 
 ai-energy-manager new release 0.4.3  
