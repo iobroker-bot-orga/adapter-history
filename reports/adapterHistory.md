@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2026-08-08
+#### updates at latest repository 
+admin new release 8.0.2  
+aura new release 0.42.6  
+backitup new release 4.0.1  
+blink new release 0.0.39  
+blustream-acm new release 0.3.2  
+docker-manager new release 1.0.1  
+energiefluss-erweitert new release 0.8.3  
+jetframe new release 1.2.0  
+public-transport new release 1.0.0  
+sql new release 4.0.1  
+#### updates at stable repository 
+script-restore updated to 0.1.13  
+sprinklecontrol updated to 1.0.11  
 ## 2026-08-07
 #### updates at latest repository 
 agent-dvr new release 0.5.2  
