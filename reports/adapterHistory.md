@@ -1,5 +1,30 @@
 # Adapter publishing report
 
+## 2026-08-09
+#### updates at latest repository 
+admin new release 8.0.4  
+airly new release 0.3.7  
+aura new release 0.42.7  
+echarts new release 5.0.1  
+f1 new release 0.1.12  
+goodwe new release 1.1.1  
+hydrawise new release 1.0.6  
+iec104 new release 0.1.26  
+jetframe new release 1.3.0  
+kisshome-defender new release 3.0.1  
+midea new release 1.9.0  
+scenes new release 5.0.2  
+vis-2-widgets-technic new release 0.1.20  
+vw-connect new release 0.9.7  
+#### updates at stable repository 
+cisco-checkpresence updated to 0.1.0  
+dune-hd-remote updated to 1.2.5  
+flowers updated to 0.4.3  
+harvia-fenix updated to 0.3.1  
+openmeteo-notify updated to 0.1.15  
+pv-notifications updated to 1.2.29  
+simple-proxy-manager updated to 1.0.0  
+steam updated to 0.5.11  
 ## 2026-08-08
 #### updates at latest repository 
 admin new release 8.0.2  
