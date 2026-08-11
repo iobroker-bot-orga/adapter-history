@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-08-10
+#### updates at latest repository 
+bluesound new release 1.5.0  
+brightsky new release 1.2.1  
+danfoss-ally new release 0.2.20  
+hannah new release 1.0.2  
+husqvarna-automower-connect new release 1.0.10  
+jetframe new release 1.3.2  
+knx new release 2.0.41  
+luftdaten new release 6.0.2  
+mytime new release 3.0.0  
+sql new release 4.0.2  
+telegram new release 5.0.3  
+vis-2 new release 2.14.4  
+vis-mapwidgets new release 0.3.2  
+#### updates at stable repository 
+hydrawise updated to 1.0.5  
+senec updated to 2.14.1  
 ## 2026-08-09
 #### updates at latest repository 
 admin new release 8.0.4  
