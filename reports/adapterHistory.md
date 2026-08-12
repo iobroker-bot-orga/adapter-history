@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2026-08-11
+#### updates at latest repository 
+aura new release 0.43.2  
+bluelink new release 3.1.31  
+chargemaster new release 0.16.1  
+devices new release 4.0.2  
+echarts new release 5.0.2  
+fakeroku new release 1.1.0  
+go-e-charger new release 1.4.0  
+harvia-fenix new release 0.3.2  
+jetframe new release 1.3.3  
+mytime new release 3.0.1  
+rct new release 1.2.29  
+sevenio new release 0.1.2  
+sql new release 4.0.4  
+teltonika new release 1.0.0  
+teslafi new release 3.0.4  
+tibberlink new release 7.2.1  
+vis-mapwidgets new release 0.3.3  
+#### updates at stable repository 
 ## 2026-08-10
 #### updates at latest repository 
 bluesound new release 1.5.0  
