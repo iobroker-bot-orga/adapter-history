@@ -1,5 +1,13 @@
 # Adapter publishing report
 
+## 2026-08-12
+#### updates at latest repository 
+anker-solix new release 0.10.87  
+aura new release 0.43.3  
+poolcontrol new release 1.4.5  
+zigbee2mqtt new release 3.2.5  
+#### updates at stable repository 
+lorawan updated to 1.22.31  
 ## 2026-08-11
 #### updates at latest repository 
 aura new release 0.43.2  
