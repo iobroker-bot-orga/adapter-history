@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-08-13
+#### updates at latest repository 
+aura new release 0.44.3  
+goodwe-sems new release 1.0.7  
+heos new release 3.2.0  
+nut2 new release 0.7.0  
+omoda new release 0.2.0  
+pondpump new release 0.2.0  
+senec new release 2.14.2  
+sonoff new release 4.0.0  
+vis-2-widgets-energy new release 2.0.1  
+vis2-materialdesign new release 0.3.3  
+#### updates at stable repository 
+device-watcher updated to 2.15.17  
+spotify-premium updated to 3.0.1  
+tesla-wallconnector3 updated to 1.3.0  
 ## 2026-08-12
 #### updates at latest repository 
 anker-solix new release 0.10.87  
