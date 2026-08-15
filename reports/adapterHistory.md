@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-08-14
+#### updates at latest repository 
+aura new release 0.46.0  
+automatic-feeder new release 1.10.2  
+harvia-fenix new release 0.4.0  
+klf200 new release 1.3.7  
+lg-thinq new release 1.2.1  
+maxcul new release 2.1.0  
+opcua new release 3.0.0  
+pondpump new release 0.2.1  
+sayit new release 5.3.1  
+senec new release 2.15.0  
+sonos new release 4.0.3  
+tesla-wallconnector3 new release 1.3.1  
+vis-2-widgets-automatic-feeder new release 0.2.6  
+#### updates at stable repository 
+klf200 updated to 1.3.7  
+schedule-switcher updated to 0.2.1  
+solarmanpv updated to 0.7.5  
 ## 2026-08-13
 #### updates at latest repository 
 aura new release 0.44.3  
