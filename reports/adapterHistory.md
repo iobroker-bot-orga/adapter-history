@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-08-15
+#### updates at latest repository 
+assistant new release 0.1.2  
+assistant-satellite new release 0.1.2  
+aura new release 0.47.3  
+bmw new release 5.0.2  
+hm-rpc new release 4.0.0  
+modbus new release 9.1.0  
+tapo new release 0.6.9  
+vw-connect new release 0.9.8  
+#### updates at stable repository 
+zigbee updated to 3.5.5  
 ## 2026-08-14
 #### updates at latest repository 
 aura new release 0.46.0  
