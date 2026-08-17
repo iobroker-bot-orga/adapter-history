@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-08-16
+#### updates at latest repository 
+aura new release 0.47.4  
+devices new release 4.1.0  
+elgato-key-light new release 2.0.0  
+hm-rega new release 6.0.0  
+influxdb new release 5.0.1  
+javascript new release 10.1.0  
+node-red new release 7.0.2  
+openweathermap new release 2.0.0  
+pushover new release 6.0.0  
+sun2000 new release 2.6.1  
+vis2-materialdesign new release 0.3.4  
+#### updates at stable repository 
+f1 updated to 0.1.11  
+jetframe updated to 1.3.3  
+plex updated to 2.1.1  
+vis-jsontemplate updated to 4.6.1  
 ## 2026-08-15
 #### updates at latest repository 
 assistant new release 0.1.2  
