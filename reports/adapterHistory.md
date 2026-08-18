@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-08-17
+#### updates at latest repository 
+aura new release 0.47.5  
+cameras new release 3.0.1  
+deyeidc new release 0.4.0  
+openmeteo-notify new release 0.1.16  
+plex new release 3.0.0  
+#### updates at stable repository 
+bosch-smart-home-camera updated to 1.8.3  
+leapmotor updated to 0.6.2  
+lg-thinq updated to 1.2.1  
+zendure-solarflow updated to 4.1.2  
 ## 2026-08-16
 #### updates at latest repository 
 aura new release 0.47.4  
