@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-08-18
+#### updates at latest repository 
+aura new release 0.47.13  
+cameras new release 3.0.2  
+devices new release 4.1.1  
+e3dc-rscp new release 1.4.5  
+nspanel-lovelace-ui new release 1.0.0  
+sainlogic new release 1.2.4  
+tapo new release 0.6.12  
+volumio new release 0.10.0  
+vw-connect new release 0.9.10  
+zendure-solarflow new release 5.0.3  
+zeptrion new release 1.0.13  
+#### updates at stable repository 
 ## 2026-08-17
 #### updates at latest repository 
 aura new release 0.47.5  
