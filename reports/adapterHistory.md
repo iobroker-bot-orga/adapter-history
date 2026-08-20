@@ -1,5 +1,27 @@
 # Adapter publishing report
 
+## 2026-08-19
+#### updates at latest repository 
+admin new release 8.0.5  
+anker-solix new release 0.10.90  
+aura new release 0.47.14  
+backitup new release 4.0.2  
+creality new release 0.3.0  
+iiyama-prolite new release 0.1.6  
+pushover new release 6.0.1  
+schoolfree new release 2.1.0  
+shuttercontrol new release 2.1.0  
+sky-remote new release 1.0.6  
+solax new release 1.0.0  
+vis-2 new release 2.15.3  
+volumio new release 0.11.0  
+zendure-solarflow new release 5.0.4  
+zte-mc888 new release 0.0.5  
+#### updates at stable repository 
+fakeroku updated to 1.1.0  
+go-e-charger updated to 1.4.0  
+hueemu updated to 1.12.1  
+mediola-gateway updated to 1.3.0  
 ## 2026-08-18
 #### updates at latest repository 
 aura new release 0.47.13  
