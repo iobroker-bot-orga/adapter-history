@@ -1,5 +1,28 @@
 # Adapter publishing report
 
+## 2026-08-20
+#### updates at latest repository 
+assistant-satellite new release 0.1.3  
+bluelink new release 3.1.32  
+bosch-smart-home-camera new release 1.9.0  
+creality new release 0.4.0  
+foxesscloud new release 0.6.5  
+heos new release 3.2.2  
+iometer new release 0.0.6  
+lorawan new release 1.22.33  
+onvif new release 1.1.6  
+pegelalarm new release 1.5.0  
+remeha-home new release 1.1.0  
+sainlogic new release 1.2.8  
+utility-monitor new release 1.6.8  
+vis-2 new release 2.15.4  
+vis2-materialdesign new release 0.3.5  
+zendure-solarflow new release 5.1.0  
+zigbee2mqtt new release 3.2.6  
+zwavews new release 1.1.0  
+#### updates at stable repository 
+harvia-fenix updated to 0.4.0  
+solakon-one updated to 1.0.18  
 ## 2026-08-19
 #### updates at latest repository 
 admin new release 8.0.5  
