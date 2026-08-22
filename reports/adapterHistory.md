@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-08-21
+#### updates at latest repository 
+assistant new release 0.1.5  
+aura new release 0.48.1  
+dnscope new release 0.3.0  
+eebus-go new release 1.1.1  
+govee-smart new release 2.25.0  
+metermaster new release 0.9.4  
+onvif new release 1.1.7  
+pi-hole2 new release 1.4.1  
+public-holidays new release 0.13.0  
+public-transport new release 1.1.0  
+samsungtv new release 0.0.28  
+sax-power new release 1.2.4  
+tinker new release 1.4.0  
+unraid new release 0.10.0  
+webui new release 2.0.3  
+#### updates at stable repository 
 ## 2026-08-20
 #### updates at latest repository 
 assistant-satellite new release 0.1.3  
