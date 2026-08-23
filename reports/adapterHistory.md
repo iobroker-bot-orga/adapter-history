@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-08-22
+#### updates at latest repository 
+aura new release 0.48.3  
+backitup new release 4.0.3  
+bluelink new release 3.1.33  
+gotify-ws new release 0.3.0  
+hydrop new release 0.2.0  
+lg-thinq new release 1.2.2  
+onvif new release 1.1.8  
+pi-hole2 new release 1.4.2  
+procon-ip new release 1.8.0  
+shuttercontrol new release 2.1.1  
+tibberlink new release 7.2.2  
+#### updates at stable repository 
 ## 2026-08-21
 #### updates at latest repository 
 assistant new release 0.1.5  
