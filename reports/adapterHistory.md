@@ -1,5 +1,31 @@
 # Adapter publishing report
 
+## 2026-08-23
+#### updates at latest repository 
+aura new release 0.48.4  
+beszel new release 0.10.1  
+govee-smart new release 2.26.0  
+hassemu new release 1.38.1  
+homewizard new release 0.15.1  
+hueemu new release 1.12.2  
+icloud new release 1.0.1  
+mspa new release 0.4.2  
+parcelapp new release 0.10.2  
+pi-hole2 new release 1.5.0  
+procon-ip new release 1.8.1  
+public-holidays new release 0.13.1  
+senec new release 2.15.1  
+sun2000 new release 2.6.2  
+uv-protect new release 0.7.1  
+weishaupt-wem new release 0.0.18  
+x-touch new release 0.9.1  
+yamaha new release 1.1.1  
+#### updates at stable repository 
+dreame updated to 0.4.1  
+grohe-smarthome updated to 0.7.0  
+senec updated to 2.15.0  
+tibberlink updated to 7.2.1  
+victron-gx updated to 0.10.0  
 ## 2026-08-22
 #### updates at latest repository 
 aura new release 0.48.3  
