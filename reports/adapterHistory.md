@@ -1,5 +1,15 @@
 # Adapter publishing report
 
+## 2026-08-24
+#### updates at latest repository 
+aura new release 0.49.1  
+frigate new release 3.1.1  
+go-e-charger new release 1.4.1  
+icloud new release 2.0.0  
+philips-air new release 2.0.0  
+procon-ip new release 1.9.0  
+tuya new release 3.18.1  
+#### updates at stable repository 
 ## 2026-08-23
 #### updates at latest repository 
 aura new release 0.48.4  
