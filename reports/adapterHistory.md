@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2026-08-25
+#### updates at latest repository 
+aura new release 0.49.2  
+creality new release 0.4.1  
+cul new release 3.0.1  
+eebus-go new release 1.2.0  
+flexcharts new release 0.7.3  
+hmip new release 3.0.0  
+hueemu new release 1.13.0  
+javascript new release 10.1.2  
+public-transport new release 1.2.0  
+tractive-gps new release 3.0.0  
+vis2-materialdesign new release 0.4.0  
+weishaupt-wem new release 0.0.20  
+yamaha new release 1.2.0  
+#### updates at stable repository 
+ebus updated to 4.0.4  
 ## 2026-08-24
 #### updates at latest repository 
 aura new release 0.49.1  
