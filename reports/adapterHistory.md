@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-08-26
+#### updates at latest repository 
+admin new release 8.0.7  
+assistant new release 0.1.6  
+aura new release 0.50.4  
+go-e-charger new release 1.5.0  
+goodwe-sems new release 1.0.8  
+oxxify-fan-control new release 0.0.17  
+tractive-gps new release 3.1.0  
+tuya new release 3.18.2  
+vis-2 new release 2.15.5  
+weishaupt-wem new release 0.0.21  
+yamaha new release 1.4.0  
+#### updates at stable repository 
+amtronwallbox updated to 1.0.1  
+sainlogic updated to 1.2.8  
 ## 2026-08-25
 #### updates at latest repository 
 aura new release 0.49.2  
