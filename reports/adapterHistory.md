@@ -1,5 +1,39 @@
 # Adapter publishing report
 
+## 2026-08-27
+#### updates at latest repository 
+admin new release 8.0.8  
+aura new release 0.50.8  
+automatic-feeder new release 1.11.0  
+beszel new release 0.12.2  
+cloud new release 6.1.3  
+dreame new release 0.4.2  
+fakeroku new release 1.2.0  
+goodwe new release 1.1.2  
+goodwe-sems new release 1.0.9  
+govee-smart new release 2.27.0  
+hassemu new release 1.38.2  
+history new release 5.0.1  
+homewizard new release 0.16.0  
+hueemu new release 1.13.1  
+influxdb new release 5.0.3  
+mcp new release 1.1.2  
+melcloud new release 4.0.0  
+mihome-vacuum new release 6.0.0  
+modbus new release 9.1.1  
+nut2 new release 0.9.0  
+octopus-energy-monitor new release 1.0.0  
+parcelapp new release 0.10.3  
+pimatic new release 1.0.0  
+public-holidays new release 0.13.2  
+smartfriends new release 2.1.0  
+sql new release 4.1.4  
+web new release 9.1.2  
+welcome new release 2.0.1  
+xsense new release 0.6.5  
+yamaha new release 1.6.0  
+#### updates at stable repository 
+rssfeed updated to 4.1.2  
 ## 2026-08-26
 #### updates at latest repository 
 admin new release 8.0.7  
