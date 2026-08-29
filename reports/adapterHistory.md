@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-08-28
+#### updates at latest repository 
+aura new release 0.50.9  
+automatic-feeder new release 1.13.1  
+devices new release 4.2.0  
+dreame new release 0.4.3  
+goodwe new release 1.1.3  
+mqtt new release 8.0.1  
+sainlogic new release 1.2.10  
+web new release 9.1.3  
+#### updates at stable repository 
+pvforecast updated to 6.2.0  
 ## 2026-08-27
 #### updates at latest repository 
 admin new release 8.0.8  
