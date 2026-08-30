@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-08-29
+#### updates at latest repository 
+aura new release 0.51.0  
+automatic-feeder new release 1.14.0  
+codesys-nvl new release 0.0.5  
+dreame new release 0.4.6  
+go-e-charger new release 1.6.0  
+hmip new release 3.1.1  
+onlycat new release 0.6.2  
+philips-air new release 2.1.0  
+senec new release 2.15.2  
+sql new release 4.1.5  
+sureflap new release 3.4.3  
+tibberlink new release 7.2.3  
+zendure-solarflow new release 5.2.0  
+#### updates at stable repository 
+daswetter updated to 4.5.9  
+harmony updated to 3.0.0  
+kostal-piko-ba updated to 7.0.6  
+metermaster updated to 0.9.4  
+vis-2-widgets-rssfeed updated to 1.2.3  
 ## 2026-08-28
 #### updates at latest repository 
 aura new release 0.50.9  
