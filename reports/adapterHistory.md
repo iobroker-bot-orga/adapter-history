@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-08-30
+#### updates at latest repository 
+aura new release 0.51.1  
+bluetti new release 1.0.0  
+shuttercontrol new release 2.1.2  
+utility-monitor new release 1.7.1  
+wireless-mbus new release 0.11.0  
+zendure-solarflow new release 5.2.1  
+#### updates at stable repository 
+bmw updated to 5.0.2  
+paperless-ngx updated to 1.0.2  
+telegram-menu updated to 4.2.3  
 ## 2026-08-29
 #### updates at latest repository 
 aura new release 0.51.0  
