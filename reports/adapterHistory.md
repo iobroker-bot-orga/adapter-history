@@ -1,5 +1,19 @@
 # Adapter publishing report
 
+## 2026-08-31
+#### updates at latest repository 
+admin new release 8.0.9  
+ai-usage new release 0.9.3  
+aura new release 0.51.2  
+automatic-feeder new release 1.16.0  
+codesys-nvl new release 0.0.6  
+discovery new release 5.1.1  
+echarts new release 5.1.1  
+gree-hvac new release 4.0.0  
+javascript new release 10.1.3  
+luxtronik2-controller new release 0.6.6  
+senec new release 2.15.3  
+#### updates at stable repository 
 ## 2026-08-30
 #### updates at latest repository 
 aura new release 0.51.1  
