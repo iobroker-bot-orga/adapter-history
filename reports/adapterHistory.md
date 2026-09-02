@@ -1,5 +1,52 @@
 # Adapter publishing report
 
+## 2026-09-01
+#### updates at latest repository 
+admin new release 8.0.11  
+ai-usage new release 0.10.0  
+aura new release 0.52.4  
+automatic-feeder new release 1.18.0  
+govee-smart new release 2.27.1  
+hydrawise new release 1.1.0  
+metermaster new release 0.9.8  
+mytime new release 3.0.5  
+nspanel-lovelace-ui new release 1.0.1  
+nut2 new release 0.10.0  
+ping new release 3.1.1  
+plenticore-g3 new release 1.0.2  
+public-holidays new release 0.14.0  
+vis-2-widgets-automatic-feeder new release 0.4.3  
+web new release 9.1.4  
+yamaha new release 1.7.0  
+#### updates at stable repository 
+acme updated to 4.0.3  
+admin updated to 8.0.11  
+alarm updated to 5.0.1  
+backitup updated to 4.0.3  
+beszel updated to 0.12.2  
+eebus-go updated to 1.2.0  
+email updated to 3.0.0  
+govee-smart updated to 2.27.0  
+hassemu updated to 1.38.2  
+hmip updated to 3.1.1  
+homewizard updated to 0.16.0  
+hueemu updated to 1.13.1  
+hydrawise updated to 1.0.6  
+javascript updated to 10.1.3  
+kisshome-defender updated to 3.0.1  
+mytime updated to 3.0.1  
+nmea updated to 2.0.0  
+nspanel-lovelace-ui updated to 1.0.0  
+parcelapp updated to 0.10.3  
+parser updated to 4.0.1  
+ping updated to 3.0.1  
+plex updated to 3.0.0  
+public-holidays updated to 0.13.2  
+public-transport updated to 1.2.0  
+pushbullet updated to 3.0.1  
+solectrus-influxdb updated to 2.0.1  
+telegram updated to 5.0.3  
+welcome updated to 2.0.1  
 ## 2026-08-31
 #### updates at latest repository 
 admin new release 8.0.9  
