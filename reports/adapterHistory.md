@@ -1,5 +1,29 @@
 # Adapter publishing report
 
+## 2026-09-02
+#### updates at latest repository 
+aura new release 0.53.0  
+beszel new release 0.13.0  
+cul new release 3.0.2  
+eusec new release 3.0.2  
+fakeroku new release 1.3.0  
+govee-smart new release 2.28.0  
+hassemu new release 1.40.0  
+homewizard new release 0.17.0  
+hueemu new release 1.14.0  
+klf200 new release 1.4.0  
+leapmotor new release 0.6.5  
+lovelace new release 6.1.3  
+nut2 new release 0.12.1  
+parcelapp new release 0.10.4  
+public-transport new release 1.3.0  
+rssfeed new release 5.0.1  
+telegram new release 6.0.0  
+vis-2-widgets-inventwo new release 1.10.0  
+yamaha new release 2.0.4  
+zendure-solarflow new release 5.3.0  
+#### updates at stable repository 
+telegram updated to 5.0.5  
 ## 2026-09-01
 #### updates at latest repository 
 admin new release 8.0.11  
