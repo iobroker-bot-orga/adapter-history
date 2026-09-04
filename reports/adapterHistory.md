@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2026-09-03
+#### updates at latest repository 
+aura new release 0.53.3  
+automatic-feeder new release 1.18.1  
+fakeroku new release 1.4.0  
+govee-smart new release 2.29.3  
+hueemu new release 1.15.2  
+hydrawise new release 2.0.1  
+icloud new release 2.0.1  
+mcp new release 1.1.4  
+metermaster new release 0.9.10  
+nut2 new release 0.13.0  
+scenes new release 5.1.0  
+yamaha new release 2.3.3  
+#### updates at stable repository 
 ## 2026-09-02
 #### updates at latest repository 
 aura new release 0.53.0  
