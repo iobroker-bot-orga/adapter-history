@@ -1,5 +1,39 @@
 # Adapter publishing report
 
+## 2026-09-04
+#### updates at latest repository 
+aura new release 0.53.5  
+beszel new release 0.14.1  
+electrolux-aeg new release 1.0.0  
+eusec new release 3.1.0  
+fakeroku new release 1.5.0  
+govee-smart new release 2.31.1  
+hassemu new release 1.42.0  
+homewizard new release 0.18.1  
+hueemu new release 1.16.0  
+javascript new release 10.1.4  
+lgtv new release 3.0.1  
+luxtronik2-controller new release 0.7.0  
+nut2 new release 0.14.0  
+parcelapp new release 0.11.1  
+public-holidays new release 0.15.1  
+ring new release 7.0.1  
+samsung_tizen new release 2.0.2  
+sigenergy new release 3.2.0  
+tesla-wallconnector3 new release 1.3.2  
+vis-2-widgets-sigenergy new release 1.8.4  
+volvo new release 3.0.2  
+wireless-mbus new release 0.12.0  
+yamaha new release 2.4.0  
+#### updates at stable repository 
+go-e-charger updated to 1.4.1  
+judoisoft updated to 1.1.3  
+klf200 updated to 1.4.0  
+midas-aquatemp updated to 1.3.3  
+rct updated to 1.2.29  
+sunenergyxt500 updated to 0.2.10  
+tesla-wallconnector3 updated to 1.3.1  
+teslafi updated to 3.0.4  
 ## 2026-09-03
 #### updates at latest repository 
 aura new release 0.53.3  
