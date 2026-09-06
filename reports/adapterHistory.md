@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-09-05
+#### updates at latest repository 
+ai-usage new release 0.11.0  
+aura new release 0.54.1  
+beszel new release 0.14.2  
+go-e-charger new release 1.6.1  
+lgtv new release 3.0.3  
+wireless-mbus new release 0.12.2  
+#### updates at stable repository 
+lorawan updated to 1.22.33  
+pvoutputorg updated to 2.0.0  
 ## 2026-09-04
 #### updates at latest repository 
 aura new release 0.53.5  
