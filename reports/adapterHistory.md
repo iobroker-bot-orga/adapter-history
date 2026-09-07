@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2026-09-06
+#### updates at latest repository 
+ai-usage new release 0.12.0  
+aura new release 0.54.2  
+automatic-feeder new release 1.18.3  
+beszel new release 0.17.0  
+dreame new release 0.4.7  
+goodwe-pv new release 1.0.0  
+hannah new release 1.1.1  
+icloud new release 2.0.4  
+mqtt new release 8.1.0  
+nspanel-lovelace-ui new release 1.1.0  
+open-meteo-weather new release 3.2.0  
+sonos new release 4.2.0  
+squeezeboxrpc new release 2.0.1  
+vis-2-widgets-automatic-feeder new release 0.4.4  
+#### updates at stable repository 
 ## 2026-09-05
 #### updates at latest repository 
 ai-usage new release 0.11.0  
