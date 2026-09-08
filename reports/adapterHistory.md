@@ -1,5 +1,44 @@
 # Adapter publishing report
 
+## 2026-09-07
+#### updates at latest repository 
+ai-usage new release 0.12.1  
+aura new release 0.55.2  
+beszel new release 0.17.1  
+dune-hd-remote new release 1.2.6  
+fakeroku new release 1.6.1  
+flowers new release 0.4.5  
+govee-smart new release 2.32.1  
+hassemu new release 1.43.1  
+homewizard new release 0.18.2  
+hueemu new release 1.17.1  
+icloud new release 2.0.5  
+klf200 new release 1.4.1  
+luxtronik2-controller new release 0.7.3  
+mihome-vacuum new release 6.0.1  
+nut2 new release 0.15.1  
+parcelapp new release 0.12.1  
+public-holidays new release 0.16.0  
+pv-notifications new release 1.2.30  
+sigenergy new release 3.3.1  
+sonoff new release 4.2.0  
+sonos new release 4.2.1  
+squeezeboxrpc new release 2.0.2  
+vis-2-widgets-sigenergy new release 1.8.10  
+vis2-materialdesign new release 1.0.0  
+wireless-mbus new release 0.12.3  
+yamaha new release 2.5.2  
+#### updates at stable repository 
+dnscope updated to 0.3.0  
+flexcharts updated to 0.7.3  
+foxesscloud updated to 0.6.5  
+goodwe updated to 1.1.3  
+goodwe-pv updated to 1.0.0  
+gotify-ws updated to 0.3.0  
+procon-ip updated to 1.9.0  
+proxmox updated to 2.6.3  
+sainlogic updated to 1.2.10  
+yahka updated to 1.1.6  
 ## 2026-09-06
 #### updates at latest repository 
 ai-usage new release 0.12.0  
