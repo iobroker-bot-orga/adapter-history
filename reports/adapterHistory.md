@@ -1,5 +1,20 @@
 # Adapter publishing report
 
+## 2026-09-08
+#### updates at latest repository 
+acme new release 5.0.2  
+aura new release 0.56.3  
+hmip new release 3.2.0  
+meteonomiqs new release 0.2.7  
+mihome-vacuum new release 6.1.0  
+philips-air new release 2.2.0  
+sonos new release 4.2.4  
+squeezeboxrpc new release 3.0.0  
+tractive-next new release 0.5.5  
+#### updates at stable repository 
+elgato-key-light updated to 2.0.0  
+flowers updated to 0.4.4  
+plenticore-g3 updated to 1.0.2  
 ## 2026-09-07
 #### updates at latest repository 
 ai-usage new release 0.12.1  
