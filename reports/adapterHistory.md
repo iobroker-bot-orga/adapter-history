@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-09-09
+#### updates at latest repository 
+devices new release 4.2.1  
+frigate new release 3.1.3  
+govee-smart new release 2.33.0  
+hannah new release 1.1.2  
+harvia-fenix new release 0.5.0  
+navimow new release 1.1.2  
+openmeteo-notify new release 0.2.0  
+pondpump new release 0.9.0  
+semp new release 2.1.0  
+sonos new release 4.2.6  
+squeezeboxrpc new release 3.0.1  
+stiebel-isg new release 2.1.0  
+yamaha new release 2.7.2  
+#### updates at stable repository 
+bluesound updated to 1.5.0  
+gree-hvac updated to 4.0.0  
+siku updated to 0.2.3  
+tesla-motors updated to 3.2.2  
+volumio updated to 0.11.0  
 ## 2026-09-08
 #### updates at latest repository 
 acme new release 5.0.2  
