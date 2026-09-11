@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-09-10
+#### updates at latest repository 
+admin new release 8.0.12  
+envertech-pv new release 1.6.0  
+fritzbox new release 1.0.0  
+hannah new release 1.1.3  
+icloud new release 2.1.0  
+judoisoft new release 1.1.7  
+lgtv new release 3.0.5  
+myvbus new release 0.7.0  
+pondpump new release 0.12.3  
+puppeteer new release 1.0.0  
+rssfeed new release 5.0.2  
+tr-064 new release 5.0.2  
+vis-2-widgets-automatic-feeder new release 0.4.6  
+wireless-mbus new release 0.13.0  
+#### updates at stable repository 
+pi-hole2 updated to 1.5.0  
+vis-2-widgets-tibberlink updated to 0.4.11  
 ## 2026-09-09
 #### updates at latest repository 
 devices new release 4.2.1  
