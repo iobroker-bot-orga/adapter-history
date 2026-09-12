@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2026-09-11
+#### updates at latest repository 
+e3oncan new release 1.1.3  
+govee-local new release 0.5.0  
+govee-smart new release 2.35.2  
+hydrawise new release 2.0.2  
+javascript new release 10.2.0  
+pondpump new release 0.12.4  
+public-transport new release 1.3.1  
+sma-em new release 1.4.0  
+vw-connect new release 0.9.11  
+waip-web new release 1.0.0  
+xtream-monitor new release 0.2.11  
+yamaha new release 2.8.0  
+#### updates at stable repository 
+e3dc-rscp updated to 1.4.5  
+hydrop updated to 0.2.0  
+lovelace updated to 6.1.3  
+pegelalarm updated to 1.5.0  
+smartfriends updated to 2.1.0  
 ## 2026-09-10
 #### updates at latest repository 
 admin new release 8.0.12  
