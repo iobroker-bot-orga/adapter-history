@@ -1,5 +1,35 @@
 # Adapter publishing report
 
+## 2026-09-12
+#### updates at latest repository 
+ai-usage new release 0.13.0  
+amtronwallbox new release 1.0.2  
+aura new release 0.58.2  
+automatic-feeder new release 1.18.4  
+cisco-checkpresence new release 0.1.1  
+daswetter new release 4.5.10  
+dreame new release 0.4.8  
+ebus new release 4.0.5  
+harvia-fenix new release 0.5.1  
+heatingcontrol new release 3.3.1  
+javascript new release 10.2.1  
+kostal-piko-ba new release 7.0.7  
+nextcloud-monitoring new release 2.1.2  
+open-meteo-weather new release 3.2.1  
+pvoutputorg new release 2.0.1  
+sainlogic new release 1.2.11  
+sbfspot new release 5.0.10  
+semp new release 2.1.1  
+senec new release 2.15.4  
+sigenergy new release 3.3.3  
+tesla-wallconnector3 new release 1.3.3  
+tibberlink new release 7.2.4  
+vis-2-widgets-automatic-feeder new release 0.4.7  
+vis-2-widgets-sigenergy new release 1.8.11  
+vis-2-widgets-tibberlink new release 0.4.13  
+yamaha new release 2.9.2  
+#### updates at stable repository 
+sun2000 updated to 2.6.2  
 ## 2026-09-11
 #### updates at latest repository 
 e3oncan new release 1.1.3  
