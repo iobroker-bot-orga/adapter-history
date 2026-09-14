@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-09-13
+#### updates at latest repository 
+aura new release 0.59.1  
+backitup new release 4.0.4  
+dreame new release 0.4.10  
+f1 new release 0.1.13  
+hannah new release 1.1.4  
+javascript new release 10.2.2  
+midas-aquatemp new release 1.3.4  
+nissan new release 0.1.19  
+signifylights new release 1.0.2  
+telegram new release 6.0.2  
+vis-2-widgets-weather-and-heating new release 1.5.0  
+#### updates at stable repository 
+creality updated to 0.4.1  
+electrolux-aeg updated to 1.0.0  
+go-e-charger updated to 1.6.1  
+senec updated to 2.15.3  
+tesla-wallconnector3 updated to 1.3.2  
+tibberlink updated to 7.2.3  
+vis-mapwidgets updated to 0.3.3  
 ## 2026-09-12
 #### updates at latest repository 
 ai-usage new release 0.13.0  
