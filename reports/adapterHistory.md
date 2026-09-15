@@ -1,5 +1,32 @@
 # Adapter publishing report
 
+## 2026-09-14
+#### updates at latest repository 
+aura new release 0.59.4  
+frigate new release 3.1.4  
+frontier_silicon new release 0.6.0  
+goodwe new release 1.2.0  
+goodwe-sems new release 1.0.11  
+husqvarna-automower-connect new release 1.0.12  
+ical new release 1.21.1  
+javascript new release 10.2.4  
+octopus-energy-monitor new release 1.0.1  
+onvif new release 1.1.9  
+public-transport new release 1.4.0  
+solarviewdatareader new release 1.2.6  
+sonoff new release 4.2.1  
+zeptrion new release 1.0.16  
+#### updates at stable repository 
+f1 updated to 0.1.12  
+goodwe-sems updated to 1.0.9  
+husqvarna-automower-connect updated to 1.0.10  
+remeha-home updated to 1.1.0  
+schoolfree updated to 2.1.0  
+shuttercontrol updated to 2.1.2  
+solax updated to 1.0.0  
+tinker updated to 1.4.0  
+uv-protect updated to 0.7.1  
+zeptrion updated to 1.0.13  
 ## 2026-09-13
 #### updates at latest repository 
 aura new release 0.59.1  
