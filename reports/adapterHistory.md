@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2026-09-15
+#### updates at latest repository 
+admin new release 8.0.14  
+aura new release 0.60.1  
+beszel new release 0.18.0  
+govee-smart new release 2.37.1  
+hassemu new release 1.44.0  
+hueemu new release 1.18.0  
+icloud new release 2.1.2  
+iot new release 7.1.0  
+luxtronik2-controller new release 0.8.0  
+mcp new release 1.1.7  
+mqtt-client new release 4.1.0  
+nut2 new release 0.16.0  
+puppeteer new release 1.1.0  
+sonos new release 4.2.9  
+yamaha new release 2.10.0  
+#### updates at stable repository 
+blink updated to 0.0.39  
+fakeroku updated to 1.6.1  
 ## 2026-09-14
 #### updates at latest repository 
 aura new release 0.59.4  
