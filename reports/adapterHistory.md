@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-09-16
+#### updates at latest repository 
+admin new release 8.0.15  
+ai-usage new release 0.15.0  
+aura new release 0.60.8  
+awtrix-light new release 4.0.1  
+eusec new release 3.2.0  
+fakeroku new release 1.7.1  
+govee-smart new release 2.38.1  
+harvia-fenix new release 0.6.0  
+homewizard new release 0.19.0  
+hue new release 3.17.4  
+iot new release 7.1.1  
+nspanel-lovelace-ui new release 1.1.1  
+openmeteo-notify new release 0.2.1  
+parcelapp new release 0.13.0  
+public-holidays new release 0.17.0  
+renault new release 0.0.25  
+senec new release 2.15.5  
+webui new release 2.1.0  
+#### updates at stable repository 
 ## 2026-09-15
 #### updates at latest repository 
 admin new release 8.0.14  
