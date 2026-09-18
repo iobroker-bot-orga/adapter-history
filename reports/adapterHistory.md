@@ -1,5 +1,30 @@
 # Adapter publishing report
 
+## 2026-09-17
+#### updates at latest repository 
+apg-info new release 0.1.36  
+aura new release 0.61.0  
+bluelink new release 3.1.34  
+cloud new release 6.2.1  
+devices new release 4.2.2  
+followthesun new release 0.5.4  
+fuelpricemonitor new release 0.4.4  
+govee-smart new release 2.38.3  
+harvia-fenix new release 1.1.0  
+hassemu new release 1.45.0  
+javascript new release 10.2.5  
+leapmotor new release 0.6.6  
+metermaster new release 0.9.11  
+synochat new release 1.4.3  
+vds2465-server new release 1.1.2  
+vis-mapwidgets new release 0.3.4  
+yamaha new release 2.11.0  
+#### updates at stable repository 
+agent-dvr updated to 0.5.2  
+metermaster updated to 0.9.10  
+tractive-gps updated to 3.1.0  
+vis-2-widgets-sigenergy updated to 1.8.4  
+vis2-materialdesign updated to 1.0.0  
 ## 2026-09-16
 #### updates at latest repository 
 admin new release 8.0.15  
