@@ -1,5 +1,22 @@
 # Adapter publishing report
 
+## 2026-09-18
+#### updates at latest repository 
+aura new release 0.62.0  
+awattar new release 1.2.0  
+cloudflare new release 1.2.14  
+dreame new release 0.4.12  
+elv-sup2 new release 0.3.0  
+go-e-charger new release 1.7.0  
+hannah new release 1.1.5  
+leapmotor new release 0.6.7  
+lovelace new release 7.0.0  
+nspanel-lovelace-ui new release 1.1.2  
+tibberlink new release 7.3.0  
+vbus-gw new release 0.4.0  
+#### updates at stable repository 
+leapmotor updated to 0.6.7  
+zendure-solarflow updated to 5.3.0  
 ## 2026-09-17
 #### updates at latest repository 
 apg-info new release 0.1.36  
