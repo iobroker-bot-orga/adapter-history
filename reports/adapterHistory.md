@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-09-19
+#### updates at latest repository 
+admin new release 8.0.16  
+aura new release 0.64.1  
+cloudflare new release 1.2.16  
+eusec new release 3.2.1  
+js-controller new release 7.2.3  
+leapmotor new release 0.6.8  
+luxtronik2-controller new release 0.8.1  
+tr-064 new release 5.1.0  
+zigbee2mqtt new release 3.2.9  
+#### updates at stable repository 
 ## 2026-09-18
 #### updates at latest repository 
 aura new release 0.62.0  
