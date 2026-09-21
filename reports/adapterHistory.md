@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-09-20
+#### updates at latest repository 
+admin new release 8.0.17  
+aura new release 0.65.1  
+awattar new release 1.3.0  
+awtrix-ng new release 0.1.0  
+hyperion_ng new release 0.1.25  
+iot new release 7.1.2  
+javascript new release 10.3.0  
+liebherr new release 0.0.4  
+modbus new release 9.1.2  
+paperless-ngx new release 1.0.3  
+shelly new release 12.0.0  
+skoda-order-status new release 0.1.9  
+sunseeker new release 0.0.2  
+vis-2-widgets-technic new release 0.1.22  
+vis-2-widgets-tibberlink new release 0.4.14  
+vis-weather new release 2.5.14  
+waip-web new release 1.0.1  
+weather-warnings new release 0.12.0  
+#### updates at stable repository 
 ## 2026-09-19
 #### updates at latest repository 
 admin new release 8.0.16  
