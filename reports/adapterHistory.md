@@ -1,5 +1,29 @@
 # Adapter publishing report
 
+## 2026-09-21
+#### updates at latest repository 
+aura new release 0.67.3  
+autodoc new release 0.9.47  
+cloud new release 6.2.4  
+dune-hd-remote new release 1.2.7  
+esmobil new release 0.5.11  
+eusec new release 3.3.0  
+flowers new release 0.4.6  
+hannah new release 1.1.6  
+harvia-fenix new release 1.1.1  
+iqontrol new release 3.1.0  
+luxtronik2-controller new release 0.10.2  
+nissan new release 0.1.20  
+open-meteo-weather new release 3.3.0  
+pv-notifications new release 1.2.31  
+ring new release 7.0.2  
+sunenergyxt500 new release 0.3.1  
+vis-2-widgets-technic new release 0.1.23  
+web new release 9.1.7  
+zendure-solarflow new release 5.3.1  
+#### updates at stable repository 
+e3oncan updated to 1.1.3  
+samsung_tizen updated to 2.0.2  
 ## 2026-09-20
 #### updates at latest repository 
 admin new release 8.0.17  
