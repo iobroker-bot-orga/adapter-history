@@ -1,5 +1,34 @@
 # Adapter publishing report
 
+## 2026-09-22
+#### updates at latest repository 
+aura new release 0.67.4  
+autodoc new release 0.9.48  
+esmobil new release 0.5.12  
+frigate new release 3.2.0  
+govee-smart new release 2.39.0  
+hm-rpc new release 4.1.1  
+lovelace new release 7.1.0  
+luxtronik2-controller new release 0.11.1  
+onlycat new release 0.6.3  
+sureflap new release 3.4.4  
+yamaha new release 2.12.0  
+#### updates at stable repository 
+ai-usage updated to 0.15.0  
+beszel updated to 0.18.0  
+fakeroku updated to 1.7.1  
+govee-smart updated to 2.38.3  
+hassemu updated to 1.45.0  
+homewizard updated to 0.19.0  
+hueemu updated to 1.18.0  
+navimow updated to 1.1.2  
+nut2 updated to 0.16.0  
+parcelapp updated to 0.13.0  
+philips-air updated to 2.2.0  
+public-holidays updated to 0.17.0  
+sigenergy updated to 3.3.3  
+vis-2-widgets-jaeger-design updated to 1.4.20  
+yamaha updated to 2.11.0  
 ## 2026-09-21
 #### updates at latest repository 
 aura new release 0.67.3  
