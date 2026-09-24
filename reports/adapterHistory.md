@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-09-23
+#### updates at latest repository 
+aura new release 0.68.1  
+cometvisu new release 0.0.7  
+fujitsu-airstage new release 0.2.4  
+govee-smart new release 2.39.2  
+hm-rega new release 6.1.0  
+hm-rpc new release 4.1.2  
+pushover new release 6.1.0  
+renault new release 1.0.0  
+teltonika new release 1.0.1  
+wireless-mbus new release 0.13.1  
+#### updates at stable repository 
 ## 2026-09-22
 #### updates at latest repository 
 aura new release 0.67.4  
