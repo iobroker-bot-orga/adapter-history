@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-09-24
+#### updates at latest repository 
+aura new release 0.68.2  
+awtrix-light new release 4.0.2  
+enpal new release 0.4.4  
+homewizard new release 0.20.0  
+leapmotor new release 0.7.0  
+lorawan new release 1.22.35  
+motioneye new release 1.3.2  
+octopus-energy-monitor new release 1.1.0  
+public-transport new release 1.4.1  
+s7 new release 3.0.2  
+tvprogram new release 5.0.1  
+vis-2 new release 2.15.7  
+wmswebcontrol new release 1.0.0  
+#### updates at stable repository 
+acme updated to 5.0.2  
+zendure-solarflow updated to 5.3.1  
 ## 2026-09-23
 #### updates at latest repository 
 aura new release 0.68.1  
