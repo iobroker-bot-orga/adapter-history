@@ -1,5 +1,35 @@
 # Adapter publishing report
 
+## 2026-09-25
+#### updates at latest repository 
+ai-usage new release 0.16.0  
+anker-solix new release 0.10.105  
+anthbot new release 0.2.1  
+aura new release 0.70.1  
+beszel new release 0.19.0  
+cloud new release 6.2.5  
+fakeroku new release 1.8.0  
+govee-smart new release 2.40.0  
+hannah new release 1.2.0  
+hueemu new release 1.19.0  
+leapmotor new release 0.7.2  
+lg-thinq new release 1.2.3  
+parcelapp new release 0.14.0  
+pondpump new release 0.12.6  
+public-holidays new release 0.18.0  
+skoda-public-api new release 0.1.11  
+socketio new release 9.0.0  
+sunenergyxt500 new release 0.3.2  
+unifi new release 1.0.2  
+vis-2 new release 2.15.8  
+vis-2-widgets-tibberlink new release 0.5.0  
+web new release 9.1.8  
+ws new release 5.1.1  
+yamaha new release 2.13.0  
+#### updates at stable repository 
+cisco-checkpresence updated to 0.1.1  
+rssfeed updated to 5.0.2  
+squeezeboxrpc updated to 3.0.1  
 ## 2026-09-24
 #### updates at latest repository 
 aura new release 0.68.2  
