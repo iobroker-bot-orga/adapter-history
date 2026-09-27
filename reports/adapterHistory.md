@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-09-26
+#### updates at latest repository 
+autodarts new release 1.1.0  
+bluetti new release 1.0.1  
+govee-smart new release 2.41.0  
+hannah new release 1.3.0  
+hassemu new release 1.46.1  
+hmip new release 4.0.2  
+hoymiles new release 0.5.0  
+modbus new release 9.2.0  
+nut2 new release 0.17.0  
+tibberlink new release 7.3.1  
+wireless-mbus new release 0.14.0  
+yamaha new release 3.0.0  
+#### updates at stable repository 
+admin updated to 8.0.14  
 ## 2026-09-25
 #### updates at latest repository 
 ai-usage new release 0.16.0  
