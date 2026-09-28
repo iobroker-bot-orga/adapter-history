@@ -1,5 +1,34 @@
 # Adapter publishing report
 
+## 2026-09-27
+#### updates at latest repository 
+absolutehumidity new release 0.1.4  
+admin new release 8.0.20  
+blackmagic-atem new release 0.2.10  
+blustream-acm new release 0.3.3  
+blustream-mfp new release 0.5.5  
+esphome new release 1.0.0  
+govee-smart new release 3.0.0  
+hannah new release 1.5.0  
+heos new release 3.2.3  
+lovelace new release 7.1.1  
+midas-aquatemp new release 1.3.5  
+omoda new release 0.3.0  
+sigenergy new release 3.3.4  
+sourceanalytix new release 0.6.0  
+sunenergyxt500 new release 0.3.3  
+tibberlink new release 7.3.2  
+vis-2-widgets-technic new release 0.1.25  
+yamaha new release 3.0.1  
+#### updates at stable repository 
+anker-solix updated to 0.10.90  
+envertech-pv updated to 1.6.0  
+go-e-charger updated to 1.7.0  
+kostal-piko-ba updated to 7.0.7  
+melcloud updated to 4.0.0  
+public-transport updated to 1.4.0  
+tibberlink updated to 7.3.2  
+volvo updated to 3.0.2  
 ## 2026-09-26
 #### updates at latest repository 
 autodarts new release 1.1.0  
