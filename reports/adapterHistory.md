@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-09-28
+#### updates at latest repository 
+absolutehumidity new release 0.1.6  
+alarm new release 5.0.2  
+aura new release 0.71.1  
+botslab360 new release 0.3.1  
+cloud new release 6.2.6  
+fakeroku new release 1.8.1  
+frigate new release 3.2.1  
+google-spreadsheet new release 1.1.0  
+govee-smart new release 3.0.1  
+hannah new release 1.5.1  
+iiyama-prolite new release 0.1.7  
+sunenergyxt500 new release 0.3.4  
+tvprogram new release 6.1.0  
+web new release 9.1.9  
+zendure-solarflow new release 5.3.2  
+#### updates at stable repository 
 ## 2026-09-27
 #### updates at latest repository 
 absolutehumidity new release 0.1.4  
