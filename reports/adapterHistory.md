@@ -1,5 +1,14 @@
 # Adapter publishing report
 
+## 2026-09-29
+#### updates at latest repository 
+aura new release 0.72.2  
+bluetti new release 1.0.2  
+gotify new release 0.6.0  
+hannah new release 1.5.2  
+trashschedule new release 6.0.0  
+vw-connect new release 0.9.12  
+#### updates at stable repository 
 ## 2026-09-28
 #### updates at latest repository 
 absolutehumidity new release 0.1.6  
