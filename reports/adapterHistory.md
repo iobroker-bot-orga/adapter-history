@@ -1,5 +1,28 @@
 # Adapter publishing report
 
+## 2026-09-30
+#### updates at latest repository 
+admin new release 8.0.21  
+aura new release 0.72.4  
+awtrix-ng new release 0.3.0  
+bosch-smart-home-camera new release 1.10.1  
+cameras new release 3.1.0  
+energy-tracker new release 1.0.0  
+fronius-solarweb new release 0.2.0  
+google-sharedlocations2 new release 0.5.0  
+lovelace new release 7.2.0  
+luxtronik2-controller new release 0.12.1  
+meteonomiqs new release 0.2.8  
+mspa new release 0.4.3  
+nextcloudtalk new release 2.0.0  
+siku new release 0.2.4  
+xsense new release 0.6.6  
+yamaha new release 3.1.1  
+#### updates at stable repository 
+judoisoft updated to 1.1.7  
+lovelace updated to 7.1.0  
+nextcloud-monitoring updated to 2.1.2  
+vis-2-widgets-inventwo updated to 1.10.0  
 ## 2026-09-29
 #### updates at latest repository 
 aura new release 0.72.2  
