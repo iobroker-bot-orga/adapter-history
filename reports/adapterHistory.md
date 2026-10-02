@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2026-10-01
+#### updates at latest repository 
+aura new release 0.73.0  
+cameras new release 3.2.0  
+comfoairq new release 0.6.1  
+govee-smart new release 3.1.1  
+hannah new release 1.5.4  
+snmp new release 4.0.0  
+yamaha new release 3.1.2  
+#### updates at stable repository 
+ai-usage updated to 0.16.0  
+beszel updated to 0.19.0  
+fairland updated to 0.2.16  
+hassemu updated to 1.46.1  
+homewizard updated to 0.20.0  
+hueemu updated to 1.19.0  
+nut2 updated to 0.17.0  
+parcelapp updated to 0.14.0  
+public-holidays updated to 0.18.0  
+senec updated to 2.15.5  
 ## 2026-09-30
 #### updates at latest repository 
 admin new release 8.0.21  
