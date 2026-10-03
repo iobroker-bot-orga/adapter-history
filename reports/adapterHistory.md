@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2026-10-02
+#### updates at latest repository 
+admin new release 8.0.22  
+aura new release 0.75.0  
+comfoairq new release 1.1.0  
+e3dc-rscp new release 1.4.6  
+eusec new release 3.4.0  
+fakeroku new release 1.8.2  
+harvia-fenix new release 1.1.2  
+luxtronik2-controller new release 0.13.1  
+mitsubishi-local-control new release 2.0.0  
+public-holidays new release 0.19.0  
+sql new release 4.1.6  
+tr-064 new release 5.1.4  
+victoriametrics new release 0.4.5  
+volvo new release 3.0.3  
+web new release 9.1.10  
+yamaha new release 3.1.3  
+#### updates at stable repository 
+cloudflare updated to 1.2.16  
 ## 2026-10-01
 #### updates at latest repository 
 aura new release 0.73.0  
