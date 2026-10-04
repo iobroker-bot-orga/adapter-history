@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-10-03
+#### updates at latest repository 
+autodarts new release 1.1.1  
+cameras new release 3.2.1  
+discovery new release 5.1.2  
+dune-hd-remote new release 1.2.8  
+evcc new release 0.3.0  
+fakeroku new release 1.10.0  
+flowers new release 0.4.7  
+hannah new release 1.5.5  
+ical new release 1.21.2  
+js-controller new release 7.2.4  
+public-holidays new release 0.20.0  
+shoppingroute new release 0.4.4  
+sun2000 new release 2.7.1  
+vis2-materialdesign new release 1.1.0  
+web new release 9.1.11  
+yamaha new release 3.2.0  
+#### updates at stable repository 
+govee-local updated to 0.5.0  
+vis-mapwidgets updated to 0.3.4  
 ## 2026-10-02
 #### updates at latest repository 
 admin new release 8.0.22  
