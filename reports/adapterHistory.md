@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-10-04
+#### updates at latest repository 
+admin new release 8.0.23  
+apple new release 0.4.1  
+aura new release 0.76.0  
+cameras new release 3.2.2  
+daswetter new release 4.6.0  
+flow new release 0.0.2  
+go-e-charger new release 1.8.0  
+hannah new release 1.6.0  
+heos new release 3.2.4  
+omoda new release 0.4.0  
+rct new release 1.2.30  
+sql new release 4.2.0  
+sun2000 new release 2.7.2  
+web new release 9.1.12  
+ws new release 5.1.2  
+#### updates at stable repository 
+nissan updated to 0.1.20  
 ## 2026-10-03
 #### updates at latest repository 
 autodarts new release 1.1.1  
