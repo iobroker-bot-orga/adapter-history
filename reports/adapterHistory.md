@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-10-05
+#### updates at latest repository 
+agent-dvr new release 0.5.3  
+aura new release 0.77.4  
+eusec new release 3.4.2  
+flowers new release 0.4.8  
+js-controller new release 7.2.5  
+laundrylens new release 0.4.38  
+miele-local new release 0.3.45  
+nuki-local new release 0.1.3  
+#### updates at stable repository 
+flowers updated to 0.4.6  
+harvia-fenix updated to 1.1.1  
+lgtv updated to 3.0.5  
+openmeteo-notify updated to 0.2.1  
+pwned-check updated to 0.0.10  
 ## 2026-10-04
 #### updates at latest repository 
 admin new release 8.0.23  
