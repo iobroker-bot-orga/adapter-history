@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-10-06
+#### updates at latest repository 
+aura new release 0.78.1  
+awattar new release 1.4.0  
+bosch-smart-home-camera new release 1.10.2  
+creality new release 0.5.0  
+poolcontrol new release 1.4.6  
+senec new release 2.15.6  
+shoppingroute new release 0.5.0  
+stiebel-isg new release 2.2.0  
+sun2000 new release 2.7.3  
+tesla-wallconnector3 new release 1.3.4  
+#### updates at stable repository 
+autodarts updated to 1.1.1  
+klf200 updated to 1.4.1  
+signifylights updated to 1.0.2  
 ## 2026-10-05
 #### updates at latest repository 
 agent-dvr new release 0.5.3  
