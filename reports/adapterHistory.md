@@ -1,5 +1,23 @@
 # Adapter publishing report
 
+## 2026-10-07
+#### updates at latest repository 
+fingerprint new release 0.7.10  
+frigate new release 3.2.2  
+gree-hvac new release 4.1.0  
+laundrylens new release 0.4.40  
+lovelace new release 7.2.2  
+luxtronik2-controller new release 0.14.1  
+metermaster new release 0.9.12  
+rpi2 new release 4.0.0  
+shoppingroute new release 0.5.1  
+toyota new release 0.4.0  
+tr-064 new release 5.1.5  
+victron-gx new release 0.10.1  
+wmswebcontrol new release 1.0.1  
+zendure-solarflow new release 6.0.0  
+#### updates at stable repository 
+ring updated to 7.0.2  
 ## 2026-10-06
 #### updates at latest repository 
 aura new release 0.78.1  
