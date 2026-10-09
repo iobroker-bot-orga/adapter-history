@@ -1,5 +1,28 @@
 # Adapter publishing report
 
+## 2026-10-08
+#### updates at latest repository 
+admin new release 8.1.1  
+agent-dvr new release 0.5.4  
+aura new release 0.80.3  
+awtrix-ng new release 0.4.0  
+cloudless-homeconnect new release 1.7.1  
+discovery new release 5.2.0  
+fingerprint new release 0.7.12  
+foxesscloud new release 0.6.6  
+gree-hvac new release 4.1.1  
+imap new release 0.4.1  
+javascript new release 10.4.0  
+laundrylens new release 0.4.41  
+lovelace new release 7.2.3  
+pv-notifications new release 1.2.33  
+schedule-switcher new release 0.2.2  
+tr-064 new release 5.1.6  
+utility-monitor new release 1.7.3  
+vw-connect new release 0.10.0  
+#### updates at stable repository 
+pv-notifications updated to 1.2.31  
+sma-em updated to 1.4.0  
 ## 2026-10-07
 #### updates at latest repository 
 fingerprint new release 0.7.10  
