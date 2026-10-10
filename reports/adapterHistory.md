@@ -1,5 +1,18 @@
 # Adapter publishing report
 
+## 2026-10-09
+#### updates at latest repository 
+agent-dvr new release 0.5.5  
+al-ko new release 0.3.12  
+aura new release 0.80.4  
+foxesscloud new release 0.6.7  
+miele-local new release 0.3.46  
+procon-ip new release 1.9.1  
+#### updates at stable repository 
+esphome updated to 1.0.0  
+octopus-energy-monitor updated to 1.1.0  
+renault updated to 1.0.0  
+sureflap updated to 3.4.4  
 ## 2026-10-08
 #### updates at latest repository 
 admin new release 8.1.1  
