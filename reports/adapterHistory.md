@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-10-10
+#### updates at latest repository 
+aura new release 0.81.0  
+cloud new release 6.2.7  
+evcc new release 0.3.1  
+grohe-smarthome new release 0.7.1  
+javascript new release 10.4.1  
+lovelace new release 7.2.4  
+nuki-local new release 0.1.4  
+open-meteo-weather new release 3.3.1  
+#### updates at stable repository 
+onlycat updated to 0.6.3  
 ## 2026-10-09
 #### updates at latest repository 
 agent-dvr new release 0.5.5  
