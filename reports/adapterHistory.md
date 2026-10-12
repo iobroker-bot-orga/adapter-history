@@ -1,5 +1,33 @@
 # Adapter publishing report
 
+## 2026-10-11
+#### updates at latest repository 
+admin new release 8.1.2  
+aura new release 0.81.3  
+daswetter new release 4.6.1  
+device-monitoring new release 0.0.39  
+docker-manager new release 1.0.4  
+eusec new release 3.5.0  
+go-e-charger new release 1.8.1  
+goodwe-pv new release 1.0.1  
+javascript new release 10.4.2  
+luxtronik2-controller new release 0.15.1  
+mydlink new release 2.0.0  
+net-tools new release 1.3.0  
+nspanel-lovelace-ui new release 1.2.0  
+puppeteer new release 1.1.1  
+roborock new release 0.8.0  
+semp new release 2.1.3  
+teslafi new release 3.1.0  
+web new release 9.1.14  
+#### updates at stable repository 
+cloud updated to 6.2.7  
+energy-tracker updated to 1.0.0  
+fakeroku updated to 1.8.1  
+iot updated to 7.1.2  
+nextcloudtalk updated to 2.0.0  
+shelly updated to 12.0.0  
+skoda-public-api updated to 0.1.11  
 ## 2026-10-10
 #### updates at latest repository 
 aura new release 0.81.0  
