@@ -1,5 +1,43 @@
 # Adapter publishing report
 
+## 2026-10-12
+#### updates at latest repository 
+admin new release 8.2.0  
+aura new release 0.82.1  
+awtrix-ng new release 0.5.0  
+bosch-smart-home-camera new release 1.10.3  
+cloud new release 6.2.8  
+device-monitoring new release 0.0.41  
+devices new release 4.2.3  
+hm-rpc new release 4.1.3  
+iot new release 7.1.3  
+lorawan new release 1.22.36  
+luxtronik2-controller new release 0.18.0  
+mydlink new release 2.1.0  
+netatmo-crawler new release 1.3.0  
+pondpump new release 0.12.7  
+solectrus-influxdb new release 2.1.0  
+sunseeker new release 0.0.3  
+tr-064 new release 5.2.0  
+vis-2-widgets-automatic-feeder new release 0.5.1  
+vis-2-widgets-technic new release 0.2.0  
+vis-2-widgets-tibberlink new release 0.5.1  
+#### updates at stable repository 
+bluelink updated to 3.1.34  
+devices updated to 4.2.2  
+echarts updated to 5.1.1  
+flow updated to 0.0.2  
+hm-rega updated to 6.1.0  
+hm-rpc updated to 4.1.2  
+knx updated to 2.0.41  
+maxcul updated to 2.1.0  
+mcp updated to 1.1.7  
+myvbus updated to 0.7.0  
+opcua updated to 3.0.0  
+pushover updated to 6.1.0  
+scenes updated to 5.1.0  
+vis-2 updated to 2.15.8  
+vis-2-widgets-energy updated to 2.0.1  
 ## 2026-10-11
 #### updates at latest repository 
 admin new release 8.1.2  
