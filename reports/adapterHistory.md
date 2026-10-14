@@ -1,5 +1,48 @@
 # Adapter publishing report
 
+## 2026-10-13
+#### updates at latest repository 
+alias-manager new release 3.0.0  
+assistant new release 1.0.1  
+aura new release 0.82.8  
+cloud new release 6.2.9  
+cul new release 3.0.3  
+devices new release 4.2.4  
+docker-manager new release 1.0.5  
+elgato-key-light new release 2.0.1  
+fingerprint new release 0.7.13  
+hass new release 2.1.2  
+history new release 5.1.1  
+hm-rpc new release 4.2.1  
+influxdb new release 5.1.6  
+lorawan new release 1.22.38  
+luxtronik2-controller new release 0.18.1  
+modbus new release 9.2.1  
+mqtt new release 8.1.2  
+nspanel-lovelace-ui new release 1.3.0  
+omoda new release 0.5.0  
+openweathermap new release 2.0.2  
+ping new release 3.1.4  
+rest-api new release 4.1.2  
+s7 new release 3.0.3  
+sayit new release 5.3.2  
+serial-gps new release 1.0.2  
+solectrus-influxdb new release 2.2.1  
+sonoff new release 5.1.0  
+sonos new release 4.2.10  
+sql new release 4.2.1  
+tr-064 new release 5.2.2  
+tractive-gps new release 4.0.0  
+vis2-materialdesign new release 1.1.1  
+wireless-settings new release 1.2.3  
+#### updates at stable repository 
+deyeidc updated to 0.4.0  
+frontier_silicon updated to 0.6.0  
+harvia-fenix updated to 1.1.2  
+hydrawise updated to 2.0.2  
+sainlogic updated to 1.2.11  
+telegram updated to 6.0.2  
+vbus-gw updated to 0.4.0  
 ## 2026-10-12
 #### updates at latest repository 
 admin new release 8.2.0  
