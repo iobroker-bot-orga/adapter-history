@@ -1,5 +1,37 @@
 # Adapter publishing report
 
+## 2026-10-14
+#### updates at latest repository 
+absolutehumidity new release 0.1.8  
+assistant new release 1.0.2  
+assistant-satellite new release 0.1.4  
+aura new release 0.82.9  
+cloud new release 6.2.10  
+consumption new release 1.0.3  
+corrently new release 0.1.2  
+device-monitoring new release 0.0.45  
+devices new release 4.2.5  
+echarts new release 6.0.0  
+iot new release 7.1.5  
+mqtt new release 8.1.3  
+nspanel-lovelace-ui new release 1.4.0  
+opensmartcity new release 0.2.3  
+oxxify-fan-control new release 0.0.18  
+rfxcom new release 3.0.1  
+socketio new release 9.0.2  
+sonoff new release 5.1.1  
+sonos new release 4.2.11  
+teltonika new release 1.1.2  
+text2command new release 5.0.1  
+victron-cerbo new release 1.0.0  
+ws new release 5.1.3  
+xterm new release 4.0.2  
+zendure-solarflow new release 6.1.1  
+#### updates at stable repository 
+dune-hd-remote updated to 1.2.8  
+goodwe updated to 1.2.0  
+meteonomiqs updated to 0.2.8  
+rct updated to 1.2.30  
 ## 2026-10-13
 #### updates at latest repository 
 alias-manager new release 3.0.0  
