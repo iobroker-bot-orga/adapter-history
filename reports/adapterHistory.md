@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2026-10-15
+#### updates at latest repository 
+anker-solix new release 0.10.106  
+aura new release 0.82.10  
+autodarts new release 1.2.0  
+bluelink new release 3.1.35  
+blustream-mfp new release 0.5.6  
+e3oncan new release 1.2.0  
+govee-smart new release 3.2.1  
+leapmotor new release 0.7.3  
+life360ng new release 1.11.5  
+n8n new release 0.3.1  
+solakon-one new release 1.0.19  
+tr-064 new release 5.2.3  
+victron-cerbo new release 1.0.1  
+wattcycle new release 2.0.1  
+web new release 9.1.15  
+witmotion new release 2.1.1  
+yamaha new release 3.3.0  
+#### updates at stable repository 
 ## 2026-10-14
 #### updates at latest repository 
 absolutehumidity new release 0.1.8  
