@@ -1,5 +1,28 @@
 # Adapter publishing report
 
+## 2026-10-16
+#### updates at latest repository 
+aura new release 0.83.1  
+cameras new release 3.3.0  
+cloud new release 6.2.11  
+fingerprint new release 0.8.2  
+life360ng new release 1.11.7  
+lovelace new release 7.2.5  
+meteonomiqs new release 0.2.9  
+simple-proxy-manager new release 1.0.1  
+solaredge new release 2.0.0  
+vis-2 new release 2.20.2  
+vis-2-widgets-jaeger-design new release 2.0.0  
+vis-2-widgets-material new release 2.0.2  
+zendure-solarflow new release 6.1.2  
+#### updates at stable repository 
+anker-solix updated to 0.10.105  
+enpal updated to 0.4.4  
+flowers updated to 0.4.8  
+gree-hvac updated to 4.1.1  
+js-controller updated to 7.2.5  
+onvif updated to 1.1.9  
+sunenergyxt500 updated to 0.3.4  
 ## 2026-10-15
 #### updates at latest repository 
 anker-solix new release 0.10.106  
