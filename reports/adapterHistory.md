@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-10-17
+#### updates at latest repository 
+aura new release 0.84.0  
+flexcharts new release 0.7.4  
+google-sharedlocations2 new release 0.5.1  
+javascript new release 10.4.4  
+luxtronik2-controller new release 0.18.2  
+miele-local new release 0.3.47  
+ntfy-client new release 0.1.5  
+openmeteo-notify new release 0.3.0  
+shoppingroute new release 0.5.2  
+synology new release 3.2.1  
+traccar new release 1.2.3  
+vis-2-widgets-gauges new release 3.0.0  
+vis-2-widgets-inventwo new release 2.0.2  
+zendure-solarflow new release 6.1.3  
+#### updates at stable repository 
+eusec updated to 3.4.2  
+imap updated to 0.4.1  
+javascript updated to 10.4.4  
+mqtt-client updated to 4.1.0  
 ## 2026-10-16
 #### updates at latest repository 
 aura new release 0.83.1  
