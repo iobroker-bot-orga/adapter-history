@@ -1,5 +1,30 @@
 # Adapter publishing report
 
+## 2026-10-18
+#### updates at latest repository 
+easee new release 2.0.0  
+goodwe-pv new release 1.1.0  
+javascript new release 10.4.5  
+openweathermap new release 2.0.3  
+parser new release 4.0.2  
+scheduler new release 2.0.2  
+seq new release 1.0.3  
+shoppingroute new release 0.5.3  
+sonos new release 4.2.12  
+steam new release 0.5.12  
+sunseeker new release 0.0.4  
+synology new release 3.3.0  
+vis-2-widgets-jaeger-design new release 1.5.0  
+vis-2-widgets-technic new release 0.2.1  
+webuntis2 new release 0.1.9  
+wiim new release 0.6.1  
+#### updates at stable repository 
+f1 updated to 0.1.13  
+hue updated to 3.17.4  
+mitsubishi-local-control updated to 2.0.0  
+mytime updated to 3.0.5  
+unifi updated to 1.0.2  
+vis-2-widgets-sweethome3d updated to 0.2.0  
 ## 2026-10-17
 #### updates at latest repository 
 aura new release 0.84.0  
