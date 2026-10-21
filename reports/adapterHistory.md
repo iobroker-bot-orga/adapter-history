@@ -1,5 +1,16 @@
 # Adapter publishing report
 
+## 2026-10-20
+#### updates at latest repository 
+aura new release 0.87.1  
+danfoss-ally new release 0.2.21  
+hannah new release 1.6.1  
+luxtronik2-controller new release 0.19.4  
+tr-064 new release 5.2.4  
+xsense new release 0.6.7  
+zoneminder new release 1.0.0  
+#### updates at stable repository 
+pv-notifications updated to 1.2.33  
 ## 2026-10-19
 #### updates at latest repository 
 admin new release 8.3.0  
