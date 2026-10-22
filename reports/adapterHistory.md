@@ -1,5 +1,25 @@
 # Adapter publishing report
 
+## 2026-10-21
+#### updates at latest repository 
+aura new release 0.89.0  
+dune-hd-remote new release 1.2.11  
+googlefindmydevice new release 0.1.2  
+liebherr new release 0.0.5  
+lovelace new release 7.4.0  
+nspanel-lovelace-ui new release 1.5.0  
+openmeteo-notify new release 0.3.1  
+pv-notifications new release 1.2.35  
+sevenio new release 0.1.3  
+solectrus-influxdb new release 2.3.0  
+tr-064 new release 5.2.5  
+web new release 9.1.16  
+wireless-mbus new release 0.14.1  
+zeekr new release 0.1.75  
+zoneminder new release 1.0.1  
+#### updates at stable repository 
+iqontrol updated to 3.1.0  
+stiebel-isg updated to 2.2.0  
 ## 2026-10-20
 #### updates at latest repository 
 aura new release 0.87.1  
