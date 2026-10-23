@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-10-22
+#### updates at latest repository 
+admin new release 8.3.1  
+aura new release 0.90.0  
+aurora-nowcast new release 2.3.1  
+fritzbox new release 1.1.1  
+influxdb new release 5.1.7  
+luxtronik2-controller new release 0.20.0  
+openmeteo-notify new release 0.4.1  
+renault new release 1.1.0  
+samsung-mdc new release 0.1.0  
+snmp new release 4.0.1  
+tr-064 new release 5.2.6  
+#### updates at stable repository 
+absolutehumidity updated to 0.1.8  
+agent-dvr updated to 0.5.5  
+awattar updated to 1.4.0  
+device-monitoring updated to 0.0.45  
+nspanel-lovelace-ui updated to 1.4.0  
 ## 2026-10-21
 #### updates at latest repository 
 aura new release 0.89.0  
