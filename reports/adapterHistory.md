@@ -1,5 +1,29 @@
 # Adapter publishing report
 
+## 2026-10-23
+#### updates at latest repository 
+admin new release 8.3.3  
+aura new release 0.91.0  
+devices new release 4.2.6  
+hannah new release 1.7.0  
+history new release 5.1.2  
+hm-rpc new release 4.2.4  
+influxdb new release 5.1.8  
+javascript new release 10.4.7  
+lovelace new release 7.4.1  
+luxtronik2-controller new release 0.20.1  
+modbus new release 9.2.2  
+openweathermap new release 2.0.4  
+pimatic new release 1.0.1  
+sayit new release 5.3.3  
+sonoff new release 5.2.0  
+sun2000 new release 2.7.4  
+synology new release 3.3.2  
+tr-064 new release 5.3.0  
+vis-2 new release 2.20.4  
+#### updates at stable repository 
+oxxify-fan-control updated to 0.0.18  
+procon-ip updated to 1.9.1  
 ## 2026-10-22
 #### updates at latest repository 
 admin new release 8.3.1  
