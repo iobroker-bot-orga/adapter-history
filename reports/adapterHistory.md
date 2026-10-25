@@ -1,5 +1,29 @@
 # Adapter publishing report
 
+## 2026-10-24
+#### updates at latest repository 
+assistant new release 1.0.3  
+bosch-smart-home-camera new release 1.10.4  
+easee new release 3.0.0  
+hmip new release 4.1.0  
+influxdb new release 5.2.0  
+lorawan new release 1.22.39  
+luxtronik2-controller new release 0.20.4  
+mcp new release 1.4.0  
+nspanel-lovelace-ui new release 1.6.0  
+sayit new release 5.4.0  
+scenes new release 5.2.0  
+smartloadmanager new release 0.4.1  
+sonoff new release 5.2.1  
+synology new release 4.0.0  
+tr-064 new release 5.3.1  
+zigbee2mqtt new release 3.2.10  
+#### updates at stable repository 
+frigate updated to 3.2.2  
+influxdb updated to 5.1.8  
+meteonomiqs updated to 0.2.9  
+mspa updated to 0.4.3  
+webui updated to 2.1.0  
 ## 2026-10-23
 #### updates at latest repository 
 admin new release 8.3.3  
