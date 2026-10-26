@@ -1,5 +1,38 @@
 # Adapter publishing report
 
+## 2026-10-25
+#### updates at latest repository 
+admin new release 8.3.4  
+assistant new release 1.1.0  
+aura new release 0.92.0  
+devices new release 4.2.7  
+dune-hd-remote new release 1.2.13  
+eusec new release 3.6.0  
+faikout new release 0.0.18  
+goodwe new release 1.2.1  
+gotify new release 0.6.1  
+leapmotor new release 0.7.5  
+lorawan new release 1.22.40  
+mcp new release 1.5.1  
+miele-local new release 0.4.1  
+open-meteo-weather new release 3.3.2  
+panasonic-comfort-cloud new release 3.5.0  
+public-transport new release 1.4.2  
+sunseeker new release 0.0.5  
+vis-2 new release 2.20.5  
+vis-2-widgets-eusec new release 0.2.0  
+webuntis2 new release 0.2.0  
+xsense new release 0.6.8  
+#### updates at stable repository 
+creality updated to 0.5.0  
+dune-hd-remote updated to 1.2.11  
+eusec updated to 3.5.0  
+go-e-charger updated to 1.8.1  
+goodwe-pv updated to 1.1.0  
+leapmotor updated to 0.7.3  
+mcp updated to 1.5.1  
+tesla-wallconnector3 updated to 1.3.4  
+zendure-solarflow updated to 6.1.3  
 ## 2026-10-24
 #### updates at latest repository 
 assistant new release 1.0.3  
