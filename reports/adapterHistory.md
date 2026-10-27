@@ -1,5 +1,29 @@
 # Adapter publishing report
 
+## 2026-10-26
+#### updates at latest repository 
+aura new release 0.93.1  
+bmw new release 5.0.5  
+email new release 3.1.0  
+eusec new release 3.6.2  
+fb-checkpresence new release 1.5.0  
+luxtronik2-controller new release 0.22.0  
+max new release 0.1.12  
+mcp new release 1.6.2  
+nspanel-lovelace-ui new release 1.7.0  
+paperless-ngx new release 1.0.4  
+pondpump new release 0.12.8  
+senec new release 2.16.0  
+shoppingroute new release 0.6.0  
+sonos new release 4.2.13  
+spotify-premium new release 3.1.0  
+twinkly new release 1.1.1  
+vis-2-widgets-automatic-feeder new release 0.5.2  
+vis-2-widgets-energy new release 3.0.3  
+weatherunderground new release 4.0.1  
+#### updates at stable repository 
+alarm updated to 5.0.2  
+leapmotor updated to 0.7.5  
 ## 2026-10-25
 #### updates at latest repository 
 admin new release 8.3.4  
