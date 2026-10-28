@@ -1,5 +1,29 @@
 # Adapter publishing report
 
+## 2026-10-27
+#### updates at latest repository 
+admin new release 8.3.5  
+alarm new release 5.1.0  
+anker-solix new release 0.10.108  
+assistant new release 1.2.0  
+aura new release 0.95.0  
+goodwe new release 1.3.0  
+influxdb new release 5.2.2  
+javascript new release 10.4.8  
+mcp new release 1.8.1  
+mqtt new release 8.1.5  
+nmea new release 3.0.2  
+philips-air new release 2.3.0  
+rssfeed new release 5.0.3  
+sayit new release 5.5.0  
+senec new release 2.16.3  
+shoppingroute new release 0.6.1  
+solarviewdatareader new release 1.3.0  
+sonos new release 4.2.16  
+vis-2-widgets-jaeger-design new release 1.5.2  
+volvo new release 3.1.0  
+zendure-solarflow new release 6.1.5  
+#### updates at stable repository 
 ## 2026-10-26
 #### updates at latest repository 
 aura new release 0.93.1  
