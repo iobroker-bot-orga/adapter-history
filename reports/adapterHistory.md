@@ -1,5 +1,17 @@
 # Adapter publishing report
 
+## 2026-10-28
+#### updates at latest repository 
+alarm new release 5.1.1  
+aura new release 0.96.0  
+luxtronik2-controller new release 0.22.1  
+nuki-local new release 0.1.5  
+reolink new release 1.4.3  
+rssfeed new release 6.0.0  
+senec new release 2.16.4  
+vis-2-widgets-jaeger-design new release 1.5.4  
+vis-jsontemplate new release 4.6.3  
+#### updates at stable repository 
 ## 2026-10-27
 #### updates at latest repository 
 admin new release 8.3.5  
