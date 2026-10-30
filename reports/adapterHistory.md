@@ -1,5 +1,55 @@
 # Adapter publishing report
 
+## 2026-10-29
+#### updates at latest repository 
+admin new release 8.3.6  
+agent-dvr new release 0.6.0  
+assistant new release 1.3.0  
+aura new release 0.97.0  
+device-monitoring new release 0.0.47  
+ecosense new release 0.1.2  
+emby new release 3.0.0  
+eusec new release 3.6.3  
+fujitsu-airstage new release 0.2.5  
+fullcalendar new release 3.3.1  
+go-e-charger new release 1.9.0  
+grohe-smarthome new release 0.7.2  
+history new release 5.2.0  
+influxdb new release 5.2.3  
+lgtv new release 3.1.0  
+meteonomiqs new release 0.2.10  
+mihome-vacuum new release 6.2.1  
+openwb2 new release 0.3.8  
+openweathermap new release 2.1.0  
+panasonic-viera new release 2.2.0  
+samsung_tizen new release 2.1.0  
+sony-bravia new release 1.2.0  
+sql new release 4.3.0  
+tahoma new release 0.12.0  
+tedee new release 0.4.0  
+tvprogram new release 6.2.0  
+vis-jsontemplate new release 5.0.0  
+wattcycle new release 2.0.2  
+webuntis2 new release 0.2.1  
+witmotion new release 2.1.2  
+#### updates at stable repository 
+admin updated to 8.3.5  
+anthbot updated to 0.2.1  
+e3oncan updated to 1.2.0  
+fingerprint updated to 0.8.2  
+flexcharts updated to 0.7.4  
+grohe-smarthome updated to 0.7.1  
+harvia-fenix updated to 1.2.0  
+mydlink updated to 2.1.0  
+poolcontrol updated to 1.4.6  
+puppeteer updated to 1.1.1  
+pv-notifications updated to 1.2.35  
+teslafi updated to 3.1.0  
+time-tracker updated to 0.8.0  
+tvprogram updated to 6.1.0  
+vis2-materialdesign updated to 1.1.1  
+volvo updated to 3.1.0  
+xterm updated to 4.0.2  
 ## 2026-10-28
 #### updates at latest repository 
 alarm new release 5.1.1  
