@@ -1,5 +1,34 @@
 # Adapter publishing report
 
+## 2026-10-30
+#### updates at latest repository 
+agent-dvr new release 0.7.0  
+alarm new release 5.1.2  
+aura new release 0.98.0  
+dwd new release 3.0.1  
+echarts new release 6.1.0  
+flow new release 0.1.0  
+go-e-charger new release 1.10.0  
+lorawan new release 1.22.41  
+mihome new release 2.0.1  
+nuki-local new release 0.1.6  
+pi-agent new release 0.7.2  
+ping new release 3.1.5  
+remko new release 0.6.1  
+sehybrid new release 1.1.1  
+senec new release 2.16.5  
+tedee new release 1.0.0  
+tvprogram new release 6.2.1  
+web new release 9.1.17  
+#### updates at stable repository 
+alias-manager updated to 3.0.0  
+docker-manager updated to 1.0.5  
+e3dc-rscp updated to 1.4.6  
+rest-api updated to 4.1.2  
+socketio updated to 9.0.2  
+teltonika updated to 1.1.2  
+victron-cerbo updated to 1.0.1  
+wireless-mbus updated to 0.14.1  
 ## 2026-10-29
 #### updates at latest repository 
 admin new release 8.3.6  
