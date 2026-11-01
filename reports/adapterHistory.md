@@ -1,5 +1,21 @@
 # Adapter publishing report
 
+## 2026-10-31
+#### updates at latest repository 
+anycubic-cloud new release 0.3.7  
+egigeozone2 new release 1.0.11  
+go-e-charger new release 1.10.1  
+googlefindmydevice new release 0.1.3  
+matrix-org new release 1.3.0  
+meteonomiqs new release 0.2.11  
+miele-local new release 0.4.2  
+mqtt new release 9.0.2  
+sehybrid new release 1.1.2  
+#### updates at stable repository 
+foxesscloud updated to 0.6.7  
+max updated to 0.1.12  
+motioneye updated to 1.3.2  
+solaredge updated to 2.0.0  
 ## 2026-10-30
 #### updates at latest repository 
 agent-dvr new release 0.7.0  
