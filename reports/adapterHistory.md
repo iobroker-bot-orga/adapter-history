@@ -1,5 +1,24 @@
 # Adapter publishing report
 
+## 2026-11-01
+#### updates at latest repository 
+aura new release 0.99.0  
+blink new release 0.0.40  
+bluelink new release 3.1.36  
+device-monitoring new release 0.0.48  
+dwd new release 3.0.2  
+energypriceforecast new release 0.1.3  
+googlefindmydevice new release 0.1.6  
+luxtronik2-controller new release 0.22.4  
+matrix-org new release 1.3.1  
+nspanel-lovelace-ui new release 2.0.2  
+pi-agent new release 0.7.3  
+staleguard new release 0.1.1  
+synology new release 4.1.0  
+tedee new release 1.0.1  
+zeekr new release 0.1.76  
+#### updates at stable repository 
+al-ko updated to 0.3.12  
 ## 2026-10-31
 #### updates at latest repository 
 anycubic-cloud new release 0.3.7  
