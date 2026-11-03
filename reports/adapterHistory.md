@@ -1,5 +1,33 @@
 # Adapter publishing report
 
+## 2026-11-02
+#### updates at latest repository 
+assistant new release 1.3.1  
+aura new release 0.101.0  
+autism-support new release 0.2.14  
+dwd new release 3.0.3  
+easee new release 3.1.0  
+eebus-go new release 1.3.0  
+go-e-charger new release 1.10.2  
+iot new release 7.1.7  
+luxtronik2-controller new release 0.22.5  
+millheater new release 0.1.11  
+openwb2 new release 0.3.9  
+pi-agent new release 0.8.5  
+pondpump new release 0.12.9  
+proxy new release 2.0.1  
+rct new release 1.3.0  
+sainlogic new release 1.2.12  
+scheduler new release 2.0.3  
+sonos new release 4.3.0  
+teltonika new release 1.2.0  
+vis-2 new release 2.20.6  
+vis-2-widgets-gauges new release 3.0.1  
+vis-2-widgets-tibberlink new release 0.6.0  
+wattcycle new release 2.0.3  
+webuntis2 new release 0.3.0  
+#### updates at stable repository 
+cameras updated to 3.3.0  
 ## 2026-11-01
 #### updates at latest repository 
 aura new release 0.99.0  
