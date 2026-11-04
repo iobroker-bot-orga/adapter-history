@@ -1,5 +1,29 @@
 # Adapter publishing report
 
+## 2026-11-03
+#### updates at latest repository 
+absolutehumidity new release 0.1.9  
+admin new release 8.3.7  
+assistant new release 1.4.6  
+emby new release 3.1.0  
+iot new release 7.1.8  
+kanban new release 0.4.1  
+kecontact new release 3.9.0  
+lcn new release 3.0.2  
+logsearch new release 1.0.2  
+max new release 0.1.13  
+mqtt new release 9.1.0  
+opendtu new release 4.0.0  
+pi-agent new release 0.8.9  
+public-transport new release 1.5.0  
+remko new release 0.6.2  
+unifi new release 1.0.3  
+vis-2-widgets-inventwo new release 2.1.1  
+vis-2-widgets-jaeger-design new release 1.5.6  
+wattcycle new release 2.0.4  
+zendure-solarflow new release 6.2.1  
+#### updates at stable repository 
+parser updated to 4.0.2  
 ## 2026-11-02
 #### updates at latest repository 
 assistant new release 1.3.1  
