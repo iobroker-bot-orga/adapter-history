@@ -1,5 +1,27 @@
 # Adapter publishing report
 
+## 2026-11-04
+#### updates at latest repository 
+absolutehumidity new release 0.1.10  
+admin new release 8.3.8  
+assistant new release 1.4.7  
+aura new release 0.104.0  
+max new release 0.2.1  
+miboxer-wl433 new release 0.2.2  
+miner new release 1.2.0  
+netatmo new release 3.2.0  
+pi-agent new release 0.9.4  
+sayit new release 5.6.0  
+sonos new release 4.5.1  
+squeezeboxrpc new release 4.0.0  
+telegram new release 6.1.0  
+tibberlink new release 7.3.3  
+tr-064 new release 5.3.2  
+unifi new release 1.1.0  
+victoriametrics new release 0.5.0  
+vis-2-widgets-jaeger-design new release 1.5.7  
+zeekr new release 0.1.77  
+#### updates at stable repository 
 ## 2026-11-03
 #### updates at latest repository 
 absolutehumidity new release 0.1.9  
