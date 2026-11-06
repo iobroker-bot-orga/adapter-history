@@ -1,5 +1,49 @@
 # Adapter publishing report
 
+## 2026-11-05
+#### updates at latest repository 
+admin new release 8.3.9  
+assistant new release 1.4.12  
+awattar new release 1.5.0  
+cameras new release 3.3.1  
+cmicoe new release 1.3.2  
+devices new release 4.3.0  
+eebus-go new release 1.3.1  
+emby new release 3.1.1  
+fakeroku new release 1.11.0  
+frigate new release 3.2.3  
+googlefindmydevice new release 0.1.7  
+govee-local new release 0.5.2  
+harvia-fenix new release 1.2.1  
+javascript new release 10.4.10  
+kisshome-defender new release 4.0.0  
+liebherr new release 0.1.0  
+luxtronik2-controller new release 0.22.6  
+opendtu new release 4.1.1  
+pi-agent new release 0.9.5  
+plenticore-g3 new release 1.0.3  
+puppeteer new release 1.1.2  
+sehybrid new release 1.1.3  
+serial-gps new release 1.1.0  
+sql new release 4.4.0  
+squeezeboxrpc new release 4.1.0  
+telegram new release 6.2.0  
+tractive-gps new release 4.0.1  
+unifi new release 1.2.1  
+victoriametrics new release 0.6.0  
+victron-cerbo new release 1.0.2  
+vw-connect new release 0.10.1  
+web new release 9.4.0  
+xtream-monitor new release 0.2.12  
+zendure-solarflow new release 6.3.0  
+#### updates at stable repository 
+goodwe updated to 1.2.1  
+google-sharedlocations2 updated to 0.5.1  
+liebherr updated to 0.0.5  
+life360ng updated to 1.11.7  
+openmeteo-notify updated to 0.4.1  
+renault updated to 1.1.0  
+sevenio updated to 0.1.3  
 ## 2026-11-04
 #### updates at latest repository 
 absolutehumidity new release 0.1.10  
