@@ -1,5 +1,32 @@
 # Adapter publishing report
 
+## 2026-11-06
+#### updates at latest repository 
+admin new release 8.3.10  
+aura new release 0.105.0  
+aurora-nowcast new release 2.3.2  
+bluelink new release 3.1.37  
+dune-hd-remote new release 1.2.14  
+duofernstick new release 0.1.32  
+evcc new release 0.3.2  
+fingerprint new release 0.8.3  
+flow new release 0.2.0  
+frigate new release 3.2.6  
+googlefindmydevice new release 0.1.8  
+hannah new release 1.7.1  
+kitchenowl new release 0.0.8  
+nspanel-lovelace-ui new release 2.1.0  
+opensmartcity new release 0.3.0  
+openweathermap new release 2.2.0  
+rest-api new release 4.2.0  
+simple-api new release 4.0.4  
+skoda-public-api new release 0.1.12  
+tibberlink new release 7.4.0  
+vis-2 new release 2.20.7  
+web new release 9.5.0  
+#### updates at stable repository 
+elgato-key-light updated to 2.0.1  
+nspanel-lovelace-ui updated to 1.7.0  
 ## 2026-11-05
 #### updates at latest repository 
 admin new release 8.3.9  
