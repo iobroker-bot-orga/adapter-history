@@ -1,5 +1,27 @@
 # Adapter publishing report
 
+## 2026-11-07
+#### updates at latest repository 
+admin new release 8.3.11  
+assistant new release 1.4.14  
+aura new release 0.107.0  
+cam-recorder new release 0.4.4  
+easee new release 3.2.0  
+ewelink new release 0.1.0  
+fenecon new release 1.0.1  
+fyta new release 0.2.9  
+javascript new release 10.5.0  
+luxtronik2-controller new release 0.23.2  
+millheater new release 0.1.12  
+philips-air new release 2.4.0  
+sourceanalytix new release 0.6.1  
+telegram new release 6.3.0  
+vis-2 new release 2.20.8  
+xsense new release 0.6.9  
+zigbee2mqtt new release 3.2.11  
+#### updates at stable repository 
+fritzbox updated to 1.1.1  
+solectrus-influxdb updated to 2.3.0  
 ## 2026-11-06
 #### updates at latest repository 
 admin new release 8.3.10  
