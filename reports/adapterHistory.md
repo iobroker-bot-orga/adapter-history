@@ -1,5 +1,42 @@
 # Adapter publishing report
 
+## 2026-11-08
+#### updates at latest repository 
+assistant new release 1.4.15  
+aura new release 0.109.1  
+backitup new release 5.0.0  
+cameras new release 3.4.0  
+creality new release 0.5.1  
+e-invoices new release 1.3.0  
+eusec new release 3.6.4  
+frigate new release 3.3.0  
+imap new release 0.5.0  
+kisshome-defender new release 4.1.0  
+laundrylens new release 0.4.44  
+logsearch new release 1.0.3  
+mg-saic new release 0.1.3  
+modbus new release 9.2.3  
+mqtt new release 9.2.0  
+nmea new release 3.1.0  
+opensmartcity new release 0.4.0  
+openweathermap new release 2.3.0  
+pi-agent new release 0.9.6  
+proxmox new release 3.0.0  
+shelly new release 12.1.1  
+sql new release 4.4.1  
+sun2000 new release 2.7.5  
+tedee new release 1.0.2  
+teltonika new release 1.3.0  
+traccar new release 1.2.4  
+unifi new release 2.0.0  
+victoriametrics new release 0.6.1  
+violet new release 0.8.0  
+vofo-speedtest new release 3.0.1  
+volvo new release 4.0.0  
+#### updates at stable repository 
+alarm updated to 5.1.2  
+sky-remote updated to 1.0.6  
+tedee updated to 1.0.1  
 ## 2026-11-07
 #### updates at latest repository 
 admin new release 8.3.11  
