@@ -1,5 +1,49 @@
 # Adapter publishing report
 
+## 2026-11-09
+#### updates at latest repository 
+alarm new release 5.2.0  
+assistant new release 1.5.0  
+aura new release 0.111.0  
+backitup new release 5.0.1  
+chargemaster new release 0.16.2  
+cloud new release 6.3.0  
+discovery new release 5.3.0  
+dwd new release 3.1.0  
+echarts new release 6.3.0  
+esphome new release 1.0.1  
+flow new release 0.2.1  
+fullcalendar new release 3.4.1  
+kostal-piko-ba new release 7.0.8  
+lgtv new release 3.2.1  
+luxtronik2-controller new release 0.24.0  
+millheater new release 0.1.14  
+nextcloud-monitoring new release 3.0.1  
+nmea new release 3.1.1  
+ocpp new release 1.0.0  
+octopus-energy-monitor new release 1.2.0  
+open-meteo-weather new release 3.3.3  
+openmeteo-notify new release 0.5.0  
+openwb2 new release 0.3.10  
+ping new release 3.2.0  
+scenes new release 5.3.0  
+scheduler new release 2.1.1  
+sehybrid new release 1.1.4  
+sky-remote new release 1.0.7  
+sonos new release 4.6.0  
+telegram new release 6.4.0  
+tr-064 new release 5.4.0  
+wattcycle new release 2.1.0  
+web new release 9.5.1  
+witmotion new release 2.2.0  
+zeekr new release 0.1.79  
+zendure-solarflow new release 6.3.2  
+#### updates at stable repository 
+blackmagic-atem updated to 0.2.10  
+bmw updated to 5.0.5  
+go-e-charger updated to 1.10.2  
+open-meteo-weather updated to 3.3.2  
+rpi2 updated to 4.0.0  
 ## 2026-11-08
 #### updates at latest repository 
 assistant new release 1.4.15  
