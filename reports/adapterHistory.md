@@ -1,5 +1,50 @@
 # Adapter publishing report
 
+## 2026-11-10
+#### updates at latest repository 
+airly new release 1.0.0  
+anomaly-detection new release 0.5.1  
+assistant new release 1.6.0  
+aura new release 0.112.1  
+devices new release 4.3.2  
+dreo-cloud new release 0.1.5  
+easee new release 4.0.0  
+faikout new release 0.0.19  
+fb-guard new release 0.1.3  
+javascript new release 10.5.1  
+kisshome-defender new release 4.1.1  
+miele-local new release 0.4.3  
+sainlogic new release 1.3.0  
+simple-proxy-manager new release 1.0.2  
+solinteg new release 0.1.10  
+sonoff new release 5.4.0  
+sql new release 4.5.0  
+tesla-wallconnector3 new release 1.3.5  
+vis-2-widgets-jaeger-design new release 1.5.8  
+volvo new release 4.0.1  
+webui new release 2.3.0  
+#### updates at stable repository 
+blustream-mfp updated to 0.5.6  
+discovery updated to 5.2.0  
+echarts updated to 6.3.0  
+fullcalendar updated to 3.4.1  
+kisshome-defender updated to 4.1.1  
+nmea updated to 3.1.1  
+opensmartcity updated to 0.4.0  
+rssfeed updated to 6.0.0  
+scheduler updated to 2.1.1  
+squeezeboxrpc updated to 4.1.0  
+tractive-gps updated to 4.0.1  
+vis-2 updated to 2.20.8  
+vis-2-widgets-energy updated to 3.0.3  
+vis-2-widgets-gauges updated to 3.0.1  
+vis-2-widgets-inventwo updated to 2.1.1  
+vis-2-widgets-jaeger-design updated to 1.5.7  
+vis-2-widgets-material updated to 2.0.4  
+vis-2-widgets-tibberlink updated to 0.6.0  
+vis-2-widgets-weather-and-heating updated to 1.5.0  
+vis-jsontemplate updated to 5.0.0  
+vis-weather updated to 2.5.14  
 ## 2026-11-09
 #### updates at latest repository 
 alarm new release 5.2.0  
