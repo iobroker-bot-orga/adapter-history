@@ -1,5 +1,31 @@
 # Adapter publishing report
 
+## 2026-11-11
+#### updates at latest repository 
+aura new release 0.113.1  
+cam-recorder new release 0.5.2  
+javascript new release 10.5.3  
+mg-saic new release 0.1.4  
+mill-local new release 0.2.2  
+millheater new release 0.1.15  
+music-assistant new release 0.2.1  
+opensmartcity new release 0.4.2  
+pi-agent new release 0.10.0  
+rpi2 new release 5.0.0  
+senec new release 2.16.6  
+shelfmate new release 0.5.2  
+teslafi new release 3.1.1  
+tibberlink new release 7.4.1  
+vis-2 new release 2.20.9  
+vis-2-widgets-collection new release 3.0.2  
+vis-2-widgets-jaeger-design new release 1.5.9  
+webui new release 2.4.0  
+zendure-solarflow new release 6.4.0  
+#### updates at stable repository 
+egigeozone2 updated to 1.0.11  
+ntfy-client updated to 0.1.5  
+senec updated to 2.16.5  
+simple-proxy-manager updated to 1.0.2  
 ## 2026-11-10
 #### updates at latest repository 
 airly new release 1.0.0  
