@@ -1,5 +1,35 @@
 # Adapter publishing report
 
+## 2026-11-12
+#### updates at latest repository 
+agent-dvr new release 0.9.0  
+assistant new release 1.7.0  
+aura new release 0.113.3  
+cam-recorder new release 0.6.2  
+eebus-go new release 1.3.3  
+faikout new release 0.1.0  
+hoymiles new release 0.5.1  
+laundrylens new release 0.5.0  
+leapmotor new release 0.8.2  
+melcloudhome new release 0.3.2  
+miele-local new release 0.5.2  
+mill-local new release 0.3.0  
+modbus new release 9.3.1  
+nspanel-lovelace-ui new release 2.2.0  
+openmeteo-notify new release 0.5.1  
+pi-agent new release 0.10.1  
+scheduler new release 2.2.0  
+vis-2-widgets-eusec new release 1.0.0  
+vis-jsontemplate new release 5.0.1  
+#### updates at stable repository 
+agent-dvr updated to 0.7.0  
+goodwe updated to 1.3.0  
+meteonomiqs updated to 0.2.11  
+nspanel-lovelace-ui updated to 2.1.0  
+plenticore-g3 updated to 1.0.3  
+spotify-premium updated to 3.1.0  
+tuya updated to 3.18.2  
+vis-jsontemplate updated to 5.0.1  
 ## 2026-11-11
 #### updates at latest repository 
 aura new release 0.113.1  
