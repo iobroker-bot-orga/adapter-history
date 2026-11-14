@@ -1,5 +1,28 @@
 # Adapter publishing report
 
+## 2026-11-13
+#### updates at latest repository 
+admin new release 8.3.12  
+agent-dvr new release 0.9.1  
+androidtv new release 0.2.3  
+assistant new release 1.9.0  
+asuswrt new release 1.0.8  
+aura new release 0.114.2  
+cam-recorder new release 0.7.0  
+devices new release 4.4.0  
+ems-esp new release 7.0.9  
+faikout new release 0.2.0  
+fullcalendar new release 3.5.1  
+laundrylens new release 0.6.0  
+modbus new release 9.4.0  
+open-meteo-weather new release 3.4.0  
+pi-agent new release 0.10.2  
+shoppingroute new release 0.6.2  
+ultimate-updater new release 0.1.2  
+vis2-materialdesign new release 1.2.0  
+web new release 9.6.0  
+#### updates at stable repository 
+kecontact updated to 3.9.0  
 ## 2026-11-12
 #### updates at latest repository 
 agent-dvr new release 0.9.0  
