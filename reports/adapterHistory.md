@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-11-14
+#### updates at latest repository 
+aura new release 0.115.1  
+awattar new release 1.6.0  
+cam-recorder new release 0.7.1  
+discovergy new release 0.8.0  
+googlefindmydevice new release 0.1.9  
+lcn new release 4.0.0  
+pi-agent new release 0.10.4  
+ping new release 3.2.1  
+public-transport new release 1.5.1  
+schlueter-thermostat new release 0.8.0  
+shelly new release 12.1.2  
+sourceanalytix new release 0.7.1  
+tedee new release 1.0.3  
+time-tracker new release 0.8.1  
+ultimate-updater new release 0.2.1  
+wled new release 0.10.0  
+zendure-solarflow new release 6.4.1  
+#### updates at stable repository 
+tvprogram updated to 6.2.1  
 ## 2026-11-13
 #### updates at latest repository 
 admin new release 8.3.12  
