@@ -1,5 +1,26 @@
 # Adapter publishing report
 
+## 2026-11-15
+#### updates at latest repository 
+admin new release 8.3.13  
+aura new release 1.0.1  
+backitup new release 5.0.2  
+cam-recorder new release 0.8.3  
+cloud new release 6.4.0  
+easee new release 4.0.1  
+googlefindmydevice new release 0.1.11  
+hass new release 2.2.0  
+life360ng new release 1.11.8  
+nuki-local new release 0.1.7  
+ping new release 3.3.0  
+seq new release 1.0.4  
+vis-2-widgets-collection new release 3.1.0  
+web new release 9.7.0  
+ws new release 5.1.4  
+xsense new release 0.6.10  
+zwavews new release 1.2.0  
+#### updates at stable repository 
+luxtronik2-controller updated to 0.22.5  
 ## 2026-11-14
 #### updates at latest repository 
 aura new release 0.115.1  
