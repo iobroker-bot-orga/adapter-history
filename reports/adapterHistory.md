@@ -1,5 +1,48 @@
 # Adapter publishing report
 
+## 2026-11-16
+#### updates at latest repository 
+agent-dvr new release 0.10.0  
+alarm new release 5.2.1  
+assistant new release 1.9.1  
+aura new release 1.0.2  
+cam-recorder new release 0.8.4  
+device-watcher new release 2.15.18  
+eebus-go new release 1.3.4  
+email new release 3.1.2  
+freeair new release 1.1.2  
+goodwe-pv new release 1.1.1  
+hannah new release 1.8.1  
+jellyfin new release 0.1.6  
+luxtronik2-controller new release 1.0.0  
+nspanel-lovelace-ui new release 2.3.1  
+octopus-energy-monitor new release 1.2.1  
+openligadb new release 1.9.5  
+openwb2 new release 0.4.0  
+pi-agent new release 0.10.5  
+satellite-display new release 0.4.0  
+sigenergy new release 3.4.0  
+snapmaker new release 0.5.2  
+sungrow-local new release 0.6.0  
+victoriametrics new release 0.7.0  
+vis-2-widgets-collection new release 3.2.0  
+vofo-speedtest new release 3.1.0  
+vw-connect new release 0.10.2  
+#### updates at stable repository 
+apg-info updated to 0.1.36  
+fb-checkpresence updated to 1.5.0  
+followthesun updated to 0.5.4  
+kostal-piko-ba updated to 7.0.8  
+lorawan updated to 1.22.41  
+luxtronik2-controller updated to 0.24.0  
+panasonic-viera updated to 2.2.0  
+paperless-ngx updated to 1.0.4  
+sainlogic updated to 1.2.12  
+samsung_tizen updated to 2.1.0  
+sehybrid updated to 1.1.4  
+sony-bravia updated to 1.2.0  
+vis-2-widgets-collection updated to 3.1.0  
+yamaha updated to 3.0.3  
 ## 2026-11-15
 #### updates at latest repository 
 admin new release 8.3.13  
