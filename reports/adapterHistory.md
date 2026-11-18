@@ -1,5 +1,44 @@
 # Adapter publishing report
 
+## 2026-11-17
+#### updates at latest repository 
+admin new release 8.3.14  
+assistant new release 1.10.0  
+assistant-satellite new release 0.2.0  
+denon new release 2.0.0  
+dl-manager new release 0.4.0  
+e3oncan new release 1.3.0  
+echarts new release 6.4.1  
+emby new release 3.1.2  
+evcc new release 0.3.3  
+influxdb new release 5.3.1  
+javascript new release 10.5.5  
+laundrylens new release 0.7.0  
+luxtronik2-controller new release 1.0.2  
+mqtt new release 9.3.0  
+mtec new release 0.5.1  
+music-assistant new release 0.3.0  
+philips-air new release 2.4.1  
+satellite-display new release 0.4.1  
+sigenergy new release 3.5.1  
+snapmaker new release 0.5.3  
+sql new release 4.5.1  
+telegrammenu2 new release 0.2.5  
+unifi-network new release 1.6.0  
+vis-2 new release 2.20.11  
+vis-2-widgets-inventwo new release 2.2.0  
+vis-2-widgets-sigenergy new release 2.0.1  
+witmotion new release 2.3.0  
+#### updates at stable repository 
+autodarts updated to 1.2.0  
+emby updated to 3.1.1  
+eusec updated to 3.6.4  
+fullybrowser updated to 3.1.5  
+harvia-fenix updated to 1.2.1  
+matrix-org updated to 1.3.1  
+miele-local updated to 0.4.3  
+vis-2-widgets-sigenergy updated to 1.8.11  
+yamaha updated to 3.3.0  
 ## 2026-11-16
 #### updates at latest repository 
 agent-dvr new release 0.10.0  
