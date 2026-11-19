@@ -1,5 +1,33 @@
 # Adapter publishing report
 
+## 2026-11-18
+#### updates at latest repository 
+assistant new release 1.11.0  
+bmw new release 5.0.6  
+bosch-smart-home-camera new release 1.11.2  
+desktop-control new release 0.1.2  
+hass new release 2.2.1  
+hm-rpc new release 4.3.0  
+idm-modbus new release 0.2.2  
+ipp new release 0.2.1  
+life360ng new release 1.11.9  
+nspanel-lovelace-ui new release 2.4.1  
+nuki-local new release 0.1.8  
+openmeteo-notify new release 0.6.1  
+pi-agent new release 0.11.0  
+prometheus new release 1.0.2  
+sayit new release 5.6.1  
+shelfmate new release 0.6.0  
+snapmaker new release 0.6.0  
+snapmaker-u1 new release 0.0.12  
+vis-2-widgets-collection new release 3.3.1  
+vis-2-widgets-sigenergy new release 2.2.0  
+vis2-materialdesign new release 1.3.0  
+#### updates at stable repository 
+ocpp updated to 1.0.0  
+octopus-energy-monitor updated to 1.2.1  
+weatherunderground updated to 4.0.1  
+wiim updated to 0.6.1  
 ## 2026-11-17
 #### updates at latest repository 
 admin new release 8.3.14  
