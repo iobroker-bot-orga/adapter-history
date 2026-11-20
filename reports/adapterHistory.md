@@ -1,5 +1,50 @@
 # Adapter publishing report
 
+## 2026-11-19
+#### updates at latest repository 
+androidtv new release 0.3.0  
+assistant new release 1.12.1  
+assistant-satellite new release 0.3.0  
+cam-recorder new release 0.8.5  
+cameras new release 3.5.0  
+denon new release 2.0.2  
+discovery new release 5.4.1  
+dl-manager new release 0.5.0  
+easee new release 4.1.0  
+echarts new release 6.5.0  
+email new release 3.2.0  
+eusec new release 3.6.5  
+faikout new release 0.2.1  
+frigate new release 3.4.0  
+fullcalendar new release 3.6.0  
+grohe-smarthome new release 0.8.0  
+hannah new release 1.9.0  
+history new release 5.4.0  
+influxdb new release 5.4.0  
+ipp new release 0.3.0  
+luxtronik2-controller new release 1.0.3  
+miele-local new release 0.6.0  
+modbus new release 9.5.0  
+pi-agent new release 0.11.1  
+ping new release 3.4.0  
+pushover new release 6.2.0  
+pvforecast new release 7.0.0  
+samsung_tizen new release 2.2.0  
+satellite-display new release 0.4.2  
+sayit new release 5.7.0  
+scenes new release 5.4.0  
+scheduler new release 2.3.0  
+schlueter-thermostat new release 0.9.0  
+solectrus-influxdb new release 2.3.1  
+sonos new release 4.7.0  
+spotify-premium new release 3.2.0  
+sql new release 4.6.0  
+telegram new release 6.5.0  
+tr-064 new release 5.5.0  
+vis new release 1.6.0  
+vis2-materialdesign new release 1.4.0  
+whatsapp-cmb new release 1.1.0  
+#### updates at stable repository 
 ## 2026-11-18
 #### updates at latest repository 
 assistant new release 1.11.0  
