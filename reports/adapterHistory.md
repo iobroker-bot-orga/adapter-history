@@ -1,5 +1,33 @@
 # Adapter publishing report
 
+## 2026-11-20
+#### updates at latest repository 
+admin new release 8.3.15  
+assistant new release 1.13.0  
+chromecast new release 4.3.0  
+denon new release 2.0.3  
+e-invoices new release 1.4.0  
+echarts new release 6.5.1  
+f1 new release 0.1.14  
+hueemu new release 2.0.0  
+jellyfin new release 0.1.7  
+laundrylens new release 0.7.1  
+max new release 0.2.2  
+mill-local new release 0.4.1  
+paperless-ngx new release 1.0.5  
+pi-agent new release 0.12.2  
+satellite-display new release 0.4.3  
+shoppingroute new release 0.6.3  
+snapmaker-u1 new release 0.0.13  
+spotify-premium new release 3.3.1  
+telegrammenu2 new release 0.3.2  
+time-tracker new release 0.8.2  
+unifi-network new release 1.6.1  
+vis new release 1.6.1  
+zeekr new release 0.1.83  
+zigbee new release 3.6.1  
+#### updates at stable repository 
+aurora-nowcast updated to 2.3.2  
 ## 2026-11-19
 #### updates at latest repository 
 androidtv new release 0.3.0  
