@@ -1,5 +1,31 @@
 # Adapter publishing report
 
+## 2026-11-21
+#### updates at latest repository 
+energypriceforecast new release 0.1.4  
+hannah new release 1.10.0  
+hm-rpc new release 4.3.1  
+hyperion-connector new release 0.3.0  
+iot new release 7.1.9  
+leapmotor new release 0.9.1  
+luxtronik2-controller new release 1.0.4  
+mihome new release 2.0.2  
+millheater new release 0.2.1  
+nspanel-lovelace-ui new release 2.5.1  
+pi-agent new release 0.12.6  
+ring new release 7.1.0  
+text2command new release 5.0.2  
+unraid new release 0.11.0  
+weather-warnings new release 1.0.0  
+#### updates at stable repository 
+beckhoff updated to 2.0.0  
+faikout updated to 0.1.0  
+nspanel-lovelace-ui updated to 2.2.0  
+proxy updated to 2.0.1  
+senec updated to 2.16.6  
+snmp updated to 4.0.1  
+steam updated to 0.5.12  
+zigbee2mqtt updated to 3.2.11  
 ## 2026-11-20
 #### updates at latest repository 
 admin new release 8.3.15  
