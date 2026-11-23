@@ -1,5 +1,29 @@
 # Adapter publishing report
 
+## 2026-11-22
+#### updates at latest repository 
+absolutehumidity new release 0.1.11  
+anker-solix new release 0.10.110  
+autism-support new release 0.2.15  
+easee new release 4.1.1  
+faikout new release 1.2.0  
+fingerprint new release 0.8.4  
+go-e-charger new release 1.11.0  
+life360ng new release 1.12.0  
+millheater new release 0.2.2  
+nspanel-lovelace-ui new release 2.6.0  
+ocpp new release 1.1.0  
+sayit new release 5.7.1  
+squeezeboxrpc new release 4.1.2  
+synology new release 4.2.0  
+tvprogram new release 6.2.2  
+zendure-solarflow new release 6.4.2  
+#### updates at stable repository 
+awattar updated to 1.6.0  
+blink updated to 0.0.40  
+mg-saic updated to 0.1.4  
+netatmo-crawler updated to 1.3.0  
+webuntis2 updated to 0.3.0  
 ## 2026-11-21
 #### updates at latest repository 
 energypriceforecast new release 0.1.4  
