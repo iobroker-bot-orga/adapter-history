@@ -4,9 +4,9 @@
 #### updates at latest repository 
 airplay-receiver new release 0.1.5  
 alias-workbench new release 0.14.1  
-anker-solix new release 0.10.111  
+anker-solix new release 0.10.112  
 assistant new release 1.14.0  
-bosch-buderus-wp new release 0.0.9  
+bosch-buderus-wp new release 0.0.11  
 cam-recorder new release 0.8.6  
 cameras new release 3.6.0  
 conexa new release 0.1.12  
@@ -20,18 +20,32 @@ go-e-charger new release 1.12.0
 history new release 5.5.0  
 influxdb new release 5.5.1  
 ipp new release 0.4.0  
-mach new release 2.0.0  
+mach new release 2.0.1  
 octopus-energy-monitor new release 1.3.0  
 ping new release 3.5.0  
 pushover new release 6.3.0  
 pvnode new release 0.2.4  
 sayit new release 5.8.0  
 sql new release 4.7.0  
-statechart new release 0.7.1  
+statechart new release 0.7.2  
 suru-watermonitor new release 0.1.2  
-vis-2-widgets-inventwo new release 2.3.0  
+vis-2-widgets-inventwo new release 2.4.0  
 whatsapp-cmb new release 1.2.0  
 wolf new release 2.0.0  
+ai-server new release 0.1.1  
+denon new release 2.0.4  
+hass new release 2.3.0  
+hm-rpc new release 4.3.2  
+innoxel new release 2.1.1  
+luxtronik2-controller new release 1.2.1  
+mcp new release 1.9.1  
+miele-local new release 0.6.1  
+nubert-sub new release 0.4.6  
+schedule-switcher new release 0.2.3  
+shuttercontrol new release 3.0.1  
+snapmaker-u1 new release 0.0.14  
+sonos new release 4.8.1  
+weatherflow-tempest-api new release 1.2.0  
 #### updates at stable repository 
 anker-solix updated to 0.10.108  
 eebus-go updated to 1.3.4  
@@ -39,6 +53,8 @@ govee-local updated to 0.5.2
 lovelace updated to 7.4.1  
 public-transport updated to 1.5.1  
 zoneminder updated to 1.0.1  
+unifi updated to 2.0.0  
+vis-2-widgets-jaeger-design updated to 1.5.9  
 ## 2026-11-22
 #### updates at latest repository 
 absolutehumidity new release 0.1.11  
