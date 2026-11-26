@@ -1,5 +1,38 @@
 # Adapter publishing report
 
+## 2026-11-25
+#### updates at latest repository 
+airplay-receiver new release 0.1.6  
+amazon-kids new release 0.1.2  
+bambulab new release 0.5.0  
+bosch-buderus-wp new release 0.0.12  
+e3oncan new release 1.4.0  
+freeair new release 1.1.3  
+go-e-wallbox new release 0.1.4  
+ipp new release 0.4.1  
+luxtronik2-controller new release 1.3.1  
+nintendo-switch-parental new release 0.1.3  
+nuasense new release 0.2.2  
+pi-agent new release 0.12.8  
+plex new release 3.1.0  
+proxon-hesp new release 0.6.2  
+salus new release 0.1.9  
+schulportal-hessen new release 0.1.1  
+smart-text2command new release 0.0.17  
+smartvis new release 0.17.1  
+sungrow-local new release 0.6.1  
+telegram new release 6.6.0  
+vis-2-widgets-inventwo new release 2.4.1  
+voice new release 0.2.0  
+#### updates at stable repository 
+admin updated to 8.3.15  
+creality updated to 0.5.1  
+flow updated to 0.2.1  
+lgtv updated to 3.2.1  
+nextcloud-monitoring updated to 3.0.1  
+nuki-local updated to 0.1.8  
+web updated to 9.7.0  
+ws updated to 5.1.4  
 ## 2026-11-24
 #### updates at latest repository 
 airplay-receiver new release 0.1.5  
