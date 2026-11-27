@@ -1,5 +1,37 @@
 # Adapter publishing report
 
+## 2026-11-26
+#### updates at latest repository 
+admin new release 8.3.16  
+assistant new release 1.15.1  
+aura new release 1.7.0  
+awtrix-ng new release 0.6.0  
+blink new release 0.0.41  
+bosch-buderus-wp new release 0.0.13  
+discovery new release 5.6.0  
+faikout new release 1.2.3  
+fyta new release 0.3.0  
+go-e-charger new release 1.12.2  
+goodwe new release 1.4.0  
+life360ng new release 1.12.1  
+lorawan new release 1.22.42  
+millheater new release 0.2.3  
+nextcloud-monitoring new release 3.0.2  
+openmediavault new release 1.6.0  
+pvnode new release 0.2.5  
+schulportal-hessen new release 0.2.0  
+smartvis new release 0.18.0  
+sun2000 new release 2.8.0  
+telegram new release 6.6.1  
+unifi-network new release 1.6.2  
+vis-2-widgets-inventwo new release 3.0.0  
+#### updates at stable repository 
+aura updated to 1.0.2  
+liebherr updated to 0.1.0  
+miele-local updated to 0.5.2  
+node-red updated to 7.1.0  
+pi-agent updated to 0.11.1  
+vis-2-widgets-inventwo updated to 2.4.1  
 ## 2026-11-25
 #### updates at latest repository 
 airplay-receiver new release 0.1.6  
