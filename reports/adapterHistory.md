@@ -1,5 +1,38 @@
 # Adapter publishing report
 
+## 2026-11-27
+#### updates at latest repository 
+admin new release 8.3.17  
+amazon-kids new release 0.1.3  
+anker-solix new release 0.10.114  
+aura new release 1.9.1  
+bee new release 0.6.0  
+blink new release 0.0.42  
+bosch-buderus-wp new release 0.1.0  
+cloudless-homeconnect new release 1.7.2  
+digitalstrom new release 3.0.0  
+energy-tracker new release 1.1.0  
+faikout new release 1.2.4  
+heos new release 3.3.0  
+hs100 new release 3.1.0  
+luxtronik2-controller new release 1.3.2  
+mspa new release 0.5.0  
+nintendo-switch-parental new release 0.1.5  
+satellite-display new release 0.4.4  
+schlueter-thermostat new release 0.10.0  
+smartvis new release 0.18.3  
+solectrus-influxdb new release 2.3.2  
+tibberlink new release 7.4.2  
+unifi-network new release 1.6.3  
+vis-2-widgets-inventwo new release 3.0.1  
+#### updates at stable repository 
+energy-tracker updated to 1.1.0  
+fakeroku updated to 1.11.0  
+hoymiles updated to 0.5.1  
+luxtronik2-controller updated to 1.0.4  
+tesla-wallconnector3 updated to 1.3.5  
+tibberlink updated to 7.4.1  
+vis2-materialdesign updated to 1.2.0  
 ## 2026-11-26
 #### updates at latest repository 
 admin new release 8.3.16  
